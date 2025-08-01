@@ -1,0 +1,22 @@
+{
+  "title": "Artisan Supply Chain",
+  "description": "This process describes the intricate supply chain management for a network of artisan craftsmen producing bespoke furniture. It integrates raw material sourcing from sustainable forests, handcrafting stages with quality checkpoints, coordination of custom design inputs, and decentralized logistics involving local couriers. The process also includes adaptive inventory forecasting based on seasonal demand fluctuations and real-time artisan feedback, ensuring minimal waste and maximum customer satisfaction through personalized delivery schedules and post-sale care services.",
+  "activities": [
+    "Source Timber",
+    "Inspect Logs",
+    "Design Draft",
+    "Material Prep",
+    "Craft Assembly",
+    "Quality Check",
+    "Client Review",
+    "Adjust Design",
+    "Finish Surface",
+    "Package Goods",
+    "Schedule Pickup",
+    "Local Courier",
+    "Track Delivery",
+    "Inventory Update",
+    "Collect Feedback",
+    "Aftercare Setup"
+  ]
+}

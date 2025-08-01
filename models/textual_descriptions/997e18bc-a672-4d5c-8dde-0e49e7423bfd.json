@@ -1,0 +1,22 @@
+{
+  "title": "Custom Artifact Authentication",
+  "description": "This process governs the authentication and provenance verification of unique cultural artifacts submitted by private collectors for museum acquisition. It involves multi-stage verification including material analysis, historical record cross-referencing, expert consensus gathering, and provenance chain validation. The process incorporates both physical testing and digital archival research, ensuring that the artifact's origin, authenticity, and ownership history are rigorously confirmed before acceptance. It also manages risk assessment for potential forgery and coordinates legal compliance with cultural heritage laws, concluding with a final authentication report and decision.",
+  "activities": [
+    "Artifact Intake",
+    "Material Sampling",
+    "Chemical Testing",
+    "Photographic Survey",
+    "Archive Search",
+    "Provenance Check",
+    "Expert Panel",
+    "Forgery Analysis",
+    "Legal Review",
+    "Risk Scoring",
+    "Database Update",
+    "Owner Interview",
+    "Report Drafting",
+    "Final Review",
+    "Decision Issuance",
+    "Record Archival"
+  ]
+}

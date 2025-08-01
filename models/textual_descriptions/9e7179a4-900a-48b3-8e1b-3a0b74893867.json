@@ -1,0 +1,21 @@
+{
+  "title": "Crowdsourced Patent Validation",
+  "description": "This process involves leveraging a global community of experts and enthusiasts to validate the novelty and feasibility of patent applications before formal submission. It includes initial patent idea submission, community voting, expert reviews, iterative feedback incorporation, and final consensus reporting. This crowdsourced approach reduces the risk of patent rejections and improves patent quality by integrating diverse perspectives early in the patent lifecycle. The process also manages intellectual property confidentiality through secure channels and anonymizes contributor identities to mitigate bias, ultimately creating a collaborative yet controlled environment for innovation validation.",
+  "activities": [
+    "Idea Submit",
+    "Preliminary Check",
+    "Community Vote",
+    "Expert Assign",
+    "Review Draft",
+    "Feedback Gather",
+    "Iterate Revision",
+    "Confidentiality Lock",
+    "Bias Audit",
+    "Consensus Score",
+    "Final Report",
+    "Legal Review",
+    "Submission Prep",
+    "Compliance Check",
+    "Archive Records"
+  ]
+}

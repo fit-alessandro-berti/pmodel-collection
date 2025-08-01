@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process entails the comprehensive evaluation and authentication of ancient artifacts submitted by collectors or museums. It begins with initial intake and documentation, followed by non-invasive imaging techniques and material composition analysis. Specialists conduct provenance research and cross-reference historical databases. Parallel steps include microscopic surface examination and radiocarbon dating. Findings are compiled into a detailed report, which undergoes peer review. Contingent on results, legal and ethical clearance is secured before final certification. The process concludes with secure archival of all data and returning the artifact under controlled conditions, ensuring traceability and authenticity verification for future reference.",
+  "activities": [
+    "Intake Review",
+    "Image Capture",
+    "Material Test",
+    "Provenance Check",
+    "Database Search",
+    "Surface Scan",
+    "Radiocarbon Date",
+    "Report Draft",
+    "Peer Review",
+    "Legal Clear",
+    "Ethical Audit",
+    "Certify Artifact",
+    "Archive Data",
+    "Return Artifact",
+    "Traceability Log"
+  ]
+}

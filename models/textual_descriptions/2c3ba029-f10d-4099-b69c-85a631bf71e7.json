@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farm Setup",
+  "description": "This process outlines the comprehensive setup of an urban vertical farm, integrating advanced hydroponic systems with AI-driven climate control. It starts with site analysis and structural retrofitting, followed by nutrient solution formulation and seed selection tailored for vertical growth. Continuous monitoring includes pest detection via machine vision and predictive yield modeling. The process concludes with automated harvesting and supply chain integration to local markets, ensuring sustainability and minimal environmental impact throughout the farm's lifecycle.",
+  "activities": [
+    "Site Analysis",
+    "Structural Retrofit",
+    "Hydroponic Setup",
+    "Seed Selection",
+    "Nutrient Mix",
+    "Climate Tuning",
+    "Lighting Install",
+    "AI Calibration",
+    "Pest Detection",
+    "Growth Monitoring",
+    "Water Recycling",
+    "Yield Prediction",
+    "Automated Harvest",
+    "Packaging Prep",
+    "Market Integration"
+  ]
+}

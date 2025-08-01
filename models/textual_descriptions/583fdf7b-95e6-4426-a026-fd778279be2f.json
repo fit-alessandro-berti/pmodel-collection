@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the systematic examination and validation of historical artifacts to determine authenticity and provenance. It includes detailed multi-disciplinary analyses such as material composition testing, stylistic comparison, and provenance verification through archival research. The workflow also requires coordination with external experts, legal compliance checks, and secure documentation. Final steps involve digital cataloging and controlled storage recommendations, ensuring artifacts are preserved and their history accurately recorded to support museum acquisitions or private collections. The entire process demands meticulous attention to detail and cross-functional collaboration to mitigate risks of forgery and ensure cultural heritage integrity.",
+  "activities": [
+    "Initial Review",
+    "Material Scan",
+    "Stylistic Match",
+    "Provenance Check",
+    "Expert Consult",
+    "Legal Verify",
+    "Archival Search",
+    "Radiocarbon Test",
+    "XRay Analysis",
+    "Documentation",
+    "Digital Catalog",
+    "Condition Report",
+    "Storage Plan",
+    "Final Approval",
+    "Client Brief"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Deployment",
+  "description": "This process outlines the deployment of a fully automated urban vertical farming system within a dense metropolitan environment. It includes site analysis, modular infrastructure setup, integration of IoT sensors for real-time monitoring, AI-driven crop optimization, automated nutrient delivery, energy consumption balancing using renewable sources, waste recycling, and community engagement programs. The process also involves regulatory compliance checks, data analytics for yield forecasting, adaptive pest control mechanisms, and dynamic market demand adjustments to maximize efficiency and sustainability in urban agriculture.",
+  "activities": [
+    "Site Survey",
+    "Permit Check",
+    "Modular Build",
+    "IoT Install",
+    "Sensor Sync",
+    "AI Setup",
+    "Crop Plan",
+    "Nutrient Mix",
+    "Energy Align",
+    "Waste Process",
+    "Pest Monitor",
+    "Data Analyze",
+    "Yield Forecast",
+    "Market Adjust",
+    "Community Engage",
+    "Compliance Audit"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Corporate Artifact Repatriation",
+  "description": "This process manages the intricate repatriation of corporate artifacts loaned to international museums and exhibitions. It involves verifying artifact authenticity, navigating customs regulations, coordinating multi-party logistics, securing insurance coverage, and ensuring proper cultural sensitivity. The process requires cross-border legal compliance, stakeholder communication, condition reporting, restoration scheduling, and final reintegration into corporate archives or displays, often under strict confidentiality agreements and tight timelines.",
+  "activities": [
+    "Artifact Verify",
+    "Loan Assessment",
+    "Legal Review",
+    "Customs Filing",
+    "Insurance Setup",
+    "Transport Booking",
+    "Condition Report",
+    "Stakeholder Notify",
+    "Cultural Review",
+    "Restoration Plan",
+    "Security Audit",
+    "Shipping Monitor",
+    "Arrival Inspect",
+    "Archive Update",
+    "Confidentiality Sign"
+  ]
+}

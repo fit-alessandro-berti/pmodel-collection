@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the establishment of a vertical farming facility within an urban environment, integrating sustainable practices and advanced automation. It begins with site analysis and zoning compliance, followed by modular farm design and climate system installation. Seed selection and automated planting are conducted alongside nutrient formulation development. Continuous monitoring of growth parameters is ensured through IoT sensors, while robotic harvesting and packaging maintain efficiency. Waste recycling and water reclamation systems are incorporated to minimize environmental impact. Finally, product distribution leverages local delivery networks to reduce carbon footprint, completing a closed-loop urban farming ecosystem that supports fresh produce availability year-round.",
+  "activities": [
+    "Site Analysis",
+    "Zoning Check",
+    "Farm Design",
+    "Climate Setup",
+    "Seed Selection",
+    "Auto Planting",
+    "Nutrient Mix",
+    "Sensor Install",
+    "Growth Monitor",
+    "Robotic Harvest",
+    "Packaging Prep",
+    "Waste Manage",
+    "Water Reclaim",
+    "Local Delivery",
+    "Data Review"
+  ]
+}

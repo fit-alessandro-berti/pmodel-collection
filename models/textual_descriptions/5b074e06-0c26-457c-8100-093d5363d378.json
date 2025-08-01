@@ -1,0 +1,23 @@
+{
+  "title": "Artisan Cheese Supply Chain",
+  "description": "This process outlines the intricate steps involved in producing and distributing artisanal cheese from farm to boutique retail. It begins with selective milk sourcing from specific breeds of livestock, followed by precise milk testing and standardization. The milk is then cultured using unique bacterial blends before curdling and gentle cutting. After molding and initial aging, the cheese undergoes repeated washing and brushing to develop its rind. Quality control includes sensory evaluation and microbial testing. Packaging is customized to preserve flavor and texture, with cold chain logistics ensuring freshness during transport. Marketing targets niche markets emphasizing provenance and craftsmanship, culminating in boutique retail placement and consumer feedback collection to refine future batches.",
+  "activities": [
+    "Milk Sourcing",
+    "Milk Testing",
+    "Milk Standardization",
+    "Culture Preparation",
+    "Milk Culturing",
+    "Curd Cutting",
+    "Molding Cheese",
+    "Initial Aging",
+    "Rind Washing",
+    "Rind Brushing",
+    "Sensory Check",
+    "Microbial Test",
+    "Custom Packaging",
+    "Cold Transport",
+    "Market Targeting",
+    "Retail Placement",
+    "Feedback Gathering"
+  ]
+}

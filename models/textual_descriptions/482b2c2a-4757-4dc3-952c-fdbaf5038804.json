@@ -1,0 +1,22 @@
+{
+  "title": "Cryptocurrency Compliance Workflow",
+  "description": "This process governs the complex compliance workflow for cryptocurrency exchanges to ensure adherence to international regulations and internal policies. It involves verifying user identities, monitoring transactions for suspicious activity, conducting risk assessments, coordinating with legal teams for regulatory updates, and managing reporting obligations to financial authorities. The workflow also integrates blockchain analysis tools to track token provenance and flags irregular patterns for manual review. Continuous updates to compliance frameworks and employee training ensure the process adapts to evolving legal landscapes while maintaining efficient customer onboarding and transaction processing within secure parameters.",
+  "activities": [
+    "Identity Check",
+    "Risk Assessment",
+    "Transaction Scan",
+    "Flag Review",
+    "Legal Update",
+    "Policy Revision",
+    "User Onboarding",
+    "Token Tracking",
+    "Manual Audit",
+    "Report Generation",
+    "Training Session",
+    "Compliance Meeting",
+    "Data Encryption",
+    "Alert Dispatch",
+    "Feedback Loop",
+    "System Update"
+  ]
+}

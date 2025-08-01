@@ -1,0 +1,22 @@
+{
+  "title": "Dynamic Art Auction",
+  "description": "This process governs the operation of a dynamic art auction platform where artists, collectors, and curators interact in real-time. It involves verifying artwork authenticity through blockchain and AI analysis, dynamically adjusting reserve prices based on market trends, enabling fractional ownership bids, and managing post-auction royalty distributions. The platform ensures transparent provenance tracking, live bidding with adaptive increments, dispute resolution via decentralized arbitration, and integrates social media promotion to drive engagement. Finally, it settles payments through multi-currency crypto gateways and coordinates logistics for artwork delivery with insured shipping providers.",
+  "activities": [
+    "Verify Artwork",
+    "Analyze Provenance",
+    "Set Reserve",
+    "Activate Auction",
+    "Monitor Bids",
+    "Adjust Pricing",
+    "Enable Fractional",
+    "Validate Bidders",
+    "Resolve Disputes",
+    "Distribute Royalties",
+    "Promote Auction",
+    "Process Payments",
+    "Confirm Ownership",
+    "Arrange Shipping",
+    "Track Delivery",
+    "Report Analytics"
+  ]
+}

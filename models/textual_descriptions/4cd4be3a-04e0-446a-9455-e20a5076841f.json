@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process outlines the complex workflow involved in authenticating historical artifacts for museum acquisitions. It begins with preliminary provenance research, followed by detailed scientific analysis including radiocarbon dating and material composition studies. Expert consultations from historians, chemists, and art conservators occur in parallel to evaluate authenticity claims. Findings are compiled into a comprehensive report, which then undergoes peer review. Legal verification ensures compliance with international cultural heritage laws. Finally, a risk assessment on acquisition impact is performed before the artifact is approved for purchase. Post-acquisition protocols include secure transport arrangements and documentation archiving to maintain chain of custody and future reference.",
+  "activities": [
+    "Provenance Check",
+    "Initial Survey",
+    "Radiocarbon Test",
+    "Material Analysis",
+    "Expert Review",
+    "Historical Consult",
+    "Art Conservator",
+    "Report Draft",
+    "Peer Review",
+    "Legal Verify",
+    "Compliance Check",
+    "Risk Assess",
+    "Acquisition Vote",
+    "Transport Plan",
+    "Documentation"
+  ]
+}

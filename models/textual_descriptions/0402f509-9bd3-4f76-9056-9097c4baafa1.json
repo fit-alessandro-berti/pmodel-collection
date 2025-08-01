@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process outlines the detailed workflow for authenticating historical artifacts prior to acquisition by a museum or private collector. It involves multidisciplinary examination phases including provenance verification, material composition analysis, stylistic comparison, and digital forensics. Each step requires collaboration among historians, chemists, and data scientists. The workflow also incorporates risk assessment, legal compliance checks, and final documentation preparation. The aim is to minimize forgery risk while ensuring cultural and legal integrity, involving iterative feedback loops between experts and external databases before final acquisition approval.",
+  "activities": [
+    "Initial Review",
+    "Provenance Check",
+    "Material Testing",
+    "Style Analysis",
+    "Digital Scan",
+    "Forensic Audit",
+    "Expert Panel",
+    "Data Crossref",
+    "Risk Assess",
+    "Legal Verify",
+    "Ethics Review",
+    "Ownership Trace",
+    "Condition Report",
+    "Auth Certify",
+    "Final Approval",
+    "Archive Entry"
+  ]
+}

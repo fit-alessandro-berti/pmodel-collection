@@ -1,0 +1,22 @@
+{
+  "title": "Antique Restoration Workflow",
+  "description": "This process involves the meticulous restoration of antique items, blending historical research, material analysis, and precision craftsmanship. It begins with initial assessment and provenance verification, followed by detailed condition reporting and risk evaluation. Restoration planning includes sourcing period-appropriate materials and consulting specialists. The workflow proceeds with careful disassembly, cleaning, repair, and replacement of damaged elements using traditional techniques. Quality control is continuous, ensuring authenticity and structural integrity. Finally, documentation and preservation recommendations complete the process, supporting future maintenance and historical value retention.",
+  "activities": [
+    "Initial Assess",
+    "Provenance Check",
+    "Condition Report",
+    "Risk Evaluate",
+    "Material Source",
+    "Expert Consult",
+    "Restoration Plan",
+    "Item Disassemble",
+    "Surface Clean",
+    "Structural Repair",
+    "Element Replace",
+    "Traditional Finish",
+    "Quality Control",
+    "Documentation",
+    "Preservation Advise",
+    "Final Review"
+  ]
+}

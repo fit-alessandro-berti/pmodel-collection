@@ -1,0 +1,21 @@
+{
+  "title": "Subscription Meal Kit Customization",
+  "description": "This process involves managing a highly personalized meal kit subscription service where customers select dietary preferences, delivery schedules, and recipe complexity. The system dynamically adjusts ingredient sourcing based on seasonal availability and regional supplier constraints. It incorporates real-time inventory tracking, quality inspections, and feedback loops to optimize future meal plans. Additionally, it integrates with third-party logistics for last-mile delivery efficiency and includes contingency planning for supply chain disruptions. The process concludes with customer satisfaction analysis to continuously refine meal offerings and service reliability, ensuring both freshness and variety while minimizing waste and operational costs.",
+  "activities": [
+    "User Signup",
+    "Preference Set",
+    "Meal Select",
+    "Schedule Delivery",
+    "Supplier Match",
+    "Inventory Check",
+    "Ingredient Order",
+    "Quality Inspect",
+    "Meal Pack",
+    "Route Plan",
+    "Dispatch Kit",
+    "Delivery Track",
+    "Feedback Collect",
+    "Data Analyze",
+    "Plan Optimize"
+  ]
+}

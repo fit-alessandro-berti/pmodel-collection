@@ -1,0 +1,22 @@
+{
+  "title": "Artisan Cheese Supply Chain",
+  "description": "This process outlines the intricate steps involved in sourcing rare cheeses from small-scale artisanal farms, ensuring quality through custom aging, managing seasonal variations, and coordinating with niche gourmet retailers. It includes unique tasks such as microbial profiling, traditional hand-wrapping, climate-controlled transport logistics, and consumer feedback integration to maintain authenticity and exclusivity. The process demands close collaboration between farmers, microbiologists, logistics experts, and marketing teams to preserve the cheese's heritage while scaling distribution sustainably across diverse markets.",
+  "activities": [
+    "Farm Selection",
+    "Milk Testing",
+    "Starter Culture",
+    "Curd Formation",
+    "Pressing Cheese",
+    "Microbial Profiling",
+    "Aging Control",
+    "Hand Wrapping",
+    "Quality Audit",
+    "Packaging Prep",
+    "Climate Shipping",
+    "Retail Coordination",
+    "Seasonal Review",
+    "Consumer Survey",
+    "Feedback Analysis",
+    "Market Adjustment"
+  ]
+}

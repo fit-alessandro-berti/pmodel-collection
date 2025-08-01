@@ -1,0 +1,23 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the complex validation and authentication of ancient artifacts within a museum's acquisition department. It includes steps such as provenance verification, material analysis, historical context research, and expert consultations. The workflow ensures that every artifact undergoes rigorous scrutiny before being approved for display or storage, considering both scientific and historical perspectives. The process integrates cross-disciplinary collaboration, digital record updates, and compliance with international cultural heritage laws, culminating in a final authentication report and database entry.",
+  "activities": [
+    "Artifact Intake",
+    "Initial Inspection",
+    "Provenance Check",
+    "Material Sampling",
+    "Lab Analysis",
+    "Historical Research",
+    "Expert Review",
+    "Condition Assessment",
+    "Digital Imaging",
+    "Cross-Reference",
+    "Legal Compliance",
+    "Report Drafting",
+    "Stakeholder Meeting",
+    "Final Approval",
+    "Database Entry",
+    "Storage Allocation",
+    "Exhibit Planning"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Urban Rooftop Farming Setup",
+  "description": "This process outlines the complex steps involved in establishing a sustainable urban rooftop farm. It begins with site assessment to evaluate structural integrity and sunlight exposure, followed by securing permits from local authorities. Afterward, soil analysis and selection of suitable crops occurs. The process continues with installation of irrigation and drainage systems designed for limited rooftop space, and integration of renewable energy sources like solar panels. Subsequent activities involve training staff on vertical farming techniques and pest management, while coordinating logistics for supply chain and distribution. The final stages include community engagement to promote urban agriculture awareness and continuous monitoring for environmental impact and crop yield optimization.",
+  "activities": [
+    "Site Assess",
+    "Permit Obtain",
+    "Soil Testing",
+    "Crop Select",
+    "Irrigation Setup",
+    "Drainage Install",
+    "Energy Integrate",
+    "Staff Train",
+    "Pest Control",
+    "Logistics Plan",
+    "Supply Coordinate",
+    "Distribution Map",
+    "Community Engage",
+    "Monitoring Setup",
+    "Yield Optimize"
+  ]
+}

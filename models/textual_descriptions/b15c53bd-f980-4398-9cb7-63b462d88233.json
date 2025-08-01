@@ -1,0 +1,21 @@
+{
+  "title": "Dynamic Art Curation",
+  "description": "This process involves curating a rotating exhibition of emerging digital and physical artworks in a hybrid gallery space. The curator must identify trending artists through social media sentiment analysis, negotiate with international artists remotely, coordinate logistics for fragile shipments, install augmented reality overlays, and manage both physical and virtual visitor engagement. The process requires iterative feedback from diverse audiences, adaptive scheduling for interactive workshops, and real-time adjustments to lighting and display settings based on visitor behavior and environmental conditions. Additionally, it includes post-exhibition data collection for sales forecasting and artist promotion, ensuring sustainability and innovation in contemporary art presentation.",
+  "activities": [
+    "Trend Scan",
+    "Artist Outreach",
+    "Contract Draft",
+    "Shipment Plan",
+    "Customs Clear",
+    "Artwork Install",
+    "AR Overlay",
+    "Visitor Monitor",
+    "Feedback Collect",
+    "Workshop Setup",
+    "Light Adjust",
+    "Display Calibrate",
+    "Sales Forecast",
+    "Promo Launch",
+    "Data Archive"
+  ]
+}

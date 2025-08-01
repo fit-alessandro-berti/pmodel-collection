@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the complex setup and operational launch of an urban vertical farming system designed to optimize crop yield in limited city spaces. It involves site assessment, modular unit assembly, climate control calibration, nutrient solution preparation, and automated monitoring system integration. Continuous data analysis guides iterative environmental adjustments while integrating renewable energy sources to enhance sustainability. Stakeholder coordination ensures compliance with local regulations and market readiness, culminating in a full-scale harvest and distribution plan tailored for urban consumers. The process balances technological innovation with ecological impact and economic viability to establish a pioneering agricultural model within metropolitan areas.",
+  "activities": [
+    "Site Survey",
+    "Design Layout",
+    "Permit Acquire",
+    "Unit Assembly",
+    "Climate Setup",
+    "Nutrient Mix",
+    "Irrigation Install",
+    "Sensor Deploy",
+    "Energy Connect",
+    "System Test",
+    "Data Monitor",
+    "Adjust Parameters",
+    "Staff Train",
+    "Quality Check",
+    "Harvest Plan",
+    "Market Launch"
+  ]
+}

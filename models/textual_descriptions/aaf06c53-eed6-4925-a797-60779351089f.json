@@ -1,0 +1,22 @@
+{
+  "title": "Dynamic Asset Reallocation",
+  "description": "This process governs the dynamic reallocation of physical and digital assets across multiple departments within a multinational corporation. It involves continuous monitoring of asset utilization rates, predictive demand analytics, interdepartmental negotiation for resource sharing, compliance verification with local regulations, and real-time adjustment of asset distribution to optimize operational efficiency and reduce downtime. The process includes stakeholder approvals, risk assessments, and integration with enterprise resource planning (ERP) systems to ensure seamless tracking and reporting. Additionally, it incorporates contingency planning for unexpected asset failures and rapid redeployment strategies to maintain business continuity across global locations.",
+  "activities": [
+    "Asset Audit",
+    "Utilization Scan",
+    "Demand Forecast",
+    "Compliance Check",
+    "Stakeholder Meet",
+    "Risk Assess",
+    "Approval Request",
+    "Resource Match",
+    "Transfer Plan",
+    "Logistics Coord",
+    "System Update",
+    "Performance Track",
+    "Failure Detect",
+    "Contingency Prep",
+    "Redeploy Assets",
+    "Report Generate"
+  ]
+}

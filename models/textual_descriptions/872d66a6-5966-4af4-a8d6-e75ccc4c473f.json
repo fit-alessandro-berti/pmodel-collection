@@ -1,0 +1,23 @@
+{
+  "title": "Antique Artifact Authentication",
+  "description": "This process involves the intricate verification and validation of antique artifacts to establish provenance, authenticity, and historical significance. It begins with initial artifact intake and visual inspection, followed by scientific testing such as radiocarbon dating and material composition analysis. Experts then conduct stylistic comparisons against known historical records and previous auction results. Concurrently, archival research is performed to trace ownership lineage and contextual history. A forensic examination checks for restoration or forgery signs. Findings are compiled into a detailed report, which undergoes peer review by external historians and scientists. Finally, the artifact is either certified, cataloged for sale, or returned to its owner with recommendations for preservation or further study.",
+  "activities": [
+    "Artifact Intake",
+    "Visual Inspect",
+    "Radiocarbon Test",
+    "Material Analysis",
+    "Stylistic Compare",
+    "Historical Research",
+    "Ownership Trace",
+    "Forensic Check",
+    "Restoration Inspect",
+    "Forgery Detect",
+    "Data Compile",
+    "Report Draft",
+    "Peer Review",
+    "Certification",
+    "Catalog Entry",
+    "Owner Feedback",
+    "Preservation Advise"
+  ]
+}

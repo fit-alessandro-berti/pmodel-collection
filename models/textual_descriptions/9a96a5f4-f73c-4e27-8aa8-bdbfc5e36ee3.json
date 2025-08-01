@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the comprehensive steps involved in setting up an urban vertical farming system within a repurposed industrial building. It includes site evaluation, modular rack assembly, climate control integration, automated irrigation programming, nutrient solution formulation, crop selection based on local demand, seedling germination, pest monitoring using AI sensors, harvest scheduling, quality control, waste recycling, energy consumption optimization, distribution logistics planning, and continuous system feedback analysis to maximize yield and sustainability in an urban environment.",
+  "activities": [
+    "Site Survey",
+    "Rack Assembly",
+    "Climate Setup",
+    "Irrigation Config",
+    "Nutrient Mix",
+    "Crop Selection",
+    "Seed Germination",
+    "Pest Monitoring",
+    "Harvest Plan",
+    "Quality Check",
+    "Waste Recycling",
+    "Energy Audit",
+    "Logistics Plan",
+    "Data Analysis",
+    "System Feedback"
+  ]
+}

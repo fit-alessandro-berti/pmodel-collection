@@ -1,0 +1,22 @@
+{
+  "title": "Collaborative Art Installation Workflow",
+  "description": "This process outlines the creation of a large-scale collaborative art installation involving multiple artists, engineers, and community stakeholders. It begins with concept ideation and stakeholder alignment, followed by material sourcing and prototype development. Parallel activities include regulatory compliance checks and community feedback sessions. After iterative design refinements, technical integration and structural testing are conducted to ensure safety and functionality. The installation phase involves coordinated logistics, on-site assembly, and real-time troubleshooting. Post-installation, the process includes interactive programming, public engagement events, and maintenance scheduling to sustain the artwork\u2019s impact over time. Documentation and archival of the project complete the workflow, ensuring knowledge transfer and future reference.",
+  "activities": [
+    "Concept Ideation",
+    "Stakeholder Meet",
+    "Material Sourcing",
+    "Prototype Build",
+    "Compliance Check",
+    "Community Review",
+    "Design Refinement",
+    "Tech Integration",
+    "Structural Test",
+    "Logistics Plan",
+    "Onsite Setup",
+    "Troubleshoot Fix",
+    "Program Install",
+    "Engagement Event",
+    "Maintenance Plan",
+    "Project Archive"
+  ]
+}

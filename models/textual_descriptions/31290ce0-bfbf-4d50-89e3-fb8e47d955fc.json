@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farm Setup",
+  "description": "This process outlines the complex steps involved in establishing a fully operational urban vertical farm within a constrained city environment. Starting with site assessment and zoning approval, it includes innovative modular design, integrating IoT-based climate control, and hydroponic system installation. The workflow addresses energy optimization through renewable sources, advanced nutrient delivery calibration, and pest management without chemicals. The process also incorporates community engagement for educational tours, continuous data monitoring, and adaptive crop scheduling based on market trends. Final stages involve certification for organic produce and launching a subscription-based delivery service, ensuring sustainability and profitability in urban agriculture.",
+  "activities": [
+    "Site Assess",
+    "Zoning Approve",
+    "Modular Design",
+    "IoT Setup",
+    "Climate Config",
+    "Hydroponic Install",
+    "Energy Audit",
+    "Renewables Integrate",
+    "Nutrient Calibrate",
+    "Pest Control",
+    "Community Engage",
+    "Data Monitor",
+    "Crop Schedule",
+    "Organic Certify",
+    "Launch Delivery"
+  ]
+}

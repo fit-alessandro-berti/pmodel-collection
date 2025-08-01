@@ -1,0 +1,23 @@
+{
+  "title": "Custom Drone Delivery Workflow",
+  "description": "This process outlines the specialized workflow for custom drone delivery services tailored to high-value, fragile, or time-sensitive packages. It includes client consultation to determine delivery constraints, drone customization based on payload and environment, regulatory compliance checks, pre-flight simulations, and dynamic route optimization. Post-flight data analysis and client feedback integration ensure continuous improvement. The process also involves contingency management for weather disruptions or technical failures, warranty registration, and specialized packaging coordination to maintain package integrity during transport. Each stage is designed to ensure precision, safety, and customer satisfaction in an evolving regulatory landscape.",
+  "activities": [
+    "Client Consult",
+    "Payload Assess",
+    "Drone Configure",
+    "Regulation Check",
+    "Flight Simulate",
+    "Route Optimize",
+    "Package Secure",
+    "Pre-Flight Inspect",
+    "Weather Monitor",
+    "Launch Drone",
+    "Flight Track",
+    "Delivery Confirm",
+    "Data Analyze",
+    "Feedback Collect",
+    "Warranty Register",
+    "Issue Resolve",
+    "Package Return"
+  ]
+}

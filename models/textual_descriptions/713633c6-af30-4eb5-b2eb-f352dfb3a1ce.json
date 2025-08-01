@@ -1,0 +1,22 @@
+{
+  "title": "Custom Drone Fleet Leasing",
+  "description": "This process involves leasing customized drones to corporate clients for specific operational needs such as agricultural monitoring, infrastructure inspection, or event coverage. It includes client consultation to define requirements, drone customization with specialized sensors, regulatory compliance checks, fleet scheduling, pilot training, live mission support, data collection and analysis, maintenance scheduling, and feedback integration for continuous product improvement. The process ensures tailored drone solutions are delivered efficiently while managing complex logistics and regulatory environments to maximize client satisfaction and operational safety.",
+  "activities": [
+    "Client Consult",
+    "Needs Assess",
+    "Drone Design",
+    "Sensor Install",
+    "Compliance Check",
+    "Fleet Assign",
+    "Pilot Train",
+    "Mission Plan",
+    "Live Support",
+    "Data Capture",
+    "Data Analyze",
+    "Maintenance Set",
+    "Feedback Collect",
+    "Update Fleet",
+    "Billing Process",
+    "Contract Close"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Antique Artifact Authentication",
+  "description": "This process involves the detailed examination and validation of antique artifacts to verify their authenticity and provenance. It begins with initial artifact intake and cataloging, followed by expert visual inspection and advanced material analysis using spectroscopy. Historical research is conducted to trace ownership and origin, complemented by comparative stylistic evaluation with verified pieces. The process includes digital 3D scanning for condition assessment and creating a preservation plan. Legal compliance checks ensure adherence to cultural heritage laws. Finally, a comprehensive authentication report is generated and archived, with recommendations for conservation or sale preparation if applicable.",
+  "activities": [
+    "Artifact Intake",
+    "Catalog Entry",
+    "Visual Inspect",
+    "Material Test",
+    "Spectroscopy",
+    "Historical Check",
+    "Provenance Trace",
+    "Style Compare",
+    "3D Scanning",
+    "Condition Assess",
+    "Preservation Plan",
+    "Legal Review",
+    "Report Draft",
+    "Report Finalize",
+    "Archive Data",
+    "Sale Prep"
+  ]
+}

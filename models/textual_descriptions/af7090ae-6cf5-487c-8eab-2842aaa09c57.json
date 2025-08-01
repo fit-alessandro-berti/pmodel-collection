@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process outlines the comprehensive steps involved in authenticating historical artifacts for museum acquisition. It begins with initial artifact receipt and condition assessment, followed by multi-disciplinary analysis including chemical composition testing, provenance documentation verification, and stylistic comparison by experts. The workflow incorporates advanced imaging techniques and carbon dating, cross-referencing global databases to confirm artifact origin and legitimacy. Legal compliance checks and risk assessment for potential forgeries are conducted before final authentication approval. The process ends with detailed reporting and secure artifact cataloging to ensure traceability and preservation standards are met throughout the acquisition lifecycle.",
+  "activities": [
+    "Artifact Receipt",
+    "Condition Check",
+    "Sample Extraction",
+    "Chemical Testing",
+    "Provenance Review",
+    "Stylistic Audit",
+    "Imaging Scan",
+    "Carbon Dating",
+    "Database Crosscheck",
+    "Forgery Analysis",
+    "Legal Review",
+    "Risk Assessment",
+    "Approval Meeting",
+    "Report Drafting",
+    "Catalog Entry",
+    "Secure Storage"
+  ]
+}

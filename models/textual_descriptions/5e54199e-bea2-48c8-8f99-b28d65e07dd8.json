@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Integration",
+  "description": "This process involves the establishment and operational integration of an urban vertical farm within a multi-use commercial building. It includes site assessment, environmental control setup, crop selection tailored for vertical growth, automation of irrigation and nutrient delivery, integration with building energy systems for sustainability, continuous crop monitoring through IoT sensors, pest management without chemicals, harvest scheduling aligned with market demand, waste recycling through composting, employee training on unique vertical farming techniques, product packaging with traceability features, distribution logistics optimized for urban delivery, customer feedback incorporation for crop improvement, and periodic system upgrades to enhance efficiency and output while minimizing environmental impact.",
+  "activities": [
+    "Site Assess",
+    "Env Setup",
+    "Crop Select",
+    "Irrigation Auto",
+    "Energy Sync",
+    "Sensor Deploy",
+    "Pest Manage",
+    "Harvest Plan",
+    "Waste Recycle",
+    "Staff Train",
+    "Pack Product",
+    "Logistics Plan",
+    "Feedback Loop",
+    "System Upgrade",
+    "Market Align"
+  ]
+}

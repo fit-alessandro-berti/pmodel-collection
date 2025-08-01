@@ -1,0 +1,21 @@
+{
+  "title": "Antique Restoration Workflow",
+  "description": "This process involves the detailed restoration of antique items, combining historical research, material analysis, delicate cleaning, and precise reconstruction to preserve authenticity while enhancing durability. It begins with provenance verification and condition assessment, followed by specialized treatment planning. Each step demands careful documentation and iterative quality checks to ensure that the restored artifact retains its original character. Collaborative input from historians, chemists, and artisans is integrated throughout. The process culminates in final preservation and detailed reporting for archival purposes, enabling museums or collectors to maintain cultural heritage effectively.",
+  "activities": [
+    "Provenance Check",
+    "Condition Scan",
+    "Material Test",
+    "Damage Map",
+    "Cleaning Prep",
+    "Surface Clean",
+    "Structural Fix",
+    "Paint Match",
+    "Color Touch",
+    "Finish Seal",
+    "Humidity Control",
+    "Documentation",
+    "Expert Review",
+    "Quality Audit",
+    "Final Report"
+  ]
+}

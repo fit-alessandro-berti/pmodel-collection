@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Supply Chain",
+  "description": "This process outlines the complex logistics and operational steps involved in managing an urban vertical farming supply chain. It begins with seed procurement and genetic selection, followed by environmental calibration and hydroponic setup. Continuous monitoring of nutrient levels and pest control ensures optimal plant growth. Harvesting is scheduled based on data analytics predicting peak freshness. Post-harvest processing includes automated packaging and quality inspection. The produce is then routed through cold-chain logistics and distributed via micro-fulfillment centers to local retailers and direct-to-consumer platforms. Feedback loops from sales data influence future crop planning and resource allocation, creating a dynamic, sustainable urban agriculture ecosystem.",
+  "activities": [
+    "Seed Sourcing",
+    "Genetic Select",
+    "Env Calibration",
+    "Hydro Setup",
+    "Nutrient Monitor",
+    "Pest Control",
+    "Growth Analytics",
+    "Harvest Plan",
+    "Automated Pack",
+    "Quality Check",
+    "Cold Storage",
+    "Logistics Route",
+    "Micro Fulfill",
+    "Retail Supply",
+    "Consumer Ship",
+    "Sales Feedback",
+    "Crop Adjust"
+  ]
+}

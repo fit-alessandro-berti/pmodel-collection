@@ -1,0 +1,23 @@
+{
+  "title": "Artisan Cheese Supply Chain",
+  "description": "This process involves the intricate coordination of sourcing raw milk from multiple small-scale farms, ensuring quality through microbial testing, and managing seasonal variations. It includes curdling, aging under controlled humidity and temperature, and packaging with detailed provenance labels. The distribution phase requires temperature-controlled logistics to specialty retailers and direct-to-consumer channels. Additionally, the process entails continuous feedback collection from customers to refine aging profiles and innovate new cheese varieties, while complying with stringent food safety and organic certification standards throughout the supply chain.",
+  "activities": [
+    "Milk Sourcing",
+    "Quality Testing",
+    "Batch Curdling",
+    "Whey Removal",
+    "Mold Inoculation",
+    "Humidity Control",
+    "Temperature Aging",
+    "Rind Brushing",
+    "Flavor Sampling",
+    "Label Printing",
+    "Packaging Prep",
+    "Cold Storage",
+    "Order Consolidation",
+    "Logistics Scheduling",
+    "Customer Feedback",
+    "Certification Audit",
+    "Recipe Adjustment"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Custom Artifact Authentication",
+  "description": "This process involves verifying the authenticity of ancient artifacts through a series of interdisciplinary activities combining scientific analysis, provenance research, and expert validation. The workflow starts with artifact intake and initial physical assessment, followed by multi-modal imaging techniques to detect hidden markings and material composition. Next, chemical dating and isotopic analysis help establish temporal origins. Concurrently, archival research cross-references historical records to confirm provenance chains. Expert panels review combined findings and assess cultural significance. Digital replication and blockchain registration ensure traceability. Finally, the artifact is either certified authentic or flagged for further investigation, with detailed reports generated for stakeholders and regulatory compliance.",
+  "activities": [
+    "Artifact Intake",
+    "Physical Check",
+    "Imaging Scan",
+    "Material Test",
+    "Chemical Dating",
+    "Isotopic Analysis",
+    "Archive Review",
+    "Provenance Check",
+    "Expert Panel",
+    "Cultural Assess",
+    "Digital Replica",
+    "Blockchain Reg",
+    "Report Draft",
+    "Compliance Review",
+    "Final Certification"
+  ]
+}

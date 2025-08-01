@@ -1,0 +1,21 @@
+{
+  "title": "Antique Asset Authentication",
+  "description": "This process involves the detailed verification and authentication of antique assets for high-value collectors and museums, incorporating provenance research, material analysis, expert consultation, and condition assessment. The process begins with initial asset intake, followed by multi-layered investigation including historical document cross-checking, scientific testing such as radiocarbon dating or spectroscopy, and comparative stylistic evaluation. Findings are then compiled into a detailed authentication report, which undergoes peer review by external specialists. The final step involves certification issuance and digital archiving of the asset\u2019s verified profile. This atypical but realistic process ensures the legitimacy and value preservation of rare antiques in a market fraught with forgery risks.",
+  "activities": [
+    "Asset Intake",
+    "Provenance Check",
+    "Material Sampling",
+    "Radiocarbon Test",
+    "Style Compare",
+    "Historical Search",
+    "Expert Consult",
+    "Condition Review",
+    "Scientific Analysis",
+    "Data Compilation",
+    "Peer Review",
+    "Report Draft",
+    "Certification",
+    "Digital Archive",
+    "Client Delivery"
+  ]
+}

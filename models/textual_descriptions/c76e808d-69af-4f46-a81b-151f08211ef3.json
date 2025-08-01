@@ -1,0 +1,23 @@
+{
+  "title": "Artisanal Cheese Supply Chain",
+  "description": "This process details the intricate and atypical supply chain for producing and distributing artisanal cheeses from small-scale farms to niche gourmet retailers. It involves unique steps like microbial culture selection, seasonal milk sourcing based on animal diet, controlled aging with environmental monitoring, and bespoke packaging tailored to cheese type. The process also integrates direct farmer collaboration, traceability through blockchain, and adaptive logistics that account for cheese maturation stages and fragile transport conditions, ensuring product quality and authenticity while balancing traditional methods with modern technology.",
+  "activities": [
+    "Milk Sourcing",
+    "Culture Selection",
+    "Milk Testing",
+    "Curd Formation",
+    "Whey Separation",
+    "Molding Cheese",
+    "Salting Process",
+    "Aging Setup",
+    "Env Monitoring",
+    "Flavor Profiling",
+    "Packaging Design",
+    "Blockchain Entry",
+    "Quality Audit",
+    "Retail Sync",
+    "Transport Prep",
+    "Delivery Tracking",
+    "Customer Feedback"
+  ]
+}

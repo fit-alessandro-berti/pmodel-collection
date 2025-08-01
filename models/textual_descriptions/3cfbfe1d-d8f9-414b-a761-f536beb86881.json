@@ -1,0 +1,21 @@
+{
+  "title": "Artisanal Supply Chain",
+  "description": "This process manages the end-to-end supply chain for handcrafted luxury goods, integrating rare material sourcing, artisan allocation, quality assurance through traditional methods, custom order management, and dynamic pricing strategies based on market trends. It involves coordination between remote workshops, seasonal artisan availability, and bespoke packaging tailored to client preferences, ensuring authenticity and sustainability are maintained throughout the production and distribution lifecycle. The process also includes feedback loops for continuous artisan skill development and selective retailer partnerships to preserve brand exclusivity.",
+  "activities": [
+    "Material Sourcing",
+    "Vendor Vetting",
+    "Artisan Selection",
+    "Order Customization",
+    "Design Approval",
+    "Workshop Scheduling",
+    "Material Inspection",
+    "Handcrafting",
+    "Quality Checking",
+    "Packaging Design",
+    "Sustainability Audit",
+    "Pricing Update",
+    "Inventory Sync",
+    "Retailer Onboarding",
+    "Skill Feedback"
+  ]
+}

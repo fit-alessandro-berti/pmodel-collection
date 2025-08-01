@@ -1,0 +1,22 @@
+{
+  "title": "Urban Beekeeping Workflow",
+  "description": "This process outlines the complex steps involved in managing an urban beekeeping operation within a densely populated city environment. It begins with hive site scouting and regulatory compliance, followed by hive installation and colony acclimation. Regular health inspections and disease monitoring are performed to ensure colony vitality. Seasonal nectar flow assessments guide supplemental feeding schedules. Honey extraction involves specialized urban-safe methods to minimize disruption. Post-harvest, honey is filtered, quality tested, and packaged in eco-friendly materials. Community outreach and educational workshops promote urban pollination awareness. Finally, data logging and hive performance analysis support continuous improvement and sustainable urban apiary management.",
+  "activities": [
+    "Site Scouting",
+    "Permit Check",
+    "Hive Setup",
+    "Colony Acclimate",
+    "Health Inspect",
+    "Disease Screen",
+    "Nectar Assess",
+    "Feed Schedule",
+    "Honey Extract",
+    "Honey Filter",
+    "Quality Test",
+    "Eco Package",
+    "Community Talk",
+    "Data Log",
+    "Performance Review",
+    "Waste Manage"
+  ]
+}

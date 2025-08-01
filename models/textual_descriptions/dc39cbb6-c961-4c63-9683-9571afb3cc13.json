@@ -1,0 +1,22 @@
+{
+  "title": "Custom Art Commission Workflow",
+  "description": "This process outlines the workflow for managing custom art commissions from initial client inquiry through to final delivery and post-sale support. It begins with client consultation to understand project requirements, followed by concept development and iterative feedback cycles. After client approval, the artist proceeds with detailed creation, periodic progress updates, and quality assurance reviews. Once the artwork is complete, it undergoes final adjustments before invoicing and shipping. Post-delivery includes client satisfaction confirmation and optional framing or digital licensing arrangements. The process ensures clear communication, creative alignment, and efficient resource allocation to meet unique artistic demands in a timely manner.",
+  "activities": [
+    "Client Inquiry",
+    "Requirement Gather",
+    "Concept Sketch",
+    "Client Feedback",
+    "Revision Cycle",
+    "Final Approval",
+    "Art Creation",
+    "Progress Update",
+    "Quality Check",
+    "Final Adjust",
+    "Invoice Issue",
+    "Shipment Prep",
+    "Delivery Confirm",
+    "Post Support",
+    "License Setup",
+    "Frame Arrange"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Remote Asset Reclamation",
+  "description": "This process outlines the steps for reclaiming and repurposing remote or stranded physical assets, such as equipment or vehicles, located in inaccessible or hazardous environments. It involves remote assessment, coordination with local authorities, specialized transport logistics, environmental compliance checks, and final reintegration into the operational inventory. The process ensures minimal downtime, cost efficiency, and adherence to safety regulations while handling assets that require unconventional retrieval methods due to geographic, legal, or operational constraints.",
+  "activities": [
+    "Asset Audit",
+    "Risk Survey",
+    "Permit Request",
+    "Stakeholder Notify",
+    "Remote Inspect",
+    "Local Liaison",
+    "Transport Plan",
+    "Safety Brief",
+    "Equipment Prep",
+    "Extraction Execute",
+    "Environmental Check",
+    "Damage Assess",
+    "Reconditioning",
+    "Inventory Update",
+    "Report Submit"
+  ]
+}

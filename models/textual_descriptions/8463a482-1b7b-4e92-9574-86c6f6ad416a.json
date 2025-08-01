@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farm Management",
+  "description": "This process involves managing a multi-level urban vertical farm that integrates hydroponic and aeroponic systems to optimize crop yield within limited city spaces. It covers seed selection based on seasonal data, nutrient solution preparation, automated climate control adjustments, pest detection through AI imaging, and yield forecasting. Additionally, it includes waste recycling mechanisms, labor scheduling, real-time monitoring dashboards, and coordination with local markets for distribution. The process ensures sustainability by balancing energy consumption with renewable sources and maintaining strict quality standards through continuous sensor feedback and manual inspections.",
+  "activities": [
+    "Seed Selection",
+    "Nutrient Mix",
+    "Climate Setup",
+    "Planting Cycle",
+    "Growth Monitor",
+    "Pest Scan",
+    "Waste Sorting",
+    "Energy Audit",
+    "Water Recycle",
+    "Yield Forecast",
+    "Labor Assign",
+    "Market Sync",
+    "Quality Check",
+    "Inventory Log",
+    "Data Backup"
+  ]
+}

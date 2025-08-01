@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Ops",
+  "description": "This process outlines the end-to-end operational workflow for managing an urban vertical farm that integrates IoT sensors, automated hydroponic systems, and AI-driven crop optimization. Starting from environmental monitoring, nutrient mixing, and seed planting, the workflow continues through growth tracking, pest detection, and adaptive lighting adjustments. Harvest scheduling is dynamically optimized based on market demand forecasts, followed by automated packaging and distribution coordination with local vendors. The process also includes waste recycling, energy consumption analysis, and continuous improvement cycles driven by data insights to maximize yield and minimize resource use in constrained urban environments.",
+  "activities": [
+    "Sensor Sync",
+    "Nutrient Mix",
+    "Seed Plant",
+    "Climate Adjust",
+    "Growth Track",
+    "Pest Scan",
+    "Light Modulate",
+    "Harvest Plan",
+    "Market Forecast",
+    "Package Prep",
+    "Vendor Notify",
+    "Waste Sort",
+    "Energy Audit",
+    "Data Analyze",
+    "Yield Optimize"
+  ]
+}

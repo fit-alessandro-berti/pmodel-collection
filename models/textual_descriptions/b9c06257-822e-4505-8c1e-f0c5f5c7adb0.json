@@ -1,0 +1,23 @@
+{
+  "title": "Custom Drone Fleet Setup",
+  "description": "This process outlines the steps required to design, assemble, and deploy a custom drone fleet tailored for environmental monitoring in remote areas. It involves initial requirement gathering, prototype design, component sourcing from multiple vendors, iterative testing under varied environmental conditions, software integration for autonomous operations, regulatory compliance checks, pilot training, and final deployment. Continuous feedback loops ensure adaptability and performance improvements, while data collection protocols are established to support long-term ecological studies and reporting obligations to environmental agencies.",
+  "activities": [
+    "Requirement Gather",
+    "Concept Design",
+    "Vendor Select",
+    "Component Order",
+    "Prototype Build",
+    "Field Testing",
+    "Software Install",
+    "Autonomy Setup",
+    "Compliance Check",
+    "Pilot Train",
+    "Data Protocol",
+    "Fleet Assemble",
+    "Deployment Plan",
+    "Performance Review",
+    "Feedback Loop",
+    "Report Generate",
+    "Maintenance Schedule"
+  ]
+}

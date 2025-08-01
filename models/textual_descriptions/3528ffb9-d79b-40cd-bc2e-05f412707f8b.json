@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Integration",
+  "description": "This process outlines the complex integration of vertical farming systems within urban environments. It involves site analysis, modular design adaptation, multi-layer crop scheduling, automated nutrient delivery, environmental monitoring, community engagement, and logistics coordination. The process addresses challenges like limited space, energy optimization, and real-time data integration to maximize yield while minimizing resource consumption. Additionally, it incorporates IoT device calibration, waste recycling loops, and dynamic market demand adjustments, ensuring sustainable urban agriculture that seamlessly blends technology, ecology, and social factors for efficient food production in dense metropolitan areas.",
+  "activities": [
+    "Site Survey",
+    "Design Adapt",
+    "Module Build",
+    "Crop Plan",
+    "Seed Prep",
+    "Planting",
+    "Nutrient Mix",
+    "Sensor Setup",
+    "Climate Control",
+    "Data Sync",
+    "Growth Check",
+    "Pest Monitor",
+    "Waste Cycle",
+    "Harvest",
+    "Market Sync",
+    "Community Meet",
+    "Energy Audit"
+  ]
+}

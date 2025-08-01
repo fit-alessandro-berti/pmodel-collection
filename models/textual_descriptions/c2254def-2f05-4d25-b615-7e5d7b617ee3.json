@@ -1,0 +1,22 @@
+{
+  "title": "Intercontinental Art Shipment",
+  "description": "This process involves the secure, legal, and environmentally controlled shipment of valuable and fragile artwork from multiple galleries across different continents to a central exhibition venue. It requires coordinating customs clearance, temperature and humidity monitoring, insurance validation, and specialized packing. Additionally, real-time tracking, provenance verification, and emergency contingency measures must be integrated to guarantee the artwork's integrity throughout transit. Communication between artists, insurers, handlers, and customs officials is continuous to resolve any unexpected delays or regulatory requirements. The process concludes with careful unpacking and condition verification at the destination, ensuring that each piece is exhibition-ready and documented for both provenance and insurance purposes.",
+  "activities": [
+    "Artwork Catalog",
+    "Pack Securely",
+    "Insurance Check",
+    "Customs Submit",
+    "Humidity Control",
+    "Temperature Log",
+    "Provenance Verify",
+    "Carrier Assign",
+    "Route Optimize",
+    "Real-time Track",
+    "Emergency Plan",
+    "Stakeholder Update",
+    "Unload Carefully",
+    "Condition Check",
+    "Exhibit Setup",
+    "Documentation File"
+  ]
+}

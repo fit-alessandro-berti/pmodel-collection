@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process governs the detailed authentication and provenance verification of rare historical artifacts before acquisition by a museum or private collector. It involves interdisciplinary collaboration between historians, chemists, and forensic analysts to validate the artifact's age, origin, and authenticity. Initial steps include digital scanning and material sampling, followed by isotopic and radiocarbon testing. Concurrently, provenance records are cross-checked against archival databases and known ownership chains. Legal experts then review compliance with cultural heritage laws. Finally, a multidisciplinary committee reviews all findings before issuing a formal authentication certificate. This process mitigates risks associated with forgeries and illicit trade, ensuring ethical acquisition and long-term preservation.",
+  "activities": [
+    "Initial Scan",
+    "Material Sample",
+    "Isotope Test",
+    "Carbon Dating",
+    "Provenance Check",
+    "Archive Query",
+    "Ownership Review",
+    "Legal Compliance",
+    "Forensic Analysis",
+    "Expert Interviews",
+    "Database Crosscheck",
+    "Condition Report",
+    "Risk Assessment",
+    "Committee Review",
+    "Certificate Issue",
+    "Final Approval"
+  ]
+}

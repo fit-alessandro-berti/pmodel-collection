@@ -1,0 +1,22 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process outlines the intricate steps involved in designing, assembling, and delivering custom drones tailored to unique client specifications. It includes initial consultation, component sourcing from multiple vendors, precision assembly, multi-phase quality testing including flight simulation, software integration, and final client demonstration. The process also involves iterative adjustments based on client feedback, regulatory compliance checks, and specialized packaging for sensitive drone components. Each stage requires cross-functional collaboration between engineering, procurement, quality assurance, and customer service teams to ensure the drone meets all performance and safety standards before shipment.",
+  "activities": [
+    "Client Meet",
+    "Design Draft",
+    "Vendor Select",
+    "Component Order",
+    "Parts Inspect",
+    "Frame Build",
+    "Wiring Setup",
+    "Software Load",
+    "Flight Sim",
+    "Quality Test",
+    "Feedback Review",
+    "Adjust Design",
+    "Compliance Check",
+    "Packaging Prep",
+    "Final Demo",
+    "Ship Drone"
+  ]
+}

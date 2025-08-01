@@ -1,0 +1,21 @@
+{
+  "title": "Custom Artifact Restoration",
+  "description": "This process involves the meticulous restoration of historical artifacts that have been damaged or deteriorated over time. It begins with an initial assessment to evaluate the artifact's condition and material composition, followed by detailed documentation and imaging. After analysis, a tailored conservation plan is developed, incorporating both traditional craftsmanship and modern scientific techniques. The artifact then undergoes careful cleaning, structural stabilization, and surface treatment to halt further decay. Specialized repairs are performed using compatible materials, and any missing components are recreated with precision. Throughout the restoration, ongoing monitoring ensures environmental conditions remain optimal. Finally, a comprehensive report is generated, and the artifact is prepared for display or storage under controlled conditions, preserving cultural heritage for future generations.",
+  "activities": [
+    "Initial Assess",
+    "Material Test",
+    "Condition Map",
+    "Imaging Scan",
+    "Plan Draft",
+    "Tool Setup",
+    "Surface Clean",
+    "Structural Fix",
+    "Component Mold",
+    "Material Match",
+    "Repair Apply",
+    "Stabilize Env",
+    "Quality Check",
+    "Report Write",
+    "Artifact Pack"
+  ]
+}

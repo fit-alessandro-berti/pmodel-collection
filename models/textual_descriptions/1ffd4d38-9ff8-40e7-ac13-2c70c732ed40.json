@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the complex steps involved in establishing an urban vertical farming operation within a repurposed industrial building. It covers initial site assessment, modular system design tailored to limited urban spaces, installation of IoT-enabled climate controls, selection and sourcing of crop varieties adapted for vertical growth, integration of renewable energy sources, automated nutrient delivery setup, pest management using biocontrol agents, staff training on specialized equipment, pilot crop cycles for yield optimization, real-time data monitoring and analysis, compliance with local zoning and health regulations, marketing strategy development focused on sustainability, and the final commercial launch aimed at supplying local markets efficiently while reducing carbon footprint and water usage significantly.",
+  "activities": [
+    "Site Survey",
+    "Design Layout",
+    "System Build",
+    "IoT Setup",
+    "Crop Selection",
+    "Energy Install",
+    "Nutrient Mix",
+    "Pest Control",
+    "Staff Training",
+    "Pilot Cycle",
+    "Data Monitor",
+    "Regulation Check",
+    "Market Plan",
+    "Launch Prep",
+    "Supply Chain"
+  ]
+}

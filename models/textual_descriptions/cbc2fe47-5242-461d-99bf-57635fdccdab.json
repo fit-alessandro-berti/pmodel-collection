@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves a detailed and atypical workflow used by museums and private collectors to authenticate rare historical artifacts. It integrates multidisciplinary expertise including provenance research, scientific analysis, and expert panel reviews. The process begins with initial artifact intake and documentation, followed by layered provenance verification involving archival searches and previous ownership validation. Scientific testing such as radiocarbon dating, spectroscopy, and material composition analysis is then conducted to identify anachronisms or forgeries. Concurrently, a panel of historians and art experts assess the stylistic and contextual authenticity. The findings are compiled into a comprehensive authentication report, which then undergoes a final quality review. If authenticated, the artifact is cataloged and insured; otherwise, recommendations for further investigation or rejection are made. The workflow also includes secure data archiving and periodic re-evaluation triggered by new research or technological advancements, ensuring ongoing verification integrity over time.",
+  "activities": [
+    "Artifact Intake",
+    "Document Check",
+    "Provenance Search",
+    "Ownership Validate",
+    "Radiocarbon Test",
+    "Spectroscopy Scan",
+    "Material Analysis",
+    "Style Assessment",
+    "Context Review",
+    "Expert Panel",
+    "Report Draft",
+    "Quality Review",
+    "Catalog Entry",
+    "Insurance Setup",
+    "Archive Data",
+    "Reevaluation Trigger"
+  ]
+}

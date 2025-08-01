@@ -1,0 +1,21 @@
+{
+  "title": "Cross-Entity Compliance Sync",
+  "description": "This process involves synchronizing compliance standards and regulatory requirements across multiple independent business entities operating in different jurisdictions. It includes the collection and validation of legal documents, risk assessment alignment, multi-source data reconciliation, inter-entity audit coordination, and continuous monitoring for regulatory updates. The process ensures unified compliance reporting, conflict resolution between jurisdictional mandates, and the implementation of corrective actions while maintaining data privacy and security protocols. Stakeholders from legal, IT, and operational departments collaborate through automated and manual checkpoints to guarantee seamless compliance adherence and to mitigate potential liabilities arising from cross-border operations.",
+  "activities": [
+    "Document Review",
+    "Data Collection",
+    "Risk Mapping",
+    "Compliance Audit",
+    "Legal Validation",
+    "Policy Alignment",
+    "Conflict Check",
+    "Report Generation",
+    "Update Monitoring",
+    "Stakeholder Sync",
+    "Issue Escalation",
+    "Corrective Action",
+    "Data Encryption",
+    "Crosscheck Entries",
+    "Final Approval"
+  ]
+}

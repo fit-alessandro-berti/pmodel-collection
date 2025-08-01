@@ -1,0 +1,21 @@
+{
+  "title": "Cross-Border Art Authentication",
+  "description": "This process involves the verification and authentication of rare artworks being shipped internationally for exhibition or sale. It combines expertise in provenance research, physical inspection, chemical analysis, and legal compliance across multiple jurisdictions. Activities include initial artist verification, historical documentation gathering, pigment and material testing, fraud detection through AI pattern recognition, customs clearance coordination, and final certification issuance. The process ensures the artwork's authenticity, legality, and safe transit while mitigating risks associated with art forgery, smuggling, and international trade disputes, requiring collaboration between art historians, forensic scientists, legal experts, and logistics providers.",
+  "activities": [
+    "Artist Check",
+    "Provenance Scan",
+    "Document Review",
+    "Material Test",
+    "Pigment Analysis",
+    "Pattern Detect",
+    "Fraud Screening",
+    "Legal Compliance",
+    "Customs Liaison",
+    "Transport Plan",
+    "Condition Report",
+    "Insurance Setup",
+    "Exhibition Prep",
+    "Final Certify",
+    "Stakeholder Notify"
+  ]
+}

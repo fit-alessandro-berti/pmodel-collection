@@ -1,0 +1,22 @@
+{
+  "title": "Antique Asset Authentication",
+  "description": "This process involves the detailed authentication and valuation of antique assets for high-end auction houses. It begins with provenance verification through historical records and expert interviews, followed by material composition analysis using advanced spectroscopy. The condition assessment involves microscopic imaging and restoration history review. Ethical sourcing checks are conducted to ensure no illicit trade connections. Concurrently, market trend analysis predicts asset value fluctuations. Legal compliance reviews historical ownership rights and export restrictions. The process culminates in a comprehensive report combining technical data and market insights, enabling informed auction decisions and risk mitigation for stakeholders.",
+  "activities": [
+    "Provenance Check",
+    "Expert Interview",
+    "Material Analysis",
+    "Spectroscopy Scan",
+    "Condition Review",
+    "Microscopic Imaging",
+    "Restoration Audit",
+    "Ethics Screening",
+    "Trade Verification",
+    "Market Analysis",
+    "Trend Forecast",
+    "Legal Review",
+    "Ownership Audit",
+    "Export Check",
+    "Report Compilation",
+    "Risk Assessment"
+  ]
+}

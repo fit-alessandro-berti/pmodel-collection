@@ -1,0 +1,22 @@
+{
+  "title": "Crowdsourced Innovation Cycle",
+  "description": "This process orchestrates a continuous cycle of innovation by leveraging a global crowd of contributors. It begins with idea submission through an open platform, followed by community voting to prioritize concepts. Selected ideas undergo collaborative refinement via virtual workshops, integrating diverse expertise. Prototypes are then developed using decentralized resources and tested in multiple real-world environments. Feedback loops from testers and stakeholders drive iterative improvements. The process concludes with scalable implementation and knowledge sharing across the community, fostering sustained innovation and collective ownership while managing intellectual property transparently.",
+  "activities": [
+    "Idea Submit",
+    "Community Vote",
+    "Concept Refine",
+    "Workshop Host",
+    "Expert Review",
+    "Resource Allocate",
+    "Prototype Build",
+    "Field Test",
+    "Feedback Collect",
+    "Iterate Design",
+    "IP Register",
+    "Scale Deploy",
+    "Impact Assess",
+    "Knowledge Share",
+    "Community Reward",
+    "Data Archive"
+  ]
+}

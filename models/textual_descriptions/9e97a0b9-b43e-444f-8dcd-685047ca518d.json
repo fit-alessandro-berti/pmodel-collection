@@ -1,0 +1,23 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the detailed authentication of rare historical artifacts, integrating multidisciplinary expertise from provenance research to scientific analysis. Each artifact undergoes initial visual inspection, documentation review, and material composition testing using advanced spectroscopy. Provenance data is cross-checked with global registries and auction records. Anomaly detection algorithms flag inconsistencies for expert panel review. Conservation status assessment ensures proper handling protocols. Finally, a comprehensive certification report is generated, including high-resolution imaging and 3D scans, before secure archival and client delivery. The process demands coordination across historians, chemists, data scientists, and legal advisors to maintain authenticity standards and legal compliance.",
+  "activities": [
+    "Visual Inspect",
+    "Document Review",
+    "Material Test",
+    "Spectroscopy Run",
+    "Registry Check",
+    "Auction Verify",
+    "Anomaly Flag",
+    "Expert Panel",
+    "Conservation Assess",
+    "Handle Protocol",
+    "Report Compile",
+    "Image Capture",
+    "3D Scan",
+    "Archive Store",
+    "Client Deliver",
+    "Legal Review",
+    "Data Sync"
+  ]
+}

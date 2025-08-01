@@ -1,0 +1,21 @@
+{
+  "title": "Adaptive Urban Farming Cycle",
+  "description": "This process outlines an adaptive urban farming cycle designed to optimize crop yield within constrained city environments. It involves initial soil analysis and microclimate assessment to tailor cultivation strategies, followed by nutrient cycling using organic waste sourced locally. Continuous monitoring of plant health is integrated with IoT sensor data to dynamically adjust watering and light exposure. The process further includes pest bio-control using native species, community engagement for shared resources, and iterative yield forecasting to plan harvest and distribution. Finally, waste biomass is repurposed for energy generation, closing the loop in a sustainable urban agriculture ecosystem.",
+  "activities": [
+    "Soil Analysis",
+    "Climate Assess",
+    "Waste Sourcing",
+    "Nutrient Cycling",
+    "Seed Selection",
+    "Planting Setup",
+    "Sensor Deploy",
+    "Health Monitor",
+    "Water Adjust",
+    "Light Control",
+    "Pest BioControl",
+    "Community Engage",
+    "Yield Forecast",
+    "Harvest Plan",
+    "Biomass Energy"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Antique Restoration Workflow",
+  "description": "This process outlines the intricate steps involved in restoring antique artifacts to preserve historical value while ensuring structural integrity and aesthetic authenticity. It begins with detailed provenance research, followed by condition assessment and material analysis. Conservation planning is then developed to balance restoration with preservation ethics, after which specialized cleaning and stabilization techniques are applied. Subsequent activities include delicate repair, color matching, and surface finishing using historically accurate materials. Final stages involve documentation, client review, and long-term maintenance scheduling to ensure the artifact's longevity and compliance with museum standards.",
+  "activities": [
+    "Provenance Check",
+    "Condition Scan",
+    "Material Test",
+    "Plan Creation",
+    "Ethics Review",
+    "Surface Clean",
+    "Structural Fix",
+    "Color Match",
+    "Paint Apply",
+    "Finish Polish",
+    "UV Cure",
+    "Documentation",
+    "Client Review",
+    "Packaging Prep",
+    "Maintenance Plan"
+  ]
+}

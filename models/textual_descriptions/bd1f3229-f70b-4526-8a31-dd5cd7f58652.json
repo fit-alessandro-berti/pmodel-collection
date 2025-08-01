@@ -1,0 +1,21 @@
+{
+  "title": "Urban Beekeeping Supply Chain",
+  "description": "This process outlines the complex supply chain for urban beekeeping, integrating sustainable sourcing, community engagement, and regulatory compliance. It begins with hive material procurement from eco-certified suppliers, followed by custom hive assembly tailored to city environments. Next, the process manages bee colony acquisition ensuring genetic diversity and disease resistance. Urban apiaries are then strategically located and registered with local authorities. Continuous monitoring includes environmental data collection and adaptive hive maintenance. Honey extraction involves precise timing and contamination prevention. The product undergoes natural filtration, quality testing, and innovative packaging with biodegradable materials. Finally, distribution leverages local markets, subscription services, and educational workshops to promote awareness and sustainability within urban settings.",
+  "activities": [
+    "Material Sourcing",
+    "Hive Assembly",
+    "Colony Selection",
+    "Apiary Setup",
+    "Regulatory Filing",
+    "Environmental Scan",
+    "Hive Monitoring",
+    "Pest Control",
+    "Honey Harvest",
+    "Quality Testing",
+    "Natural Filtration",
+    "Eco Packaging",
+    "Market Distribution",
+    "Subscription Setup",
+    "Community Outreach"
+  ]
+}

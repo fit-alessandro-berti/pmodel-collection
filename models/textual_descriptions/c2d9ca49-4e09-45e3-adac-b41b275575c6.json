@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the establishment of an urban vertical farming facility integrating advanced hydroponics and AI-driven climate control systems. The workflow begins with site analysis and structural adaptation, followed by nutrient solution formulation and seed selection tailored for urban microclimates. It involves iterative sensor calibration, data-driven growth optimization, automated pest detection, and energy consumption balancing. The process also includes continuous staff training on biosecurity protocols and sustainability metrics evaluation, culminating in the integration of a consumer subscription model for fresh produce delivery, ensuring a closed-loop urban agriculture ecosystem.",
+  "activities": [
+    "Site Survey",
+    "Structure Adapt",
+    "Seed Choose",
+    "Nutrient Mix",
+    "Sensor Calibrate",
+    "Climate Setup",
+    "Planting Cycle",
+    "Growth Monitor",
+    "Pest Detect",
+    "Data Analyze",
+    "Energy Balance",
+    "Staff Train",
+    "Biosecurity Check",
+    "Yield Forecast",
+    "Subscription Setup",
+    "Delivery Plan",
+    "Sustainability Audit"
+  ]
+}

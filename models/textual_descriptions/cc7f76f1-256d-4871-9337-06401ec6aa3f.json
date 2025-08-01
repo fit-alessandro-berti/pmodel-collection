@@ -1,0 +1,22 @@
+{
+  "title": "Corporate Espionage Mitigation",
+  "description": "This process involves identifying, monitoring, and mitigating potential corporate espionage threats within a multinational organization. It begins with intelligence gathering from open and covert sources, followed by risk assessment and internal audits. Suspicious activities are flagged through behavioral analytics and network monitoring tools. Legal and compliance teams collaborate to ensure all countermeasures adhere to regulations. Employee training and awareness programs are conducted regularly to reduce insider threats. The process also includes incident response planning, simulation exercises, and continuous improvement cycles based on lessons learned from detected espionage attempts. Finally, partnerships with external cybersecurity firms and law enforcement agencies are maintained to strengthen overall defense capabilities and ensure rapid response to emerging threats.",
+  "activities": [
+    "Intel Gathering",
+    "Risk Assess",
+    "Behavior Scan",
+    "Network Monitor",
+    "Audit Conduct",
+    "Flag Suspicion",
+    "Legal Review",
+    "Compliance Check",
+    "Employee Train",
+    "Threat Simulate",
+    "Incident Plan",
+    "Response Drill",
+    "Data Encrypt",
+    "Partner Liaison",
+    "Report Generate",
+    "Feedback Loop"
+  ]
+}

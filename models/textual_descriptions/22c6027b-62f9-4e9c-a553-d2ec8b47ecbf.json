@@ -1,0 +1,22 @@
+{
+  "title": "Adaptive Urban Farming Cycle",
+  "description": "This process outlines an adaptive urban farming cycle designed to optimize crop yield within constrained city environments by integrating real-time environmental monitoring, dynamic resource allocation, and community engagement. Initially, sensor data is collected and analyzed to determine microclimate variations. Based on these insights, planting schedules and nutrient delivery are adjusted dynamically to suit specific crop requirements. Community volunteers participate in maintenance and harvesting, while waste products undergo bio-conversion to generate compost and energy. The entire system undergoes continuous feedback loops involving AI-driven predictions and manual expert interventions, ensuring sustainable production, minimal waste, and enhanced social cohesion in urban neighborhoods.",
+  "activities": [
+    "Sensor Deploy",
+    "Data Capture",
+    "Microclimate Map",
+    "Analyze Trends",
+    "Adjust Schedule",
+    "Allocate Nutrients",
+    "Plant Crops",
+    "Volunteer Brief",
+    "Maintenance Round",
+    "Harvest Crops",
+    "Waste Collect",
+    "Bio-Convert Waste",
+    "Compost Apply",
+    "Energy Store",
+    "Feedback Review",
+    "Expert Consult"
+  ]
+}

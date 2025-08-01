@@ -1,0 +1,23 @@
+{
+  "title": "Remote Drone Fleet Leasing",
+  "description": "This process manages the leasing of a fleet of autonomous drones to clients for various industrial applications such as surveying, delivery, and inspection. It involves client onboarding, drone customization, route programming, regulatory compliance checks, real-time monitoring setup, insurance verification, maintenance scheduling, and periodic performance reporting. The process also includes dynamic pricing adjustments based on drone usage data, incident management, and contract renewal negotiations, ensuring seamless operation and client satisfaction across multiple geographic regions with varying legal requirements.",
+  "activities": [
+    "Client Onboard",
+    "Needs Assess",
+    "Drone Config",
+    "Route Program",
+    "Compliance Check",
+    "Insurance Verify",
+    "Lease Contract",
+    "Fleet Deploy",
+    "Monitor Setup",
+    "Usage Track",
+    "Maintenance Plan",
+    "Incident Manage",
+    "Billing Process",
+    "Performance Report",
+    "Contract Renew",
+    "Price Adjust",
+    "Feedback Collect"
+  ]
+}

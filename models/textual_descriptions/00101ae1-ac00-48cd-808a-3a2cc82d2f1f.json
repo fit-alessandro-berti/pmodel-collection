@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the comprehensive examination, verification, and certification of historical artifacts to ensure their authenticity and provenance. It starts with initial intake and cataloging, followed by multi-disciplinary scientific analysis including radiocarbon dating, material composition, and stylistic comparison. Experts then conduct provenance research through archival investigation. Subsequent steps involve digital 3D scanning and condition assessment before final authentication certification. The process concludes with secure storage recommendations and preparation for public exhibition or private sale, ensuring the artifact's integrity is maintained throughout.",
+  "activities": [
+    "Artifact Intake",
+    "Initial Catalog",
+    "Historical Research",
+    "Material Analysis",
+    "Radiocarbon Test",
+    "Stylistic Review",
+    "Provenance Check",
+    "3D Scanning",
+    "Condition Survey",
+    "Expert Panel",
+    "Authentication Cert",
+    "Report Draft",
+    "Storage Planning",
+    "Exhibit Prep",
+    "Sale Coordination"
+  ]
+}

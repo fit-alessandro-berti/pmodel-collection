@@ -1,0 +1,22 @@
+{
+  "title": "Antique Authentication Workflow",
+  "description": "This process governs the intricate steps involved in authenticating rare antiques for auction houses. Starting with initial provenance research, experts conduct material analysis and stylistic comparison using both manual examination and AI-enhanced imaging. Following this, chemical tests verify aging patterns, while historical records are cross-checked with global databases. The item then undergoes expert panel review and market valuation, where risk assessments for forgery are performed. Finally, a detailed authentication report is generated and certified, after which the item is prepared for secure transport to auction. Throughout, multi-level approval and documentation ensure transparency and legal compliance in this atypical yet critical authentication process.",
+  "activities": [
+    "Provenance Check",
+    "Material Scan",
+    "Style Compare",
+    "AI Imaging",
+    "Chemical Test",
+    "Aging Verify",
+    "Record Match",
+    "Database Query",
+    "Panel Review",
+    "Forgery Risk",
+    "Market Value",
+    "Report Draft",
+    "Certification",
+    "Approval Stage",
+    "Secure Packing",
+    "Transport Prep"
+  ]
+}

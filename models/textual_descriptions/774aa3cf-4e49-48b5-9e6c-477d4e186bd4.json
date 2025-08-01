@@ -1,0 +1,23 @@
+{
+  "title": "Urban Drone Delivery Setup",
+  "description": "This process outlines the complex steps involved in establishing an urban drone delivery network for last-mile logistics. It includes regulatory compliance checks, airspace mapping, drone fleet configuration, dynamic route optimization, real-time weather integration, package security protocols, multi-tiered stakeholder coordination, and continuous system feedback loops to ensure safe, efficient, and scalable drone deliveries within densely populated city environments.",
+  "activities": [
+    "Regulatory Review",
+    "Airspace Mapping",
+    "Fleet Setup",
+    "Route Planning",
+    "Weather Sync",
+    "Security Check",
+    "Package Prep",
+    "Stakeholder Meet",
+    "Pilot Training",
+    "System Testing",
+    "Live Tracking",
+    "Data Analysis",
+    "Incident Report",
+    "Maintenance Ops",
+    "Feedback Loop",
+    "Compliance Audit",
+    "Capacity Scale"
+  ]
+}

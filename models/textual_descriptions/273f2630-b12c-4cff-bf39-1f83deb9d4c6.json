@@ -1,0 +1,21 @@
+{
+  "title": "Antique Artifact Authentication",
+  "description": "This process involves the detailed examination and verification of antique artifacts to determine authenticity, provenance, and value. It begins with initial visual inspection, followed by material analysis using advanced spectroscopy techniques. Experts then cross-reference historical records and provenance databases. Subsequently, microscopic wear pattern analysis is conducted to detect signs of age or forgery. Forensic imaging is employed to reveal hidden markings or restorations. The artifact undergoes carbon dating or thermoluminescence tests if applicable. A multidisciplinary panel reviews all findings to reach a consensus. Lastly, a comprehensive authenticity report is prepared, including recommendations for restoration or sale. The entire process ensures that collectors, museums, and sellers have accurate and reliable information about the artifact's legitimacy and history.",
+  "activities": [
+    "Initial Inspect",
+    "Material Scan",
+    "Historical Check",
+    "Database Query",
+    "Wear Analysis",
+    "Microscope View",
+    "Forensic Image",
+    "Carbon Dating",
+    "Thermolum Test",
+    "Expert Panel",
+    "Report Draft",
+    "Report Review",
+    "Restoration Advise",
+    "Sale Prep",
+    "Final Archive"
+  ]
+}

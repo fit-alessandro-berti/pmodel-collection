@@ -1,0 +1,23 @@
+{
+  "title": "Legacy System Migration",
+  "description": "This process involves the complex migration of a legacy enterprise resource planning (ERP) system to a modern cloud-based architecture. It includes detailed assessment of existing data structures, custom code review, incremental data extraction, transformation, and loading (ETL), parallel system testing, stakeholder training, and phased cutover. Due to the critical nature of the legacy system, thorough risk analysis and rollback planning are essential. The process also requires continuous monitoring post-migration to ensure data integrity and operational stability while minimizing downtime and business disruption across multiple departments and geographic locations.",
+  "activities": [
+    "Scope Review",
+    "Data Audit",
+    "Code Scan",
+    "Risk Assess",
+    "ETL Design",
+    "Extract Data",
+    "Transform Data",
+    "Load Data",
+    "Unit Testing",
+    "Integration Test",
+    "User Training",
+    "Parallel Run",
+    "Cutover Plan",
+    "Final Migration",
+    "Post Audit",
+    "Rollback Prep",
+    "System Monitor"
+  ]
+}

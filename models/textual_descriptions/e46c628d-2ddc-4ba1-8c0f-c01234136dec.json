@@ -1,0 +1,23 @@
+{
+  "title": "Crisis Response Coordination",
+  "description": "This process involves the rapid mobilization and coordination of multiple agencies and resources to manage unforeseen emergency situations such as natural disasters, industrial accidents, or security threats. It includes initial threat assessment, resource allocation, communication synchronization, public information dissemination, and post-event analysis to improve future responsiveness. Stakeholders must work under high pressure with dynamic priorities, ensuring safety, compliance, and efficient recovery while adapting to evolving conditions on the ground. The process integrates technology, field operations, and strategic decision-making to mitigate impact effectively.",
+  "activities": [
+    "Threat Assess",
+    "Alert Dispatch",
+    "Resource Check",
+    "Team Mobilize",
+    "Command Setup",
+    "Intel Gather",
+    "Risk Evaluate",
+    "Priority Set",
+    "Field Deploy",
+    "Comm Sync",
+    "Public Update",
+    "Supply Manage",
+    "Safety Monitor",
+    "Incident Log",
+    "Recovery Plan",
+    "Debrief Team",
+    "Data Archive"
+  ]
+}

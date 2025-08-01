@@ -1,0 +1,21 @@
+{
+  "title": "Artisan Supply Chain",
+  "description": "This process describes a complex supply chain tailored for artisan goods involving multiple small-scale producers, quality verification steps, custom packaging, and niche distribution channels. It integrates bespoke material sourcing, handcrafted production timelines, and direct consumer engagement through curated marketplaces. The process also incorporates sustainability audits, adaptive inventory management based on seasonal demand, and collaborative marketing strategies among stakeholders to maintain brand authenticity and exclusivity while scaling operations within limited production capacities.",
+  "activities": [
+    "Material Sourcing",
+    "Supplier Vetting",
+    "Design Review",
+    "Prototype Build",
+    "Quality Audit",
+    "Batch Scheduling",
+    "Handcrafting",
+    "Packaging Design",
+    "Custom Labeling",
+    "Sustainability Check",
+    "Inventory Sync",
+    "Market Analysis",
+    "Order Aggregation",
+    "Distribution Plan",
+    "Customer Feedback"
+  ]
+}

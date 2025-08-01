@@ -1,0 +1,22 @@
+{
+  "title": "Antique Artifact Authentication",
+  "description": "This process involves the detailed examination and verification of antique artifacts to establish provenance and authenticity before acquisition or sale. It integrates multidisciplinary expertise including historical research, scientific analysis, and expert appraisal. Initial steps include preliminary inspection and documentation, followed by provenance tracing through archives and previous ownership records. Scientific testing such as radiocarbon dating, spectroscopy, and material composition analysis are conducted to verify age and origin. Parallel to technical evaluation, stylistic comparison is performed against known authentic pieces. The process requires collaboration with legal teams to confirm ownership legitimacy and compliance with cultural heritage laws. Finally, a comprehensive authentication report is compiled, including visual documentation and certification, before the artifact is approved for market entry or museum acquisition.",
+  "activities": [
+    "Prelim Inspect",
+    "Document Item",
+    "Trace Provenance",
+    "Archive Search",
+    "Ownership Check",
+    "Radiocarbon Test",
+    "Spectroscopy Scan",
+    "Material Analysis",
+    "Style Compare",
+    "Expert Appraise",
+    "Legal Review",
+    "Heritage Compliance",
+    "Compile Report",
+    "Visual Document",
+    "Certification Issue",
+    "Market Approval"
+  ]
+}

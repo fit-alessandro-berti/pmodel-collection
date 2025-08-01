@@ -1,0 +1,22 @@
+{
+  "title": "Artisan Supply Chain",
+  "description": "This process manages the end-to-end supply chain for handcrafted artisan goods, integrating unique sourcing, bespoke production, and customized distribution. It involves identifying rare raw materials, coordinating with local artisans, ensuring quality through multi-stage inspections, managing limited batch productions, and tailoring delivery schedules to niche markets. The process also incorporates dynamic demand forecasting based on cultural trends and seasonal events, alongside adaptive pricing models that reflect scarcity and craftsmanship value, ensuring sustainable artisan livelihoods while maintaining exclusivity and customer satisfaction.",
+  "activities": [
+    "Material Sourcing",
+    "Artisan Vetting",
+    "Sample Review",
+    "Design Finalize",
+    "Batch Scheduling",
+    "Quality Check",
+    "Custom Packaging",
+    "Demand Forecast",
+    "Price Adjust",
+    "Inventory Sync",
+    "Order Processing",
+    "Craft Coordination",
+    "Shipment Plan",
+    "Market Analysis",
+    "Feedback Loop",
+    "Trend Monitor"
+  ]
+}

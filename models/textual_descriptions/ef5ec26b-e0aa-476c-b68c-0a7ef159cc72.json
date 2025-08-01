@@ -1,0 +1,24 @@
+{
+  "title": "Collaborative Urban Farming",
+  "description": "This process outlines the complex coordination required to establish and maintain a collaborative urban farming initiative involving multiple stakeholders such as local governments, community groups, and technology providers. It includes site selection, soil testing, resource allocation, crop planning, volunteer recruitment, real-time monitoring, and yield optimization using IoT devices and data analytics. The process also integrates conflict resolution mechanisms, educational workshops, seasonal market planning, and sustainability assessments to ensure long-term viability and community engagement. Each activity is designed to balance technological integration with social dynamics to create a resilient urban agriculture ecosystem in dense metropolitan areas.",
+  "activities": [
+    "Site Survey",
+    "Soil Testing",
+    "Stakeholder Meet",
+    "Resource Plan",
+    "Crop Selection",
+    "Volunteer Sign-up",
+    "Tech Setup",
+    "Irrigation Check",
+    "Data Collection",
+    "Growth Monitoring",
+    "Conflict Mediate",
+    "Workshop Prep",
+    "Market Forecast",
+    "Yield Analysis",
+    "Sustainability Audit",
+    "Community Feedback",
+    "Equipment Maintain",
+    "Waste Manage"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process outlines the intricate steps involved in assembling custom drones tailored to unique client specifications. Starting from component sourcing, it includes specialized firmware integration, dynamic propeller calibration, environmental resistance testing under varying conditions, and adaptive AI training for autonomous flight behaviors. Quality assurance involves iterative stress simulations and real-time telemetry analysis to ensure reliability. Finally, packaging integrates modular upgrade options, and the delivery schedule adapts based on client feedback and seasonal demand fluctuations, ensuring a highly personalized and responsive manufacturing workflow.",
+  "activities": [
+    "Component Sourcing",
+    "Frame Assembly",
+    "Firmware Upload",
+    "Propeller Mount",
+    "Balance Check",
+    "Sensor Install",
+    "Battery Fit",
+    "Wiring Route",
+    "AI Training",
+    "Stress Testing",
+    "Telemetry Sync",
+    "Resistance Test",
+    "Flight Trial",
+    "Packaging Prep",
+    "Upgrade Config",
+    "Client Feedback",
+    "Delivery Plan"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Urban Beekeeping Setup",
+  "description": "This process involves establishing a sustainable urban beekeeping operation within a metropolitan area. It begins with site scouting to identify suitable rooftop or community garden locations, followed by local regulation assessment to ensure compliance with city ordinances. Next, hive selection and acquisition are conducted, choosing appropriate hive designs for urban environments. Installation requires careful placement and securing of hives, considering environmental factors and accessibility. Regular hive inspections and health monitoring are performed to detect pests or diseases early. Pollination tracking is integrated by mapping nearby flora and bee activity patterns. Honey extraction employs specialized urban-friendly equipment and methods to minimize disturbance. Packaging and labeling comply with local food safety standards. Community engagement includes educational workshops and collaboration with local farmers for crop pollination enhancement. Finally, waste management and equipment sterilization ensure sustainability and hive longevity in the urban setting.",
+  "activities": [
+    "Site Scouting",
+    "Regulation Check",
+    "Hive Selection",
+    "Hive Purchase",
+    "Hive Installation",
+    "Health Inspection",
+    "Pest Control",
+    "Flora Mapping",
+    "Pollination Track",
+    "Honey Extraction",
+    "Honey Packaging",
+    "Label Compliance",
+    "Community Workshop",
+    "Farmer Liaison",
+    "Waste Disposal",
+    "Equipment Clean"
+  ]
+}

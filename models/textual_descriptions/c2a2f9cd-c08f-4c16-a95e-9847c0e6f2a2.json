@@ -1,0 +1,21 @@
+{
+  "title": "Artisan Cheese Supply",
+  "description": "This process manages the end-to-end operations for sourcing rare artisan cheeses from remote farms, ensuring quality compliance, managing cold chain logistics, coordinating with local distributors, handling export regulations, and delivering to high-end retailers. It involves multiple stakeholders including farmers, quality inspectors, transporters, customs agents, and marketing teams to maintain product integrity through each step. The process also integrates seasonal variations, demand forecasting, and sustainable packaging solutions to meet eco-friendly standards while optimizing costs and customer satisfaction.",
+  "activities": [
+    "Farm Sourcing",
+    "Quality Check",
+    "Sample Testing",
+    "Cold Storage",
+    "Order Planning",
+    "Packaging Prep",
+    "Transport Booking",
+    "Customs Filing",
+    "Export Clearance",
+    "Distributor Contact",
+    "Retail Scheduling",
+    "Demand Forecast",
+    "Sustainability Audit",
+    "Customer Feedback",
+    "Inventory Refill"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Vintage Watch Restoration",
+  "description": "This process involves the meticulous restoration of vintage mechanical watches, combining expertise in horology, materials science, and historical research. The workflow begins with an initial inspection to assess the watch\u2019s condition and authenticity, followed by disassembly where each component is carefully cataloged. Cleaning involves ultrasonic baths and gentle chemical treatments tailored to delicate parts. Repair focuses on fabricating or sourcing rare replacement components, including gears and springs, often requiring custom machining or handcrafting. Reassembly demands precision alignment and lubrication using specialized oils. The process includes timing calibration to ensure accuracy, aesthetic restoration of dials and hands, and final quality control under various conditions. Documentation of provenance and restoration steps is maintained for collectors. This atypical process blends technical skill with conservation ethics, ensuring the watch's functional revival while preserving its historical integrity.",
+  "activities": [
+    "Initial Inspect",
+    "Component Catalog",
+    "Disassemble Parts",
+    "Ultrasonic Clean",
+    "Chemical Treat",
+    "Fabricate Gears",
+    "Source Springs",
+    "Handcraft Parts",
+    "Align Mechanism",
+    "Apply Lubricate",
+    "Calibrate Timing",
+    "Restore Dial",
+    "Refinish Hands",
+    "Quality Control",
+    "Document History",
+    "Final Assembly",
+    "Test Function"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Custom Art Installation Workflow",
+  "description": "This process outlines the end-to-end workflow for designing, fabricating, and installing large-scale custom art installations for public and private spaces. It involves initial client consultation, concept ideation, material sourcing including rare and sustainable components, prototype modeling, iterative design approvals, fabrication in specialized workshops, quality assurance checks, logistics planning for transport, on-site assembly coordination, final aesthetic adjustments, and post-installation maintenance scheduling. The process also integrates stakeholder feedback loops and compliance verification for safety and environmental regulations to ensure the artwork is both impactful and durable in diverse environments.",
+  "activities": [
+    "Client Meet",
+    "Concept Brainstorm",
+    "Material Source",
+    "Prototype Build",
+    "Design Review",
+    "Approval Cycle",
+    "Workshop Fabricate",
+    "Quality Inspect",
+    "Logistics Plan",
+    "Transport Arrange",
+    "Site Prep",
+    "Assembly Lead",
+    "Final Adjust",
+    "Feedback Collect",
+    "Compliance Check",
+    "Maintenance Setup"
+  ]
+}

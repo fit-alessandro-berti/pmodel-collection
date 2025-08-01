@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the end-to-end setup of an urban vertical farming system within a repurposed industrial building. It begins with site analysis and structural assessment to ensure the building can support multi-layered grow racks. Following this, environmental controls such as lighting, humidity, and temperature systems are installed and calibrated. The integration of hydroponic or aeroponic systems is next, requiring precise plumbing and nutrient delivery setups. Crop selection and seeding protocols are established based on market demand and growth cycles. Automated monitoring and AI-driven adjustments optimize plant health. Periodic maintenance routines and yield tracking ensure sustainability and profitability. The process concludes with packaging and distribution planning tailored for urban consumers, incorporating waste recycling strategies to minimize environmental footprint.",
+  "activities": [
+    "Site Survey",
+    "Structure Check",
+    "System Design",
+    "Lighting Setup",
+    "Climate Control",
+    "Water Install",
+    "Nutrient Mix",
+    "Rack Assembly",
+    "Seed Planting",
+    "Sensor Install",
+    "AI Calibration",
+    "Growth Monitor",
+    "Maintenance",
+    "Harvest Prep",
+    "Packaging",
+    "Waste Manage",
+    "Distribution"
+  ]
+}

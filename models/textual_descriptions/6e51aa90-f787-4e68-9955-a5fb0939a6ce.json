@@ -1,0 +1,26 @@
+{
+  "title": "Urban Rooftop Farming Setup",
+  "description": "This process outlines the establishment of an urban rooftop farm integrating advanced hydroponic systems and renewable energy sources. It begins with site evaluation for structural integrity and sunlight exposure, followed by design planning incorporating modular growing units and water recycling mechanisms. Procurement of specialized materials such as nutrient solutions, grow lights, and sensors is coordinated with local vendors. Installation involves structural reinforcement, system assembly, and sensor calibration. Crop selection is optimized for urban climates and market demands. Continuous monitoring ensures optimal growth through data analysis and automated adjustments. Community engagement activities include workshops and local produce distribution. The process concludes with performance review and scalability assessment for other rooftops in the city.",
+  "activities": [
+    "Site Survey",
+    "Structural Test",
+    "Sunlight Map",
+    "Design Plan",
+    "Material Order",
+    "Vendor Coordination",
+    "Reinforce Roof",
+    "Install Systems",
+    "Calibrate Sensors",
+    "Select Crops",
+    "Setup Hydroponics",
+    "Configure Lighting",
+    "Water Recycling",
+    "Monitor Growth",
+    "Data Analysis",
+    "Automate Controls",
+    "Community Workshop",
+    "Local Distribution",
+    "Performance Review",
+    "Scale Assessment"
+  ]
+}

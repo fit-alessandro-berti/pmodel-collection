@@ -1,0 +1,21 @@
+{
+  "title": "Custom Artifact Authentication",
+  "description": "This process involves the intricate validation and certification of rare cultural artifacts using a multi-disciplinary approach. It begins with provenance review, followed by material analysis using advanced spectroscopy. Next, experts conduct stylistic and historical cross-referencing. Digital watermarking is applied for future tracking. Legal clearances are obtained through international heritage law offices. Finally, a tamper-evident seal is issued and logged in a decentralized ledger, ensuring authenticity and preventing illicit trade. The entire workflow requires coordination across legal, scientific, and archival domains to maintain integrity and trust in the artifact authentication process.",
+  "activities": [
+    "Provenance Review",
+    "Material Scan",
+    "Spectral Test",
+    "Style Check",
+    "Historical Crossref",
+    "Expert Panel",
+    "Digital Watermark",
+    "Legal Clearance",
+    "Heritage Audit",
+    "Seal Issuance",
+    "Ledger Logging",
+    "Tamper Proof",
+    "Stakeholder Notify",
+    "Final Approval",
+    "Artifact Dispatch"
+  ]
+}

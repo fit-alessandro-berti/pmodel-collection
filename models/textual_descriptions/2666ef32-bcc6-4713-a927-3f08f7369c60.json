@@ -1,0 +1,23 @@
+{
+  "title": "Artisan Microbrew Launch",
+  "description": "This process outlines the complex and atypical workflow required to launch a new line of artisan microbrews that combines traditional brewing techniques with experimental ingredients sourced from local foragers. It involves intricate steps from ingredient scouting and seasonal recipe adaptation to regulatory compliance checks and community engagement events. Each activity ensures the product maintains authenticity while meeting safety standards and market demand. The process requires coordination between brewers, botanists, marketing teams, and distribution partners to create a unique product that stands out in a saturated craft beer market. Special attention is given to sustainability, quality control, and iterative feedback loops from tasting panels and early adopters to refine the final brew before mass release.",
+  "activities": [
+    "Ingredient Scout",
+    "Recipe Draft",
+    "Forager Meet",
+    "Lab Testing",
+    "Batch Brewing",
+    "Quality Audit",
+    "Label Design",
+    "Reg Compliance",
+    "Tasting Panel",
+    "Feedback Review",
+    "Packaging Set",
+    "Market Launch",
+    "Event Planning",
+    "Sales Training",
+    "Distribution Setup",
+    "Sustainability Check",
+    "Customer Survey"
+  ]
+}

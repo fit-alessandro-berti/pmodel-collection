@@ -1,0 +1,22 @@
+{
+  "title": "Artisan Supply Chain",
+  "description": "This process outlines the intricate supply chain management of a niche artisan goods company specializing in handcrafted luxury items. It involves sourcing rare raw materials from remote locations, coordinating with local craftspeople, ensuring quality through multi-stage inspections, managing bespoke orders, and integrating sustainable packaging solutions. The process demands close collaboration between procurement, production, design, and logistics teams to maintain authenticity, meet custom client specifications, and adhere to strict environmental standards while optimizing delivery timelines and cost efficiency.",
+  "activities": [
+    "Material Sourcing",
+    "Supplier Vetting",
+    "Sample Testing",
+    "Order Customization",
+    "Craft Allocation",
+    "Production Tracking",
+    "Quality Audit",
+    "Sustainability Check",
+    "Packaging Design",
+    "Inventory Sync",
+    "Logistics Planning",
+    "Client Approval",
+    "Shipment Prep",
+    "Delivery Monitoring",
+    "Feedback Collection",
+    "Reorder Forecast"
+  ]
+}

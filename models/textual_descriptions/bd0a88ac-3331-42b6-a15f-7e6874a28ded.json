@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process outlines the complex cycle of urban vertical farming in a multi-level indoor facility designed to maximize crop yield while minimizing resource use. It involves seed selection based on climate data, automated nutrient mixing tailored to specific plants, continuous environmental monitoring, and adaptive lighting schedules. The process also integrates pest detection using AI vision systems, localized pollination methods, and waste recycling via composting units. Harvesting is staggered to optimize freshness, followed by automated packaging and real-time logistics coordination to ensure rapid delivery. Finally, data from each cycle feeds into predictive models to enhance future crop cycles and resource allocation, ensuring sustainability and profitability in dense urban environments.",
+  "activities": [
+    "Seed Select",
+    "Climate Analyze",
+    "Nutrient Mix",
+    "Env Monitor",
+    "Light Adjust",
+    "Pest Detect",
+    "Pollinate Local",
+    "Growth Track",
+    "Harvest Stagger",
+    "Waste Compost",
+    "Package Auto",
+    "Logistics Plan",
+    "Data Collect",
+    "Model Update",
+    "Resource Allocate"
+  ]
+}

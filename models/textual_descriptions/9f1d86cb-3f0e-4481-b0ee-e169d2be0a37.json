@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Cycle",
+  "description": "This process involves the comprehensive verification and authentication of historical artifacts using a multi-disciplinary approach. It includes initial provenance research, scientific material analysis, contextual historical comparison, expert peer review, digital imaging, and blockchain certification. Each artifact undergoes condition assessment, restoration feasibility evaluation, and risk management before final authentication. The process integrates advanced AI pattern recognition with manual expert validation, ensuring both technological precision and human judgment. The cycle concludes with secure cataloging and controlled public disclosure, balancing conservation needs with scholarly access while maintaining a transparent audit trail for future reference and potential repatriation claims.",
+  "activities": [
+    "Provenance Check",
+    "Material Scan",
+    "Context Review",
+    "Expert Consult",
+    "Imaging Capture",
+    "AI Analysis",
+    "Condition Assess",
+    "Restoration Plan",
+    "Risk Evaluate",
+    "Peer Review",
+    "Blockchain Cert",
+    "Catalog Entry",
+    "Public Release",
+    "Audit Log",
+    "Repatriation Eval"
+  ]
+}

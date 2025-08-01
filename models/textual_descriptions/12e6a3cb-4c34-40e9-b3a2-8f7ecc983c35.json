@@ -1,0 +1,23 @@
+{
+  "title": "Custom Art Commission Workflow",
+  "description": "This process outlines the steps involved in managing a bespoke art commission from initial client inquiry to final delivery. It includes client briefing, style exploration, iterative feedback loops, material sourcing, prototype creation, approval stages, and final packaging. The workflow ensures close collaboration between the artist and client to meet unique artistic requirements while maintaining quality and timelines, integrating digital and physical checkpoints along the way.",
+  "activities": [
+    "Client Inquiry",
+    "Brief Gathering",
+    "Style Research",
+    "Concept Sketch",
+    "Initial Proposal",
+    "Client Feedback",
+    "Revised Draft",
+    "Material Sourcing",
+    "Prototype Build",
+    "Internal Review",
+    "Client Approval",
+    "Final Artwork",
+    "Quality Check",
+    "Packaging Prep",
+    "Shipment Dispatch",
+    "Post Delivery",
+    "Feedback Collection"
+  ]
+}

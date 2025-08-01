@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the establishment of a fully automated urban vertical farm within a repurposed high-rise building. It involves integrating IoT sensors for real-time monitoring of plant health, implementing hydroponic systems optimized for space and resource efficiency, and coordinating logistics for supply chain management of seeds, nutrients, and harvested crops. The process also includes securing permits, stakeholder engagement with local communities, and developing a renewable energy plan to ensure sustainability. Advanced data analytics are employed to predict yield and optimize growth cycles, while maintenance routines are scheduled to minimize downtime. Finally, marketing strategies are devised to position the farm as a local organic produce provider, emphasizing freshness and eco-friendliness.",
+  "activities": [
+    "Site Survey",
+    "Permit Filing",
+    "Stakeholder Meet",
+    "Design Layout",
+    "IoT Install",
+    "Sensor Calibrate",
+    "Hydroponic Setup",
+    "Nutrient Mix",
+    "Seed Sowing",
+    "Climate Control",
+    "Data Monitor",
+    "Yield Forecast",
+    "Energy Plan",
+    "Maintenance Plan",
+    "Harvest Prep",
+    "Supply Dispatch",
+    "Market Launch"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the intricate verification and certification of historical artifacts for museums and private collectors. It starts with initial artifact receipt and condition logging, followed by multi-modal scientific analysis including radiocarbon dating and spectroscopy. Expert consultations are scheduled to assess provenance, involving cross-referencing archival records and past ownership documentation. A risk assessment is performed to evaluate potential forgery or damage, then a digital 3D scan is created for virtual archiving. Legal compliance checks ensure cultural heritage laws are respected. The artifact is then insured, and an official certificate of authenticity is drafted and approved. Finally, the artifact is packaged under climate-controlled conditions for either display or secure storage, with ongoing monitoring scheduled for conservation purposes.",
+  "activities": [
+    "Receive Artifact",
+    "Condition Log",
+    "Radiocarbon Test",
+    "Spectroscopy Scan",
+    "Expert Consult",
+    "Provenance Check",
+    "Archive Search",
+    "Risk Assess",
+    "3D Scan",
+    "Legal Review",
+    "Insurance Setup",
+    "Certificate Draft",
+    "Certificate Approve",
+    "Climate Pack",
+    "Conservation Plan",
+    "Monitoring Schedule"
+  ]
+}

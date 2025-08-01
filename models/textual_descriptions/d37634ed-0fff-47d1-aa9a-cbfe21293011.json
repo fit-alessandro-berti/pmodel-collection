@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Supply Chain",
+  "description": "This process governs the end-to-end operations of an urban vertical farm that integrates hydroponic crop production with local distribution and waste recycling. Starting from seed selection, the process includes nutrient solution preparation, environmental monitoring, automated harvesting, quality inspection, packaging, and delivery to local markets. Additionally, it incorporates waste biomass processing for compost generation and energy recovery, ensuring a closed-loop sustainable system. Coordination with city regulations and community engagement programs also plays a vital role in optimizing farm output while minimizing ecological footprint and promoting urban food security.",
+  "activities": [
+    "Seed Selection",
+    "Nutrient Mix",
+    "Environment Check",
+    "Planting Setup",
+    "Growth Monitoring",
+    "Pest Control",
+    "Automated Harvest",
+    "Quality Inspect",
+    "Packaging Prep",
+    "Order Fulfill",
+    "Local Delivery",
+    "Waste Collect",
+    "Biomass Process",
+    "Compost Create",
+    "Energy Recover",
+    "Regulation Review",
+    "Community Engage"
+  ]
+}

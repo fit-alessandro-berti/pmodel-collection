@@ -1,0 +1,22 @@
+{
+  "title": "Urban Beekeeping Workflow",
+  "description": "This complex urban beekeeping process involves site evaluation, hive preparation, and colony acquisition tailored to city environments. It includes environmental monitoring, pollen mapping, and urban pest management to ensure colony health. Regular hive inspections, honey extraction, and quality testing follow, alongside community engagement through workshops and local market distribution. The workflow integrates data logging and seasonal adaptation strategies to optimize yield and sustainability in densely populated areas, addressing unique challenges like pollution and limited forage availability while promoting urban biodiversity.",
+  "activities": [
+    "Site Survey",
+    "Hive Setup",
+    "Colony Purchase",
+    "Pollination Map",
+    "Pest Control",
+    "Enviro Monitor",
+    "Hive Inspect",
+    "Honey Extract",
+    "Quality Test",
+    "Data Logging",
+    "Season Adjust",
+    "Workshop Host",
+    "Market Deliver",
+    "Bee Health",
+    "Forage Scout",
+    "Community Engage"
+  ]
+}

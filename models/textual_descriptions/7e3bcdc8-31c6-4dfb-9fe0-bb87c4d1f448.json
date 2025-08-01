@@ -1,0 +1,21 @@
+{
+  "title": "Cryptocurrency Art Auction",
+  "description": "This process manages a decentralized auction platform where digital artists tokenize their artwork as NFTs and sell them using multiple cryptocurrencies. It involves verifying artist credentials, minting NFTs, setting reserve prices, enabling crypto-wallet bidding, conducting real-time bid validation on blockchain, handling automated escrow for payment security, resolving disputes via smart contracts, and finalizing ownership transfers. Additionally, the process includes dynamic fee calculations based on transaction volume, cross-platform promotion, and post-sale royalty tracking to ensure artists receive ongoing compensation for secondary sales, all while maintaining transparency and compliance with regional crypto regulations.",
+  "activities": [
+    "Artist Verify",
+    "NFT Mint",
+    "Price Set",
+    "Wallet Link",
+    "Bid Submit",
+    "Bid Validate",
+    "Escrow Lock",
+    "Dispute Review",
+    "Ownership Transfer",
+    "Fee Calculate",
+    "Promote Auction",
+    "Royalty Track",
+    "Compliance Check",
+    "Sale Finalize",
+    "Report Generate"
+  ]
+}

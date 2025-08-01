@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the intricate steps required to establish a fully operational urban vertical farm within a repurposed industrial building. It begins with site analysis and environmental impact assessment, followed by modular structure design and customized hydroponics system installation. The workflow includes controlled environment calibration, nutrient solution formulation, and integrated pest management planning. Subsequent activities involve AI-driven crop scheduling, staff training on automated systems, and compliance verification with local agricultural regulations. The final phases focus on establishing distribution logistics, continuous performance monitoring, and iterative optimization to maximize yield while minimizing resource consumption and environmental footprint in an urban setting.",
+  "activities": [
+    "Site Analysis",
+    "Impact Review",
+    "Structure Design",
+    "Hydroponics Install",
+    "Env Calibration",
+    "Nutrient Mixing",
+    "Pest Planning",
+    "Crop Scheduling",
+    "Staff Training",
+    "Compliance Check",
+    "Logistics Setup",
+    "Performance Monitor",
+    "Yield Optimization",
+    "Waste Management",
+    "Energy Audit"
+  ]
+}

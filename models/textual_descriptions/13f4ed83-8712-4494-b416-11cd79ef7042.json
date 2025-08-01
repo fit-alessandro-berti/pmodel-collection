@@ -1,0 +1,21 @@
+{
+  "title": "Offshore Data Harvesting",
+  "description": "This process involves the strategic deployment of autonomous underwater drones to collect rare mineral samples from deep-sea hydrothermal vents. It requires initial site surveying, remote vehicle calibration, and continuous environmental data analysis to adapt to changing ocean currents. Sample extraction is followed by secure transport via unmanned surface vessels to shore facilities, where material is cataloged, analyzed, and prepared for commercial use. Throughout the process, real-time communication with satellite networks ensures operational safety and data integrity under extreme conditions, while compliance with international maritime laws is maintained.",
+  "activities": [
+    "Site Survey",
+    "Drone Deploy",
+    "Sensor Check",
+    "Currents Monitor",
+    "Sample Extract",
+    "Data Sync",
+    "Vessel Launch",
+    "Transport Secure",
+    "Material Catalog",
+    "Quality Test",
+    "Data Analyze",
+    "Satellite Link",
+    "Law Compliance",
+    "Report Compile",
+    "Maintenance Check"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process involves the comprehensive planning, design, and implementation of an urban vertical farming system within limited city spaces. It includes site analysis, modular infrastructure development, environmental controls installation, crop selection based on local demand, continuous monitoring of growth conditions, integration with smart irrigation systems, and logistics for distribution. Unique challenges such as energy optimization, urban zoning regulations, and waste recycling are addressed to ensure sustainable production. The process concludes with system calibration and stakeholder training for operational efficiency in an atypical urban agricultural environment.",
+  "activities": [
+    "Site Survey",
+    "Design Layout",
+    "Permit Acquire",
+    "Module Fabricate",
+    "Install Lighting",
+    "Setup Sensors",
+    "Select Crops",
+    "Seed Planting",
+    "Irrigation Setup",
+    "Configure Controls",
+    "Nutrient Mix",
+    "Growth Monitor",
+    "Waste Manage",
+    "Energy Audit",
+    "Staff Training",
+    "Harvest Plan",
+    "Dispatch Prep"
+  ]
+}

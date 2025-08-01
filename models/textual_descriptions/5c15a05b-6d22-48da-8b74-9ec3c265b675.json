@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the establishment of a fully automated urban vertical farm within a repurposed industrial building. It involves initial site analysis, environmental impact assessments, integration of IoT sensors for microclimate control, modular hydroponic rack installation, nutrient solution calibration, AI-driven crop scheduling, automated seeding and harvesting, waste recycling loops, and sustainability reporting. The procedure ensures optimized space utilization, energy efficiency, and maximized crop yield while adhering to local regulations and community engagement protocols, making it a complex yet innovative approach to urban agriculture.",
+  "activities": [
+    "Site Survey",
+    "Impact Study",
+    "IoT Setup",
+    "Rack Install",
+    "Nutrient Mix",
+    "Crop Schedule",
+    "Seed Automation",
+    "Harvest Cycle",
+    "Waste Process",
+    "Energy Audit",
+    "Data Sync",
+    "Quality Check",
+    "Regulation Review",
+    "Community Meet",
+    "Report Generate"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process outlines the comprehensive workflow for authenticating historical artifacts within a museum setting. It involves initial provenance research, physical examination, scientific testing such as radiocarbon dating and spectroscopy, expert consultations, legal clearance for acquisition, and final cataloging. The process ensures artifacts are genuine, ethically sourced, and properly documented before exhibition or storage. Additionally, it includes contingency steps for disputed items and integrates feedback loops with external historians and conservation specialists to maintain authenticity standards.",
+  "activities": [
+    "Provenance Check",
+    "Initial Survey",
+    "Material Testing",
+    "Radiocarbon Date",
+    "Microscopic Scan",
+    "Expert Review",
+    "Legal Review",
+    "Acquisition Approval",
+    "Restoration Plan",
+    "Documentation",
+    "Ethics Clearance",
+    "Dispute Handle",
+    "Conservation",
+    "Catalog Update",
+    "External Feedback"
+  ]
+}

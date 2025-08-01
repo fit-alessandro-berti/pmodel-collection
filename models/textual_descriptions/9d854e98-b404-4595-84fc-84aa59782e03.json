@@ -1,0 +1,21 @@
+{
+  "title": "Urban Rooftop Farming Setup",
+  "description": "This process outlines the establishment of an urban rooftop farming system on a commercial building. It involves initial site assessment considering structural load and sunlight exposure, followed by designing modular planting units and integrating smart irrigation technology. The process includes sourcing sustainable materials, obtaining necessary permits, and conducting soil testing to ensure optimal conditions. Installation requires coordinating logistics for equipment delivery, assembling hydroponic systems, and setting up environmental sensors. Post-installation activities focus on training staff for maintenance, implementing pest control strategies, and establishing a harvesting and distribution schedule to local markets. Continuous monitoring and reporting ensure system efficiency and crop yield optimization while maintaining compliance with city regulations and sustainability standards.",
+  "activities": [
+    "Site Assessment",
+    "Load Testing",
+    "Sunlight Survey",
+    "Design Modules",
+    "Source Materials",
+    "Permit Application",
+    "Soil Testing",
+    "Equipment Delivery",
+    "System Assembly",
+    "Sensor Setup",
+    "Staff Training",
+    "Pest Control",
+    "Harvest Planning",
+    "Market Distribution",
+    "Performance Review"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process governs the authentication of rare historical artifacts submitted by collectors or museums. It involves multidisciplinary examination including material analysis, provenance verification, and expert consensus. The process begins with artifact intake and initial documentation, followed by non-invasive imaging and chemical testing. Parallel provenance research and comparative stylistic analysis are conducted by separate teams. Findings are compiled into a preliminary report, which undergoes peer review before scheduling an expert panel discussion. Upon consensus, a final authentication certificate is issued. The process also includes dispute resolution and archival storage of all documentation for future reference, ensuring traceability and integrity of artifact validation.",
+  "activities": [
+    "Artifact Intake",
+    "Initial Docs",
+    "Material Scan",
+    "Chemical Test",
+    "Provenance Check",
+    "Stylistic Review",
+    "Parallel Research",
+    "Prelim Report",
+    "Peer Review",
+    "Panel Meeting",
+    "Consensus Vote",
+    "Certificate Issue",
+    "Dispute Handling",
+    "Archival Storage",
+    "Follow-up Audit"
+  ]
+}

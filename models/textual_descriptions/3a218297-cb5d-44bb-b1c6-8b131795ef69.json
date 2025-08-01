@@ -1,0 +1,22 @@
+{
+  "title": "Custom Artifact Provenance",
+  "description": "This process involves meticulously tracing the origin, ownership, and transformation history of unique cultural artifacts as they move through various custodians, restoration phases, and exhibition venues. It includes authentication, condition assessment, multi-party negotiations, legal verifications, and secure transportation planning to ensure the artifact's integrity and provenance remain uncompromised while satisfying collectors, museums, and regulatory bodies. The process requires collaboration between historians, legal experts, conservators, and logistics teams to maintain a transparent, documented chain of custody over extended periods, often spanning multiple countries and jurisdictions.",
+  "activities": [
+    "Artifact Intake",
+    "Condition Check",
+    "Origin Research",
+    "Ownership Verify",
+    "Legal Review",
+    "Restoration Plan",
+    "Expert Consult",
+    "Provenance Log",
+    "Custody Transfer",
+    "Transport Arrange",
+    "Security Brief",
+    "Exhibit Setup",
+    "Insurance Update",
+    "Documentation",
+    "Stakeholder Notify",
+    "Final Audit"
+  ]
+}

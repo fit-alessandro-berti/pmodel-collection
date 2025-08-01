@@ -1,0 +1,21 @@
+{
+  "title": "Urban Rooftop Farming Setup",
+  "description": "This process outlines the complex steps involved in establishing an urban rooftop farming system. It begins with site assessment and structural analysis to ensure the roof can support the load. Next, permits and zoning approvals are secured, followed by sourcing sustainable materials and soil mixtures tailored for rooftop environments. Installation involves waterproofing, irrigation setup, and modular planting bed assembly. Ongoing activities include crop planning, pest monitoring using integrated pest management techniques, and automated nutrient delivery calibration. The process concludes with harvest scheduling, community engagement for education, and data collection for yield optimization and environmental impact assessment.",
+  "activities": [
+    "Site Assess",
+    "Structure Check",
+    "Permit Obtain",
+    "Material Source",
+    "Soil Prepare",
+    "Waterproof Roof",
+    "Irrigation Setup",
+    "Bed Assemble",
+    "Crop Plan",
+    "Pest Monitor",
+    "Nutrient Calibrate",
+    "Harvest Schedule",
+    "Community Train",
+    "Yield Record",
+    "Impact Review"
+  ]
+}

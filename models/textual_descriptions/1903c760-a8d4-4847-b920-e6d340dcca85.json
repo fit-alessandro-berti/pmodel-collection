@@ -1,0 +1,21 @@
+{
+  "title": "Antique Authentication Workflow",
+  "description": "This process involves the comprehensive authentication of antiques for high-end auction houses. It starts with initial artifact intake and condition review, followed by provenance verification through archival research and expert interviews. Scientific testing includes material composition analysis and radiocarbon dating to validate age. Parallelly, stylistic comparison against known period examples is performed by art historians. Legal clearance ensures no illicit trade history. Finally, a detailed report is generated combining all findings to inform auction valuation and marketing strategies. This workflow mitigates fraud and enhances buyer confidence in rare artifact transactions.",
+  "activities": [
+    "Artifact Intake",
+    "Condition Check",
+    "Provenance Research",
+    "Expert Interview",
+    "Material Testing",
+    "Radiocarbon Date",
+    "Stylistic Compare",
+    "Forgery Analysis",
+    "Legal Clearance",
+    "Historical Context",
+    "Documentation Review",
+    "Report Drafting",
+    "Valuation Meeting",
+    "Marketing Prep",
+    "Final Approval"
+  ]
+}

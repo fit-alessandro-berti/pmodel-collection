@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process describes the complex setup and operational launch of an urban vertical farm integrating hydroponics, IoT monitoring, and sustainable energy systems. It involves site analysis, modular infrastructure assembly, nutrient solution formulation, environmental calibration, and continuous crop monitoring. The process also includes stakeholder coordination, regulatory compliance checks, and iterative optimization of growth parameters to maximize yield and minimize resource consumption in a confined urban environment. Post-launch activities encompass data analytics integration, pest control automation, and community engagement to ensure long-term sustainability and scalability.",
+  "activities": [
+    "Site Survey",
+    "Design Layout",
+    "Procure Modules",
+    "Assemble Framework",
+    "Install Sensors",
+    "Setup Irrigation",
+    "Formulate Nutrients",
+    "Calibrate Climate",
+    "Seed Planting",
+    "Monitor Growth",
+    "Pest Inspection",
+    "Data Integration",
+    "Energy Sync",
+    "Compliance Check",
+    "Stakeholder Meet",
+    "Yield Analysis",
+    "System Optimization"
+  ]
+}

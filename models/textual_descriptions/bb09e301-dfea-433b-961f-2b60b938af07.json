@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process describes the full lifecycle of managing an urban vertical farm designed to optimize space and resources in densely populated areas. It starts with site analysis and environmental setup, followed by seed selection based on market demand and climate conditions. Seeds are then germinated in controlled environments before transplanting into vertical hydroponic systems. Continuous monitoring of nutrient levels, lighting, and humidity ensures optimal growth. Pest detection uses AI-driven sensors with targeted organic treatments. Harvesting is staggered for continuous yield, followed by automated packaging and quality inspection. Waste is processed for composting and energy recovery. The process concludes with market distribution planning and feedback analysis to improve future crop cycles.",
+  "activities": [
+    "Site Analysis",
+    "Env Setup",
+    "Seed Select",
+    "Seed Germination",
+    "Transplanting",
+    "Nutrient Check",
+    "Light Adjust",
+    "Humidity Control",
+    "Pest Detect",
+    "Organic Treat",
+    "Stagger Harvest",
+    "Auto Packaging",
+    "Quality Inspect",
+    "Waste Process",
+    "Market Plan",
+    "Feedback Review"
+  ]
+}

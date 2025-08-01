@@ -1,0 +1,22 @@
+{
+  "title": "Cross-Industry Innovation Cycle",
+  "description": "This process outlines a structured, iterative approach to generating breakthrough innovations by combining insights and technologies from disparate industries. It begins with Opportunity Scouting to identify unconventional problem spaces, followed by Cross-Pollination Workshops where multidisciplinary teams brainstorm and exchange domain knowledge. Prototyping leverages rapid, low-fidelity models to test core concepts, while Feedback Loops gather both internal and external stakeholder inputs to refine ideas. Parallel Pathways run simultaneous experiments in different sectors, increasing the chance of success. The Validation Gate assesses feasibility and potential impact before scaling. Finally, Knowledge Capture ensures lessons learned are documented for future cycles, promoting continuous improvement and fostering a culture of sustainable innovation beyond typical R&D pipelines.",
+  "activities": [
+    "Opportunity Scout",
+    "Idea Harvest",
+    "Cross-Pollinate",
+    "Concept Sketch",
+    "Rapid Prototype",
+    "Stakeholder Sync",
+    "Feedback Loop",
+    "Parallel Experiment",
+    "Risk Assess",
+    "Validation Gate",
+    "Scale Plan",
+    "Knowledge Capture",
+    "Resource Align",
+    "Pilot Launch",
+    "Impact Review",
+    "Continuous Iterate"
+  ]
+}

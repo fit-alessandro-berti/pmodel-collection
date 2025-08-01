@@ -1,0 +1,21 @@
+{
+  "title": "Corporate Artifact Recovery",
+  "description": "This process involves the strategic identification, retrieval, and reintegration of lost or archived corporate artifacts such as legacy software, deprecated hardware, or obsolete documentation. The process begins with artifact discovery through audits and employee interviews, followed by risk assessment to determine value and potential hazards. Next, retrieval plans are developed considering legal, technical, and security constraints. After recovery, artifacts undergo validation and restoration to ensure usability. Finally, reintegration involves updating current systems or archives, training relevant staff, and documenting lessons learned to prevent future losses. This atypical process ensures valuable corporate knowledge and assets are preserved and leveraged despite their age or initial obsolescence.",
+  "activities": [
+    "Audit Artifacts",
+    "Interview Staff",
+    "Assess Risks",
+    "Plan Retrieval",
+    "Legal Review",
+    "Security Check",
+    "Execute Recovery",
+    "Validate Items",
+    "Restore Function",
+    "Update Systems",
+    "Train Users",
+    "Document Findings",
+    "Archive Records",
+    "Review Lessons",
+    "Close Process"
+  ]
+}

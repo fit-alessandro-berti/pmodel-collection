@@ -1,0 +1,23 @@
+{
+  "title": "Urban Beekeeping Management",
+  "description": "Urban Beekeeping Management is a specialized process that involves maintaining and optimizing bee colonies within city environments. This process includes site evaluation for apiary placement, hive installation, monitoring bee health amid urban stressors, managing forage diversity, controlling pests and diseases without harmful chemicals, harvesting honey and beeswax sustainably, engaging with community stakeholders, and ensuring compliance with local regulations. Additionally, it integrates data-driven decisions using environmental sensors and IoT devices to track hive conditions, weather patterns, and pollution levels, thereby enabling proactive intervention to support colony resilience and productivity in a challenging urban ecosystem. The process also emphasizes educational outreach to raise awareness about pollinator importance and urban biodiversity conservation.",
+  "activities": [
+    "Site Survey",
+    "Hive Setup",
+    "Colony Inspection",
+    "Health Monitoring",
+    "Pest Control",
+    "Forage Analysis",
+    "Data Collection",
+    "Pollution Check",
+    "Honey Harvest",
+    "Wax Processing",
+    "Community Liaison",
+    "Regulation Review",
+    "Equipment Clean",
+    "Sensor Calibration",
+    "Education Outreach",
+    "Weather Tracking",
+    "Waste Disposal"
+  ]
+}

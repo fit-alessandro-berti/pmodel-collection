@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the establishment of a fully automated urban vertical farm within a repurposed industrial warehouse. It involves site analysis, modular system design, environmental control integration, automated nutrient delivery, crop scheduling via AI, pest monitoring with drones, and real-time data analytics for yield optimization. The process also includes community engagement for local produce distribution, sustainability assessments, and iterative system upgrades to improve energy efficiency and crop variety diversification. Coordination between engineers, agronomists, and logistics managers is critical throughout to ensure seamless operation and scalability within dense urban environments.",
+  "activities": [
+    "Site Survey",
+    "Design Layout",
+    "Install Modules",
+    "Setup HVAC",
+    "Integrate Sensors",
+    "Deploy Drones",
+    "Configure AI",
+    "Nutrient Mix",
+    "Plant Seeding",
+    "Schedule Crops",
+    "Monitor Growth",
+    "Pest Control",
+    "Harvest Plan",
+    "Data Analysis",
+    "Community Outreach",
+    "Energy Audit",
+    "Upgrade Systems"
+  ]
+}

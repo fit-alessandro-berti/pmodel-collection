@@ -1,0 +1,24 @@
+{
+  "title": "Artisan Cheese Supply Chain",
+  "description": "This process details the artisanal cheese supply chain involving small-scale farm production, quality fermentation, aging, and niche market distribution. It starts with milk sourcing from rare breed cows, followed by precise curd formation and hand-pressing techniques. The cheeses undergo microclimate-controlled aging, with periodic manual inspections and flavor profiling. Packaging uses biodegradable materials with custom labeling. The distribution leverages local gourmet shops and direct farmer-to-chef deliveries, requiring coordination with logistics providers for temperature-controlled transport. Feedback loops involve tasting panels and customer surveys to refine future batches, ensuring a consistent premium product that preserves traditional methods while meeting modern sustainability standards.",
+  "activities": [
+    "Milk Sourcing",
+    "Breed Selection",
+    "Curd Formation",
+    "Hand Pressing",
+    "Salt Rubbing",
+    "Batch Labeling",
+    "Fermentation Test",
+    "Microclimate Aging",
+    "Manual Inspection",
+    "Flavor Profiling",
+    "Packaging Prep",
+    "Eco Packaging",
+    "Logistics Planning",
+    "Cold Transport",
+    "Retail Delivery",
+    "Chef Coordination",
+    "Tasting Panels",
+    "Customer Survey"
+  ]
+}

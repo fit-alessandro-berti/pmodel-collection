@@ -1,0 +1,21 @@
+{
+  "title": "Urban Rooftop Farming Setup",
+  "description": "This process outlines the complex setup and operational phases involved in establishing an urban rooftop farm on a commercial building. It includes initial site evaluation, structural integrity assessment, soil and nutrient preparation, microclimate analysis, plant selection based on local conditions, installation of modular growing units, irrigation system integration, pest management planning, community engagement for educational workshops, harvesting scheduling, crop rotation planning, waste composting system implementation, and continuous monitoring using IoT sensors to optimize yield and resource usage. The process requires coordination across multiple disciplines including engineering, agriculture, environmental science, and community relations to ensure a sustainable and productive rooftop farming ecosystem.",
+  "activities": [
+    "Site Survey",
+    "Load Test",
+    "Soil Prep",
+    "Climate Check",
+    "Plant Select",
+    "Module Setup",
+    "Irrigation Fit",
+    "Pest Control",
+    "Workshop Plan",
+    "Harvest Plan",
+    "Crop Rotate",
+    "Waste Manage",
+    "Sensor Install",
+    "Data Monitor",
+    "Yield Optimize"
+  ]
+}

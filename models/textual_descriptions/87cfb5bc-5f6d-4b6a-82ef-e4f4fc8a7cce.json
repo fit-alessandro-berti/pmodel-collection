@@ -1,0 +1,21 @@
+{
+  "title": "Custom Urban Farming Setup",
+  "description": "This process outlines the end-to-end implementation of a bespoke urban farming system tailored for high-density city environments. It involves initial site assessment, soil and air quality analysis, modular design planning, sourcing sustainable materials, installing smart irrigation systems, integrating sensor networks for real-time monitoring, establishing vertical planting modules, implementing pest control using bioengineering methods, training local staff on system maintenance, conducting pilot crop cycles, optimizing nutrient delivery based on AI analytics, coordinating community engagement for shared farming spaces, managing harvest logistics with urban transport considerations, and finally evaluating overall yield performance for continuous improvement and scalability in constrained urban settings.",
+  "activities": [
+    "Site Assess",
+    "Soil Test",
+    "Air Analyze",
+    "Design Plan",
+    "Material Source",
+    "Irrigation Setup",
+    "Sensor Install",
+    "Vertical Plant",
+    "Pest Control",
+    "Staff Train",
+    "Pilot Crop",
+    "Nutrient Adjust",
+    "Community Engage",
+    "Harvest Manage",
+    "Yield Review"
+  ]
+}

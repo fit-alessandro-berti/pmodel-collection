@@ -1,0 +1,22 @@
+{
+  "title": "Urban Rooftop Farming Setup",
+  "description": "This process outlines the establishment of a sustainable urban rooftop farm in a metropolitan environment. It begins with site analysis and structural assessment to ensure roof load capacity and sunlight exposure. Next, soil-less medium selection and hydroponic system design are conducted to optimize water and nutrient delivery. Procurement involves sourcing organic seeds and eco-friendly materials, followed by installation of irrigation and climate control systems. Planting schedules are created based on seasonal cycles, alongside pest management planning using integrated pest management strategies. Regular monitoring includes data collection on plant growth, moisture levels, and system performance, while adapting to weather fluctuations through automated controls. Harvesting and packaging protocols prioritize freshness and minimal waste. Finally, community engagement and educational workshops are organized to promote urban agriculture awareness and sustainability practices.",
+  "activities": [
+    "Site Analysis",
+    "Load Test",
+    "Sunlight Map",
+    "Medium Select",
+    "Hydro Design",
+    "Procure Seeds",
+    "Install Irrigation",
+    "Setup Climate",
+    "Create Schedule",
+    "Pest Control",
+    "Monitor Growth",
+    "Adjust Systems",
+    "Harvest Crops",
+    "Package Produce",
+    "Engage Community",
+    "Host Workshops"
+  ]
+}

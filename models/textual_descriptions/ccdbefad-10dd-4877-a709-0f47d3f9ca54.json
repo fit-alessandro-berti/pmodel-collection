@@ -1,0 +1,23 @@
+{
+  "title": "Artisan Supply Chain",
+  "description": "This process outlines the unconventional supply chain management for a handcrafted artisan goods company that integrates local sourcing, community collaboration, and sustainable packaging. The process begins with raw material scouting in niche markets, followed by artisan vetting and skill validation. Production scheduling is highly flexible to accommodate custom orders and seasonal availability. Quality control extends beyond product inspection to include social impact assessments. Logistics involve multi-modal transport with eco-friendly carriers and dynamic routing to reduce carbon footprint. Customer feedback loops are incorporated early and continuously to refine craftsmanship and material selection. The process concludes with adaptive inventory management that balances scarcity with demand, and a community-driven marketing strategy emphasizing storytelling and heritage preservation.",
+  "activities": [
+    "Material Scout",
+    "Supplier Vetting",
+    "Skill Audit",
+    "Order Forecast",
+    "Custom Scheduling",
+    "Impact Review",
+    "Product Inspect",
+    "Eco Packaging",
+    "Multi Transport",
+    "Route Optimize",
+    "Feedback Loop",
+    "Craft Refine",
+    "Inventory Balance",
+    "Story Marketing",
+    "Heritage Share",
+    "Demand Adjust",
+    "Community Sync"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Custom Drone Delivery Setup",
+  "description": "This process outlines the setup and deployment of a custom drone delivery service tailored for remote locations with limited infrastructure. It involves designing unique drone specifications, securing regulatory approval, integrating adaptive navigation systems, coordinating with local partners for landing zones, training operators remotely, conducting phased testing under varying weather conditions, and establishing real-time monitoring protocols. The process ensures compliance with aviation laws, optimizes delivery routes using AI algorithms, manages supply chain logistics for spare parts, and implements customer feedback loops to refine service quality. Continuous risk assessment and emergency response planning are integral to maintain safety and reliability in challenging environments.",
+  "activities": [
+    "Drone Design",
+    "Regulatory Check",
+    "Nav System",
+    "Partner Setup",
+    "Operator Training",
+    "Test Flights",
+    "Weather Review",
+    "Route Optimize",
+    "Parts Logistics",
+    "Feedback Loop",
+    "Risk Assess",
+    "Emergency Plan",
+    "Compliance Audit",
+    "Data Sync",
+    "Service Launch"
+  ]
+}

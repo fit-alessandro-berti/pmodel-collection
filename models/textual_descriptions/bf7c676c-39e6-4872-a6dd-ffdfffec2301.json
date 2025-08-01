@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process outlines the comprehensive cycle of urban vertical farming operations within a constrained city environment. It includes site preparation, modular system assembly, seedling nurturing, automated nutrient delivery, environmental monitoring, pest management using integrated biocontrols, crop growth tracking through AI analytics, harvest scheduling, post-harvest quality assessment, packaging with biodegradable materials, distribution logistics coordination, waste repurposing into bioenergy, market demand forecasting, continuous system upgrades, and community engagement for educational outreach. Each step integrates advanced technology with sustainable practices to optimize yield while minimizing ecological footprint in an urban setting.",
+  "activities": [
+    "Site Prep",
+    "Module Setup",
+    "Seedling Care",
+    "Nutrient Flow",
+    "Env Monitoring",
+    "Pest Control",
+    "Growth Tracking",
+    "Harvest Plan",
+    "Quality Check",
+    "Eco Packaging",
+    "Logistics Coord",
+    "Waste Recycle",
+    "Demand Forecast",
+    "System Upgrade",
+    "Community Meet"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Crisis Response Coordination",
+  "description": "This process involves managing an organization\u2019s response to an unexpected crisis that impacts operations, reputation, and stakeholder trust. It includes rapid assessment, resource mobilization, communication strategies, legal compliance checks, and iterative recovery efforts. The process integrates cross-functional teams, external agencies, and continuous monitoring to adapt dynamically. Activities range from initial alert verification to post-crisis evaluation, ensuring resilience and minimizing damage while maintaining transparency and accountability throughout the response lifecycle.",
+  "activities": [
+    "Alert Verify",
+    "Impact Assess",
+    "Team Assemble",
+    "Resource Allocate",
+    "Stakeholder Notify",
+    "Legal Review",
+    "Media Brief",
+    "Response Deploy",
+    "Situation Monitor",
+    "Data Collect",
+    "Risk Mitigate",
+    "Recovery Plan",
+    "External Consult",
+    "Status Update",
+    "Post Review"
+  ]
+}

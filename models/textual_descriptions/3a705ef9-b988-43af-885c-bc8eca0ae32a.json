@@ -1,0 +1,22 @@
+{
+  "title": "Adaptive Art Auction",
+  "description": "This process manages a dynamic art auction where artworks are continuously evaluated by AI algorithms for authenticity and market trends while bidders participate both physically and virtually. The system integrates real-time sentiment analysis from social media, adjusts bidding increments based on demand elasticity, and automatically reallocates auction lots to optimize final sale prices. Post-auction, the system arranges provenance verification, coordinates logistics with specialized art handlers, and triggers personalized marketing campaigns for unsold pieces. This atypical auction process blends technology-driven valuation, multi-channel engagement, and adaptive inventory management to maximize revenue and collector satisfaction in a fluctuating art market.",
+  "activities": [
+    "Auth Check",
+    "Trend Scan",
+    "Sentiment Map",
+    "Bid Adjust",
+    "Lot Reassign",
+    "Virtual Join",
+    "Price Update",
+    "Demand Gauge",
+    "Provenance Verify",
+    "Handler Assign",
+    "Marketing Push",
+    "Unsold Review",
+    "Buyer Notify",
+    "Payment Clear",
+    "Shipment Plan",
+    "Feedback Collect"
+  ]
+}

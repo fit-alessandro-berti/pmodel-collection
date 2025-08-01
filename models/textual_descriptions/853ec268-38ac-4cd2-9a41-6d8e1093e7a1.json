@@ -1,0 +1,24 @@
+{
+  "title": "Urban Rooftop Farming Setup",
+  "description": "This process outlines the comprehensive steps involved in establishing an urban rooftop farm in a densely populated city environment. It begins with site analysis to evaluate structural integrity and sunlight exposure, followed by soil and water quality testing. Then, permits and zoning approvals are secured from local authorities. Afterward, the design phase includes selecting appropriate plant varieties adapted to urban climates and creating an efficient irrigation system. Installation involves assembling modular planters, setting up rainwater harvesting, and integrating renewable energy sources like solar panels for sustainable operations. The process continues with training staff on urban farming techniques, implementing pest management strategies suitable for rooftop ecosystems, and establishing a supply chain for distributing fresh produce to local markets. Finally, ongoing monitoring and adjustments ensure optimal crop yields while maintaining environmental compliance and community engagement.",
+  "activities": [
+    "Site Analysis",
+    "Structure Check",
+    "Sunlight Mapping",
+    "Soil Testing",
+    "Water Testing",
+    "Permit Filing",
+    "Zoning Approval",
+    "Crop Selection",
+    "Irrigation Setup",
+    "Planter Assembly",
+    "Rainwater Install",
+    "Solar Paneling",
+    "Staff Training",
+    "Pest Control",
+    "Supply Chain",
+    "Yield Monitoring",
+    "Compliance Review",
+    "Community Outreach"
+  ]
+}

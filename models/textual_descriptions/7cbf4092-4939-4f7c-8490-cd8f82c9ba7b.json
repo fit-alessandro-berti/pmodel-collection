@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process details the establishment of a vertical farming operation within an urban environment, integrating sustainable agricultural practices with advanced technology. It involves site analysis, modular construction, environmental controls calibration, nutrient solution management, and crop cycle optimization. The procedure also includes stakeholder coordination, regulatory compliance checks, energy use monitoring, and waste recycling strategies to maximize yield and minimize footprint in a confined city space. Continuous data collection and adaptive growth algorithms ensure efficient resource use and crop quality throughout multiple harvest cycles.",
+  "activities": [
+    "Site Survey",
+    "Design Layout",
+    "Material Sourcing",
+    "Module Assembly",
+    "Irrigation Setup",
+    "Lighting Install",
+    "Climate Control",
+    "Nutrient Mix",
+    "Seed Planting",
+    "Growth Monitoring",
+    "Pest Screening",
+    "Harvest Planning",
+    "Yield Analysis",
+    "Waste Handling",
+    "Energy Tracking",
+    "Regulation Check",
+    "Stakeholder Meet"
+  ]
+}

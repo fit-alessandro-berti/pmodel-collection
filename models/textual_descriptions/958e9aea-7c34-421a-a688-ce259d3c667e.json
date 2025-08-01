@@ -1,0 +1,21 @@
+{
+  "title": "Artisan Supply Chain",
+  "description": "This process involves the sourcing, crafting, quality validation, and distribution of bespoke artisan goods. It begins with material scouting in niche markets, followed by artisan assignment based on skill compatibility. Subsequent steps include prototype creation, peer review, refinement cycles, and final approval. Once approved, goods undergo packaging with unique branding, logistics coordination for multi-modal transport, customs clearance for international shipments, and finally, delivery to exclusive retail partners. The entire process integrates feedback loops from customer insights and artisan performance metrics to ensure continual improvement and maintain the high standards expected in luxury artisan markets.",
+  "activities": [
+    "Material Scout",
+    "Skill Match",
+    "Assign Artisan",
+    "Prototype Build",
+    "Peer Review",
+    "Refine Design",
+    "Approval Check",
+    "Brand Package",
+    "Logistics Plan",
+    "Transport Book",
+    "Customs Clear",
+    "Retail Deliver",
+    "Customer Feedback",
+    "Performance Audit",
+    "Continuous Improve"
+  ]
+}

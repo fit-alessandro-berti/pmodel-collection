@@ -1,0 +1,21 @@
+{
+  "title": "Adaptive Urban Farming Cycle",
+  "description": "This process manages an adaptive urban farming system integrating IoT sensor data, local weather forecasts, and community input to optimize crop growth cycles in constrained city environments. It involves real-time monitoring, dynamic resource allocation, pest detection with AI, nutrient adjustment, and community-driven crop selection. The system adapts to sudden environmental changes and market demand fluctuations by recalibrating planting schedules and harvesting plans, ensuring sustainable yield and waste minimization while promoting local engagement and education.",
+  "activities": [
+    "Sensor Setup",
+    "Data Collection",
+    "Weather Check",
+    "Soil Testing",
+    "Crop Selection",
+    "Resource Assign",
+    "Irrigation Adjust",
+    "Pest Scan",
+    "Nutrient Mix",
+    "Growth Monitor",
+    "Community Poll",
+    "Schedule Update",
+    "Harvest Plan",
+    "Waste Sort",
+    "Yield Report"
+  ]
+}

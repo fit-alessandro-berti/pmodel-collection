@@ -1,0 +1,21 @@
+{
+  "title": "Antique Restoration Workflow",
+  "description": "This process outlines the intricate steps involved in restoring antique artifacts, combining historical research, material analysis, and specialized craftsmanship. It begins with artifact assessment and provenance verification, followed by condition documentation and damage mapping. The process includes sourcing period-appropriate materials, stabilizing fragile components, and performing delicate cleaning using chemical and mechanical methods. Restoration artisans then reconstruct missing parts using traditional techniques while ensuring minimal intervention. A final quality review ensures historical accuracy and structural integrity before packaging and archival recording for future reference and provenance tracking.",
+  "activities": [
+    "Artifact Assess",
+    "Provenance Check",
+    "Condition Scan",
+    "Damage Mapping",
+    "Material Source",
+    "Fragility Test",
+    "Chemical Clean",
+    "Mechanical Clean",
+    "Part Reconstruction",
+    "Stabilize Structure",
+    "Surface Treatment",
+    "Quality Review",
+    "Historical Audit",
+    "Packaging Prep",
+    "Archival Record"
+  ]
+}

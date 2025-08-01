@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process outlines the complex operational cycle of an urban vertical farming facility that integrates IoT sensors, automated nutrient delivery, and AI-driven crop monitoring to optimize yield and resource efficiency. It begins with seed selection based on AI growth predictions, followed by automated planting in vertical trays. Environmental conditions like humidity, temperature, and light are continuously monitored and adjusted via smart controls. Nutrient solutions are precisely dosed through hydroponic systems, while robotic arms conduct pruning and harvesting to maintain plant health. Data collected is analyzed in real-time for predictive maintenance and yield forecasting. The process also involves waste recycling through composting organic residues and repurposing water. Finally, harvested produce is packaged using biodegradable materials and dispatched through an integrated logistics platform focused on reducing carbon footprint. This atypical process merges agriculture, technology, and sustainability in an urban setting to revolutionize food production.",
+  "activities": [
+    "Seed Selection",
+    "AI Prediction",
+    "Automated Planting",
+    "Sensor Calibration",
+    "Environment Adjust",
+    "Nutrient Dosing",
+    "Hydroponic Flow",
+    "Robotic Pruning",
+    "Health Monitor",
+    "Harvesting Ops",
+    "Data Analysis",
+    "Predictive Check",
+    "Waste Composting",
+    "Water Recycling",
+    "Eco Packaging",
+    "Carbon Tracking",
+    "Logistics Dispatch"
+  ]
+}

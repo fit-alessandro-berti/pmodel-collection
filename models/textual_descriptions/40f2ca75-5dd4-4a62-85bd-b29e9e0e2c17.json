@@ -1,0 +1,21 @@
+{
+  "title": "Artisanal Cheese Export",
+  "description": "This process outlines the intricate steps involved in producing, certifying, and exporting artisanal cheese from rural farms to international gourmet markets. It begins with milk sourcing from select heritage breeds, followed by traditional curdling and aging methods. Quality inspections and microbial testing ensure compliance with stringent health standards. Packaging is customized for optimal preservation during long transit times. The export phase includes complex documentation, customs clearance, and coordination with specialized logistics partners. Finally, market entry involves targeted distribution to niche retailers and promotional events to build brand recognition overseas.",
+  "activities": [
+    "Milk Sourcing",
+    "Curd Preparation",
+    "Coagulation Check",
+    "Whey Removal",
+    "Pressing Cheese",
+    "Salting Process",
+    "Aging Control",
+    "Microbial Test",
+    "Quality Audit",
+    "Packaging Design",
+    "Label Printing",
+    "Export Licensing",
+    "Customs Filing",
+    "Logistics Setup",
+    "Market Launch"
+  ]
+}

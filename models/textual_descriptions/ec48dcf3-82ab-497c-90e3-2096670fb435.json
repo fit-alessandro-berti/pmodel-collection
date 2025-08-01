@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process details the complex setup of an urban vertical farm, integrating sustainable agriculture within limited city spaces. It involves site analysis, modular structure assembly, hydroponic system installation, climate control calibration, nutrient solution formulation, seed selection and germination, automated monitoring integration, pest management planning, workforce training, yield forecasting, and community engagement initiatives, all designed to optimize crop production while minimizing environmental impact and ensuring scalability in dense urban environments.",
+  "activities": [
+    "Site Survey",
+    "Design Layout",
+    "Structure Build",
+    "System Install",
+    "Climate Setup",
+    "Nutrient Prep",
+    "Seed Germinate",
+    "Planting Phase",
+    "Sensor Deploy",
+    "Pest Control",
+    "Water Monitor",
+    "Data Analyze",
+    "Staff Train",
+    "Yield Forecast",
+    "Community Meet"
+  ]
+}

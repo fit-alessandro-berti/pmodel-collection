@@ -1,0 +1,22 @@
+{
+  "title": "Intellectual Asset Exchange",
+  "description": "This process involves the systematic valuation, negotiation, transfer, and legal safeguarding of intellectual assets between multiple corporate entities and individual creators. It begins with asset identification followed by detailed appraisal and risk assessment. Next, parties engage in multi-round negotiations facilitated by automated workflows and AI-driven market analysis. Upon agreement, contracts are drafted and digitally signed, incorporating dynamic royalty structures and usage restrictions. Post-transfer, continuous monitoring ensures compliance, and periodic audits verify asset integrity and usage rights. The process concludes with strategic adjustments based on market feedback and evolving intellectual property laws to maximize long-term value and minimize disputes.",
+  "activities": [
+    "Asset ID",
+    "Value Assess",
+    "Risk Scan",
+    "Market Review",
+    "Initial Offer",
+    "Counter Offer",
+    "Negotiation",
+    "Contract Draft",
+    "Legal Review",
+    "Digital Sign",
+    "Royalty Setup",
+    "Transfer Record",
+    "Compliance Check",
+    "Audit Schedule",
+    "Market Feedback",
+    "Strategy Update"
+  ]
+}

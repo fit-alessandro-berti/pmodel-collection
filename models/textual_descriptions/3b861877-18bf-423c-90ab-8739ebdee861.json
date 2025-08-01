@@ -1,0 +1,21 @@
+{
+  "title": "Corporate Artifact Recovery",
+  "description": "This process involves locating, authenticating, and repatriating corporate artifacts lost or stolen during historical mergers and acquisitions. It begins with artifact identification using archival research, followed by stakeholder interviews to verify provenance. Legal consultations ensure compliance with international ownership laws. Next, covert negotiations with current holders are conducted to facilitate return agreements. Logistics planning addresses secure transport and customs clearance. Finally, artifacts are restored, cataloged, and integrated into corporate heritage exhibits to preserve brand legacy and employee engagement.",
+  "activities": [
+    "Artifact ID",
+    "Archival Scan",
+    "Stakeholder Meet",
+    "Provenance Check",
+    "Legal Review",
+    "Ownership Audit",
+    "Negotiation Prep",
+    "Stakeholder Contact",
+    "Agreement Draft",
+    "Transport Plan",
+    "Customs Clear",
+    "Artifact Restore",
+    "Catalog Entry",
+    "Exhibit Setup",
+    "Legacy Report"
+  ]
+}

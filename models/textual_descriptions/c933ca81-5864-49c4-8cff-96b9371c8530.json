@@ -1,0 +1,21 @@
+{
+  "title": "Custom Drone Manufacturing Workflow",
+  "description": "This process outlines the specialized steps involved in the custom manufacturing of drones tailored to unique client specifications. It begins with client consultation to define precise requirements, followed by design iteration incorporating advanced aerodynamics and AI integration. Components procurement involves sourcing rare materials and bespoke electronics. Subsequent phases include precision assembly, multi-layer firmware installation, and rigorous environmental testing under varying conditions. Quality assurance ensures compliance with international aviation standards before packaging with custom branding. Finally, logistics coordination manages secure delivery and post-sale technical support to ensure optimal drone performance and customer satisfaction.",
+  "activities": [
+    "Client Consult",
+    "Spec Finalize",
+    "Design Draft",
+    "Aerodynamics Test",
+    "AI Integration",
+    "Material Sourcing",
+    "Component Order",
+    "Assembly Line",
+    "Firmware Install",
+    "Environmental Test",
+    "Quality Check",
+    "Brand Packaging",
+    "Shipping Prep",
+    "Delivery Schedule",
+    "Post-Sale Support"
+  ]
+}

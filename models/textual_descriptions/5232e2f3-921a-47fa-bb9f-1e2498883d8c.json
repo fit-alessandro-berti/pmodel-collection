@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Launch",
+  "description": "This process involves establishing a sustainable urban vertical farm from concept to operational status. It begins with site selection based on environmental impact and zoning laws, followed by architectural design tailored for optimal light and water use. Next, hydroponic system installation and integration of IoT sensors ensure precise resource management. Crop selection and genetic optimization prepare the farm for diverse yield. Staff recruitment focuses on agritech expertise, while partnerships with local markets and distribution channels are established. Regulatory compliance and organic certification are secured before trial cultivation cycles start. Continuous monitoring and data analysis refine growth parameters, leading to full-scale production and community engagement initiatives to promote urban agriculture awareness.",
+  "activities": [
+    "Site Selection",
+    "Zoning Review",
+    "Design Planning",
+    "Hydroponic Setup",
+    "Sensor Install",
+    "Crop Selection",
+    "Genetic Tuning",
+    "Staff Hiring",
+    "Market Partner",
+    "Compliance Check",
+    "Certification",
+    "Trial Cultivation",
+    "Data Analysis",
+    "Scale Launch",
+    "Community Outreach"
+  ]
+}

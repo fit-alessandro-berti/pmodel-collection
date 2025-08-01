@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the complex steps involved in establishing an urban vertical farm within constrained city environments. It includes site evaluation, modular system design, environmental control calibration, nutrient flow optimization, and continuous monitoring. The process integrates sustainable energy sourcing, waste recycling, and crop rotation scheduling to maximize yield while minimizing resource consumption. Stakeholder coordination, regulatory compliance, and technology integration are critical to ensure operational efficiency and scalability in dense urban settings.",
+  "activities": [
+    "Site Survey",
+    "Design Layout",
+    "System Fabricate",
+    "Energy Setup",
+    "Install Sensors",
+    "Calibrate Controls",
+    "Nutrient Mix",
+    "Seed Planting",
+    "Growth Monitor",
+    "Pest Inspect",
+    "Harvest Plan",
+    "Waste Recycle",
+    "Data Analyze",
+    "Compliance Check",
+    "Stakeholder Meet",
+    "Crop Rotate",
+    "Tech Update"
+  ]
+}

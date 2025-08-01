@@ -1,0 +1,21 @@
+{
+  "title": "Cross-Border Artifact Authentication",
+  "description": "This process involves the complex verification and authentication of ancient artifacts crossing international borders. It includes multi-disciplinary collaboration between historians, customs officials, forensic analysts, and legal experts to ensure provenance accuracy, compliance with cultural heritage laws, and secure transportation. The procedure requires detailed historical research, chemical composition analysis, photographic documentation, legal clearance, and diplomatic coordination to prevent illicit trafficking and preserve cultural integrity. Each step is critical to validate authenticity, legality, and safe delivery to museums or private collectors while respecting international treaties and ethical standards.",
+  "activities": [
+    "Artifact Logging",
+    "Historical Review",
+    "Customs Check",
+    "Chemical Scan",
+    "Provenance Match",
+    "Photo Capture",
+    "Legal Review",
+    "Diplomatic Notify",
+    "Security Clear",
+    "Transport Arrange",
+    "Condition Report",
+    "Data Archiving",
+    "Stakeholder Update",
+    "Final Approval",
+    "Delivery Confirm"
+  ]
+}

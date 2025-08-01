@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the complex steps involved in establishing an urban vertical farming operation within a repurposed industrial building. It involves site analysis, structural retrofitting, environmental system integration, crop selection, automation setup, nutrient cycling design, community engagement, and regulatory compliance. The process must balance sustainable resource use, technological innovation, and local food production goals while addressing unique challenges such as lighting optimization, water recycling, pest management without chemicals, and efficient harvest logistics. The integration of IoT sensors to monitor microclimates and plant health is critical, alongside employee training and continuous process refinement based on data analytics to maximize yield and minimize environmental impact.",
+  "activities": [
+    "Site Survey",
+    "Structural Check",
+    "Retrofit Plan",
+    "Lighting Setup",
+    "Irrigation Install",
+    "Sensor Deploy",
+    "Crop Select",
+    "Nutrient Mix",
+    "Pest Control",
+    "Automation Config",
+    "Data Monitor",
+    "Employee Train",
+    "Community Meet",
+    "Compliance Audit",
+    "Harvest Plan",
+    "Waste Recycle",
+    "Energy Audit"
+  ]
+}

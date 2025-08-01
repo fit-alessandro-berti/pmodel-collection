@@ -1,0 +1,22 @@
+{
+  "title": "Artisan Coffee Supply Chain",
+  "description": "This process outlines the end-to-end supply chain management for a specialty artisan coffee company that sources unique coffee beans from remote farms, manages bespoke roasting profiles, and delivers personalized subscription packages to niche market customers. It includes activities such as farmer collaboration, quality cupping, custom roasting, packaging innovation, logistics coordination, and customer feedback integration to ensure a highly tailored coffee experience that balances sustainability, quality, and exclusivity across multiple global regions.",
+  "activities": [
+    "Farm Selection",
+    "Bean Harvest",
+    "Initial Sorting",
+    "Quality Cupping",
+    "Farmer Feedback",
+    "Roast Profiling",
+    "Batch Roasting",
+    "Flavor Testing",
+    "Custom Packaging",
+    "Subscription Setup",
+    "Order Processing",
+    "Logistics Planning",
+    "Shipment Tracking",
+    "Customer Support",
+    "Feedback Analysis",
+    "Inventory Audit"
+  ]
+}

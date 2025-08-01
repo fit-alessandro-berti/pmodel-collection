@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the intricate steps involved in establishing an urban vertical farm within a repurposed industrial building. It includes site evaluation, structural retrofitting, environmental system integration, and crop selection tailored to local climate and market demand. The process further encompasses automation implementation for irrigation and nutrient delivery, staff training on hydroponic techniques, and ongoing monitoring protocols to optimize yield. It concludes with regulatory compliance checks and launching a local distribution network to ensure fresh produce reaches urban consumers efficiently, balancing sustainability and profitability in a dense city environment.",
+  "activities": [
+    "Site Survey",
+    "Load Analysis",
+    "Structure Retrofit",
+    "Climate Study",
+    "Crop Selection",
+    "System Design",
+    "Irrigation Setup",
+    "Nutrient Mix",
+    "Automation Install",
+    "Staff Training",
+    "Growth Monitoring",
+    "Pest Control",
+    "Regulation Audit",
+    "Packaging Design",
+    "Distribution Plan"
+  ]
+}

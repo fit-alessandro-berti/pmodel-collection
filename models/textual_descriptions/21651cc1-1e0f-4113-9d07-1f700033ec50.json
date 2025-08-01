@@ -1,0 +1,23 @@
+{
+  "title": "Artisan Cheese Supply Chain",
+  "description": "This process outlines the intricate supply chain of artisan cheese production, starting from raw milk sourcing from select farms with specific breed cows to quality testing and aging in controlled environments. It includes steps like microbial culture preparation, curd cutting, whey drainage, pressing, salting, and maturation under precise humidity and temperature settings. The process also involves packaging with eco-friendly materials, batch traceability tagging, and coordinating delivery logistics to specialty retailers, ensuring freshness and compliance with food safety standards. Customer feedback is integrated for continuous improvement, and seasonal variations in milk quality are accounted for by adjusting fermentation parameters accordingly.",
+  "activities": [
+    "Milk Sourcing",
+    "Quality Testing",
+    "Culture Prep",
+    "Milk Pasteurize",
+    "Curd Cutting",
+    "Whey Drainage",
+    "Curd Pressing",
+    "Salt Application",
+    "Cheese Aging",
+    "Humidity Control",
+    "Temp Monitoring",
+    "Packaging Eco",
+    "Batch Tagging",
+    "Delivery Plan",
+    "Retail Coordination",
+    "Feedback Review",
+    "Parameter Adjust"
+  ]
+}

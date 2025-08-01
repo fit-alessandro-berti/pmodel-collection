@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the comprehensive setup of an urban vertical farm, integrating advanced hydroponics, AI-controlled environment systems, and modular construction techniques. It begins with site analysis and zoning approval, followed by designing multi-layer growth platforms and selecting crop varieties suited for vertical farming. Procurement involves sourcing sustainable materials and specialized equipment. Installation covers lighting, irrigation, and climate control systems. AI calibration ensures optimal growth conditions through sensor data integration. Staff training is conducted on system operation and maintenance. Post-installation, a trial cultivation phase verifies system efficiency. Finally, marketing strategies are deployed targeting local retailers and consumers to establish supply chains and promote farm-to-table initiatives.",
+  "activities": [
+    "Site Analysis",
+    "Zoning Approval",
+    "Platform Design",
+    "Crop Selection",
+    "Material Sourcing",
+    "Equipment Order",
+    "System Install",
+    "Lighting Setup",
+    "Irrigation Setup",
+    "Climate Control",
+    "AI Calibration",
+    "Staff Training",
+    "Trial Cultivation",
+    "Data Monitoring",
+    "Market Launch"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Artisan Supply Chain",
+  "description": "This process manages the end-to-end supply chain for handcrafted artisan goods, integrating unique sourcing methods, bespoke quality checks, and personalized logistics. It begins with raw material scouting in remote locations, followed by artisan selection based on skill and style alignment. Materials undergo custom treatment before distribution to workshops. Each artisan crafts unique pieces verified through multi-stage quality audits involving both automated sensors and expert appraisal. Finished goods are then personalized with client-specific branding and packed using eco-friendly methods. Finally, logistics coordination ensures delivery via specialty carriers that maintain product integrity and cultural authenticity, while gathering consumer feedback for continuous process refinement. This atypical supply chain blends traditional craftsmanship with modern technology and sustainability principles, requiring careful coordination of diverse activities to maintain product uniqueness and market appeal.",
+  "activities": [
+    "Material Scout",
+    "Artisan Select",
+    "Material Treat",
+    "Workshop Assign",
+    "Craft Monitor",
+    "Quality Audit",
+    "Sensor Check",
+    "Expert Review",
+    "Brand Personalize",
+    "Eco Pack",
+    "Carrier Select",
+    "Delivery Schedule",
+    "Integrity Check",
+    "Feedback Gather",
+    "Process Refine",
+    "Market Align"
+  ]
+}

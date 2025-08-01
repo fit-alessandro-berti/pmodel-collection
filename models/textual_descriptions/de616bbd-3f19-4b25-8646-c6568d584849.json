@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process involves establishing a fully automated urban vertical farm within a repurposed warehouse. It begins with site analysis and structural assessment, followed by environmental system design including hydroponics and LED lighting setup. Next, sensor installations for climate control and nutrient monitoring are integrated. Seed selection and germination protocols are developed alongside automated planting routines. Crop growth is continuously monitored using AI-driven analytics to optimize yield and resource usage. Harvesting is performed by robotic arms, and produce is packaged on-site with traceability labeling. Finally, logistics coordination ensures timely delivery to local markets, completing a sustainable urban agriculture cycle.",
+  "activities": [
+    "Site Analysis",
+    "Structural Check",
+    "System Design",
+    "Hydroponics Setup",
+    "Lighting Install",
+    "Sensor Install",
+    "Climate Control",
+    "Nutrient Monitor",
+    "Seed Selection",
+    "Germination Start",
+    "Auto Planting",
+    "Growth Monitoring",
+    "AI Analytics",
+    "Robotic Harvest",
+    "Packaging",
+    "Trace Labeling",
+    "Logistics Plan"
+  ]
+}

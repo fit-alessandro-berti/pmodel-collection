@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process outlines the complex steps involved in authenticating rare historical artifacts for a museum acquisition. It begins with initial artifact intake, followed by detailed provenance research including archival cross-referencing and expert consultations. Scientific analysis is conducted using non-invasive imaging techniques such as XRF and 3D scanning to determine material composition and manufacturing methods. Parallelly, stylistic comparisons with known artifact databases are performed. Results from all investigations are consolidated and reviewed in a multidisciplinary panel. Based on the consensus, a certification report is generated detailing authenticity, condition, and historical significance. Final steps include secure storage arrangement, digital cataloging, and preparation for public display or loan agreements with external institutions. Continuous monitoring protocols are established to ensure artifact preservation post-acquisition.",
+  "activities": [
+    "Artifact Intake",
+    "Provenance Check",
+    "Archive Search",
+    "Expert Consult",
+    "Material Scan",
+    "3D Imaging",
+    "Stylistic Match",
+    "Database Query",
+    "Panel Review",
+    "Certify Report",
+    "Condition Assess",
+    "Storage Plan",
+    "Catalog Entry",
+    "Display Prep",
+    "Loan Arrange",
+    "Monitor Setup"
+  ]
+}

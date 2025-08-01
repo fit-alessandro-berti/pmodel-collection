@@ -1,0 +1,23 @@
+{
+  "title": "Artisanal Supply Chain",
+  "description": "This process manages the sourcing, creation, and distribution of handcrafted artisanal goods from remote rural communities to urban boutique retailers. It involves identifying unique raw materials, coordinating with local artisans, ensuring quality control through multi-stage inspections, handling complex logistics in regions with limited infrastructure, and maintaining traceability for ethical certification. Additionally, the process integrates real-time feedback loops from customers to adapt designs and production methods, while balancing sustainability goals and fair trade principles with market demand fluctuations and seasonal variations.",
+  "activities": [
+    "Material Sourcing",
+    "Artisan Selection",
+    "Design Review",
+    "Prototype Build",
+    "Quality Inspect",
+    "Batch Scheduling",
+    "Logistics Plan",
+    "Customs Clearance",
+    "Inventory Check",
+    "Packaging Setup",
+    "Market Analysis",
+    "Order Processing",
+    "Feedback Gather",
+    "Sustainability Audit",
+    "Payment Reconcile",
+    "Demand Forecast",
+    "Shipment Track"
+  ]
+}

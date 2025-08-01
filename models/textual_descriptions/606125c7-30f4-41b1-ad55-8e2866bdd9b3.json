@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process manages the entire lifecycle of an urban vertical farm, integrating automated crop cultivation with environmental controls and real-time data analytics. It starts with seed selection based on AI-driven market demand forecasts, followed by nutrient solution formulation tailored to each plant species. The system then initiates germination under controlled humidity and light conditions, transitioning to automated transplanting into vertical racks. Continuous monitoring via IoT sensors adjusts watering, lighting, and temperature dynamically. Crop health is assessed using drone-based multispectral imaging, triggering pest control measures or nutrient adjustments as needed. Harvest scheduling optimizes yield and freshness, while post-harvest processing includes automated packaging and cold storage. Finally, waste from plant residues is processed into bio-compost, closing the sustainability loop. This atypical agricultural process leverages advanced technology to maximize productivity in limited urban spaces, ensuring fresh produce availability with minimal environmental impact.",
+  "activities": [
+    "Seed Select",
+    "Demand Forecast",
+    "Nutrient Mix",
+    "Germination Start",
+    "Humidity Adjust",
+    "Light Control",
+    "Transplant Racks",
+    "IoT Monitor",
+    "Watering Adjust",
+    "Temp Control",
+    "Drone Scan",
+    "Pest Control",
+    "Harvest Plan",
+    "Auto Package",
+    "Cold Storage",
+    "Waste Process",
+    "Bio-Compost"
+  ]
+}

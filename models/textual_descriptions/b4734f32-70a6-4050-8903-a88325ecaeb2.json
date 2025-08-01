@@ -1,0 +1,23 @@
+{
+  "title": "Urban Rooftop Farming Launch",
+  "description": "This process involves the planning, setup, and operational launch of an urban rooftop farming initiative in a densely populated city. It includes site assessment, structural analysis, resource procurement, soil testing, microclimate evaluation, installation of irrigation and lighting systems, selection of crops, community engagement, and finally, the first planting and ongoing monitoring phases. The process is complex due to the constraints of urban infrastructure, regulatory compliance, sustainability goals, and integration with local community programs to ensure long-term viability and social impact.",
+  "activities": [
+    "Site Survey",
+    "Load Analysis",
+    "Permit Request",
+    "Soil Sampling",
+    "Microclimate Map",
+    "System Design",
+    "Irrigation Setup",
+    "Lighting Install",
+    "Crop Selection",
+    "Supplier Sourcing",
+    "Community Meet",
+    "Planting Day",
+    "Growth Monitor",
+    "Pest Control",
+    "Harvest Plan",
+    "Waste Manage",
+    "Feedback Loop"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the complex setup of an urban vertical farming system within a repurposed commercial building. It includes site analysis, structural reinforcement, environmental controls installation, automated irrigation programming, and crop selection optimization. Integration of renewable energy sources and real-time monitoring systems ensures sustainable, high-yield crop production. Post-installation training and community engagement complete the process, supporting urban agriculture innovation and local food security.",
+  "activities": [
+    "Site Survey",
+    "Structural Check",
+    "Permitting",
+    "Climate Setup",
+    "Lighting Install",
+    "Irrigation Config",
+    "Energy Audit",
+    "Renewables Setup",
+    "Crop Selection",
+    "Automation Program",
+    "Sensor Deploy",
+    "Data Calibration",
+    "Staff Training",
+    "Trial Growth",
+    "Community Outreach"
+  ]
+}

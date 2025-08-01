@@ -1,0 +1,23 @@
+{
+  "title": "Custom Art Commission Workflow",
+  "description": "This process outlines the detailed workflow for managing bespoke art commissions for high-profile clients. It involves initial consultation to understand client vision, iterative concept development with frequent feedback, material sourcing from specialized vendors, and coordinating multiple artisans including painters, framers, and restorers. Quality assurance includes both artistic critique and technical inspections to ensure durability and aesthetic standards. After completion, logistics for secure transport and installation are arranged, followed by post-delivery client support and archival documentation for provenance and future reference. This atypical process combines creative design with project management and technical craftsmanship, requiring close collaboration across diverse teams and external partners to deliver a truly unique art piece that meets exacting client specifications.",
+  "activities": [
+    "Client Meet",
+    "Vision Capture",
+    "Concept Draft",
+    "Feedback Loop",
+    "Material Sourcing",
+    "Vendor Selection",
+    "Artisan Assign",
+    "Prototype Build",
+    "Quality Review",
+    "Technical Check",
+    "Final Approval",
+    "Packaging Prep",
+    "Logistics Plan",
+    "Secure Transport",
+    "Installation Set",
+    "Client Support",
+    "Archival Record"
+  ]
+}

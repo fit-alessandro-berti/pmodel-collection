@@ -1,0 +1,22 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process outlines the intricate steps involved in custom drone assembly, which includes initial client consultation, bespoke component design, precision part fabrication, iterative software calibration, and rigorous quality assurance testing. The workflow incorporates multiple feedback loops between hardware adjustments and software tuning to ensure optimal flight performance. Post-assembly, drones undergo environmental stress testing and client-specific payload integration, followed by final certification and delivery scheduling. This atypical process demands close coordination between engineering, design, and logistics teams to meet unique client specifications within tight deadlines.",
+  "activities": [
+    "Client Brief",
+    "Design Draft",
+    "Part Sourcing",
+    "Component Fabric",
+    "Circuit Assembly",
+    "Software Upload",
+    "Initial Testing",
+    "Flight Calibrate",
+    "Payload Mount",
+    "Stress Testing",
+    "Feedback Loop",
+    "Quality Check",
+    "Certification",
+    "Packaging",
+    "Delivery Plan",
+    "Post Support"
+  ]
+}

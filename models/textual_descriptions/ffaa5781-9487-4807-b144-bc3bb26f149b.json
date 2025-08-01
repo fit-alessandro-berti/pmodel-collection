@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the comprehensive verification and authentication of historical artifacts prior to acquisition or display in a museum. It begins with initial provenance research followed by multidisciplinary scientific analysis including radiocarbon dating, material composition tests, and microscopic examination. Concurrently, expert consultations with historians and archaeologists are conducted to validate contextual accuracy. Legal ownership and export documentation are scrutinized to ensure compliance with international cultural heritage laws. The workflow also incorporates digital imaging and 3D modeling for record-keeping and virtual exhibition purposes. Final approval requires a consensus meeting among curators, legal advisors, and scientific analysts before formal acquisition and cataloging into the museum's database.",
+  "activities": [
+    "Provenance Check",
+    "Radiocarbon Test",
+    "Material Analysis",
+    "Microscopic Scan",
+    "Expert Review",
+    "Context Validation",
+    "Legal Audit",
+    "Export Verify",
+    "Digital Imaging",
+    "3D Modeling",
+    "Consensus Meeting",
+    "Final Approval",
+    "Catalog Entry",
+    "Virtual Setup",
+    "Archival Backup"
+  ]
+}

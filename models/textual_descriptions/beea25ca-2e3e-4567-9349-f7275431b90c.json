@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This complex business process governs the authentication and provenance verification of rare historical artifacts before acquisition or exhibition. It involves multidisciplinary evaluations including chemical composition analysis, historical documentation cross-referencing, expert consultations, and advanced imaging techniques. The process ensures that artifacts meet stringent authenticity criteria by integrating scientific data with archival research. Each artifact undergoes risk assessment for forgery, condition appraisal, and legal clearance. The workflow culminates in a detailed provenance report and a decision on acquisition or loan, safeguarding institutional collections and maintaining public trust in exhibited items.",
+  "activities": [
+    "Sample Collection",
+    "Chemical Scan",
+    "Image Capture",
+    "Data Analysis",
+    "Expert Review",
+    "Archival Search",
+    "Forgery Check",
+    "Condition Survey",
+    "Legal Review",
+    "Risk Assess",
+    "Report Draft",
+    "Provenance Verify",
+    "Acquisition Vote",
+    "Loan Setup",
+    "Final Approval",
+    "Documentation"
+  ]
+}

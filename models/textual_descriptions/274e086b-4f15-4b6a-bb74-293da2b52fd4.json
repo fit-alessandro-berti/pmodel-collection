@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process involves the planning, installation, and operationalization of a vertical farming system within an urban environment. It includes site analysis, modular structure assembly, automated irrigation configuration, crop selection tailored for vertical growth, integration of IoT sensors for monitoring microclimate conditions, nutrient solution preparation, and the deployment of AI-driven growth optimization software. The process also covers staff training on maintenance protocols, pest management using biocontrol agents, and establishing distribution channels for fresh produce. Continuous data collection and system calibration ensure sustainable yield and energy efficiency, adapting to urban constraints and regulatory compliance.",
+  "activities": [
+    "Site Survey",
+    "Design Layout",
+    "Structure Build",
+    "Irrigation Setup",
+    "Crop Select",
+    "Sensor Install",
+    "Nutrient Mix",
+    "AI Deploy",
+    "Staff Train",
+    "Pest Control",
+    "Data Monitor",
+    "Yield Analyze",
+    "Energy Audit",
+    "Compliance Check",
+    "Market Launch",
+    "Feedback Loop"
+  ]
+}

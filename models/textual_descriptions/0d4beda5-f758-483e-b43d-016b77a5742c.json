@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the comprehensive authentication of rare historical artifacts prior to their acquisition by museums or private collectors. It begins with preliminary provenance research, followed by multispectral imaging and chemical composition analysis. Next, expert consultations and cross-referencing with databases are conducted to ensure authenticity and legality. Ethical considerations and cultural heritage laws are reviewed before final valuation and acquisition decisions. Throughout the process, documentation and chain-of-custody records are meticulously maintained to prevent fraud and ensure transparency in the artifact's history and ownership.",
+  "activities": [
+    "Provenance Check",
+    "Image Capture",
+    "Spectral Scan",
+    "Chemical Test",
+    "Database Query",
+    "Expert Review",
+    "Legal Audit",
+    "Ethics Review",
+    "Condition Report",
+    "Valuation Setup",
+    "Ownership Verify",
+    "Chain Record",
+    "Fraud Analysis",
+    "Acquisition Vote",
+    "Final Approval"
+  ]
+}

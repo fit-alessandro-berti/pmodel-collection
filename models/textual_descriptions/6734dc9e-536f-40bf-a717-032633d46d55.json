@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the complex steps involved in establishing an urban vertical farming facility within a repurposed industrial building. It includes initial site assessment, modular system design, environmental control calibration, automated nutrient delivery setup, and integration with local distribution networks. The process also covers regulatory compliance, waste recycling implementation, real-time crop monitoring, and adaptive pest control strategies. Special attention is given to energy optimization, workforce training, data analytics for yield prediction, and continuous system maintenance to ensure sustainable and efficient production in a high-density urban environment.",
+  "activities": [
+    "Site Survey",
+    "System Design",
+    "Permits Acquire",
+    "Modular Build",
+    "Env Control",
+    "Nutrient Setup",
+    "Lighting Install",
+    "Irrigation Test",
+    "Sensor Deploy",
+    "Waste Plan",
+    "Pest Control",
+    "Energy Audit",
+    "Staff Training",
+    "Data Setup",
+    "Yield Monitor",
+    "Logistics Sync",
+    "Maintenance Plan"
+  ]
+}

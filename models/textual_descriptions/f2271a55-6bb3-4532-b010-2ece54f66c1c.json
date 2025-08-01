@@ -1,0 +1,21 @@
+{
+  "title": "Custom Artifact Authentication",
+  "description": "This process involves the intricate steps required to authenticate rare cultural artifacts using a combination of advanced scientific testing, expert historical analysis, and blockchain verification. Initial provenance research is conducted to gather historical context, followed by material composition tests using spectroscopy and radiocarbon dating. Expert appraisers assess craftsmanship and stylistic elements, while digital imaging techniques detect restorations or alterations. Results are then cross-referenced with global artifact databases. Finally, a unique blockchain record is created to provide an immutable authentication certificate, preventing forgery and enhancing collector confidence. The process demands close coordination between scientists, historians, appraisers, and IT specialists to maintain integrity and traceability throughout.",
+  "activities": [
+    "Provenance Check",
+    "Spectroscopy Test",
+    "Carbon Dating",
+    "Style Analysis",
+    "Image Scanning",
+    "Restoration Scan",
+    "Appraiser Review",
+    "Database Match",
+    "Blockchain Entry",
+    "Certificate Issue",
+    "Forgery Detect",
+    "Report Compilation",
+    "Client Briefing",
+    "Secure Storage",
+    "Final Approval"
+  ]
+}

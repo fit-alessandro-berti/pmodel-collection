@@ -1,0 +1,22 @@
+{
+  "title": "Adaptive Urban Farming Cycle",
+  "description": "This process governs the adaptive urban farming cycle in a smart city environment, integrating real-time environmental data, community feedback, and resource optimization. It begins with soil analysis and proceeds through dynamic seed selection based on seasonal and pollution data. Automated irrigation is adjusted according to microclimate sensors, while drone-assisted pollination enhances yield. Community engagement is maintained through periodic workshops and feedback loops, influencing crop rotation and pest management strategies. Harvesting is coordinated with local markets via blockchain to ensure traceability. Post-harvest processing includes nutrient recycling and waste repurposing, closing the sustainability loop and preparing for the next adaptive cycle.",
+  "activities": [
+    "Soil Test",
+    "Seed Select",
+    "Data Sync",
+    "Irrigation Set",
+    "Drone Pollinate",
+    "Pest Monitor",
+    "Growth Track",
+    "Workshop Host",
+    "Feedback Collect",
+    "Crop Rotate",
+    "Harvest Plan",
+    "Market Sync",
+    "Trace Verify",
+    "Nutrient Recycle",
+    "Waste Process",
+    "Cycle Review"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Artisan Cheese Supply Chain",
+  "description": "This process outlines the complex supply chain for artisan cheese production, focusing on unique sourcing, aging, and distribution steps uncommon in typical food supply chains. It begins with raw milk selection from rare breeds, followed by microflora cultivation, handcrafting curds, controlled aging in variable environments, and ends with bespoke packaging. Quality checkpoints occur at each stage to preserve traditional flavors, while logistics involve temperature-sensitive transport to niche retailers and direct-to-consumer delivery. The process integrates seasonal milk variations and artisan feedback loops to continuously refine product batches and maintain exclusivity in a competitive market.",
+  "activities": [
+    "Breed Select",
+    "Milk Harvest",
+    "Microflora Grow",
+    "Curd Handcraft",
+    "Salt Infuse",
+    "Mold Inoculate",
+    "Press Form",
+    "Aging Control",
+    "Flavor Test",
+    "Batch Record",
+    "Packaging Design",
+    "Temp Transport",
+    "Retail Deliver",
+    "Feedback Loop",
+    "Season Adjust",
+    "Inventory Audit"
+  ]
+}

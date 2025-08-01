@@ -1,0 +1,24 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process involves the end-to-end assembly and calibration of highly customized drones tailored to specific client requirements. It begins with component sourcing, followed by frame assembly, electronics integration, and software loading. Quality assurance includes multiple test flights under varied conditions. Specialized calibration ensures optimal sensor accuracy and flight stability. Final packaging is designed to accommodate delicate parts and personalized documentation, while post-delivery support schedules remote diagnostics and firmware updates to maintain peak performance throughout the drone\u2019s lifecycle.",
+  "activities": [
+    "Component Sourcing",
+    "Frame Assembly",
+    "Sensor Mounting",
+    "Wiring Harness",
+    "Circuit Testing",
+    "Firmware Loading",
+    "Initial Calibration",
+    "Software Integration",
+    "Flight Testing",
+    "Data Logging",
+    "Performance Tuning",
+    "Packaging Prep",
+    "Custom Labeling",
+    "Documentation Print",
+    "Quality Review",
+    "Client Training",
+    "Remote Monitoring",
+    "Firmware Update"
+  ]
+}

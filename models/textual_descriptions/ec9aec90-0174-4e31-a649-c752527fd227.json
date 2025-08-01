@@ -1,0 +1,22 @@
+{
+  "title": "Antique Restoration Workflow",
+  "description": "This process outlines the intricate workflow involved in restoring antique artifacts for museums or private collectors. It begins with artifact assessment and provenance verification to ensure authenticity. Following that, condition analysis identifies damage and material composition. Conservation planning is then developed, balancing preservation with restoration goals. Next, delicate cleaning and stabilization treatments are performed, often requiring custom tools. Missing parts are fabricated or sourced from archival materials. After structural repairs, surface treatments including patina preservation or color matching are applied. Documentation throughout ensures traceability. Final quality review and client approval precede careful packaging and transport arrangements to prevent damage during delivery. This atypical but realistic process demands expertise across multiple disciplines to return artifacts to display condition while respecting their historical integrity.",
+  "activities": [
+    "Assess Artifact",
+    "Verify Provenance",
+    "Analyze Condition",
+    "Plan Conservation",
+    "Clean Surface",
+    "Stabilize Structure",
+    "Source Materials",
+    "Fabricate Parts",
+    "Perform Repairs",
+    "Apply Patina",
+    "Match Colors",
+    "Document Process",
+    "Review Quality",
+    "Obtain Approval",
+    "Package Securely",
+    "Arrange Transport"
+  ]
+}

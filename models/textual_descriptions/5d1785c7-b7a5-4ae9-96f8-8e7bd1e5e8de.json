@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the comprehensive steps involved in establishing an urban vertical farm in a dense metropolitan area. It includes securing permits, designing modular grow units optimized for limited spaces, integrating automated nutrient delivery systems, and implementing advanced climate controls. The process also covers sourcing heirloom seeds, training staff on hydroponic techniques, and establishing partnerships with local restaurants for produce distribution. Continuous monitoring through IoT sensors ensures optimal plant health, while waste recycling loops convert organic matter into compost. Marketing efforts target eco-conscious consumers, and periodic audits maintain regulatory compliance and sustainability certifications. This atypical process blends agriculture, technology, and urban planning to create a self-sustaining food production ecosystem.",
+  "activities": [
+    "Permit Securing",
+    "Site Survey",
+    "Unit Design",
+    "Seed Sourcing",
+    "System Setup",
+    "Nutrient Mix",
+    "Climate Tune",
+    "Staff Training",
+    "IoT Install",
+    "Waste Cycle",
+    "Planting Phase",
+    "Growth Monitor",
+    "Quality Audit",
+    "Market Launch",
+    "Partner Align",
+    "Compliance Check",
+    "Feedback Loop"
+  ]
+}

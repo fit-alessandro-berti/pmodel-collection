@@ -1,0 +1,21 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process outlines the intricate steps involved in designing, assembling, and testing custom drones tailored for specialized industrial applications. It begins with client consultation to define unique specifications, followed by modular component selection, precision 3D printing of custom parts, and advanced circuit programming. Subsequent stages include meticulous mechanical assembly, multi-phase calibration, environmental stress testing, and iterative firmware optimization. Final steps involve comprehensive quality assurance, client demonstration, and deployment logistics planning, ensuring each drone meets exacting performance and safety standards in diverse operational environments.",
+  "activities": [
+    "Client Meeting",
+    "Spec Definition",
+    "Module Selection",
+    "3D Printing",
+    "Circuit Design",
+    "Firmware Coding",
+    "Mechanical Build",
+    "Calibration Phase",
+    "Stress Testing",
+    "Software Tuning",
+    "Quality Check",
+    "Demo Preparation",
+    "Client Review",
+    "Packaging",
+    "Deployment Plan"
+  ]
+}

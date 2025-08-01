@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the thorough authentication and provenance verification of rare historical artifacts intended for museum acquisition or private collection. It includes multi-disciplinary expert evaluations, scientific testing like radiocarbon dating and spectrography, cross-referencing archival records, and secure chain-of-custody documentation. Additionally, it incorporates risk assessment related to forgery, legal ownership verification, and final certification issuance. The process requires coordination between curators, forensic scientists, historians, legal advisors, and logistics teams to ensure authenticity and compliance with international cultural heritage laws.",
+  "activities": [
+    "Initial Review",
+    "Provenance Check",
+    "Expert Consult",
+    "Scientific Test",
+    "Radiocarbon Date",
+    "Spectrograph Scan",
+    "Forgery Assessment",
+    "Record Crossref",
+    "Legal Verify",
+    "Custody Chain",
+    "Risk Evaluate",
+    "Condition Report",
+    "Final Approval",
+    "Certification",
+    "Secure Transport",
+    "Archive Update"
+  ]
+}

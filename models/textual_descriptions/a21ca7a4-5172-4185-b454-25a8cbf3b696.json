@@ -1,0 +1,23 @@
+{
+  "title": "Artisan Cheese Supply Chain",
+  "description": "This process outlines the detailed and non-linear supply chain involved in sourcing, producing, aging, packaging, and distributing artisan cheeses. It includes unique steps like microbial culture selection, seasonal milk sourcing, manual curd cutting, controlled humidity aging, quality flavor profiling, and niche market delivery coordination. Each activity ensures high product quality and traceability while balancing artisan techniques with scalable logistics, addressing challenges such as variable milk quality, fluctuating demand, and maintaining traditional craftsmanship alongside modern food safety standards.",
+  "activities": [
+    "Milk Sourcing",
+    "Culture Selection",
+    "Curd Cutting",
+    "Whey Draining",
+    "Molding Press",
+    "Salt Brining",
+    "Humidity Aging",
+    "Flavor Profiling",
+    "Quality Testing",
+    "Packaging Prep",
+    "Label Design",
+    "Niche Marketing",
+    "Order Processing",
+    "Cold Storage",
+    "Delivery Routing",
+    "Customer Feedback",
+    "Inventory Audit"
+  ]
+}

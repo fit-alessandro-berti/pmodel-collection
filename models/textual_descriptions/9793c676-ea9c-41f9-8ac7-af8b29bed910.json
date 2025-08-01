@@ -1,0 +1,22 @@
+{
+  "title": "Artisan Coffee Supply Chain",
+  "description": "This process details the intricate supply chain of artisan coffee, starting from rare coffee bean sourcing in remote microclimates, followed by meticulous quality sampling and fermentation monitoring. The beans undergo custom roasting based on regional flavor profiles, then are packaged using eco-friendly materials. The distribution includes direct-to-caf\u00e9 logistics with real-time freshness tracking. Additionally, customer feedback is integrated into future harvest selections to maintain superior taste consistency. The process also involves seasonal collaboration with local farmers for sustainable farming education and crop diversification, ensuring long-term ecosystem health and premium product quality.",
+  "activities": [
+    "Bean Sourcing",
+    "Quality Sampling",
+    "Fermentation Check",
+    "Custom Roasting",
+    "Flavor Profiling",
+    "Eco Packaging",
+    "Freshness Track",
+    "Direct Shipping",
+    "Caf\u00e9 Delivery",
+    "Customer Survey",
+    "Data Analysis",
+    "Harvest Planning",
+    "Farmer Training",
+    "Crop Diversify",
+    "Sustainability Audit",
+    "Feedback Loop"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process outlines the detailed steps involved in assembling custom drones tailored to specific client requirements. It begins with requirement analysis followed by component sourcing and quality verification. Next, the frame is constructed and integrated with motors, sensors, and control units. Firmware installation and calibration are performed before conducting multiple flight tests to ensure stability and performance. After successful validation, the drone undergoes final cosmetic finishing and packaging. The process concludes with documentation, client training, and post-delivery support scheduling, ensuring the drone meets operational expectations and client satisfaction.",
+  "activities": [
+    "Requirement Analysis",
+    "Component Sourcing",
+    "Quality Check",
+    "Frame Assembly",
+    "Motor Installation",
+    "Sensor Setup",
+    "Control Unit",
+    "Firmware Upload",
+    "System Calibration",
+    "Flight Testing",
+    "Error Correction",
+    "Cosmetic Finish",
+    "Packaging Prep",
+    "User Manual",
+    "Client Training",
+    "Support Scheduling"
+  ]
+}

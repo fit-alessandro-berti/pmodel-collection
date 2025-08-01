@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farm Cycle",
+  "description": "This process outlines the complex, atypical workflow of managing an urban vertical farm that integrates hydroponics, AI-driven climate control, and automated harvesting. Starting with seed selection based on predictive analytics, it includes nutrient solution calibration, multi-layer crop monitoring, pest bio-control deployment, and dynamic light spectrum adjustment. The cycle further incorporates waste recycling into compost, energy consumption optimization, and real-time data reporting to stakeholders. This holistic approach ensures sustainable production, maximizes yield within confined urban spaces, and adapts continuously to environmental changes and market demands.",
+  "activities": [
+    "Seed Selection",
+    "Solution Mix",
+    "Climate Setup",
+    "Light Tuning",
+    "Crop Monitoring",
+    "Pest Control",
+    "Growth Analysis",
+    "Energy Audit",
+    "Water Recycling",
+    "Nutrient Refill",
+    "Waste Compost",
+    "Harvest Prep",
+    "Automated Pick",
+    "Data Reporting",
+    "Market Sync",
+    "Equipment Check",
+    "System Update"
+  ]
+}

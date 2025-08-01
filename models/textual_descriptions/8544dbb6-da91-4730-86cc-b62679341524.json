@@ -1,0 +1,23 @@
+{
+  "title": "Urban Beekeeping Supply Chain",
+  "description": "This process governs the end-to-end management of urban beekeeping supplies, starting from sourcing sustainable materials to packaging and distributing specialized equipment tailored for city environments. It involves coordinating with local artisans for custom hive designs, ensuring regulatory compliance for urban apiaries, managing seasonal demand fluctuations, and integrating feedback from beekeepers to continuously improve product offerings while minimizing environmental impact through eco-friendly logistics and waste reduction strategies.",
+  "activities": [
+    "Material Sourcing",
+    "Supplier Vetting",
+    "Design Customization",
+    "Prototype Testing",
+    "Regulation Review",
+    "Compliance Audit",
+    "Inventory Setup",
+    "Demand Forecast",
+    "Order Processing",
+    "Assembly Line",
+    "Quality Check",
+    "Packaging Design",
+    "Eco Logistics",
+    "Customer Training",
+    "Feedback Analysis",
+    "Waste Management",
+    "Seasonal Planning"
+  ]
+}

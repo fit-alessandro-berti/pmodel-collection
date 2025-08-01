@@ -1,0 +1,22 @@
+{
+  "title": "Crowdsourced Innovation Cycle",
+  "description": "This process involves leveraging a global crowd to generate, refine, and implement innovative solutions for complex business challenges. It starts with problem framing and crowdsourcing ideas through an open platform, followed by multi-stage evaluation, collaborative prototyping, and iterative testing. The process incorporates community voting, expert moderation, and real-time feedback loops to ensure quality and relevance. Successful prototypes undergo pilot deployment with select users, data-driven performance analysis, and scaling strategies. It closes with knowledge capture and incentivization to sustain continual engagement and innovation momentum within diverse stakeholder ecosystems.",
+  "activities": [
+    "Problem Frame",
+    "Idea Gather",
+    "Community Vote",
+    "Expert Review",
+    "Concept Filter",
+    "Prototype Build",
+    "User Testing",
+    "Feedback Loop",
+    "Iterate Design",
+    "Pilot Deploy",
+    "Data Analyze",
+    "Scale Plan",
+    "Knowledge Capture",
+    "Reward Allocate",
+    "Engagement Boost",
+    "Innovation Audit"
+  ]
+}

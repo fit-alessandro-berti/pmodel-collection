@@ -1,0 +1,22 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process outlines the complex assembly and calibration of custom drones tailored for specialized industrial applications. Starting from component sourcing through iterative firmware tuning, the workflow includes precision mechanical integration, sensor alignment, and multi-environment testing. Each drone undergoes adaptive software calibration based on mission-specific parameters, followed by compliance verification with aviation regulations. The process concludes with detailed quality reporting and client-specific customization before final packaging and delivery, ensuring high reliability and performance in diverse operational conditions.",
+  "activities": [
+    "Component Sourcing",
+    "Frame Assembly",
+    "Motor Installation",
+    "Wiring Setup",
+    "Sensor Mounting",
+    "Firmware Upload",
+    "Calibration Stage",
+    "Software Tuning",
+    "Env Testing",
+    "Flight Simulation",
+    "Compliance Check",
+    "Performance Audit",
+    "Client Customization",
+    "Quality Reporting",
+    "Final Packaging",
+    "Delivery Scheduling"
+  ]
+}

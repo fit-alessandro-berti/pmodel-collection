@@ -1,0 +1,23 @@
+{
+  "title": "Artisanal Perfume Creation",
+  "description": "This process details the intricate creation of artisanal perfumes, combining rare botanical extractions with traditional blending techniques. It begins with sourcing exotic raw materials from multiple continents, followed by delicate extraction methods like enfleurage and steam distillation. Next, master perfumers experiment with scent profiles in controlled environments, adjusting ratios to achieve a harmonious fragrance. Quality control includes olfactory testing and chemical analysis to ensure consistency and safety. The final phase involves aging the perfume in specialized containers, bottling, and bespoke packaging, while maintaining traceability and sustainability throughout the workflow.",
+  "activities": [
+    "Raw Sourcing",
+    "Botanical Sorting",
+    "Extraction Prep",
+    "Enfleurage Process",
+    "Steam Distill",
+    "Scent Blending",
+    "Profile Testing",
+    "Ratio Adjust",
+    "Olfactory Check",
+    "Chemical Scan",
+    "Quality Approval",
+    "Aging Storage",
+    "Bottle Filling",
+    "Label Printing",
+    "Custom Packaging",
+    "Sustainability Audit",
+    "Traceability Log"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process outlines the steps involved in authenticating rare historical artifacts before acquisition by a museum. It begins with preliminary provenance verification followed by scientific material analysis using spectroscopy and radiocarbon dating. Experts then conduct microscopic examinations and stylistic comparison against known examples. Concurrently, digital imaging technology is employed to detect restorations or forgeries. Results are compiled and reviewed in a cross-disciplinary panel including historians, chemists, and conservators. If authenticity is confirmed, legal ownership documentation is finalized and the artifact is prepared for insured transport. The process ensures thorough validation combining historical, scientific, and legal perspectives to mitigate risks of acquiring counterfeit or misrepresented items.",
+  "activities": [
+    "Verify Provenance",
+    "Collect Samples",
+    "Conduct Spectroscopy",
+    "Radiocarbon Test",
+    "Microscopic Exam",
+    "Stylistic Check",
+    "Digital Imaging",
+    "Forgery Detection",
+    "Compile Results",
+    "Panel Review",
+    "Legal Verification",
+    "Ownership Transfer",
+    "Prepare Transport",
+    "Insurance Setup",
+    "Finalize Acquisition"
+  ]
+}

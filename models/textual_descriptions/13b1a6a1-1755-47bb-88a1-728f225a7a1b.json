@@ -1,0 +1,21 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process outlines the intricate steps involved in the assembly and configuration of customized drones tailored for specialized industrial applications. It begins with component sourcing based on client specifications, followed by precision frame construction and modular subsystem integration. Each drone undergoes advanced firmware installation, sensor calibration, and environmental resilience testing. The process also involves iterative flight simulations and real-world trial deployments to ensure compliance with safety and performance standards. Post-deployment, the system captures operational data for continuous improvement and client feedback integration, culminating in bespoke maintenance scheduling and upgrade path planning to extend drone lifecycle and optimize mission effectiveness.",
+  "activities": [
+    "Component Sourcing",
+    "Frame Build",
+    "Subsystem Fit",
+    "Firmware Load",
+    "Sensor Calibrate",
+    "Env Test",
+    "Flight Simulate",
+    "Trial Deploy",
+    "Data Capture",
+    "Client Review",
+    "Feedback Integrate",
+    "Maintenance Plan",
+    "Upgrade Design",
+    "Compliance Check",
+    "Final Approval"
+  ]
+}

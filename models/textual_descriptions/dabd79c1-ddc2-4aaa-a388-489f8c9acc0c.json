@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the detailed authentication of historical artifacts to verify provenance and ensure authenticity before acquisition or exhibition. It begins with initial documentation review, followed by scientific testing such as radiocarbon dating and material composition analysis. Experts in art history then conduct stylistic evaluations, comparing findings against known databases. Concurrently, legal checks assess ownership history and export permissions. If discrepancies arise, a secondary expert panel convenes for arbitration. Upon successful validation, conservation specialists recommend preservation methods. Final approval is granted by the acquisitions committee, after which logistics coordinate secure transport and insurance. This workflow ensures that artifacts entering collections are genuine and legally obtained, minimizing risks associated with forgery or illicit trade.",
+  "activities": [
+    "Document Review",
+    "Material Testing",
+    "Radiocarbon Date",
+    "Stylistic Eval",
+    "Database Check",
+    "Ownership Audit",
+    "Export Verify",
+    "Expert Arbitration",
+    "Conservation Plan",
+    "Risk Assessment",
+    "Approval Review",
+    "Insurance Setup",
+    "Secure Transport",
+    "Acquisitions Meet",
+    "Final Documentation"
+  ]
+}

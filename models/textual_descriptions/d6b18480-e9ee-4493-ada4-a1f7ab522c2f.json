@@ -1,0 +1,23 @@
+{
+  "title": "Artisan Supply Chain Coordination",
+  "description": "This process involves coordinating a decentralized network of artisan producers, raw material foragers, quality inspectors, and niche market distributors to deliver bespoke craft products. It includes sourcing rare materials, verifying authenticity through blockchain, managing seasonal production cycles, synchronizing handmade assembly timelines, and adapting logistics due to fluctuating artisan availability and handcrafted batch variability. The process also incorporates dynamic pricing based on demand insights and artisan reputation, ensures compliance with local cultural heritage laws, and integrates direct customer feedback loops for continuous product refinement. This atypical supply chain balances traditional craftsmanship with modern digital tools to maintain unique product integrity while scaling niche artisan markets internationally.",
+  "activities": [
+    "Material Sourcing",
+    "Forager Dispatch",
+    "Authenticity Check",
+    "Batch Scheduling",
+    "Artisan Allocation",
+    "Craft Assembly",
+    "Quality Inspection",
+    "Blockchain Update",
+    "Demand Forecast",
+    "Price Adjustment",
+    "Compliance Review",
+    "Logistics Planning",
+    "Distributor Sync",
+    "Customer Feedback",
+    "Product Refinement",
+    "Reputation Audit",
+    "Seasonal Review"
+  ]
+}

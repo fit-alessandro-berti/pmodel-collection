@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Integration",
+  "description": "This process outlines the integration of vertical farming systems within urban infrastructure to optimize space usage, enhance food production, and reduce environmental impact. It involves site analysis, modular system design, automated nutrient delivery, energy optimization, and continuous monitoring. The process includes collaboration with local authorities for permits, community engagement for awareness, and adaptive maintenance strategies to ensure sustainability. Data from IoT sensors is analyzed to adjust environmental controls dynamically, while logistics management handles distribution to local markets. The approach supports circular economy principles by recycling water and organic waste, integrating renewable energy sources, and fostering urban biodiversity through green corridors. The goal is to create resilient, efficient, and scalable urban agriculture solutions tailored to diverse city landscapes.",
+  "activities": [
+    "Site Survey",
+    "Permit Review",
+    "Design Layout",
+    "Modular Build",
+    "Sensor Install",
+    "Nutrient Mix",
+    "Water Cycle",
+    "Energy Audit",
+    "IoT Setup",
+    "Data Analyze",
+    "Env Control",
+    "Waste Recycle",
+    "Community Meet",
+    "Market Link",
+    "System Maintain",
+    "Biodiversity Plan",
+    "Renewable Sync"
+  ]
+}

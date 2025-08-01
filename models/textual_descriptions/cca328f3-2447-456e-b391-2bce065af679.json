@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the thorough evaluation and verification of historical artifacts in a museum setting. It starts with initial artifact intake, followed by detailed provenance research, material composition analysis using advanced spectroscopy, and stylistic comparison against known samples. Concurrently, digital imaging captures high-resolution visuals for documentation. Expert consultations are arranged to assess cultural significance and authenticity. The process includes cross-referencing with global artifact databases and legal compliance checks regarding ownership and export laws. After synthesis of all data, a final authenticity report is prepared, archived, and the artifact is either approved for display, returned to the lender, or flagged for further investigation. This atypical process requires coordination across departments including curators, scientists, legal advisors, and archivists, ensuring comprehensive and credible authentication outcomes.",
+  "activities": [
+    "Artifact Intake",
+    "Provenance Check",
+    "Material Scan",
+    "Style Compare",
+    "Digital Capture",
+    "Expert Review",
+    "Database Search",
+    "Legal Audit",
+    "Cultural Assess",
+    "Data Synthesis",
+    "Report Draft",
+    "Archival Store",
+    "Display Approve",
+    "Lender Notify",
+    "Investigation Flag"
+  ]
+}

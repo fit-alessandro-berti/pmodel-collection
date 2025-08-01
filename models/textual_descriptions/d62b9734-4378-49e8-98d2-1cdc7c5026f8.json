@@ -1,0 +1,21 @@
+{
+  "title": "Custom Artifact Authentication",
+  "description": "This process involves the detailed verification and authentication of rare cultural artifacts acquired from diverse global sources. It begins with initial provenance research, followed by multi-spectral imaging and material composition analysis. Expert consultations and historical cross-referencing are conducted to confirm authenticity. Legal ownership is verified through international registries and customs documentation. The artifact then undergoes conservation status assessment before final certification is issued. Throughout the process, secure data logging and chain-of-custody protocols ensure integrity and traceability, essential for auction or museum acquisition purposes.",
+  "activities": [
+    "Provenance Check",
+    "Image Capture",
+    "Material Scan",
+    "Expert Review",
+    "Historical Cross",
+    "Legal Verify",
+    "Registry Search",
+    "Customs Clear",
+    "Condition Assess",
+    "Data Log",
+    "Chain Custody",
+    "Report Draft",
+    "Certification",
+    "Secure Archive",
+    "Auction Prep"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Custom Drone Assembly & Deployment",
+  "description": "This process involves the end-to-end assembly, testing, customization, and deployment of specialized drones for niche industrial applications. Starting from raw component inspection, parts are selected based on client specifications, then assembled with precision. Following mechanical assembly, firmware is loaded and calibrated through iterative testing cycles. Environmental stress tests simulate real-world conditions to ensure durability and performance. Parallel to hardware preparation, software modules are customized to client needs, including navigation algorithms and communication protocols. Once the drone passes all validations, a secure data link is established, and the drone is deployed on-site. Post-deployment includes live monitoring, adaptive firmware updates, and eventual recovery or maintenance scheduling to ensure sustained operational efficacy in challenging environments.",
+  "activities": [
+    "Component Check",
+    "Spec Review",
+    "Parts Sorting",
+    "Mechanical Fit",
+    "Firmware Load",
+    "Calibration Run",
+    "Stress Test",
+    "Software Patch",
+    "Algorithm Tune",
+    "Comms Setup",
+    "Validation Pass",
+    "Data Link",
+    "Onsite Deploy",
+    "Live Monitor",
+    "Update Push",
+    "Recovery Plan",
+    "Maintenance Log"
+  ]
+}

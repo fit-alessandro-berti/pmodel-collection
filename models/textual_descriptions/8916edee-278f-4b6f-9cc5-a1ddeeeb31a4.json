@@ -1,0 +1,21 @@
+{
+  "title": "Dynamic Artifact Authentication",
+  "description": "This process involves the systematic authentication of rare cultural artifacts using a multi-layered approach combining physical examination, advanced imaging, chemical analysis, provenance verification, and blockchain registration. Initial activities include detailed surface scanning and material composition tests to detect anomalies or restorations. Simultaneously, provenance data is cross-referenced with historical databases and auction records to verify ownership lineage. A specialized AI model then analyzes the collected data to predict authenticity confidence scores. Parallelly, a legal compliance check ensures adherence to international cultural property laws. Upon successful validation, the artifact details are encrypted and recorded on a blockchain ledger to guarantee tamper-proof provenance. Finally, a certified authentication report is generated and digitally signed for stakeholders, while an optional insurance appraisal is conducted to assess market value based on authentication results.",
+  "activities": [
+    "Surface Scan",
+    "Material Test",
+    "Provenance Check",
+    "Data Crossref",
+    "AI Analysis",
+    "Legal Review",
+    "Blockchain Log",
+    "Report Draft",
+    "Digital Sign",
+    "Insurance Appraisal",
+    "Condition Assess",
+    "Restoration Detect",
+    "Historical Match",
+    "Ownership Verify",
+    "Stakeholder Notify"
+  ]
+}

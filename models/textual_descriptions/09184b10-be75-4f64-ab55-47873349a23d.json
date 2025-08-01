@@ -1,0 +1,22 @@
+{
+  "title": "Rare Artifact Authentication",
+  "description": "This process involves the authentication and provenance verification of rare artifacts, combining scientific analysis, historical research, and legal validation. The workflow includes initial artifact inspection, material composition testing, provenance tracing through archival databases, expert consultations, and legal ownership verification. Additional steps cover condition reporting, restoration assessment, forgery detection, and final certification issuance. This atypical process requires coordination between archaeologists, chemists, historians, legal experts, and conservators to ensure an artifact's authenticity and legality before it can be acquired or exhibited. The complex interplay of scientific, historical, and legal evaluations makes this process unique in the business context.",
+  "activities": [
+    "Artifact Intake",
+    "Visual Scan",
+    "Material Test",
+    "Data Logging",
+    "Archive Search",
+    "Expert Consult",
+    "Condition Check",
+    "Forgery Scan",
+    "Ownership Check",
+    "Legal Review",
+    "Restoration Plan",
+    "Report Draft",
+    "Certification",
+    "Client Brief",
+    "Final Approval",
+    "Artifact Return"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Custom Artifact Provenance",
+  "description": "This process involves the detailed validation and documentation of an artifact's origin, ownership, and authenticity through multiple verification stages including material analysis, historical registry checks, provenance interviews, and secure digital ledger entries. Each step ensures comprehensive traceability and legal compliance, often requiring interdisciplinary collaboration between historians, scientists, legal experts, and technology specialists to certify rare or culturally significant objects before sale or exhibition.",
+  "activities": [
+    "Artifact Intake",
+    "Initial Survey",
+    "Material Test",
+    "Historical Check",
+    "Registry Search",
+    "Owner Interview",
+    "Condition Report",
+    "Forgery Scan",
+    "Digital Tagging",
+    "Ledger Entry",
+    "Expert Review",
+    "Legal Verify",
+    "Provenance Draft",
+    "Client Approval",
+    "Final Certificate",
+    "Archive Storage"
+  ]
+}

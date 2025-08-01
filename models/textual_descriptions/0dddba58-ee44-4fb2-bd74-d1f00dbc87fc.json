@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process outlines the multi-step procedure for authenticating rare historical artifacts before acquisition by a museum. It involves initial appraisal, scientific testing including spectroscopy and radiocarbon dating, provenance verification through archival research, consultation with external experts, risk assessment for forgery, legal ownership checks, and final approval by the curatorial board. The process ensures comprehensive validation to prevent acquisition of counterfeit or illegally acquired items, balancing scholarly integrity with institutional acquisition goals. Documentation and digital archiving of each step are mandatory for transparency and future reference.",
+  "activities": [
+    "Initial Appraisal",
+    "Visual Inspection",
+    "Material Sampling",
+    "Spectroscopy Test",
+    "Radiocarbon Date",
+    "Provenance Check",
+    "Archive Search",
+    "Expert Consult",
+    "Forgery Analysis",
+    "Legal Review",
+    "Ownership Verify",
+    "Risk Assessment",
+    "Curator Meeting",
+    "Final Approval",
+    "Record Archive",
+    "Digital Upload"
+  ]
+}

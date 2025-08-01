@@ -1,0 +1,21 @@
+{
+  "title": "Custom Drone Assembly Workflow",
+  "description": "This process outlines the intricate steps involved in the custom assembly and configuration of drones tailored for specialized industrial applications. It begins with detailed client requirement analysis, followed by component sourcing from multiple suppliers with varying lead times. Quality inspections are conducted on incoming parts before assembly. The workflow includes iterative firmware customization and real-time sensor calibration. Post-assembly, drones undergo environmental stress testing and autonomous flight simulations to validate performance under diverse conditions. The process concludes with packaging, client training sessions, and post-deployment support scheduling to ensure seamless integration into client operations.",
+  "activities": [
+    "Client Brief",
+    "Component Sourcing",
+    "Parts Inspection",
+    "Frame Assembly",
+    "Firmware Upload",
+    "Sensor Setup",
+    "Motor Calibration",
+    "Battery Installation",
+    "Initial Testing",
+    "Stress Testing",
+    "Flight Simulation",
+    "Quality Audit",
+    "Packaging Prep",
+    "Client Training",
+    "Support Scheduling"
+  ]
+}

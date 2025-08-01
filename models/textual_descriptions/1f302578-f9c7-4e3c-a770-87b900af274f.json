@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process outlines the complete cycle of an urban vertical farming operation integrating IoT sensors, AI-driven growth optimization, and sustainable resource management. Starting from seed selection, the process covers climate control adjustments, nutrient delivery, and pest monitoring through automated drones. It includes real-time data analysis to optimize lighting and watering schedules, followed by harvesting, quality inspection, and packaging. The cycle concludes with waste recycling and energy consumption reporting, ensuring minimal environmental impact and maximum crop yield within a constrained urban footprint.",
+  "activities": [
+    "Seed Selection",
+    "Climate Setup",
+    "Nutrient Mix",
+    "Sensor Calibration",
+    "Lighting Adjust",
+    "Watering Cycle",
+    "Pest Scan",
+    "Drone Patrol",
+    "Data Analysis",
+    "Growth Forecast",
+    "Harvest Prep",
+    "Quality Check",
+    "Packaging Done",
+    "Waste Sorting",
+    "Energy Report"
+  ]
+}

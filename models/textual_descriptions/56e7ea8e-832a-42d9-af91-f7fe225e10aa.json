@@ -1,0 +1,21 @@
+{
+  "title": "Antique Artifact Authentication",
+  "description": "This process involves the complex and meticulous evaluation of antique artifacts to verify their authenticity and provenance. It includes initial visual inspection, material analysis using advanced spectroscopy, historical research through archival records, expert consultations, and multi-layered documentation. The process must navigate legal restrictions, cultural sensitivities, and potential forgeries. Each artifact undergoes condition assessment, digital imaging, and comparison against known databases. Finally, results are compiled into a comprehensive report that supports insurance, sale, or museum acquisition decisions. The process requires interdisciplinary collaboration and can take several months to complete due to the depth of analysis and verification steps involved.",
+  "activities": [
+    "Initial Inspection",
+    "Material Analysis",
+    "Historical Research",
+    "Expert Consult",
+    "Legal Review",
+    "Condition Check",
+    "Digital Imaging",
+    "Database Compare",
+    "Forgery Detection",
+    "Provenance Trace",
+    "Cultural Assessment",
+    "Documentation",
+    "Insurance Review",
+    "Report Compilation",
+    "Final Approval"
+  ]
+}

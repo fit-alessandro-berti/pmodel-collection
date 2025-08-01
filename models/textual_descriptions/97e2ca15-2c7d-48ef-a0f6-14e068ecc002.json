@@ -1,0 +1,22 @@
+{
+  "title": "Cross-Docking Inventory Sync",
+  "description": "This process involves the seamless coordination of inbound and outbound shipments through a cross-docking facility to minimize storage time and optimize delivery speed. It includes receiving goods, verifying shipment accuracy, sorting items based on destination, real-time inventory synchronization with multiple warehouses, coordinating transport schedules with third-party carriers, handling unexpected discrepancies or delays, updating tracking systems, and ensuring compliance with customs and safety regulations. The process demands close communication between logistics teams, warehouse operators, and IT systems to maintain a continuous flow of goods without bottlenecks, thereby reducing costs and improving customer satisfaction.",
+  "activities": [
+    "Shipment Receive",
+    "Verify Goods",
+    "Sort Items",
+    "Update Inventory",
+    "Schedule Transport",
+    "Notify Carriers",
+    "Handle Discrepancies",
+    "Customs Check",
+    "Safety Inspect",
+    "Sync Databases",
+    "Load Vehicles",
+    "Track Shipments",
+    "Confirm Dispatch",
+    "Report Status",
+    "Audit Records",
+    "Feedback Collect"
+  ]
+}

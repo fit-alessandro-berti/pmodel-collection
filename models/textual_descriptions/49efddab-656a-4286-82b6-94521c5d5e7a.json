@@ -1,0 +1,22 @@
+{
+  "title": "Urban Rooftop Farming Setup",
+  "description": "This process outlines the intricate steps involved in transforming underutilized urban rooftop spaces into productive, sustainable farms. It includes assessing structural integrity, securing permits, designing modular irrigation systems, sourcing organic seeds, and training local community members. The workflow also addresses crop rotation planning to maximize yield, integrating solar-powered sensors for optimal growth conditions, managing waste composting onsite, coordinating with local markets for direct sales, and implementing seasonal maintenance protocols to ensure long-term farm health and community engagement.",
+  "activities": [
+    "Inspect Roof",
+    "Permit Apply",
+    "Design Layout",
+    "Irrigation Setup",
+    "Seed Sourcing",
+    "Soil Testing",
+    "Install Sensors",
+    "Compost Setup",
+    "Plant Seeds",
+    "Train Staff",
+    "Crop Rotate",
+    "Market Plan",
+    "Waste Collect",
+    "Harvest Crop",
+    "Maintenance Check",
+    "Community Meet"
+  ]
+}

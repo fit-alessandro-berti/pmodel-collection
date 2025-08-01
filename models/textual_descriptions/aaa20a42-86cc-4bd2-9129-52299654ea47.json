@@ -1,0 +1,21 @@
+{
+  "title": "Remote Drone Fleet Leasing",
+  "description": "This process manages the leasing and operational coordination of a remote drone fleet used for agricultural monitoring and environmental data collection. It includes client onboarding, drone assignment, flight scheduling, data acquisition, real-time monitoring, maintenance coordination, compliance checks, data processing, anomaly reporting, billing, and feedback collection. The process ensures seamless integration between remote operators, clients, and maintenance teams to optimize drone usage and data quality while adhering to regulatory standards and minimizing downtime.",
+  "activities": [
+    "Client Onboard",
+    "Fleet Assign",
+    "Flight Schedule",
+    "Preflight Check",
+    "Launch Drone",
+    "Flight Monitor",
+    "Data Capture",
+    "Data Upload",
+    "Anomaly Detect",
+    "Maintenance Alert",
+    "Compliance Audit",
+    "Data Process",
+    "Report Generate",
+    "Client Billing",
+    "Feedback Review"
+  ]
+}

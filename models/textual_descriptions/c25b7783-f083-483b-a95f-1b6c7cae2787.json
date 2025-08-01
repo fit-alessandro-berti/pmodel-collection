@@ -1,0 +1,23 @@
+{
+  "title": "Antique Artifact Authentication",
+  "description": "This process involves the meticulous authentication of antique artifacts for auction houses and private collectors. It begins with preliminary visual inspection followed by scientific material analysis including spectroscopy and radiocarbon dating. Experts then cross-reference the artifact's provenance with historical records and databases. If discrepancies arise, forensic imaging and microscopic surface analysis are conducted. The process also includes consultation with historians and artisans familiar with the era and style of the artifact. After comprehensive evaluation, a detailed authentication report is prepared, including possible restoration suggestions, risk assessment, and market valuation. Finally, the artifact undergoes secure packaging and certification before being released for sale or exhibition. This atypical process ensures both scientific rigor and historical accuracy, minimizing forgeries and preserving cultural heritage.",
+  "activities": [
+    "Visual Inspect",
+    "Material Test",
+    "Spectro Analyze",
+    "Radiocarbon Date",
+    "Provenance Check",
+    "Database Search",
+    "Discrepancy Review",
+    "Forensic Imaging",
+    "Surface Microscopy",
+    "Expert Consult",
+    "Historical Crossref",
+    "Report Draft",
+    "Restoration Plan",
+    "Risk Assess",
+    "Market Valuate",
+    "Secure Package",
+    "Certification Issue"
+  ]
+}

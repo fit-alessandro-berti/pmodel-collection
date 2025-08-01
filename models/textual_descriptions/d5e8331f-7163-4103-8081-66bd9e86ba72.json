@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process involves managing and optimizing the production cycle within a multi-level urban vertical farm. It includes site preparation, seed selection, nutrient management, environmental monitoring, automated pest control, and energy optimization. The cycle ensures sustainable crop yield while minimizing waste and resource consumption by integrating IoT sensors, AI-driven analytics, and robotic harvesting. Post-harvest activities include quality grading, packaging, cold storage, and direct distribution to local markets or restaurants. Continuous data feedback loops enable adaptive adjustments to improve efficiency and crop resilience throughout seasonal variations in an urban context.",
+  "activities": [
+    "Site Prep",
+    "Seed Select",
+    "Nutrient Mix",
+    "Planting Rows",
+    "Env Monitor",
+    "Water Adjust",
+    "Pest Control",
+    "Growth Check",
+    "Light Calibrate",
+    "Energy Manage",
+    "Harvest Crop",
+    "Quality Sort",
+    "Pack Goods",
+    "Cold Store",
+    "Market Ship",
+    "Data Analyze"
+  ]
+}

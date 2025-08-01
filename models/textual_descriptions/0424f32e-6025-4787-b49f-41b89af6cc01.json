@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the intricate steps required to authenticate rare and ancient artifacts before acquisition or exhibition. It includes multidisciplinary activities such as provenance research, material analysis, expert consultation, digital imaging, and legal clearance. The workflow ensures the artifact's legitimacy through scientific testing, historical verification, and ethical sourcing checks. Complex coordination between historians, scientists, legal advisors, and curators is essential. The process culminates in certification, secure cataloging, and preparation for transport or display, minimizing risks of fraud and preserving cultural heritage integrity.",
+  "activities": [
+    "Preliminary Review",
+    "Provenance Check",
+    "Material Testing",
+    "XRay Imaging",
+    "Carbon Dating",
+    "Expert Panel",
+    "Historical Analysis",
+    "Legal Clearance",
+    "Ethics Approval",
+    "Condition Report",
+    "Digital Scan",
+    "Risk Assessment",
+    "Authentication Cert",
+    "Secure Cataloging",
+    "Transport Prep",
+    "Exhibit Setup"
+  ]
+}

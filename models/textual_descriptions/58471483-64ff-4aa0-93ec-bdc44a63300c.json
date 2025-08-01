@@ -1,0 +1,21 @@
+{
+  "title": "Adaptive Art Auction",
+  "description": "This process manages an adaptive art auction where artworks are dynamically evaluated and re-categorized based on real-time bidder interest and external market trends. It involves continuous data collection from bidders, automated artwork reclassification, targeted marketing campaigns, and iterative reserve price adjustments. The process also integrates expert appraisals triggered by unusual bidding patterns and coordinates logistics for art delivery only after final payment confirmation, ensuring security and compliance with international art trade regulations. Throughout, a feedback loop engages artists and collectors to refine future auction strategies.",
+  "activities": [
+    "Collect Bids",
+    "Analyze Trends",
+    "Reclassify Art",
+    "Adjust Reserves",
+    "Trigger Appraisal",
+    "Notify Bidders",
+    "Launch Campaign",
+    "Monitor Engagement",
+    "Validate Payments",
+    "Schedule Delivery",
+    "Confirm Compliance",
+    "Update Catalog",
+    "Gather Feedback",
+    "Refine Strategy",
+    "Archive Records"
+  ]
+}

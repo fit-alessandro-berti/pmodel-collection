@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process outlines the comprehensive cycle of urban vertical farming, integrating advanced hydroponics, automated nutrient delivery, and environmental controls to maximize crop yield in limited city spaces. It involves seed selection, germination monitoring, nutrient mixing, growth tracking, pest control, harvesting automation, and waste recycling. Data from IoT sensors continuously optimize conditions for plant health, while logistics ensure fresh produce distribution within tight urban supply chains. The process also includes energy management for sustainable operation and post-harvest quality assessment to maintain food safety standards.",
+  "activities": [
+    "Seed Selection",
+    "Germination Check",
+    "Nutrient Mix",
+    "Planting Setup",
+    "Environment Adjust",
+    "Growth Monitor",
+    "Pest Inspection",
+    "Irrigation Control",
+    "Light Calibration",
+    "Harvest Schedule",
+    "Automated Picking",
+    "Waste Sorting",
+    "Energy Audit",
+    "Quality Assess",
+    "Produce Packing",
+    "Supply Dispatch"
+  ]
+}

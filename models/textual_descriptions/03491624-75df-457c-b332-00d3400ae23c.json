@@ -1,0 +1,21 @@
+{
+  "title": "Artisan Cheese Export",
+  "description": "This process involves the intricate steps required to produce, certify, and export artisanal cheese from rural farms to international gourmet markets. It includes raw milk sourcing, traditional fermentation, quality control, packaging with unique branding, regulatory compliance checks for each target country, coordination with logistics partners specializing in perishable goods, managing customs documentation, and ensuring cold chain integrity throughout transit. The process also involves market feedback collection post-delivery to adjust production and marketing strategies for different regions.",
+  "activities": [
+    "Milk Sourcing",
+    "Fermentation Start",
+    "Curd Cutting",
+    "Molding Cheese",
+    "Salt Application",
+    "Aging Check",
+    "Quality Testing",
+    "Packaging Design",
+    "Label Printing",
+    "Certify Origin",
+    "Customs Filing",
+    "Cold Chain",
+    "Logistics Booking",
+    "Market Feedback",
+    "Adjust Production"
+  ]
+}

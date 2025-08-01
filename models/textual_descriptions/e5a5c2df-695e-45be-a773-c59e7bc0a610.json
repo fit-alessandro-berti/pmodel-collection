@@ -1,0 +1,22 @@
+{
+  "title": "Crisis Response Coordination",
+  "description": "This process involves a multi-phase coordination of resources and stakeholders during unexpected crisis events such as natural disasters or large-scale technological failures. It includes rapid assessment, communication across agencies, resource mobilization, risk mitigation, and continuous monitoring to ensure timely recovery. The process requires dynamic decision-making, prioritization of critical actions, and integration of diverse information streams to adapt to evolving situations while maintaining transparency and accountability.",
+  "activities": [
+    "Alert Trigger",
+    "Initial Assess",
+    "Stakeholder Notify",
+    "Resource Check",
+    "Risk Analyze",
+    "Command Setup",
+    "Deploy Teams",
+    "Data Collect",
+    "Situation Update",
+    "Priority Adjust",
+    "External Liaison",
+    "Supply Dispatch",
+    "Media Brief",
+    "Impact Review",
+    "Recovery Plan",
+    "Process Audit"
+  ]
+}

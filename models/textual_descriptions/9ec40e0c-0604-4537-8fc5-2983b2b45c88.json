@@ -1,0 +1,22 @@
+{
+  "title": "Artisanal Cheese Lifecycle",
+  "description": "This process outlines the intricate lifecycle of producing artisanal cheese, starting from sourcing rare local milk, through precise fermentation and aging stages, to quality evaluation and bespoke packaging. Each step requires specialized craftsmanship and environmental monitoring to ensure distinctive flavor profiles. The process incorporates traditional methods alongside modern quality controls, involving seasonal adjustments and customer feedback loops to maintain authenticity and excellence across batches, culminating in distribution to niche markets and exclusive retailers.",
+  "activities": [
+    "Milk Sourcing",
+    "Quality Testing",
+    "Starter Culture",
+    "Milk Pasteurize",
+    "Curd Formation",
+    "Cutting Curd",
+    "Whey Drain",
+    "Molding Cheese",
+    "Pressing Blocks",
+    "Salting Surface",
+    "Aging Control",
+    "Flavor Sampling",
+    "Rind Treatment",
+    "Packaging Design",
+    "Market Distribution",
+    "Customer Feedback"
+  ]
+}

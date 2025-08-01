@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the complex setup and operationalization of an urban vertical farming system that integrates hydroponics, IoT sensors, automated climate control, and waste recycling. The procedure includes site assessment, modular installation, nutrient balancing, real-time monitoring, pest management, and yield optimization. Each phase involves cross-disciplinary collaboration between agronomists, engineers, and data analysts to ensure sustainable production of fresh produce within constrained city spaces, minimizing resource consumption and environmental impact while maximizing output and quality.",
+  "activities": [
+    "Site Survey",
+    "Design Layout",
+    "Install Frames",
+    "Setup Hydroponics",
+    "Configure Sensors",
+    "Calibrate Climate",
+    "Nutrient Mix",
+    "Seed Planting",
+    "Monitor Growth",
+    "Adjust Lighting",
+    "Pest Control",
+    "Waste Recycle",
+    "Data Analysis",
+    "Harvest Crops",
+    "Quality Check",
+    "Market Dispatch"
+  ]
+}

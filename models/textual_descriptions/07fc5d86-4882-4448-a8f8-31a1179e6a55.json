@@ -1,0 +1,22 @@
+{
+  "title": "Adaptive Supply Chain Orchestration",
+  "description": "This process manages a supply chain that dynamically adapts to real-time market fluctuations, supplier disruptions, and customer demand variability. It incorporates predictive analytics, multi-tier supplier coordination, and automated contingency planning. The workflow includes continuous data ingestion from IoT devices, AI-driven risk assessment, and decentralized decision-making to optimize inventory levels and logistics routes. This atypical approach reduces lead times and enhances resilience by blending human oversight with autonomous adjustments, ensuring seamless operations despite external uncertainties and internal constraints.",
+  "activities": [
+    "Data Ingestion",
+    "Risk Analysis",
+    "Demand Forecast",
+    "Supplier Sync",
+    "Inventory Audit",
+    "Contingency Plan",
+    "Order Prioritize",
+    "Route Optimize",
+    "Capacity Check",
+    "Quality Review",
+    "Shipment Track",
+    "Disruption Alert",
+    "Contract Update",
+    "Resource Allocate",
+    "Feedback Loop",
+    "Performance Review"
+  ]
+}

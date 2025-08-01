@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Cycle",
+  "description": "This process outlines the detailed steps involved in authenticating historical artifacts for museums or private collectors. It begins with initial artifact intake and documentation, followed by non-invasive imaging and chemical analysis to identify materials and age. Experts conduct provenance research and comparative stylistic evaluation to verify authenticity. If discrepancies arise, advanced techniques like carbon dating or microscopic fiber analysis are employed. After scientific validation, legal checks ensure compliance with cultural heritage laws. The process concludes with detailed reporting, certification issuance, and secure archive storage. Throughout, cross-disciplinary collaboration and iterative reviews maintain accuracy and integrity in authentication.",
+  "activities": [
+    "Artifact Intake",
+    "Initial Scan",
+    "Material Test",
+    "Provenance Check",
+    "Style Compare",
+    "Carbon Dating",
+    "Fiber Analysis",
+    "Legal Review",
+    "Expert Panel",
+    "Condition Report",
+    "Data Archive",
+    "Certification",
+    "Client Brief",
+    "Secure Storage",
+    "Final Approval"
+  ]
+}

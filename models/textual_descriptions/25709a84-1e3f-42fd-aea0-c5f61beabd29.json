@@ -1,0 +1,22 @@
+{
+  "title": "Custom Art Commission Workflow",
+  "description": "This process outlines the workflow for managing bespoke art commissions from initial client inquiry through to final delivery and post-sale support. It includes client consultation, concept development, iterative feedback cycles, material sourcing, creation phases, quality assurance, and coordinating logistics with specialized packaging and shipping. Additionally, it covers the management of intellectual property rights, final invoicing, and securing client testimonials to support future commissions. The process ensures transparency, client satisfaction, and efficient turnaround times for unique, high-value art pieces.",
+  "activities": [
+    "Client Inquiry",
+    "Initial Brief",
+    "Concept Draft",
+    "Feedback Loop",
+    "Material Sourcing",
+    "Work Scheduling",
+    "Prototype Review",
+    "Art Creation",
+    "Detailing Phase",
+    "Quality Check",
+    "Packaging Prep",
+    "Shipping Setup",
+    "IP Agreement",
+    "Final Invoice",
+    "Client Followup",
+    "Testimonial Request"
+  ]
+}

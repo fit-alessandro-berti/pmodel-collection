@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process outlines the comprehensive steps involved in authenticating historical artifacts for museum acquisition. It begins with initial provenance research, followed by multi-disciplinary scientific testing including spectroscopy and radiocarbon dating. Expert consultations and forensic analysis are conducted to verify authenticity, while legal checks ensure clear ownership. Parallelly, risk assessment and insurance valuation take place. The process concludes with detailed documentation and final approval by the acquisition committee, ensuring the artifact's legitimacy and compliance with regulatory standards before procurement.",
+  "activities": [
+    "Provenance Check",
+    "Specimen Sampling",
+    "Spectroscopy Test",
+    "Radiocarbon Date",
+    "Material Analysis",
+    "Forensic Review",
+    "Expert Consult",
+    "Legal Verify",
+    "Ownership Audit",
+    "Risk Assess",
+    "Insurance Quote",
+    "Condition Report",
+    "Documentation",
+    "Committee Review",
+    "Final Approval"
+  ]
+}

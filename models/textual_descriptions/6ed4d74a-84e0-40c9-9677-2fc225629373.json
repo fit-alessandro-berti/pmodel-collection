@@ -1,0 +1,22 @@
+{
+  "title": "Urban Rooftop Farming Launch",
+  "description": "This process outlines the complex steps involved in launching an urban rooftop farming initiative that integrates sustainable agriculture with smart city technology. It includes site assessment, regulatory compliance, sensor installation for microclimate monitoring, soil enhancement using biochar, seed selection tailored for urban environments, automated irrigation setup, pest management through integrated biological controls, community engagement for local support, harvesting logistics optimized for limited space, waste composting, data analysis for yield optimization, and continuous improvement cycles driven by sensor feedback. The goal is to create a self-sustaining, scalable urban farm that contributes to food security and environmental benefits while leveraging IoT and community involvement.",
+  "activities": [
+    "Site Survey",
+    "Permit Review",
+    "Sensor Setup",
+    "Soil Testing",
+    "Biochar Mix",
+    "Seed Selection",
+    "Irrigation Install",
+    "Pest Control",
+    "Community Meet",
+    "Planting Phase",
+    "Growth Monitor",
+    "Harvest Plan",
+    "Waste Compost",
+    "Data Upload",
+    "Yield Analysis",
+    "Feedback Loop"
+  ]
+}

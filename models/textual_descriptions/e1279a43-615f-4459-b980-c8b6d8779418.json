@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process describes the comprehensive cycle of an urban vertical farming operation, integrating technology, resource management, and distribution logistics. It begins with site analysis and infrastructure setup, followed by seed selection and nutrient calibration. Real-time monitoring and climate adjustment optimize plant growth, while automated harvesting and quality inspection ensure produce standards. Post-harvest, products undergo packaging and cold storage before distribution via eco-friendly channels. Waste recycling and system maintenance close the loop, promoting sustainability in an atypical yet realistic agricultural business model embedded within urban environments.",
+  "activities": [
+    "Site Analysis",
+    "Infrastructure Setup",
+    "Seed Selection",
+    "Nutrient Mix",
+    "Planting Cycle",
+    "Climate Adjust",
+    "Growth Monitor",
+    "Pest Control",
+    "Harvesting Mode",
+    "Quality Check",
+    "Packaging Phase",
+    "Cold Storage",
+    "Order Dispatch",
+    "Waste Recycling",
+    "System Maintain"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Rare Artifact Authentication",
+  "description": "This process involves the detailed examination and verification of rare artifacts obtained from private collectors and archaeological digs. Experts perform multi-disciplinary analyses including material composition testing, provenance tracing, and historical context validation. The process integrates advanced imaging techniques, chemical assays, and consultation with historians to confirm authenticity. Following authentication, artifacts undergo conservation assessment and are prepared for either museum display or private sale. Throughout, secure documentation and chain-of-custody protocols are strictly maintained to ensure legal compliance and provenance integrity.",
+  "activities": [
+    "Artifact Receipt",
+    "Initial Inspection",
+    "Material Testing",
+    "Imaging Scan",
+    "Provenance Check",
+    "Historical Review",
+    "Expert Consultation",
+    "Chemical Assay",
+    "Forgery Analysis",
+    "Condition Report",
+    "Conservation Plan",
+    "Documentation",
+    "Chain Custody",
+    "Legal Review",
+    "Final Approval",
+    "Display Setup",
+    "Sale Preparation"
+  ]
+}

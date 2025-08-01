@@ -1,0 +1,21 @@
+{
+  "title": "Cross-Industry Innovation Cycle",
+  "description": "This process describes a cyclical methodology for generating breakthrough innovations by integrating insights, technologies, and practices from multiple unrelated industries. It begins with environmental scanning and knowledge harvesting, followed by cross-sector ideation workshops that challenge conventional boundaries. Prototyping leverages rapid iteration with diverse teams, while validation incorporates feedback loops from pilot users across different market segments. Scaling involves tailored adaptation strategies per industry context, and continuous learning ensures the process evolves dynamically. This atypical approach fosters radical innovation by deliberately blending diverse domain expertise, avoiding siloed R&D, and embedding systemic feedback to sustain long-term competitive advantage.",
+  "activities": [
+    "Scan Trends",
+    "Harvest Data",
+    "Map Insights",
+    "Form Teams",
+    "Ideate Cross",
+    "Select Concepts",
+    "Build Prototype",
+    "Test Pilots",
+    "Gather Feedback",
+    "Refine Model",
+    "Adapt Strategy",
+    "Launch Scaled",
+    "Monitor Impact",
+    "Capture Learn",
+    "Iterate Cycle"
+  ]
+}

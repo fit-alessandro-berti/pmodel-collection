@@ -1,0 +1,22 @@
+{
+  "title": "Antique Restoration Workflow",
+  "description": "This process outlines the detailed steps involved in restoring antique furniture to preserve its historical value while ensuring structural integrity and aesthetic appeal. It begins with initial assessment and authentication, followed by careful disassembly and cleaning. Specialized treatments are applied to repair wood damage and remove old finishes. Surface refinishing involves matching original paint or varnish tones. Reassembly requires precise fitting of components, sometimes fabricating missing parts based on historical research. The final phase includes quality control, documentation of restoration techniques, and client approval. This atypical process demands expertise in conservation science, craftsmanship, and historical knowledge, balancing preservation with usability and market valuation.",
+  "activities": [
+    "Assess Item",
+    "Authenticate Piece",
+    "Disassemble Parts",
+    "Clean Surfaces",
+    "Remove Finish",
+    "Treat Wood",
+    "Repair Damage",
+    "Research History",
+    "Fabricate Parts",
+    "Refinish Surface",
+    "Reassemble Item",
+    "Quality Check",
+    "Document Process",
+    "Client Review",
+    "Finalize Restoration",
+    "Store Securely"
+  ]
+}

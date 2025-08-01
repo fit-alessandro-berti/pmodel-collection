@@ -1,0 +1,22 @@
+{
+  "title": "Artisanal Cheese Export",
+  "description": "This process details the end-to-end workflow of exporting artisanal cheese from small-scale farms to international gourmet markets. It involves curating unique cheese varieties, obtaining health certifications, managing cold chain logistics, coordinating with customs brokers, and ensuring compliance with varying import regulations across countries. The process also includes marketing strategies tailored to niche markets, packaging design to maintain freshness and brand identity, and post-delivery feedback collection to continuously improve product quality and customer satisfaction. Special attention is given to traceability and sustainability certifications to meet modern consumer expectations.",
+  "activities": [
+    "Farm Selection",
+    "Milk Testing",
+    "Cheese Aging",
+    "Quality Check",
+    "Health Certify",
+    "Packaging Design",
+    "Label Approval",
+    "Cold Storage",
+    "Customs Filing",
+    "Transport Booking",
+    "Export Negotiation",
+    "Market Research",
+    "Order Processing",
+    "Customer Outreach",
+    "Feedback Review",
+    "Sustainability Audit"
+  ]
+}

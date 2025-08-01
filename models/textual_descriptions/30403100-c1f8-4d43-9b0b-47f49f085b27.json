@@ -1,0 +1,23 @@
+{
+  "title": "Artisan Cheese Supply Chain",
+  "description": "This process outlines the intricate steps involved in producing, aging, and distributing artisan cheeses from small-scale farms to niche gourmet shops. It begins with milk sourcing and quality testing, followed by curdling and molding. The cheese then undergoes controlled aging with regular monitoring of humidity and temperature. Packaging requires specialized materials to maintain freshness, and logistics include refrigerated transport with real-time tracking. Finally, marketing involves targeted outreach to culinary experts and hosting tasting events to build brand recognition. Each stage requires close coordination to ensure product authenticity and compliance with food safety standards, making the process both complex and highly specialized.",
+  "activities": [
+    "Milk Sourcing",
+    "Quality Testing",
+    "Milk Pasteurize",
+    "Curd Formation",
+    "Mold Pressing",
+    "Salting Stage",
+    "Aging Setup",
+    "Humidity Check",
+    "Temperature Log",
+    "Flavor Sampling",
+    "Packaging Prep",
+    "Seal Inspection",
+    "Cold Storage",
+    "Transport Route",
+    "Delivery Confirm",
+    "Marketing Push",
+    "Event Hosting"
+  ]
+}

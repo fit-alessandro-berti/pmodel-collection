@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process governs the verification and authentication of ancient artifacts prior to acquisition by museums or private collectors. It involves multidisciplinary collaboration across historians, chemists, and legal experts. The workflow begins with preliminary artifact inspection, followed by material composition analysis using spectroscopy, radiocarbon dating, and microscopic examination. Subsequent provenance research entails tracing ownership history through archival records and cross-referencing with known historical events. Legal clearance is obtained to confirm artifact export and import compliance. Conservation specialists then assess preservation needs and recommend restoration protocols. Finally, a comprehensive authentication report is compiled, integrating scientific data, historical context, and legal validation to support acquisition decisions and prevent fraudulent transactions.",
+  "activities": [
+    "Initial Inspect",
+    "Material Test",
+    "Radiocarbon Date",
+    "Microscopic Scan",
+    "Provenance Check",
+    "Archive Search",
+    "Owner Verify",
+    "Legal Review",
+    "Export Clearance",
+    "Import Clearance",
+    "Conservation Eval",
+    "Restoration Plan",
+    "Report Draft",
+    "Report Review",
+    "Final Approval"
+  ]
+}

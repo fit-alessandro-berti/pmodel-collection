@@ -1,0 +1,23 @@
+{
+  "title": "Artisan Cheese Supply Chain",
+  "description": "This process manages the end-to-end supply chain for artisan cheese production, incorporating unique steps like raw milk sourcing from small farms, microbial culture selection, controlled aging environments, and bespoke packaging. It involves quality assurance through sensory analysis, regulatory compliance checks, seasonal demand forecasting, and custom order fulfillment for niche markets. The process also integrates sustainability tracking, waste byproduct recycling, and collaborative innovation with local cheesemakers to continuously improve flavor profiles and production efficiency, ensuring a premium product reaches specialized retailers and consumers worldwide.",
+  "activities": [
+    "Milk Sourcing",
+    "Culture Selection",
+    "Milk Pasteurize",
+    "Curd Formation",
+    "Whey Separation",
+    "Mold Inoculate",
+    "Cheese Pressing",
+    "Aging Setup",
+    "Humidity Control",
+    "Flavor Testing",
+    "Packaging Design",
+    "Label Approval",
+    "Order Forecast",
+    "Regulation Audit",
+    "Waste Recycling",
+    "Market Delivery",
+    "Customer Feedback"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process details the complex setup of an urban vertical farm within a repurposed warehouse space. It involves site analysis, environmental control installation, hydroponic system integration, nutrient solution calibration, lighting optimization, and automation programming. Coordination with local authorities for zoning and safety compliance is required, alongside workforce training for specialized agricultural and technical tasks. Ongoing monitoring and iterative adjustment ensure optimal crop yield and resource efficiency, while data analytics support predictive maintenance and supply chain synchronization. The process culminates in establishing a sustainable, scalable urban farming operation that minimizes ecological impact while maximizing productivity in a confined urban environment.",
+  "activities": [
+    "Site Survey",
+    "Zoning Check",
+    "Layout Plan",
+    "Env Control",
+    "Hydro Setup",
+    "Nutrient Mix",
+    "Light Config",
+    "Automation Dev",
+    "Safety Audit",
+    "Staff Training",
+    "System Test",
+    "Crop Seeding",
+    "Data Monitor",
+    "Yield Optimize",
+    "Supply Align",
+    "Maintenance Plan"
+  ]
+}

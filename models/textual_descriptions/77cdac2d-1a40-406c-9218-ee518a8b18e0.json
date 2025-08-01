@@ -1,0 +1,23 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process covers the end-to-end assembly of custom drones tailored to client specifications. It involves initial client consultation to determine unique requirements, followed by component sourcing from specialized suppliers. The process continues with prototype design, iterative testing with embedded AI software, and precision mechanical assembly. Quality assurance includes environmental stress tests and real-world flight simulations. After successful validation, drones undergo final calibration, packaging, and logistics coordination for delivery. Post-delivery support includes remote diagnostics and firmware updates, ensuring optimal performance and client satisfaction over the drone's lifecycle.",
+  "activities": [
+    "Client Consult",
+    "Specs Review",
+    "Supplier Vetting",
+    "Order Components",
+    "Prototype Design",
+    "Software Embed",
+    "Mechanical Build",
+    "Initial Testing",
+    "AI Optimization",
+    "Stress Testing",
+    "Flight Simulate",
+    "Quality Audit",
+    "Final Calibrate",
+    "Package Drone",
+    "Arrange Shipping",
+    "Post Support",
+    "Firmware Update"
+  ]
+}

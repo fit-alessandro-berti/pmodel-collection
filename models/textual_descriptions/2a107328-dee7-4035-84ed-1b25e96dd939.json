@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Supply Chain",
+  "description": "This process manages the entire supply chain of an urban vertical farming operation, integrating agricultural production, resource optimization, real-time environmental monitoring, crop harvesting, packaging, and distribution to local markets. It involves synchronous coordination between AI-driven climate control, automated nutrient delivery, pest management using bioagents, yield prediction, and dynamic order fulfillment. The process also addresses sustainability goals by recycling water and organic waste, while adapting to fluctuating demand patterns in densely populated urban areas. Each activity ensures minimal resource waste and maximizes freshness and quality through a digitally connected ecosystem of sensors, robots, and logistics partners.",
+  "activities": [
+    "Seed Selection",
+    "Climate Setup",
+    "Nutrient Mix",
+    "Water Recycling",
+    "Pest Control",
+    "Growth Monitoring",
+    "Yield Forecast",
+    "Automated Harvest",
+    "Crop Sorting",
+    "Packaging Prep",
+    "Order Processing",
+    "Delivery Routing",
+    "Waste Management",
+    "Energy Tracking",
+    "Market Feedback"
+  ]
+}

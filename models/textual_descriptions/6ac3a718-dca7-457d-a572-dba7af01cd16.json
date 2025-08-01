@@ -1,0 +1,22 @@
+{
+  "title": "Cross-Channel Artifact Authentication",
+  "description": "This process involves the verification and authentication of historical artifacts using a combination of physical examination, chemical analysis, provenance validation, and blockchain recording. Initially, artifacts undergo visual inspection to detect anomalies, followed by microscopic and spectroscopic tests to determine material composition. Concurrently, provenance documents are digitized and cross-referenced with global registries. Verified data is then encrypted and logged into a blockchain ledger to ensure immutable record keeping. Finally, an expert panel reviews consolidated findings for final certification, and a digital twin is created for virtual display and further analysis. The process ensures authenticity while integrating modern technology with traditional expertise, reducing fraud in the antiquities market.",
+  "activities": [
+    "Visual Scan",
+    "Material Test",
+    "Provenance Check",
+    "Document Digitize",
+    "Registry Crossref",
+    "Chemical Analysis",
+    "Microscopic Review",
+    "Data Encryption",
+    "Blockchain Log",
+    "Expert Panel",
+    "Final Certification",
+    "Digital Twin",
+    "Virtual Display",
+    "Fraud Detect",
+    "Report Generate",
+    "Archive Storage"
+  ]
+}

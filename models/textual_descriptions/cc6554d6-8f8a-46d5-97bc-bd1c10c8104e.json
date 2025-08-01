@@ -1,0 +1,22 @@
+{
+  "title": "Adaptive Supply Chain Reconfiguration",
+  "description": "This process involves dynamically adjusting the supply chain network in response to real-time disruptions such as supplier failures, transportation delays, or sudden demand fluctuations. It integrates predictive analytics with automated decision-making to reroute shipments, reallocate inventory, and engage alternative suppliers. The process ensures continuity by balancing cost, speed, and risk while maintaining compliance with regulatory constraints. Continuous feedback loops enable learning and refinement of strategies to improve resilience and agility over time.",
+  "activities": [
+    "Demand Forecast",
+    "Risk Assess",
+    "Supplier Audit",
+    "Inventory Scan",
+    "Route Optimize",
+    "Order Prioritize",
+    "Contract Review",
+    "Delay Monitor",
+    "Shipment Reroute",
+    "Cost Analyze",
+    "Compliance Check",
+    "Alternative Engage",
+    "Inventory Reallocate",
+    "Performance Track",
+    "Feedback Loop",
+    "Strategy Update"
+  ]
+}

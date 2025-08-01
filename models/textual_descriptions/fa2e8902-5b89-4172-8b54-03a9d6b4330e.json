@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Ops",
+  "description": "This process outlines the complex operations involved in managing an urban vertical farming facility. It integrates advanced hydroponic cultivation, automated climate control, and real-time nutrient monitoring to optimize plant growth in limited city spaces. The workflow handles seed selection, germination, growth phase transitions, pest management using biological controls, and harvest scheduling. Post-harvest, it includes quality inspection, packaging, and cold chain logistics tailored for rapid urban delivery. Additionally, the process incorporates data analytics to forecast yield, energy consumption optimization, and sustainability compliance reporting, ensuring both economic viability and environmental responsibility in high-density agricultural production.",
+  "activities": [
+    "Seed Selection",
+    "Germination Start",
+    "Nutrient Mix",
+    "Climate Adjust",
+    "Light Scheduling",
+    "Pest Inspection",
+    "Bio Control",
+    "Growth Monitor",
+    "Water Recirc",
+    "Harvest Plan",
+    "Yield Forecast",
+    "Quality Check",
+    "Packaging Prep",
+    "Cold Storage",
+    "Delivery Route",
+    "Energy Audit",
+    "Sustain Report"
+  ]
+}

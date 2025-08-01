@@ -1,0 +1,22 @@
+{
+  "title": "Antique Restoration Workflow",
+  "description": "This process involves the careful restoration of antique artifacts, combining historical research, material analysis, and precision craftsmanship to preserve original features while ensuring structural integrity. The workflow begins with artifact assessment and documentation, followed by controlled cleaning, selective material consolidation, and surface stabilization. Specialized activities include micro-crack repair, color matching, and period-accurate repainting. Throughout the process, environmental controls are maintained to prevent further degradation. Final steps include quality inspection, provenance updating, and preparing detailed restoration reports for archival purposes. This atypical process ensures antiques retain both their aesthetic and historical values through a multidisciplinary approach.",
+  "activities": [
+    "Artifact Assess",
+    "Historical Check",
+    "Material Test",
+    "Condition Map",
+    "Surface Clean",
+    "Structural Fix",
+    "Micro Crack",
+    "Color Match",
+    "Repaint Period",
+    "Consolidate Fragile",
+    "Environmental Set",
+    "Quality Inspect",
+    "Documentation",
+    "Provenance Update",
+    "Report Prep",
+    "Archive Store"
+  ]
+}

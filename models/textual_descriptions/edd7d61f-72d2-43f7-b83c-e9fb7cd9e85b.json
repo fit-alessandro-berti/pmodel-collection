@@ -1,0 +1,23 @@
+{
+  "title": "Antique Artifact Authentication",
+  "description": "This process involves the intricate verification and authentication of antique artifacts for museums, collectors, and auction houses. It includes provenance research, material analysis, and expert consultations to ensure the artifact's legitimacy and historical significance. The workflow requires coordination between historians, chemists, and appraisers, often involving cross-border documentation verification and advanced imaging techniques. The process culminates in a detailed certification report, which is critical for insurance, sale, or exhibition purposes, ensuring the artifact\u2019s value and authenticity are thoroughly established through multidisciplinary validation.",
+  "activities": [
+    "Initial Review",
+    "Provenance Check",
+    "Material Scan",
+    "Chemical Test",
+    "Imaging Capture",
+    "Expert Consult",
+    "Historical Match",
+    "Forgery Detect",
+    "Documentation Verify",
+    "Cross-Border Check",
+    "Condition Assess",
+    "Value Estimate",
+    "Report Draft",
+    "Report Review",
+    "Client Approval",
+    "Certification Issue",
+    "Archive Record"
+  ]
+}

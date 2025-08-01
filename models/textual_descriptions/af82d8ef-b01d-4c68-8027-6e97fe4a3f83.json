@@ -1,0 +1,21 @@
+{
+  "title": "Urban Drone Delivery Setup",
+  "description": "This process outlines the comprehensive steps required to establish an urban drone delivery service integrating regulatory compliance, advanced route planning, drone fleet customization, and real-time monitoring. It begins with regulatory analysis to ensure adherence to local aviation laws, followed by geospatial mapping to identify optimal delivery zones. The process then covers drone model selection and hardware customization to suit payload and flight duration requirements. Next, a sophisticated route algorithm is developed to maximize efficiency while avoiding no-fly zones. Pilot training is conducted alongside safety drills to prepare for emergency scenarios. The process further includes establishing secure communication protocols and integrating AI-based obstacle detection systems for in-flight adjustments. Finally, the service launch is coordinated with marketing campaigns and customer onboarding, followed by ongoing performance analytics and maintenance scheduling to ensure continuous improvement and compliance.",
+  "activities": [
+    "Regulation Check",
+    "Zone Mapping",
+    "Drone Selection",
+    "Hardware Setup",
+    "Route Design",
+    "Pilot Training",
+    "Safety Drills",
+    "Comm Protocols",
+    "AI Integration",
+    "Test Flights",
+    "Customer Onboard",
+    "Launch Campaign",
+    "Real-time Monitor",
+    "Data Analysis",
+    "Maintenance Plan"
+  ]
+}

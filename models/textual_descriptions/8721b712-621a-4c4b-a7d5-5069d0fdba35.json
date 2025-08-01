@@ -1,0 +1,21 @@
+{
+  "title": "Crowdsourced Urban Farming",
+  "description": "This process involves coordinating a network of urban residents to collaboratively cultivate and maintain micro-farms on underutilized city spaces. It starts with site identification and community onboarding, followed by soil testing and crop selection based on local climate data. Participants schedule planting and watering shifts through a digital platform, while periodic workshops ensure knowledge sharing on sustainable techniques. Harvesting is coordinated to optimize distribution via local markets and food banks. The process integrates real-time sensor data for automated irrigation and pest control alerts, fostering a resilient, community-driven urban agriculture ecosystem that enhances food security and social cohesion in densely populated areas.",
+  "activities": [
+    "Site Scan",
+    "Community Join",
+    "Soil Check",
+    "Crop Plan",
+    "Schedule Setup",
+    "Water Shift",
+    "Workshop Hold",
+    "Sensor Install",
+    "Irrigation Alert",
+    "Pest Monitor",
+    "Harvest Plan",
+    "Market Link",
+    "Food Bank",
+    "Data Sync",
+    "Feedback Collect"
+  ]
+}

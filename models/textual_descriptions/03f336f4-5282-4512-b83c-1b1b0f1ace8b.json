@@ -1,0 +1,23 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This complex business process involves the systematic authentication of historical artifacts acquired through various channels. It begins with initial artifact intake and proceeds through multi-disciplinary expert evaluations including material analysis, provenance verification, and stylistic assessment. The process integrates scientific testing such as radiocarbon dating and spectroscopic examination alongside archival research and expert interviews. Discrepancies trigger secondary review loops and risk assessment protocols. Once authenticated, the artifact undergoes documentation, cataloging, and secure storage preparations. The workflow concludes with compliance reporting and preparation for either exhibition or controlled sale, ensuring legal and ethical standards are maintained throughout. This atypical process demands coordination across curatorial, scientific, legal, and logistical teams to guarantee authenticity and integrity in artifact handling.",
+  "activities": [
+    "Intake Check",
+    "Material Test",
+    "Provenance Scan",
+    "Stylistic Review",
+    "Radiocarbon Date",
+    "Spectro Analysis",
+    "Archive Research",
+    "Expert Interview",
+    "Discrepancy Flag",
+    "Secondary Review",
+    "Risk Assess",
+    "Documentation",
+    "Catalog Update",
+    "Storage Prep",
+    "Compliance Report",
+    "Exhibit Prep",
+    "Sale Approval"
+  ]
+}

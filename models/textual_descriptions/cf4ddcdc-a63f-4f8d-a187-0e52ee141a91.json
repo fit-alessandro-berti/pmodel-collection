@@ -1,0 +1,21 @@
+{
+  "title": "Reverse Logistics Workflow",
+  "description": "This process manages the return and recovery of used or defective products from customers back to the manufacturer or recycler. It involves initial return authorization, transportation scheduling, quality inspection, sorting for refurbishing or disposal, inventory updating, and final disposition. The process ensures efficient handling to minimize waste and maximize value recovery, incorporating coordination between customer service, logistics, warehouse, and environmental compliance teams. It also includes feedback loops for continuous improvement and reporting for regulatory compliance and cost analysis.",
+  "activities": [
+    "Return Request",
+    "Authorization Check",
+    "Pickup Schedule",
+    "Transport Dispatch",
+    "Receiving Goods",
+    "Quality Inspect",
+    "Sort Items",
+    "Refurbish Prep",
+    "Recycle Process",
+    "Inventory Update",
+    "Customer Notify",
+    "Disposal Arrange",
+    "Compliance Audit",
+    "Cost Analysis",
+    "Report Generate"
+  ]
+}

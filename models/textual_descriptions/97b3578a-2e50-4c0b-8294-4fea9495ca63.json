@@ -1,0 +1,24 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process outlines the comprehensive management cycle of an urban vertical farming operation that integrates automated climate control, nutrient monitoring, and staggered crop harvesting to maximize yield in limited spaces. The process begins with seed selection based on market demand forecasts, followed by precision seeding using robotic planters. Continuous environmental monitoring adjusts humidity, light intensity, and temperature to optimize growth conditions. Nutrient delivery is automated and adapted in real-time through IoT sensors detecting plant health. Pest management employs integrated biological controls rather than chemicals, ensuring sustainability. Crop growth stages are tracked digitally, triggering staggered harvesting to maintain a steady supply chain. Post-harvest, produce undergoes rapid quality assessment, packaging, and cold storage before distribution. Data analytics feed back into operational adjustments, improving future cycles and reducing waste while aligning with urban food security goals.",
+  "activities": [
+    "Seed Select",
+    "Demand Forecast",
+    "Robotic Planting",
+    "Climate Adjust",
+    "Humidity Control",
+    "Light Modulate",
+    "Temp Maintain",
+    "Nutrient Flow",
+    "Sensor Check",
+    "Pest Monitor",
+    "Bio Control",
+    "Growth Track",
+    "Stagger Harvest",
+    "Quality Scan",
+    "Pack Produce",
+    "Cold Store",
+    "Data Analyze",
+    "Waste Reduce"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Global Artifact Authentication",
+  "description": "This process involves the intricate verification and authentication of rare cultural artifacts sourced from multiple continents. It begins with initial provenance research, followed by scientific material analysis and expert consultation. The process requires coordinating with international regulatory bodies, performing forensic age dating, and executing advanced imaging techniques. After validation, artifact digitization and certification are carried out before final cataloging into a secure database. Throughout, legal compliance checks and ownership transfer protocols ensure legitimacy while mitigating risks of illicit trade. The process concludes with archival storage recommendations and stakeholder reporting to maintain transparency and integrity.",
+  "activities": [
+    "Provenance Check",
+    "Material Analysis",
+    "Expert Review",
+    "Regulatory Liaison",
+    "Age Dating",
+    "Imaging Scan",
+    "Digital Capture",
+    "Certification",
+    "Database Entry",
+    "Compliance Audit",
+    "Ownership Transfer",
+    "Risk Assessment",
+    "Archival Prep",
+    "Stakeholder Report",
+    "Final Approval"
+  ]
+}

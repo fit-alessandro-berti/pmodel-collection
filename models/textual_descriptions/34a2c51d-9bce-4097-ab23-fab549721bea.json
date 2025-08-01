@@ -1,0 +1,22 @@
+{
+  "title": "Adaptive Supply Chain Orchestration",
+  "description": "This process involves dynamically managing a multi-tier supply chain using real-time data feeds and AI-driven decision making to optimize inventory levels, transportation routes, and supplier selection. It integrates continuous risk assessment with automated contingency planning to mitigate disruptions caused by geopolitical events, natural disasters, or sudden demand shifts. The process requires constant synchronization between procurement, logistics, and production units, enabling rapid adaptation to market variability while maintaining cost efficiency and customer satisfaction. It employs predictive analytics to forecast demand fluctuations and leverages blockchain for transparent transaction tracking across all stakeholders, ensuring compliance and traceability throughout the supply chain lifecycle.",
+  "activities": [
+    "Data Ingestion",
+    "Risk Scanning",
+    "Demand Forecast",
+    "Supplier Scoring",
+    "Inventory Sync",
+    "Route Optimize",
+    "Order Validation",
+    "Contingency Plan",
+    "Contract Review",
+    "Logistics Align",
+    "Production Sync",
+    "Compliance Check",
+    "Anomaly Detect",
+    "Stakeholder Notify",
+    "Blockchain Audit",
+    "Performance Review"
+  ]
+}

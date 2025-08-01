@@ -1,0 +1,24 @@
+{
+  "title": "Antique Restoration Workflow",
+  "description": "This process outlines the detailed workflow for restoring antique items, combining delicate physical restoration techniques with historical research and provenance verification. It involves initial assessment, condition documentation, material analysis, sourcing authentic replacement parts, gentle cleaning, stabilization, repair, and finishing. The process integrates expert consultations, archival referencing, and conservation ethics to ensure the item's historical integrity is maintained. Post-restoration, the item undergoes quality inspection, photographic documentation, and packaging for safe delivery, accompanied by a detailed restoration report and provenance certification to enhance value and authenticity verification.",
+  "activities": [
+    "Initial Assess",
+    "Condition Scan",
+    "Material Test",
+    "Historical Check",
+    "Provenance Verify",
+    "Parts Sourcing",
+    "Gentle Clean",
+    "Stabilize Item",
+    "Structural Repair",
+    "Surface Finish",
+    "Expert Consult",
+    "Archival Review",
+    "Ethics Audit",
+    "Quality Inspect",
+    "Photo Document",
+    "Packaging Prep",
+    "Report Generate",
+    "Certify Provenance"
+  ]
+}

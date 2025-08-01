@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the complex and atypical steps involved in establishing an urban vertical farming system in a densely populated city environment. It includes site analysis for optimal sunlight and space utilization, modular structure design to maximize crop yield vertically, integration of hydroponic and aeroponic systems for water and nutrient efficiency, automation setup for climate control and harvesting, and continuous monitoring through IoT sensors. The process also involves compliance checks with local regulations, community engagement for urban acceptance, pilot crop trials, and scaling strategies to expand production sustainably while minimizing environmental impact and operational costs.",
+  "activities": [
+    "Site Analysis",
+    "Light Mapping",
+    "Structure Design",
+    "System Integration",
+    "Water Setup",
+    "Nutrient Mix",
+    "Automation Config",
+    "Sensor Install",
+    "Climate Control",
+    "Compliance Review",
+    "Community Meet",
+    "Pilot Planting",
+    "Data Monitoring",
+    "Harvest Trial",
+    "Scale Planning",
+    "Waste Reuse"
+  ]
+}

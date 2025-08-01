@@ -1,0 +1,23 @@
+{
+  "title": "Event Supply Chain",
+  "description": "This business process manages the end-to-end supply chain activities for a large-scale event involving multiple vendors, fluctuating demand, and last-minute changes. It includes sourcing unique materials, coordinating with international logistics, handling custom regulations, real-time inventory adjustments, and ensuring timely setup on-site. The process must also integrate unexpected disruptions like weather delays or vendor cancellations, requiring dynamic rescheduling and resource reallocation while maintaining cost controls and stakeholder communication throughout the event lifecycle.",
+  "activities": [
+    "Vendor Sourcing",
+    "Contract Review",
+    "Material Ordering",
+    "Customs Clearance",
+    "Inventory Check",
+    "Demand Forecast",
+    "Logistics Planning",
+    "Transport Booking",
+    "Quality Inspect",
+    "Real-time Tracking",
+    "Risk Assessment",
+    "Reschedule Tasks",
+    "Resource Allocate",
+    "Setup Coordination",
+    "Stakeholder Update",
+    "Cost Monitoring",
+    "Contingency Plan"
+  ]
+}

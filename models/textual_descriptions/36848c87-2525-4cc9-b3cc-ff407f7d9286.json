@@ -1,0 +1,21 @@
+{
+  "title": "Artisanal Coffee Supply Chain",
+  "description": "This process outlines the intricate journey of sourcing, processing, and distributing small-batch artisanal coffee beans from remote farms to specialty cafes worldwide. It involves unique steps such as local farmer engagement, micro-lot selection, hand-processing, quality cupping, eco-friendly packaging, and bespoke logistics coordination. The process emphasizes sustainability, traceability, and maintaining bean integrity throughout transportation and roasting. Each activity ensures the preservation of flavor profiles and ethical practices, resulting in a premium coffee experience for discerning consumers.",
+  "activities": [
+    "Farm Outreach",
+    "Bean Selection",
+    "Hand Picking",
+    "Initial Sorting",
+    "Wet Processing",
+    "Sun Drying",
+    "Quality Cupping",
+    "Micro-lot Grading",
+    "Eco Packaging",
+    "Custom Labeling",
+    "Inventory Sync",
+    "Specialty Roasting",
+    "Logistics Setup",
+    "Cafe Delivery",
+    "Customer Feedback"
+  ]
+}

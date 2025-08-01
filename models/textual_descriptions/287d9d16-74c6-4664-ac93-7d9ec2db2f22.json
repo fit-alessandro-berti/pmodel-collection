@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the comprehensive steps required to establish an urban vertical farming facility within a repurposed industrial building. It involves initial site assessment for structural integrity and sunlight exposure, followed by modular system design tailored to crop types. Activities include sourcing sustainable materials, installing hydroponic and aeroponic systems, integrating IoT sensors for climate and nutrient monitoring, implementing automated lighting and irrigation controls, staff training on crop management, and establishing supply chain logistics for fresh produce distribution to local markets. The process concludes with continuous system optimization based on data analytics to maximize yield and resource efficiency while minimizing environmental impact.",
+  "activities": [
+    "Site Assess",
+    "Design Layout",
+    "Material Sourcing",
+    "System Setup",
+    "Install Hydroponics",
+    "Install Aeroponics",
+    "Sensor Integrate",
+    "Lighting Setup",
+    "Irrigation Setup",
+    "Staff Training",
+    "Crop Seeding",
+    "Climate Control",
+    "Data Monitoring",
+    "Supply Planning",
+    "Market Delivery",
+    "Yield Review",
+    "System Optimize"
+  ]
+}

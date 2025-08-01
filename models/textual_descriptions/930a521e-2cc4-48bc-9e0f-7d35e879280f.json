@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process outlines the comprehensive cycle of urban vertical farming where crops are grown in stacked layers within controlled indoor environments. It involves site assessment, modular installation, seed selection, nutrient preparation, climate calibration, automated seeding, growth monitoring, pest control, adaptive lighting, water recycling, data analytics, crop harvesting, quality inspection, packaging automation, and distribution logistics. The process integrates IoT sensors and AI-driven analytics to optimize yield while minimizing resource consumption, addressing urban space constraints and sustainability goals in agriculture. Continuous feedback loops ensure adjustments to environmental factors and operational parameters for maximum productivity and minimal waste.",
+  "activities": [
+    "Site Assess",
+    "Module Install",
+    "Seed Select",
+    "Nutrient Prep",
+    "Climate Calibrate",
+    "Auto Seed",
+    "Growth Monitor",
+    "Pest Control",
+    "Light Adjust",
+    "Water Recycle",
+    "Data Analyze",
+    "Crop Harvest",
+    "Quality Inspect",
+    "Package Auto",
+    "Logistics Plan"
+  ]
+}

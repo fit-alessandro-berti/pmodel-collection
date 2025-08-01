@@ -1,0 +1,23 @@
+{
+  "title": "Custom Urban Farming Deployment",
+  "description": "This complex process involves the design, implementation, and ongoing optimization of urban farming systems tailored to specific city environments. It starts with site analysis to assess sunlight, soil quality, and local climate, followed by modular farm design incorporating vertical farming, hydroponics, and aquaponics tailored to available spaces. The process continues with sourcing sustainable materials and specialized equipment, installation of automated irrigation and nutrient delivery systems, and integration of IoT sensors for real-time monitoring of crop health and environmental conditions. Subsequent activities include staff training on unique urban farming techniques, ongoing maintenance and pest management using eco-friendly methods, data analysis for yield optimization, and community engagement programs to promote urban agriculture awareness. The final stages involve scaling the model to multiple sites while maintaining quality control and adapting the design based on evolving urban policies and technological advancements, ensuring a sustainable and profitable urban farming operation.",
+  "activities": [
+    "Site Survey",
+    "Climate Study",
+    "Soil Testing",
+    "Design Layout",
+    "Material Sourcing",
+    "Equipment Setup",
+    "Irrigation Install",
+    "Sensor Deploy",
+    "System Config",
+    "Staff Training",
+    "Crop Planting",
+    "Pest Control",
+    "Data Capture",
+    "Yield Review",
+    "Community Outreach",
+    "Scale Expansion",
+    "Policy Adapt"
+  ]
+}

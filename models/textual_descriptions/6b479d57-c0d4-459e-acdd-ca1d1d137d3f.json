@@ -1,0 +1,22 @@
+{
+  "title": "Adaptive Supply Chain Orchestration",
+  "description": "This process involves dynamically adjusting supply chain operations in response to real-time market fluctuations, supplier disruptions, and customer demand shifts. It integrates predictive analytics, autonomous procurement, and collaborative logistics to minimize delays and costs while maximizing responsiveness. The process requires continuous monitoring, rapid decision-making, and cross-functional coordination between procurement, production, and distribution teams to maintain optimal inventory levels and service quality under uncertain conditions.",
+  "activities": [
+    "Demand Forecast",
+    "Supplier Audit",
+    "Risk Assess",
+    "Inventory Sync",
+    "Order Prioritize",
+    "Procure Auto",
+    "Quality Check",
+    "Logistics Plan",
+    "Route Optimize",
+    "Shipment Track",
+    "Exception Alert",
+    "Stock Rebalance",
+    "Customer Notify",
+    "Feedback Capture",
+    "Performance Review",
+    "Adjust Strategy"
+  ]
+}

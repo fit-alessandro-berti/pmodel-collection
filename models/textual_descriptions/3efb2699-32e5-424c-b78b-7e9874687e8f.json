@@ -1,0 +1,23 @@
+{
+  "title": "Rare Artifact Authentication",
+  "description": "This process involves the intricate steps required to authenticate and verify the provenance of rare historical artifacts. It includes multidisciplinary expert consultations, chemical composition analysis, provenance chain reconstruction, condition assessment, and advanced imaging techniques. The process aims to ensure the artifact's legitimacy, historical value, and legal ownership by integrating scientific, historical, and legal evaluations before final certification and cataloging for auction or museum acquisition.",
+  "activities": [
+    "Artifact Intake",
+    "Preliminary Scan",
+    "Expert Consult",
+    "Material Testing",
+    "Provenance Check",
+    "Condition Report",
+    "Imaging Capture",
+    "Radiocarbon Test",
+    "Forgery Analysis",
+    "Legal Review",
+    "Ownership Trace",
+    "Historical Context",
+    "Data Integration",
+    "Certification Prep",
+    "Final Approval",
+    "Catalog Entry",
+    "Auction Notify"
+  ]
+}

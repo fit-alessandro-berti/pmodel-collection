@@ -1,0 +1,21 @@
+{
+  "title": "Microbial Culture Supply Chain",
+  "description": "This process governs the end-to-end supply chain for specialized microbial cultures used in biotechnological research and pharmaceutical production. It begins with strain acquisition, followed by genetic verification, controlled cultivation, contamination monitoring, biomass harvesting, preservation through lyophilization, packaging under sterile conditions, cold chain logistics coordination, quality validation at multiple checkpoints, inventory management with real-time tracking, regulatory documentation compliance, customer-specific formulation adjustments, and finally, delivery with post-dispatch support for culture revival and viability confirmation. The process integrates scientific rigor with logistical precision to ensure live cultures arrive viable and uncontaminated at research or production facilities worldwide.",
+  "activities": [
+    "Strain Acquire",
+    "Genetic Verify",
+    "Culture Initiate",
+    "Growth Monitor",
+    "Contam Check",
+    "Biomass Harvest",
+    "Lyophilize Sample",
+    "Sterile Package",
+    "Cold Chain",
+    "Quality Validate",
+    "Inventory Track",
+    "Regulatory Review",
+    "Formulation Adjust",
+    "Dispatch Prepare",
+    "Client Support"
+  ]
+}

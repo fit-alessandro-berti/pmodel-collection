@@ -1,0 +1,21 @@
+{
+  "title": "Crisis Response Coordination",
+  "description": "This process outlines the coordinated steps taken by an organization during an unexpected crisis, such as a natural disaster or cybersecurity breach. It involves rapid assessment, resource mobilization, stakeholder communication, and continuous monitoring to mitigate impact. The process requires cross-department collaboration, real-time data analysis, and adaptive decision-making to ensure operational continuity and public safety. Each phase includes verification, escalation, and documentation to support transparency and post-crisis review, ensuring lessons learned enhance future preparedness and resilience.",
+  "activities": [
+    "Alert Received",
+    "Initial Assess",
+    "Risk Evaluate",
+    "Activate Team",
+    "Resource Allocate",
+    "Stakeholder Notify",
+    "Communication Setup",
+    "Data Gather",
+    "Impact Analyze",
+    "Response Deploy",
+    "Progress Monitor",
+    "Issue Escalate",
+    "Situation Report",
+    "Recovery Plan",
+    "Post Review"
+  ]
+}

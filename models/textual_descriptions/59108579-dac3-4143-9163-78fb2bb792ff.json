@@ -1,0 +1,23 @@
+{
+  "title": "Artisan Cheese Supply Chain",
+  "description": "This process outlines the end-to-end operations involved in producing and distributing artisan cheese from small dairy farms to niche retail shops. It includes raw milk sourcing, quality checks under varying seasonal conditions, traditional cheese culturing, aging in controlled environments, custom packaging, and logistics coordination with temperature-sensitive transport. It also incorporates periodic artisan workshops for skill improvement, market trend analysis for new cheese varieties, and direct customer feedback loops to adjust production. The process balances artisanal craftsmanship with traceability and regulatory compliance across multiple regions, ensuring product authenticity and superior taste consistency in a competitive specialty food market.",
+  "activities": [
+    "Milk Sourcing",
+    "Quality Check",
+    "Culture Prep",
+    "Curd Formation",
+    "Cutting Curd",
+    "Molding Cheese",
+    "Pressing Cheese",
+    "Salting Stage",
+    "Aging Control",
+    "Packaging Art",
+    "Label Design",
+    "Storage Audit",
+    "Market Survey",
+    "Workshop Host",
+    "Order Processing",
+    "Temp Logistics",
+    "Customer Review"
+  ]
+}

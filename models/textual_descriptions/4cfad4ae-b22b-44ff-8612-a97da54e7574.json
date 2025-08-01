@@ -1,0 +1,22 @@
+{
+  "title": "Urban Beekeeping Supply Chain",
+  "description": "This process outlines the end-to-end supply chain of urban beekeeping equipment and honey distribution. It begins with sourcing sustainable materials from local artisans, followed by custom manufacturing of eco-friendly hives. The process includes hive assembly, quality inspections, and seasonal bee colony integration. Parallel activities involve urban apiary site selection, environmental impact assessments, and regulatory compliance verification. Once hives are deployed, ongoing monitoring of bee health and hive conditions is conducted using IoT sensors. Honey extraction, purification, and packaging occur in small batches to maintain artisanal quality. The process concludes with direct-to-consumer marketing, urban farmer collaborations, and feedback loops for continuous product and process improvement, emphasizing sustainability and community engagement.",
+  "activities": [
+    "Material Sourcing",
+    "Custom Fabrication",
+    "Hive Assembly",
+    "Quality Check",
+    "Colony Integration",
+    "Site Selection",
+    "Impact Assess",
+    "Compliance Review",
+    "Health Monitoring",
+    "Sensor Setup",
+    "Honey Extract",
+    "Purify Batch",
+    "Package Goods",
+    "Direct Marketing",
+    "Farmer Partner",
+    "Feedback Loop"
+  ]
+}

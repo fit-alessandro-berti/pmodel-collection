@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Launch",
+  "description": "This process outlines the complex steps required to establish a fully operational urban vertical farming facility in a metropolitan area. It involves site analysis, modular system design, climate control integration, crop selection based on microclimate data, automated nutrient delivery calibration, pest management without pesticides, staff training on hydroponics, real-time growth monitoring using IoT sensors, supply chain coordination for local distribution, sustainability assessment, community engagement programs, regulatory compliance checks, continuous yield optimization, and post-launch performance review to ensure scalability and profitability within the urban agriculture sector.",
+  "activities": [
+    "Site Survey",
+    "Design Modules",
+    "Climate Setup",
+    "Crop Select",
+    "Nutrient Calibrate",
+    "Pest Control",
+    "Staff Training",
+    "Sensor Deploy",
+    "Growth Monitor",
+    "Supply Align",
+    "Sustainability Check",
+    "Community Outreach",
+    "Compliance Audit",
+    "Yield Optimize",
+    "Performance Review"
+  ]
+}

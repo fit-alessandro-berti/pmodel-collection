@@ -1,0 +1,21 @@
+{
+  "title": "Adaptive Urban Farming Cycle",
+  "description": "This process outlines the adaptive urban farming cycle designed for maximizing crop yield within limited city spaces while integrating sustainable practices and community involvement. It involves site analysis, modular bed assembly, soil enrichment through organic composting, real-time environmental monitoring with IoT devices, automated irrigation adjustment, pest control using biological agents, crop rotation planning based on historical data, community harvesting events, waste recycling into biochar, and continuous feedback loops to optimize growth parameters. The process also includes stakeholder coordination, urban policy compliance checks, and expansion feasibility studies to ensure scalability and environmental impact mitigation in dense urban settings.",
+  "activities": [
+    "Site Survey",
+    "Bed Setup",
+    "Soil Prep",
+    "Compost Mix",
+    "Sensor Install",
+    "Irrigation Adjust",
+    "Pest Control",
+    "Crop Rotate",
+    "Harvest Event",
+    "Waste Convert",
+    "Data Analyze",
+    "Feedback Loop",
+    "Stakeholder Meet",
+    "Policy Check",
+    "Expansion Plan"
+  ]
+}

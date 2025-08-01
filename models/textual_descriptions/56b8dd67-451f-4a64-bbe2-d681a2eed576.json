@@ -1,0 +1,23 @@
+{
+  "title": "Global Art Loan Coordination",
+  "description": "This process governs the intricate coordination required to facilitate international loans of valuable artworks between museums, galleries, and private collectors. It involves provenance verification, customs compliance, conditional insurance underwriting, climate-controlled transportation planning, and installation scheduling. The process also addresses risk mitigation, legal documentation, multi-party approvals, and real-time status reporting to ensure the artwork's integrity and security throughout transit and display. Stakeholders include conservators, legal teams, logistics providers, and curators, all collaborating to meet strict deadlines and maintain cultural heritage standards.",
+  "activities": [
+    "Provenance Check",
+    "Loan Request",
+    "Legal Review",
+    "Insurance Setup",
+    "Customs Filing",
+    "Climate Plan",
+    "Transport Booking",
+    "Condition Report",
+    "Packaging Design",
+    "Security Clearance",
+    "Installation Prep",
+    "Stakeholder Sync",
+    "Risk Assessment",
+    "Final Approval",
+    "Status Update",
+    "Deinstallation",
+    "Return Logistics"
+  ]
+}

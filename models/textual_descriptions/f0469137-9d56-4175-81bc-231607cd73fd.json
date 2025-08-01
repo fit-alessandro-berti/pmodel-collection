@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process outlines the comprehensive management of an urban vertical farm focusing on optimizing crop yield and sustainability in limited space environments. It begins with site analysis and climate adaptation, followed by nutrient mixing and seed germination in controlled chambers. Automated planting ensures precise spacing, while multi-level irrigation systems deliver water and nutrients. Continuous monitoring through IoT sensors tracks growth parameters and pest presence, triggering targeted drone interventions for pollination or pesticide application. Harvesting involves robotic arms that selectively pick ripe produce, followed by quality inspection and packaging within sterile conditions. The cycle concludes with waste recycling and energy optimization to maintain eco-friendly operations, ensuring a closed-loop agricultural system tailored for urban settings.",
+  "activities": [
+    "Site Analysis",
+    "Climate Setup",
+    "Nutrient Mix",
+    "Seed Germinate",
+    "Auto Planting",
+    "Irrigation Setup",
+    "IoT Monitoring",
+    "Pest Detection",
+    "Drone Pollinate",
+    "Pesticide Spray",
+    "Robotic Harvest",
+    "Quality Check",
+    "Package Product",
+    "Waste Recycle",
+    "Energy Optimize",
+    "Data Logging"
+  ]
+}

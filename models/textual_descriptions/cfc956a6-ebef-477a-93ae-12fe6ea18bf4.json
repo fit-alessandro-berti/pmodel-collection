@@ -1,0 +1,21 @@
+{
+  "title": "Decentralized Art Auction",
+  "description": "This process manages a decentralized art auction platform where artists, collectors, and curators interact through blockchain technology to verify provenance, bid in real-time, and finalize sales securely. The system incorporates digital identity verification, smart contract deployment, dynamic pricing algorithms, and dispute resolution mechanisms. Participants submit digital assets, verify authenticity via cryptographic proofs, and place bids using cryptocurrency wallets. After auction closure, smart contracts automatically transfer ownership and funds, while integrating feedback loops for reputation scoring and future auction eligibility. The platform also supports fractional ownership and secondary sales, ensuring transparency and trust across global stakeholders.",
+  "activities": [
+    "Artist Onboard",
+    "Asset Verify",
+    "Identity Check",
+    "Smart Deploy",
+    "Bid Monitor",
+    "Price Adjust",
+    "Wallet Link",
+    "Bid Submit",
+    "Auction Close",
+    "Ownership Transfer",
+    "Fund Release",
+    "Dispute Review",
+    "Reputation Update",
+    "Fractional Offer",
+    "Secondary Sale"
+  ]
+}

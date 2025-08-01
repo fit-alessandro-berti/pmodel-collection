@@ -1,0 +1,21 @@
+{
+  "title": "Antique Restoration Workflow",
+  "description": "This process involves the careful restoration and preservation of antique artifacts, ensuring historical accuracy while enhancing structural integrity. It starts with initial assessment and documentation, followed by controlled cleaning and material analysis. Conservation techniques are applied selectively to preserve originality, including stabilization, repair, and protective coating. Throughout the process, ethical considerations and provenance validation are maintained. Final steps include detailed reporting, client review, and archival storage, ensuring the artifact's longevity and historical value for future generations.",
+  "activities": [
+    "Initial Assess",
+    "Artifact Scan",
+    "Condition Map",
+    "Material Test",
+    "Cleaning Phase",
+    "Stability Check",
+    "Minor Repair",
+    "Structural Reinforce",
+    "Surface Restore",
+    "Coating Apply",
+    "Ethics Review",
+    "Provenance Verify",
+    "Client Update",
+    "Final Report",
+    "Archive Store"
+  ]
+}

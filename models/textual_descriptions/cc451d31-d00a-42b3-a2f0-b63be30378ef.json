@@ -1,0 +1,21 @@
+{
+  "title": "Crowdsourced Innovation Cycle",
+  "description": "This process describes a multi-phase crowdsourced innovation cycle within a large organization aiming to harness external and internal creative ideas. It begins with idea solicitation from diverse participants, followed by automated filtering using AI algorithms. Promising concepts undergo community voting and expert evaluation before entering rapid prototyping. Feedback loops involve iterative testing with targeted user groups and refinement sessions. Successful prototypes are then prepared for pilot launch, including detailed risk assessments and compliance checks. Post-launch, performance data is gathered for impact analysis, and insights feed back into the next innovation cycle to continuously improve idea quality and implementation effectiveness.",
+  "activities": [
+    "Idea Solicitation",
+    "AI Filtering",
+    "Community Voting",
+    "Expert Review",
+    "Prototype Build",
+    "User Testing",
+    "Iterate Feedback",
+    "Risk Assess",
+    "Compliance Check",
+    "Pilot Launch",
+    "Performance Track",
+    "Impact Analyze",
+    "Insight Gather",
+    "Cycle Adjust",
+    "Final Report"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Drone Fleet Maintenance",
+  "description": "This process governs the comprehensive maintenance cycle for a fleet of autonomous delivery drones operating in diverse urban environments. It includes pre-flight diagnostics, environmental adaptation calibrations, in-flight anomaly detection, post-mission data analysis, battery health optimization, dynamic route reconfiguration, and regulatory compliance reporting. The workflow integrates real-time telemetry monitoring with predictive analytics to minimize downtime and extend drone lifecycle. Specialized activities involve firmware patch deployment, sensor recalibration, damage assessment from minor collisions, and end-of-day performance summarization, ensuring operational efficiency and safety standards are continuously met across all units.",
+  "activities": [
+    "Preflight Check",
+    "Sensor Calibrate",
+    "Battery Test",
+    "Route Update",
+    "Firmware Patch",
+    "Flight Launch",
+    "Telemetry Monitor",
+    "Anomaly Detect",
+    "Collision Assess",
+    "Data Upload",
+    "Postflight Review",
+    "Battery Optimize",
+    "Damage Repair",
+    "Compliance Report",
+    "Performance Log",
+    "Mission Debrief"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process outlines the comprehensive steps involved in authenticating rare historical artifacts for a museum acquisition. It begins with preliminary research and provenance verification, followed by scientific testing and expert consultations. The workflow includes digital documentation, condition assessment, fraud detection using advanced imaging, and legal clearance. Each stage involves collaborative decision-making between historians, scientists, and legal advisors to ensure the artifact's authenticity and legal compliance before final acquisition and exhibition planning. The process concludes with secure storage and periodic re-evaluation to maintain integrity over time.",
+  "activities": [
+    "Initial Research",
+    "Provenance Check",
+    "Material Testing",
+    "Expert Review",
+    "Imaging Scan",
+    "Fraud Analysis",
+    "Condition Report",
+    "Legal Review",
+    "Digital Catalog",
+    "Stakeholder Meeting",
+    "Acquisition Approval",
+    "Secure Storage",
+    "Exhibit Planning",
+    "Reevaluation",
+    "Documentation Update"
+  ]
+}

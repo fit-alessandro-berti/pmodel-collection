@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process governs the authentication and provenance verification of rare historical artifacts submitted to a specialized auction house. It involves interdisciplinary collaboration among historians, scientists, and legal experts to validate the artifact's origin, material composition, and ownership history. The workflow includes initial intake, condition assessment, multi-level scientific testing (such as radiocarbon dating and spectroscopy), provenance research through archival databases, conflict artifact screening, expert panel review, legal clearance for export, and final certification issuance. The process ensures the integrity of the auction and prevents illicit trade, requiring meticulous documentation and secure data management throughout.",
+  "activities": [
+    "Artifact Intake",
+    "Condition Check",
+    "Initial Screening",
+    "Scientific Tests",
+    "Radiocarbon Date",
+    "Spectroscopy Test",
+    "Provenance Search",
+    "Archival Review",
+    "Conflict Check",
+    "Expert Panel",
+    "Legal Clearance",
+    "Export Approval",
+    "Certification",
+    "Documentation",
+    "Data Archiving",
+    "Client Notification"
+  ]
+}

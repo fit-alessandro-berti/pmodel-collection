@@ -1,0 +1,23 @@
+{
+  "title": "Urban Drone Delivery Setup",
+  "description": "This process outlines the complex steps involved in establishing an urban drone delivery system tailored to high-density metropolitan areas. It includes regulatory compliance checks, airspace mapping, drone fleet customization, dynamic routing algorithms, weather impact analysis, community engagement, and continuous performance monitoring to ensure safety, efficiency, and customer satisfaction. The process integrates multidisciplinary coordination among technology teams, local authorities, logistics partners, and environmental experts to address challenges such as noise pollution, flight path optimization, emergency protocols, and real-time data analytics for adaptive operations in rapidly changing urban environments.",
+  "activities": [
+    "Regulation Review",
+    "Airspace Mapping",
+    "Fleet Customization",
+    "Route Planning",
+    "Weather Analysis",
+    "Community Meet",
+    "Safety Protocol",
+    "Pilot Training",
+    "Tech Integration",
+    "Noise Assessment",
+    "Emergency Prep",
+    "Data Collection",
+    "Performance Audit",
+    "Partner Alignment",
+    "Feedback Loop",
+    "System Scaling",
+    "Compliance Audit"
+  ]
+}

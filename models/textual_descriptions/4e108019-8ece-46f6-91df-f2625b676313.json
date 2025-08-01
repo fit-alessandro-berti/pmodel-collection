@@ -1,0 +1,22 @@
+{
+  "title": "Adaptive Supply Chain Orchestration",
+  "description": "This process involves dynamically adjusting supply chain operations based on real-time data inputs from multiple sources including weather forecasts, geopolitical events, and market demand fluctuations. It coordinates procurement, production scheduling, logistics, and inventory management by continuously evaluating risk factors and optimizing resource allocation. The process employs predictive analytics to anticipate disruptions and initiate contingency protocols, ensuring minimal downtime and cost efficiency. Cross-functional teams collaborate to validate adjustments, confirm supplier capabilities, and realign distribution strategies to maintain service levels while adapting to evolving external conditions.",
+  "activities": [
+    "Data Ingestion",
+    "Risk Assessment",
+    "Demand Forecast",
+    "Supplier Audit",
+    "Inventory Check",
+    "Capacity Plan",
+    "Schedule Update",
+    "Logistics Review",
+    "Contingency Setup",
+    "Resource Align",
+    "Cross-team Sync",
+    "Order Prioritize",
+    "Cost Analysis",
+    "Performance Track",
+    "Compliance Verify",
+    "Feedback Loop"
+  ]
+}

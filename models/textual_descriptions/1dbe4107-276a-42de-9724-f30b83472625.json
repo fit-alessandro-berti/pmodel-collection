@@ -1,0 +1,22 @@
+{
+  "title": "Custom Artifact Authentication",
+  "description": "This process involves a multi-stage verification and validation of rare artifacts submitted by private collectors for authentication and provenance certification. Starting with initial documentation review, the artifact undergoes physical inspection, material analysis, and stylistic comparison with known exemplars. Parallel background checks on ownership history and cross-referencing with global databases are performed to detect forgeries or illegal acquisitions. Expert panels are convened for consensus opinions, followed by risk assessment for market impact. Finally, a digital certificate is issued, embedding blockchain-based authenticity records. This atypical process ensures trust and legal compliance in high-value artifact trading.",
+  "activities": [
+    "Doc Review",
+    "Artifact Scan",
+    "Material Test",
+    "Style Match",
+    "Owner Check",
+    "Database Cross",
+    "Forgery Detect",
+    "Legal Verify",
+    "Expert Panel",
+    "Consensus Vote",
+    "Risk Assess",
+    "Market Impact",
+    "Cert Generate",
+    "Blockchain Link",
+    "Client Notify",
+    "Archive Store"
+  ]
+}

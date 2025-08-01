@@ -1,0 +1,22 @@
+{
+  "title": "Antique Asset Authentication",
+  "description": "This process involves the intricate verification and authentication of rare antique assets for auction houses. It includes provenance research, material analysis, stylistic evaluation, condition reporting, and legal compliance checks. Each step requires collaboration between historians, scientists, legal experts, and auctioneers to ensure the asset's authenticity and market value before final cataloging and sale approval. Unexpected findings may trigger re-evaluation or legal hold, adding complexity to the workflow and requiring meticulous documentation and chain-of-custody management throughout the process.",
+  "activities": [
+    "Asset Intake",
+    "Provenance Check",
+    "Material Scan",
+    "Stylistic Review",
+    "Condition Report",
+    "Legal Review",
+    "Expert Panel",
+    "Scientific Test",
+    "Forgery Detection",
+    "Chain Custody",
+    "Market Analysis",
+    "Catalog Entry",
+    "Re-Evaluation",
+    "Hold Notification",
+    "Final Approval",
+    "Auction Setup"
+  ]
+}

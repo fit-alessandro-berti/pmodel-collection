@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process outlines the comprehensive steps required to authenticate ancient artifacts for museum acquisition. It begins with preliminary provenance verification, followed by multi-disciplinary scientific analysis including radiocarbon dating and material composition assessment. Next, expert consultations and stylistic comparisons are conducted to validate cultural origin. The process also involves condition reporting, risk assessment for transportation, and legal compliance checks related to export/import regulations. Finally, a formal authentication report is compiled and submitted for board approval before acquisition decision and artifact cataloging occur, ensuring a thorough and legally compliant authentication workflow for rare historical items.",
+  "activities": [
+    "Provenance Check",
+    "Radiocarbon Test",
+    "Material Analysis",
+    "Stylistic Review",
+    "Expert Consultation",
+    "Condition Report",
+    "Risk Assessment",
+    "Legal Compliance",
+    "Export Verification",
+    "Import Clearance",
+    "Authentication Draft",
+    "Board Approval",
+    "Acquisition Decision",
+    "Catalog Entry",
+    "Transport Planning"
+  ]
+}

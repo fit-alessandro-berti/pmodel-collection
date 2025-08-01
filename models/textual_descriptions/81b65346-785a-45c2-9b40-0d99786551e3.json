@@ -1,0 +1,22 @@
+{
+  "title": "Urban Drone Delivery Setup",
+  "description": "This process outlines the comprehensive steps required to establish an urban drone delivery service that integrates regulatory compliance, advanced route optimization, dynamic weather adaptation, and stakeholder coordination. It begins with market analysis and regulatory approval, followed by drone fleet customization and software integration. The process includes real-time data monitoring, emergency protocol design, and customer feedback integration to ensure efficient, safe, and scalable operations within complex urban environments. Continuous improvement cycles based on performance metrics and evolving technology standards complete the framework.",
+  "activities": [
+    "Market Survey",
+    "Regulatory Check",
+    "Fleet Design",
+    "Route Mapping",
+    "Software Setup",
+    "Pilot Training",
+    "Safety Audit",
+    "Weather Sync",
+    "Test Flights",
+    "Emergency Drill",
+    "Customer Onboard",
+    "Data Tracking",
+    "Feedback Loop",
+    "Performance Review",
+    "Tech Upgrade",
+    "Stakeholder Meet"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process governs the comprehensive cycle of urban vertical farming operations, integrating advanced hydroponics, AI-driven climate control, and waste recycling to optimize crop yield in limited spaces. It begins with site assessment and modular setup, followed by nutrient solution preparation and seed germination under automated lighting. Continuous monitoring adjusts environmental factors to maintain ideal growth conditions. Pollination is handled mechanically or via introduced insects. Harvesting is robotic, with quality sorting and packaging tailored for urban distribution channels. Waste biomass is processed into compost or bioenergy, closing the sustainability loop. Data analytics feed into predictive maintenance and crop planning, ensuring maximum efficiency and minimal resource consumption throughout the cycle.",
+  "activities": [
+    "Site Assess",
+    "Module Setup",
+    "Seed Germinate",
+    "Nutrient Mix",
+    "Climate Control",
+    "Pollination Aid",
+    "Growth Monitor",
+    "Pest Detect",
+    "Harvest Crop",
+    "Quality Check",
+    "Package Goods",
+    "Waste Process",
+    "Compost Create",
+    "Energy Generate",
+    "Data Analyze",
+    "Maintenance Plan"
+  ]
+}

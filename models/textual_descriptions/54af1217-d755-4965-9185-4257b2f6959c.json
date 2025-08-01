@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process outlines the complex series of steps involved in authenticating ancient artifacts for museums or private collectors. It begins with initial artifact intake and condition assessment, followed by provenance research and material analysis using advanced spectroscopy. Expert consultations and historical context alignment are conducted to verify authenticity. Parallel to scientific testing, legal checks on ownership and export compliance are performed. Results are compiled into a comprehensive authentication report. If authenticity is confirmed, preservation recommendations are made and the artifact is cataloged into secure storage. In case of doubts, additional testing or third-party review is initiated. The process concludes with client approval and final documentation archiving, ensuring traceability and compliance with cultural heritage laws.",
+  "activities": [
+    "Artifact Intake",
+    "Condition Check",
+    "Provenance Search",
+    "Material Test",
+    "Spectroscopy Scan",
+    "Expert Review",
+    "Context Align",
+    "Legal Verify",
+    "Export Check",
+    "Report Compile",
+    "Preservation Plan",
+    "Catalog Entry",
+    "Additional Tests",
+    "Third-Party Review",
+    "Client Approval",
+    "Archive Docs"
+  ]
+}

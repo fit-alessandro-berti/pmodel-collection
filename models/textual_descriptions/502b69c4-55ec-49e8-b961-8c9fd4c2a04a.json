@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process encompasses the end-to-end management of a vertical urban farm, integrating soil-less cultivation, energy optimization, and supply chain logistics within a dense city environment. It involves seed selection, nutrient balancing, climate control, pest monitoring, data analytics for growth optimization, harvest scheduling, packaging, and real-time delivery coordination. The process also includes waste recycling and energy reclaim strategies to maintain sustainability, alongside regulatory compliance checks and community engagement initiatives to promote urban agriculture awareness.",
+  "activities": [
+    "Seed Selection",
+    "Nutrient Mix",
+    "Climate Setup",
+    "Water Calibration",
+    "Growth Monitor",
+    "Pest Scan",
+    "Data Analysis",
+    "Harvest Plan",
+    "Crop Picking",
+    "Quality Check",
+    "Packaging Prep",
+    "Delivery Sync",
+    "Waste Sorting",
+    "Energy Reclaim",
+    "Regulation Audit",
+    "Community Outreach"
+  ]
+}

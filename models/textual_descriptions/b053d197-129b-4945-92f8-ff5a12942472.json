@@ -1,0 +1,22 @@
+{
+  "title": "Quantum Supply Chain",
+  "description": "This process involves managing a supply chain that integrates quantum computing for predictive analytics and blockchain for immutable tracking. It begins with quantum demand forecasting, followed by dynamic supplier negotiation using smart contracts. Real-time quantum-optimized routing determines logistics paths, while AI-enabled quality validation ensures product integrity. The process includes encrypted data sharing among partners, adaptive inventory balancing based on quantum simulations, and decentralized dispute resolution protocols. Finally, continuous feedback loops powered by quantum machine learning refine forecasting models, ensuring the supply chain adapts swiftly to market fluctuations and disruptions.",
+  "activities": [
+    "Demand Forecast",
+    "Supplier Bidding",
+    "Contract Signing",
+    "Quantum Routing",
+    "Inventory Sync",
+    "Quality Check",
+    "Data Encryption",
+    "Shipment Track",
+    "Risk Assess",
+    "Dispute Resolve",
+    "Feedback Loop",
+    "Model Update",
+    "Order Confirm",
+    "Payment Process",
+    "Delivery Audit",
+    "Partner Sync"
+  ]
+}

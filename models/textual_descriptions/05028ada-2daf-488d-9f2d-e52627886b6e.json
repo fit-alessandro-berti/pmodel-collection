@@ -1,0 +1,21 @@
+{
+  "title": "Antique Artifact Authentication",
+  "description": "This process involves the detailed authentication of antique artifacts for auction purposes. It starts with initial provenance research, followed by physical inspection using multispectral imaging and material analysis. Experts then perform stylistic comparison and historical context validation. Next, the artifact undergoes chemical composition testing to detect modern materials or restorations. Afterward, 3D scanning and digital reconstruction help in assessing craftsmanship accuracy. A collaborative review session with historians and conservators determines authenticity consensus. Finally, a detailed report is compiled, including risk assessment and valuation recommendations before the artifact is approved for auction listing.",
+  "activities": [
+    "Provenance Check",
+    "Visual Inspect",
+    "Imaging Scan",
+    "Material Test",
+    "Style Compare",
+    "Context Validate",
+    "Chemical Analysis",
+    "3D Scan",
+    "Digital Model",
+    "Expert Review",
+    "Consensus Meet",
+    "Risk Assess",
+    "Valuation Prep",
+    "Report Compile",
+    "Auction Listing"
+  ]
+}

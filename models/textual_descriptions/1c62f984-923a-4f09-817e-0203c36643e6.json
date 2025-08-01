@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the complex and atypical steps involved in establishing an urban vertical farming system within a repurposed industrial building. It includes site assessment, environmental simulation, modular installation, nutrient cycling optimization, and integration of AI-driven crop monitoring. The workflow also covers regulatory compliance, energy management, and community engagement to ensure sustainable and scalable food production in densely populated areas. Each activity is designed to address unique challenges of urban agriculture, such as limited space, resource efficiency, and real-time data analytics for yield maximization.",
+  "activities": [
+    "Site Survey",
+    "Structural Test",
+    "Light Setup",
+    "Climate Control",
+    "Water Loop",
+    "Nutrient Mix",
+    "Sensor Install",
+    "AI Integration",
+    "Crop Seeding",
+    "Growth Monitor",
+    "Pest Check",
+    "Energy Audit",
+    "Waste Cycle",
+    "Regulation Review",
+    "Community Meet",
+    "Yield Report"
+  ]
+}

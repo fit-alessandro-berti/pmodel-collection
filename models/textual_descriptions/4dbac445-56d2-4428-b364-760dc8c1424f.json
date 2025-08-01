@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the complex and multifaceted steps involved in establishing an urban vertical farming operation within a metropolitan environment. It includes site evaluation, modular system design, environmental controls integration, and supply chain coordination for organic seed sourcing. The process requires precise synchronization of technological installation, nutrient solution calibration, and real-time monitoring setup to optimize crop yield. Additionally, it incorporates community engagement for local market feedback and regulatory compliance checks to ensure sustainable practices. The workflow culminates with staff training, pilot harvests, and iterative system refinement based on data analytics, fostering a resilient and scalable urban agriculture model.",
+  "activities": [
+    "Site Survey",
+    "Design Layout",
+    "Permit Acquire",
+    "Seed Sourcing",
+    "Module Install",
+    "Irrigation Setup",
+    "Lighting Configure",
+    "Nutrient Mix",
+    "Sensor Calibrate",
+    "Climate Control",
+    "Data Integration",
+    "Staff Training",
+    "Trial Harvest",
+    "Market Engage",
+    "Compliance Audit",
+    "System Review",
+    "Yield Analyze"
+  ]
+}

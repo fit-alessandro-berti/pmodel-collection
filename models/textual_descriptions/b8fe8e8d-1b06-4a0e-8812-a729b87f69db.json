@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process describes the comprehensive operational cycle of an urban vertical farming facility specializing in multi-layer hydroponic vegetable production. It begins with nutrient solution preparation, followed by seed germination under controlled LED lighting. The seedlings are then transplanted into vertical racks where climate control systems optimize temperature, humidity, and CO2 levels. Automated sensors monitor plant health and growth metrics, triggering targeted nutrient adjustments. Periodic pest management employs integrated biological controls instead of chemicals. Harvesting is synchronized with market demand forecasts, while waste biomass is processed via onsite composting units. Finally, produce is packaged in eco-friendly materials and distributed through urban logistics channels, closing the loop with data-driven yield analysis for continuous improvement.",
+  "activities": [
+    "Nutrient Prep",
+    "Seed Germinate",
+    "Light Control",
+    "Transplant Seedlings",
+    "Climate Adjust",
+    "CO2 Monitor",
+    "Sensor Scan",
+    "Nutrient Adjust",
+    "Pest Control",
+    "Growth Record",
+    "Harvest Schedule",
+    "Waste Compost",
+    "Eco Package",
+    "Urban Dispatch",
+    "Yield Analyze"
+  ]
+}

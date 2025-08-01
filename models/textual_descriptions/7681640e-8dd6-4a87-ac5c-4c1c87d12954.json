@@ -1,0 +1,21 @@
+{
+  "title": "Custom Drone Fleet Setup",
+  "description": "This process outlines the end-to-end setup and deployment of a bespoke drone fleet designed for specialized industrial inspection tasks. It begins with requirement analysis and proceeds through custom hardware sourcing, firmware adaptation, and environmental simulation testing. After pilot training and regulatory compliance validation, the process includes dynamic route programming, real-time telemetry integration, and emergency protocol implementation. Finally, the process ensures continuous performance monitoring and adaptive maintenance scheduling to optimize operational longevity and safety in challenging environments.",
+  "activities": [
+    "Requirement Analysis",
+    "Hardware Sourcing",
+    "Firmware Adaptation",
+    "Simulated Testing",
+    "Pilot Training",
+    "Compliance Check",
+    "Route Programming",
+    "Telemetry Setup",
+    "Emergency Setup",
+    "Performance Audit",
+    "Maintenance Plan",
+    "Data Integration",
+    "Risk Assessment",
+    "Field Deployment",
+    "Feedback Loop"
+  ]
+}

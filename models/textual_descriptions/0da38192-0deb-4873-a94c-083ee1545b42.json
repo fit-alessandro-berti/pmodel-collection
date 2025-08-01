@@ -1,0 +1,22 @@
+{
+  "title": "Decentralized Asset Leasing",
+  "description": "This process involves managing the leasing of physical and digital assets through a decentralized blockchain platform. It includes asset registration, verification, dynamic pricing based on market demand, automated smart contract generation, multi-party consensus validation, real-time usage tracking, dispute resolution via decentralized arbitration, and seamless payment settlements. The process ensures transparency, reduces intermediaries, and enables fractional leasing, while maintaining compliance with regulatory frameworks through automated reporting and audit trails. Stakeholders include asset owners, lessees, validators, and compliance officers, all interacting within a secure, distributed environment to optimize asset utilization and revenue streams.",
+  "activities": [
+    "Asset Register",
+    "Verify Ownership",
+    "Price Evaluate",
+    "Contract Draft",
+    "Consensus Check",
+    "Lease Approve",
+    "Payment Initiate",
+    "Usage Track",
+    "Dispute Submit",
+    "Arbitration Review",
+    "Settlement Process",
+    "Compliance Audit",
+    "Report Generate",
+    "Fractional Lease",
+    "Access Control",
+    "Contract Terminate"
+  ]
+}

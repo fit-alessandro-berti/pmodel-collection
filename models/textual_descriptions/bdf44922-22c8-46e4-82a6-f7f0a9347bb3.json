@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the establishment of an urban vertical farming system within a repurposed industrial building. It involves site evaluation, structural modifications for weight support, installation of hydroponic and aeroponic systems, integration of automated climate control, and implementation of AI-driven nutrient delivery. The process also includes staff training on system maintenance, daily crop monitoring, pest management with minimal chemicals, and data analysis for yield optimization. Finally, it covers packaging logistics and coordination with local markets to ensure fresh produce distribution, emphasizing sustainability and resource efficiency.",
+  "activities": [
+    "Site Survey",
+    "Load Testing",
+    "Structural Mod",
+    "System Install",
+    "Climate Setup",
+    "AI Integration",
+    "Nutrient Mix",
+    "Crop Planting",
+    "Staff Training",
+    "Sensor Setup",
+    "Pest Control",
+    "Growth Monitor",
+    "Data Analysis",
+    "Packaging Prep",
+    "Market Sync"
+  ]
+}

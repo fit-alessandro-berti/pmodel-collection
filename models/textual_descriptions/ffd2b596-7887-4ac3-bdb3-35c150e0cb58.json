@@ -1,0 +1,21 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process outlines the complex and highly customized assembly of drones tailored for specific environmental conditions and client requirements. It begins with detailed component sourcing, followed by precision calibration of sensors and motors. Quality assurance is integrated at multiple stages to ensure durability under varied weather conditions. Software integration involves adaptive flight algorithms that adjust to real-time data inputs. Final testing simulates extreme operational scenarios before packaging and logistics coordination for global distribution. Throughout, cross-functional teams collaborate closely to manage supply chain variability and maintain compliance with international aviation standards.",
+  "activities": [
+    "Component Sourcing",
+    "Sensor Calibrate",
+    "Motor Assembly",
+    "Frame Build",
+    "Software Install",
+    "Algorithm Tune",
+    "Battery Integrate",
+    "Signal Test",
+    "Durability Check",
+    "Flight Simulate",
+    "Quality Inspect",
+    "Compliance Review",
+    "Packaging Prep",
+    "Logistics Plan",
+    "Client Feedback"
+  ]
+}

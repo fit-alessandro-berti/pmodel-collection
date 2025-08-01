@@ -1,0 +1,23 @@
+{
+  "title": "Custom AI Model Brokerage",
+  "description": "This process involves brokering custom artificial intelligence models between specialized developers and niche industry clients. It starts with client requirements gathering, followed by matching suitable AI developers with specific domain expertise. After initial vetting, prototype models are created and iteratively refined through collaborative feedback loops. Licensing agreements and intellectual property negotiations take place before final deployment. Post-deployment monitoring and optimization services ensure models remain effective. The process integrates legal, technical, and commercial teams to balance innovation with compliance, resulting in tailored AI solutions delivered through a secure and transparent platform.",
+  "activities": [
+    "Client Intake",
+    "Needs Analysis",
+    "Developer Match",
+    "Expert Vetting",
+    "Prototype Build",
+    "Feedback Loop",
+    "Model Refinement",
+    "License Draft",
+    "IP Negotiation",
+    "Contract Sign",
+    "Deployment Prep",
+    "Go Live",
+    "Monitor Model",
+    "Optimize AI",
+    "Support Handoff",
+    "Compliance Check",
+    "Final Review"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Supply Chain",
+  "description": "This process manages the end-to-end supply chain of an urban vertical farming operation specializing in microgreens and specialty herbs. It includes seed sourcing from niche suppliers, controlled environment planting, automated growth monitoring with AI sensors, nutrient solution adjustments, and on-demand harvesting schedules. Post-harvest, the process incorporates rapid packaging in eco-friendly materials, cold chain logistics with real-time tracking, dynamic order allocation for local markets and restaurants, and feedback loops from clients to optimize crop varieties. The system uniquely integrates waste recycling by converting plant residues into biofertilizers used internally, closing the sustainability loop while maintaining high product quality and minimizing urban footprint.",
+  "activities": [
+    "Seed Sourcing",
+    "Planting Setup",
+    "Growth Monitoring",
+    "Nutrient Mixing",
+    "Climate Control",
+    "Pest Scanning",
+    "Harvest Planning",
+    "Selective Picking",
+    "Waste Sorting",
+    "Biofertilizer Prep",
+    "Packaging Prep",
+    "Cold Storage",
+    "Order Allocation",
+    "Delivery Routing",
+    "Client Feedback",
+    "Data Analysis"
+  ]
+}

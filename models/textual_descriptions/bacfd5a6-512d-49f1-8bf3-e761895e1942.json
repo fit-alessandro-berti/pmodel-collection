@@ -1,0 +1,22 @@
+{
+  "title": "Urban Farm Supply Chain",
+  "description": "This process manages the complex supply chain for an urban vertical farming operation that sources organic inputs, coordinates sensor-driven crop monitoring, adapts to microclimate variations, and delivers fresh produce directly to local consumers. It integrates IoT data analysis for predictive maintenance, dynamic inventory adjustment based on growth cycles, and last-mile delivery optimization within congested cityscapes. The process includes vendor coordination for sustainable packaging, regulatory compliance for urban agriculture, and real-time customer feedback loops to refine crop varieties and service quality, all while maintaining sustainability and minimizing waste in a highly dynamic environment.",
+  "activities": [
+    "Input Sourcing",
+    "Sensor Sync",
+    "Crop Monitor",
+    "Climate Adjust",
+    "Growth Forecast",
+    "Inventory Check",
+    "Vendor Align",
+    "Packaging Prep",
+    "Regulation Review",
+    "Data Analysis",
+    "Maintenance Plan",
+    "Order Dispatch",
+    "Route Optimize",
+    "Customer Feedback",
+    "Waste Manage",
+    "Quality Audit"
+  ]
+}

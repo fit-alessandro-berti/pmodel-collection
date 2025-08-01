@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process involves the design, installation, and optimization of a vertical farming system within an urban environment. It begins with site analysis and ends with continuous yield monitoring. The workflow includes integrating IoT sensors for environment control, sourcing sustainable materials, coordinating with local authorities for permits, and establishing supply chain logistics for fresh produce delivery. The process also addresses energy-efficient lighting installation, water recycling systems, automated nutrient delivery, and staff training on high-tech farming equipment. It ensures compliance with urban agriculture regulations and incorporates community engagement programs to promote awareness and adoption of vertical farming solutions.",
+  "activities": [
+    "Site Survey",
+    "Permit Check",
+    "Design Layout",
+    "Material Sourcing",
+    "Install Sensors",
+    "Setup Lighting",
+    "Water System",
+    "Nutrient Mix",
+    "IoT Integration",
+    "Energy Audit",
+    "Staff Training",
+    "Test Run",
+    "Compliance Review",
+    "Community Meet",
+    "Yield Monitor",
+    "Supply Setup"
+  ]
+}

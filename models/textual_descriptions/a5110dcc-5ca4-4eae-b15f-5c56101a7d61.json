@@ -1,0 +1,21 @@
+{
+  "title": "Remote Drone Fleet Management",
+  "description": "This process involves the end-to-end management of a remote drone fleet used for agricultural monitoring. It includes scheduling drone missions based on crop data, performing pre-flight health diagnostics, establishing secure communication channels, conducting autonomous flight operations, collecting multispectral imagery, transmitting data to cloud servers, processing images with AI algorithms, generating actionable insights for farmers, managing battery swaps and maintenance, updating firmware remotely, handling emergency recalls, coordinating with air traffic control, and archiving flight logs for regulatory compliance. The process ensures efficient and compliant drone utilization to optimize crop yields while minimizing operational risks and costs.",
+  "activities": [
+    "Mission Setup",
+    "Health Check",
+    "Comm Link",
+    "Flight Launch",
+    "Data Capture",
+    "Data Upload",
+    "Image Process",
+    "Insight Gen",
+    "Battery Swap",
+    "Firmware Update",
+    "Recall Handle",
+    "Traffic Coord",
+    "Log Archive",
+    "Maintenance",
+    "Compliance Check"
+  ]
+}

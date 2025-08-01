@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Restoration Workflow",
+  "description": "This process outlines the complex and meticulous steps involved in restoring ancient artifacts recovered from underwater archaeological sites. It begins with initial assessment and documentation followed by desalination to remove salt deposits. Specialized cleaning removes encrustations without damaging the artifact's surface. Structural stabilization is applied to fragile components. Chemical treatments prevent further corrosion. Digital 3D scanning captures precise details for virtual reconstruction. Conservation experts then perform material consolidation to strengthen weakened areas. Environmental simulation tests durability under various conditions. Finally, the artifact undergoes aesthetic retouching and protective coating application before being prepared for exhibition or storage. Throughout the process, multidisciplinary collaboration ensures historical accuracy and preservation integrity while minimizing invasive procedures.",
+  "activities": [
+    "Initial Assess",
+    "Salt Removal",
+    "Surface Clean",
+    "Fragile Stabilize",
+    "Corrosion Treat",
+    "3D Scanning",
+    "Material Strengthen",
+    "Enviro Simulate",
+    "Virtual Rebuild",
+    "Aesthetic Retouch",
+    "Coating Apply",
+    "Documentation",
+    "Expert Review",
+    "Condition Monitor",
+    "Final Prep"
+  ]
+}

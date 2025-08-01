@@ -1,0 +1,23 @@
+{
+  "title": "Custom Artifact Provenance",
+  "description": "This process involves tracking and verifying the provenance of rare custom artifacts from creation through multiple ownership transfers, restorations, and exhibitions. It requires coordination between artists, historians, appraisers, logistics providers, and legal experts to ensure authenticity, condition, and rightful ownership are maintained and documented at every stage. The process integrates physical inspections, digital ledger updates, encrypted ownership transfers, and compliance checks with international cultural property laws, culminating in periodic public showcase events and archival storage preparation, thus safeguarding the artifact\u2019s legacy and market value over decades.",
+  "activities": [
+    "Initial Audit",
+    "Artist Review",
+    "Material Check",
+    "Condition Scan",
+    "Ownership Verify",
+    "Appraisal Update",
+    "Restoration Plan",
+    "Restoration Track",
+    "Logistics Book",
+    "Shipping Monitor",
+    "Customs Clear",
+    "Legal Compliance",
+    "Ledger Update",
+    "Exhibition Setup",
+    "Public Showcase",
+    "Archival Prep",
+    "Final Report"
+  ]
+}

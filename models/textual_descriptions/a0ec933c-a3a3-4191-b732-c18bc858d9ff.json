@@ -1,0 +1,23 @@
+{
+  "title": "Artisanal Cheese Supply Chain",
+  "description": "This process describes the end-to-end supply chain for artisanal cheese production, focusing on unique challenges such as seasonal milk sourcing, traditional fermentation monitoring, and small-batch aging. It involves coordination between local dairy farms, quality inspections of raw milk, controlled fermentation environments, handcrafting by cheesemakers, detailed aging schedules, and niche market distribution including direct-to-consumer and boutique retailers. Each step requires specialized skills to maintain authenticity and product integrity, while adapting to fluctuating supply and demand. The process also includes feedback loops for sensory evaluation and recipe adjustments to preserve traditional flavors and textures, ensuring customer satisfaction in a competitive gourmet market.",
+  "activities": [
+    "Milk Sourcing",
+    "Quality Check",
+    "Milk Pasteurize",
+    "Fermentation Start",
+    "pH Monitoring",
+    "Curd Cutting",
+    "Whey Drain",
+    "Molding Press",
+    "Salting Stage",
+    "Initial Aging",
+    "Flip Schedule",
+    "Humidity Control",
+    "Sensory Test",
+    "Packaging Prep",
+    "Order Fulfill",
+    "Customer Feedback",
+    "Recipe Adjust"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process outlines the comprehensive steps involved in authenticating rare historical artifacts for a private museum collection. It integrates multidisciplinary expert evaluations, scientific testing, provenance research, legal compliance verification, and ethical sourcing assessments. The workflow ensures that every artifact undergoes rigorous scrutiny to confirm authenticity, legal ownership, and cultural significance before acquisition, minimizing risks of forgery, illicit trade, and ethical conflicts. The process is iterative, requiring multiple rounds of expert consensus and documentation updates, culminating in final approval for museum display or archival storage.",
+  "activities": [
+    "Initial Review",
+    "Provenance Check",
+    "Scientific Test",
+    "Material Analysis",
+    "Expert Consult",
+    "Historical Context",
+    "Legal Verify",
+    "Ethics Assess",
+    "Forgery Detect",
+    "Consensus Meet",
+    "Documentation",
+    "Condition Report",
+    "Acquisition Vote",
+    "Display Plan",
+    "Archival Store",
+    "Compliance Audit",
+    "Final Approval"
+  ]
+}

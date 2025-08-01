@@ -1,0 +1,23 @@
+{
+  "title": "Urban Drone Delivery Setup",
+  "description": "This process outlines the setup and operational preparation for an urban drone delivery system integrating regulatory compliance, route optimization, drone calibration, and customer engagement. It involves coordinating with local authorities, performing environmental impact assessments, configuring autonomous flight parameters, and establishing emergency protocols. The process ensures seamless delivery of packages in densely populated areas while maintaining safety and efficiency through continuous monitoring and adaptive scheduling. It also includes community awareness campaigns and feedback loops to refine service quality and address urban logistic challenges in real time.",
+  "activities": [
+    "Regulatory Check",
+    "Route Survey",
+    "Drone Calibration",
+    "Payload Securing",
+    "Flight Simulation",
+    "Emergency Setup",
+    "Environmental Audit",
+    "Signal Testing",
+    "Community Brief",
+    "Schedule Sync",
+    "Battery Charging",
+    "Autonomy Config",
+    "Test Flight",
+    "Data Logging",
+    "Customer Notify",
+    "Feedback Review",
+    "Maintenance Plan"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Custom Artifact Provenance Verification",
+  "description": "This process involves the comprehensive verification of an artifact's authenticity and provenance by integrating multidisciplinary data sources including historical records, material analysis, expert consultations, and blockchain-based ownership tracking. The workflow begins with initial artifact intake, followed by surface and chemical scans, detailed archival research, cross-referencing ownership documents, and consulting domain specialists. Next, the process incorporates advanced AI pattern recognition to detect anomalies, compares findings with known databases, and consolidates all evidence into a digital dossier. Finally, the process concludes with certification issuance or rejection, ensuring traceability and transparency in the art and antiquities market while mitigating forgery risks and enhancing collector confidence.",
+  "activities": [
+    "Artifact Intake",
+    "Surface Scan",
+    "Material Analysis",
+    "Historical Search",
+    "Document Check",
+    "Expert Review",
+    "AI Pattern",
+    "Database Match",
+    "Ownership Trace",
+    "Provenance Map",
+    "Anomaly Flag",
+    "Evidence Compile",
+    "Digital Dossier",
+    "Certification",
+    "Final Report"
+  ]
+}

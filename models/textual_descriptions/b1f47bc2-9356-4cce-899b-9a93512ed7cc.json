@@ -1,0 +1,22 @@
+{
+  "title": "Collaborative Innovation Cycle",
+  "description": "This process involves cross-disciplinary teams from different organizations working together to ideate, prototype, test, and refine a novel product concept in a highly iterative manner. It begins with opportunity identification and moves through co-creation workshops, rapid prototyping, and multi-stage validation involving customers and stakeholders. The process requires dynamic resource allocation, continuous feedback loops, and risk assessment at every stage to ensure alignment with strategic goals and market viability. The final stages include joint intellectual property agreements, pilot deployment, and knowledge transfer sessions to embed innovations into operational frameworks.",
+  "activities": [
+    "Opportunity Scan",
+    "Stakeholder Map",
+    "Idea Workshop",
+    "Concept Draft",
+    "Resource Align",
+    "Prototype Build",
+    "User Testing",
+    "Feedback Loop",
+    "Risk Review",
+    "Design Iterate",
+    "IP Negotiation",
+    "Pilot Launch",
+    "Market Monitor",
+    "Knowledge Share",
+    "Scale Plan",
+    "Performance Audit"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Corporate Artifact Recovery",
+  "description": "This process governs the identification, authentication, and retrieval of lost or stolen corporate artifacts that hold significant historical or intellectual value. It involves cross-departmental coordination, legal compliance verification, covert negotiation with third parties, and secure logistics to ensure the artifact's safe return while preserving its confidentiality and integrity. Each step requires meticulous documentation, risk assessment, and contingency planning to mitigate potential reputational and financial damages associated with artifact loss. The process concludes with restoration and archival procedures to reintegrate the artifact within corporate heritage assets.",
+  "activities": [
+    "Artifact Scan",
+    "Ownership Verify",
+    "Risk Assess",
+    "Legal Review",
+    "Stakeholder Notify",
+    "Recovery Plan",
+    "Third-Party Contact",
+    "Negotiation Setup",
+    "Secure Transport",
+    "Condition Inspect",
+    "Restoration Begin",
+    "Documentation Log",
+    "Heritage Archive",
+    "Final Audit",
+    "Process Close"
+  ]
+}

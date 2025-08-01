@@ -1,0 +1,22 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process involves the intricate assembly and customization of drones tailored for specialized industrial applications. Starting with component verification, it includes firmware integration, dynamic calibration, and environmental adaptability testing. The workflow demands rigorous quality assurance and compliance checks, followed by client-specific software loading and remote diagnostics setup. Final steps cover packaging with augmented reality manuals and logistics coordination for secure delivery. The process ensures drones meet unique operational demands while maintaining safety and performance standards in diverse environments.",
+  "activities": [
+    "Component Check",
+    "Frame Assembly",
+    "Motor Mount",
+    "Sensor Setup",
+    "Wiring Harness",
+    "Firmware Load",
+    "Calibration Run",
+    "Flight Test",
+    "Env Adaptation",
+    "QA Inspection",
+    "Compliance Verify",
+    "Software Install",
+    "Diagnostics Setup",
+    "Packaging AR",
+    "Logistics Plan",
+    "Customer Handoff"
+  ]
+}

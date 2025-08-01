@@ -1,0 +1,21 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process outlines the complex assembly and configuration of custom drones tailored for specialized industrial applications. It involves initial client specification gathering, component sourcing from multiple suppliers with quality verification, precision assembly under controlled environmental conditions, firmware customization based on mission parameters, multi-stage testing including flight simulation and stress analysis, iterative adjustments for performance optimization, regulatory compliance checks, packaging with anti-static measures, and final shipment coordination with logistics partners. Each activity ensures the drone meets strict client requirements and industry standards before deployment.",
+  "activities": [
+    "Client Specs",
+    "Component Sourcing",
+    "Quality Check",
+    "Frame Assembly",
+    "Wiring Setup",
+    "Firmware Load",
+    "Calibration Run",
+    "Flight Sim",
+    "Stress Test",
+    "Adjust Settings",
+    "Compliance Audit",
+    "Packaging Prep",
+    "Static Shield",
+    "Logistics Plan",
+    "Final Dispatch"
+  ]
+}

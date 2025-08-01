@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the establishment of a fully integrated urban vertical farming system within a repurposed industrial building. It involves site analysis, modular system design, climate control integration, IoT sensor deployment for real-time monitoring, nutrient solution preparation, automation programming, crop scheduling, pest management without chemicals, energy optimization through renewable sources, waste recycling, multi-tier planting, harvest logistics, and community engagement strategies. The goal is to maximize yield per square foot while minimizing environmental impact and operational costs in a densely populated urban setting.",
+  "activities": [
+    "Site Survey",
+    "Design Layout",
+    "Climate Setup",
+    "Sensor Install",
+    "Nutrient Mix",
+    "Automation Code",
+    "Crop Planning",
+    "Pest Control",
+    "Energy Audit",
+    "Waste Sort",
+    "Planting Tier",
+    "Harvest Prep",
+    "Logistics Plan",
+    "Community Meet",
+    "Data Review",
+    "System Upgrade"
+  ]
+}

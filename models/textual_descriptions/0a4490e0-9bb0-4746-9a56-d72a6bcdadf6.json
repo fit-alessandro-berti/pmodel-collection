@@ -1,0 +1,23 @@
+{
+  "title": "Custom Drone Deployment",
+  "description": "This process outlines the end-to-end workflow for designing, manufacturing, and deploying custom drones tailored for agricultural monitoring. It includes initial client consultation to determine specific needs, iterative prototype testing using AI-driven simulations, regulatory compliance verification, precision component sourcing from multiple suppliers, adaptive software integration for environmental data collection, multi-phase quality assurance checks, and final deployment with remote operational training. Post-deployment, the process incorporates continuous performance monitoring with automatic firmware updates and periodic feedback sessions to optimize drone functionality and client satisfaction, ensuring a sustainable and scalable drone service solution.",
+  "activities": [
+    "Client Brief",
+    "Needs Analysis",
+    "Concept Design",
+    "AI Simulation",
+    "Prototype Build",
+    "Component Sourcing",
+    "Supply Verification",
+    "Software Coding",
+    "Integration Test",
+    "Regulatory Check",
+    "Quality Audit",
+    "Field Trial",
+    "Operator Training",
+    "Deployment Launch",
+    "Performance Monitor",
+    "Firmware Update",
+    "Feedback Review"
+  ]
+}

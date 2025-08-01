@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the complex steps involved in establishing an urban vertical farm within a densely populated city environment. It includes site evaluation for structural integrity, microclimate analysis, and energy efficiency assessments. The workflow covers modular system design, nutrient solution formulation, and sensor network integration for real-time monitoring. It also incorporates regulatory compliance checks, community engagement initiatives, and iterative crop optimization cycles. The process concludes with a phased operational launch, continuous quality assurance, and adaptive resource management to maximize yield while minimizing environmental impact in an urban setting.",
+  "activities": [
+    "Site Survey",
+    "Structure Test",
+    "Climate Study",
+    "Energy Audit",
+    "System Design",
+    "Nutrient Mix",
+    "Sensor Setup",
+    "Regulation Check",
+    "Community Meet",
+    "Crop Trial",
+    "Monitor Data",
+    "Yield Review",
+    "Resource Plan",
+    "Launch Phase",
+    "Quality Audit",
+    "Adjust Parameters"
+  ]
+}

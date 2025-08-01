@@ -1,0 +1,21 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process outlines the end-to-end assembly of custom drones tailored to specific client requirements. It involves initial design consultation, component sourcing from multiple suppliers, firmware customization, iterative prototype testing, regulatory compliance checks, final quality assurance, and packaging. The process also includes dynamic risk assessment, supply chain adjustments based on inventory fluctuations, and post-production client training to ensure proper drone operation. Each stage requires coordination among engineering, procurement, and logistics teams to deliver a fully functional, reliable drone solution meeting both performance and safety standards.",
+  "activities": [
+    "Design Brief",
+    "Component Sourcing",
+    "Firmware Setup",
+    "Prototype Build",
+    "Flight Testing",
+    "Regulatory Review",
+    "Risk Assessment",
+    "Supplier Audit",
+    "Inventory Check",
+    "Quality Control",
+    "Packaging Prep",
+    "Client Training",
+    "Feedback Review",
+    "Production Ramp",
+    "Shipping Schedule"
+  ]
+}

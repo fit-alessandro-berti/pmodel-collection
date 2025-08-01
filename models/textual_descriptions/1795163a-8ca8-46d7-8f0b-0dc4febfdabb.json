@@ -1,0 +1,22 @@
+{
+  "title": "Intermodal Asset Swap",
+  "description": "This process manages the complex coordination involved in swapping transport assets between multiple logistics providers across different regions. It includes verification of asset conditions, regulatory compliance checks, scheduling synchronized handoffs, and reconciling financial and legal obligations. The process ensures that assets such as containers, vehicles, or equipment are efficiently exchanged while minimizing downtime and maintaining traceability through digital ledgers and real-time communication channels, adapting dynamically to delays or discrepancies detected during transit or inspection phases.",
+  "activities": [
+    "Asset Verify",
+    "Condition Check",
+    "Compliance Audit",
+    "Schedule Sync",
+    "Handoff Confirm",
+    "Documentation Review",
+    "Financial Reconcile",
+    "Legal Validate",
+    "Ledger Update",
+    "Communication Alert",
+    "Delay Monitor",
+    "Discrepancy Flag",
+    "Transit Track",
+    "Inspection Report",
+    "Final Approval",
+    "Swap Execute"
+  ]
+}

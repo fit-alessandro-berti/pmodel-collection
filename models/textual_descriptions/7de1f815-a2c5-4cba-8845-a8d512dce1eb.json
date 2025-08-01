@@ -1,0 +1,22 @@
+{
+  "title": "Urban Rooftop Farming Setup",
+  "description": "This process outlines the setup of an urban rooftop farm, integrating advanced hydroponics with renewable energy sources and waste recycling systems. It involves site assessment, structural analysis, soil and water testing, equipment procurement, installation of solar panels and water recycling units, seed selection, planting schedules, pest control using natural predators, data monitoring through IoT devices, and community engagement for educational workshops. The process ensures sustainability, maximizes crop yield in limited space, and promotes urban greening while adhering to local regulations and safety standards.",
+  "activities": [
+    "Site Survey",
+    "Structure Check",
+    "Soil Sample",
+    "Water Test",
+    "Procure Gear",
+    "Install Panels",
+    "Setup Hydro",
+    "Seed Select",
+    "Plant Crop",
+    "Pest Control",
+    "IoT Config",
+    "Data Monitor",
+    "Waste Recycle",
+    "Safety Audit",
+    "Host Workshop",
+    "Yield Review"
+  ]
+}

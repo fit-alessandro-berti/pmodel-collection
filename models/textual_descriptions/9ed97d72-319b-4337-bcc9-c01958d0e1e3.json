@@ -1,0 +1,21 @@
+{
+  "title": "Antique Artifact Authentication",
+  "description": "This complex process involves the detailed authentication of antique artifacts by combining scientific analysis, provenance research, and expert evaluation. Initially, artifacts undergo non-invasive imaging and material composition tests to detect forgeries or restorations. Concurrently, historical records and ownership chains are meticulously verified through archival research and interviews. The process also includes stylistic comparison with verified pieces and consultation with domain experts. Finally, all gathered data is synthesized into a comprehensive report that determines authenticity, estimated value, and historical significance, ensuring the artifact's credibility in the market and preservation archives.",
+  "activities": [
+    "Visual Scan",
+    "Material Test",
+    "Imaging Analysis",
+    "Provenance Check",
+    "Archive Search",
+    "Interview Experts",
+    "Stylistic Match",
+    "Forgery Detect",
+    "Condition Report",
+    "Market Compare",
+    "Historical Cross",
+    "Expert Review",
+    "Database Update",
+    "Value Estimation",
+    "Final Report"
+  ]
+}

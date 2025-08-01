@@ -1,0 +1,23 @@
+{
+  "title": "Artisan Coffee Supply Chain",
+  "description": "This process outlines the intricate journey of artisan coffee beans from origin to cup, incorporating sustainable sourcing, quality verification, and direct farmer engagement. It involves coordinating micro-lot harvests, implementing blockchain traceability, specialized roasting profiles, and personalized distribution channels to ensure freshness and ethical standards. The process also integrates customer feedback loops for continuous blend refinement and adapts dynamically to seasonal crop variations and market demand fluctuations while maintaining transparency and premium quality assurance throughout the supply chain.",
+  "activities": [
+    "Farm Selection",
+    "Lot Harvest",
+    "Sample Testing",
+    "Trace Logging",
+    "Quality Audit",
+    "Farmer Payment",
+    "Roast Profiling",
+    "Batch Roasting",
+    "Flavor Tasting",
+    "Packaging Seal",
+    "Inventory Check",
+    "Order Allocation",
+    "Delivery Routing",
+    "Customer Feedback",
+    "Blend Refinement",
+    "Market Analysis",
+    "Demand Forecast"
+  ]
+}

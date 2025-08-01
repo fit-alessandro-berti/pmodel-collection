@@ -1,0 +1,22 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process involves the intricate assembly and configuration of custom drones tailored for specialized industrial applications. It begins with the selection of bespoke components based on client specifications, followed by precision soldering of circuit boards and integration of unique sensor arrays. The workflow includes rigorous software calibration, iterative flight testing in controlled environments, and adaptive firmware updates. Quality assurance teams perform environmental stress simulations and cross-system compatibility checks before final packaging. The process concludes with personalized documentation and client training sessions to ensure optimal operational use in diverse scenarios.",
+  "activities": [
+    "Component Select",
+    "Circuit Solder",
+    "Sensor Install",
+    "Frame Assemble",
+    "Software Upload",
+    "Calibration Run",
+    "Flight Testing",
+    "Firmware Update",
+    "Stress Simulate",
+    "Compatibility Check",
+    "Battery Configure",
+    "Signal Optimize",
+    "Quality Inspect",
+    "Documentation Prep",
+    "Client Training",
+    "Packaging Final"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process outlines the intricate steps involved in assembling custom drones tailored for specialized industrial applications. It begins with component sourcing, followed by precision calibration of sensors and flight controllers. The assembly involves iterative software-hardware integration, rigorous environmental testing under simulated conditions, and final quality certification. Each drone undergoes a unique flight pattern programming to match client specifications, including payload configurations and emergency protocols. The process concludes with packaging and logistics coordination, ensuring safe delivery and post-deployment support scheduling.",
+  "activities": [
+    "Component Sourcing",
+    "Sensor Calibrate",
+    "Frame Assembly",
+    "Wiring Harness",
+    "Controller Install",
+    "Software Load",
+    "Firmware Update",
+    "Payload Setup",
+    "Flight Pattern",
+    "Stress Testing",
+    "Enviro Simulate",
+    "Quality Check",
+    "Certify Drone",
+    "Package Unit",
+    "Ship Logistics",
+    "Support Schedule"
+  ]
+}

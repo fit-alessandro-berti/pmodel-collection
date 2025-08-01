@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process describes the comprehensive workflow for authenticating rare historical artifacts before acquisition by a museum. It involves initial provenance research, multispectral imaging analysis, expert consultations across various disciplines, chemical composition testing, and digital ledger registration. The process ensures artifacts are verified for authenticity, legal ownership, and cultural significance, minimizing risks of forgery or illicit acquisition. It also incorporates stakeholder approvals, insurance appraisal, and final archival documentation, integrating technology with traditional expertise to uphold ethical and scholarly standards in artifact curation.",
+  "activities": [
+    "Provenance Check",
+    "Visual Survey",
+    "Material Scan",
+    "XRay Imaging",
+    "Expert Review",
+    "Carbon Dating",
+    "Spectral Analysis",
+    "Legal Verify",
+    "Ownership Trace",
+    "Cultural Assess",
+    "Stakeholder Meet",
+    "Insurance Quote",
+    "Risk Assess",
+    "Ledger Entry",
+    "Archive Update",
+    "Final Approval"
+  ]
+}

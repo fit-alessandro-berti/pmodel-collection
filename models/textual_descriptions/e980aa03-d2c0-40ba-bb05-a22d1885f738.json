@@ -1,0 +1,21 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process involves creating highly specialized drones tailored for environmental research missions. It begins with client consultation to define unique specifications, followed by custom component sourcing that requires vetting rare materials. The assembly phase incorporates precision calibration of sensors and propulsion systems, integrated software deployment, and rigorous flight testing in controlled environments. Post-assembly, the drone undergoes adaptive AI training based on mission parameters, final quality assurance checks, and packaging with mission-specific accessories. The process concludes with client training sessions and remote deployment support, ensuring the drone operates effectively in diverse and unpredictable field conditions. Continuous feedback loops help refine future builds and maintain long-term client satisfaction.",
+  "activities": [
+    "Client Brief",
+    "Spec Analysis",
+    "Material Sourcing",
+    "Component Vetting",
+    "Frame Assembly",
+    "Sensor Install",
+    "Propulsion Setup",
+    "Calibration",
+    "Software Load",
+    "Flight Test",
+    "AI Training",
+    "QA Review",
+    "Mission Pack",
+    "Client Training",
+    "Deployment Support"
+  ]
+}

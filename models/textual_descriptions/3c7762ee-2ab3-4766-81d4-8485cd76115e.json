@@ -1,0 +1,22 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process outlines the intricate steps involved in assembling custom drones tailored to specific client requirements. It begins with component selection based on desired drone capabilities, followed by intricate circuit integration and firmware customization. Quality checks ensure compliance with safety and performance standards, while iterative flight testing validates operational stability. The process also includes environmental resilience testing, packaging with personalized branding, and coordination with logistics for expedited delivery. Throughout, detailed documentation and client feedback loops optimize future iterations and enhance overall product reliability.",
+  "activities": [
+    "Component Pick",
+    "Circuit Mount",
+    "Firmware Flash",
+    "Sensor Align",
+    "Propeller Fit",
+    "Battery Install",
+    "Signal Test",
+    "Calibrate Gyro",
+    "Flight Trial",
+    "Data Log",
+    "Stress Test",
+    "Weather Proof",
+    "Package Drone",
+    "Brand Label",
+    "Shipping Prep",
+    "Client Review"
+  ]
+}

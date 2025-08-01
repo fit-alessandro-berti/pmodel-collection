@@ -1,0 +1,21 @@
+{
+  "title": "Custom Artifact Authentication",
+  "description": "This process involves the detailed verification and authentication of rare cultural artifacts acquired from private collectors before integration into a museum's permanent collection. It includes provenance research, chemical composition analysis, expert consultation, legal clearance, and digital archiving. Each step ensures the artifact's authenticity, legal ownership, and preservation readiness. The process also entails coordinating with international agencies for cross-border compliance, preparing detailed reports, and managing secure transportation logistics. Finally, the artifact is digitally cataloged with 3D imaging and metadata tagging for future research and public accessibility.",
+  "activities": [
+    "Provenance Check",
+    "Material Testing",
+    "Expert Review",
+    "Legal Clearance",
+    "Customs Filing",
+    "Transport Booking",
+    "Condition Report",
+    "Digital Scan",
+    "Metadata Tagging",
+    "Security Audit",
+    "Crosscheck Database",
+    "Restoration Plan",
+    "Insurance Setup",
+    "Stakeholder Brief",
+    "Archive Upload"
+  ]
+}

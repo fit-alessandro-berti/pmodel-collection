@@ -1,0 +1,22 @@
+{
+  "title": "Custom Artifact Restoration",
+  "description": "This process involves the meticulous restoration of ancient artifacts that require a blend of scientific analysis and artistic skill. It begins with initial condition assessment and documentation, followed by material identification through spectroscopy and microscopic examination. Conservation treatments are then planned, including stabilization, cleaning, and structural repair using reversible materials. Throughout the restoration, environmental controls and ethical considerations are strictly maintained to preserve authenticity. After treatment, the artifact undergoes final quality checks, digital archiving, and preparation for exhibition or storage, ensuring both historical integrity and future research accessibility.",
+  "activities": [
+    "Condition Check",
+    "Photo Capture",
+    "Material Scan",
+    "Microscope Review",
+    "Damage Mapping",
+    "Treatment Plan",
+    "Clean Surface",
+    "Stabilize Structure",
+    "Apply Adhesive",
+    "Fill Gaps",
+    "Color Match",
+    "Protect Coating",
+    "Quality Inspect",
+    "Digital Archive",
+    "Exhibit Prep",
+    "Storage Setup"
+  ]
+}

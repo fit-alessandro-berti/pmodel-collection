@@ -1,0 +1,21 @@
+{
+  "title": "Custom Artifact Authentication",
+  "description": "This process involves the intricate steps required to authenticate and verify the provenance of rare cultural artifacts. Beginning with initial artifact intake and preliminary condition assessment, it includes multi-layered historical research and provenance tracing through archival databases. Following this, scientific material analysis and radiocarbon dating are performed to validate period authenticity. Concurrently, expert panel reviews and comparative stylistic analysis ensure contextual accuracy. The process also incorporates digital fingerprinting and 3D scanning to create a secure, immutable record. Final stages involve legal documentation, insurance appraisal, and secure archival storage planning. This atypical but realistic process ensures thorough verification, safeguarding cultural heritage and providing confidence to collectors and institutions alike.",
+  "activities": [
+    "Artifact Intake",
+    "Condition Check",
+    "History Research",
+    "Provenance Trace",
+    "Material Testing",
+    "Radiocarbon Date",
+    "Expert Review",
+    "Stylistic Compare",
+    "Digital Scan",
+    "Fingerprinting",
+    "Legal Review",
+    "Insurance Appraise",
+    "Archival Plan",
+    "Record Secure",
+    "Final Approval"
+  ]
+}

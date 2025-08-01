@@ -1,0 +1,22 @@
+{
+  "title": "Custom Artifact Procurement",
+  "description": "This process governs the acquisition of rare cultural artifacts through a multi-phase approach involving detailed provenance verification, ethical compliance checks, multi-jurisdictional legal clearance, and bespoke logistics planning. It starts with artifact identification and initial owner negotiation, followed by expert authentication and condition assessment. Concurrently, an ethical review committee evaluates the artifact's acquisition impact. Once cleared, legal teams coordinate cross-border permits and export licenses. The process culminates in tailored packaging, insured transport arrangements, and final delivery confirmation to ensure artifact integrity and adherence to all regulatory frameworks, protecting both cultural heritage and organizational interests throughout.",
+  "activities": [
+    "Identify Artifact",
+    "Owner Contact",
+    "Provenance Check",
+    "Initial Negotiation",
+    "Expert Review",
+    "Condition Report",
+    "Ethical Review",
+    "Legal Clearance",
+    "Permit Acquisition",
+    "Export License",
+    "Customs Filing",
+    "Packaging Plan",
+    "Insurance Setup",
+    "Transport Booking",
+    "Delivery Confirm",
+    "Post-Arrival Audit"
+  ]
+}

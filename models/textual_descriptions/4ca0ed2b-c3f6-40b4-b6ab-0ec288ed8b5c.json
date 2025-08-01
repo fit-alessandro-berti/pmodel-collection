@@ -1,0 +1,22 @@
+{
+  "title": "Artisan Cheese Auction",
+  "description": "This process involves sourcing rare artisan cheeses from small-scale producers worldwide, verifying quality through expert tasting panels, and coordinating logistics for timely delivery to a centralized auction house. The auction includes online and in-person bidding, real-time price adjustments based on demand, and post-auction quality assurance. Successful bidders engage in customized packaging and expedited shipping while maintaining strict temperature controls. The process concludes with detailed feedback collection from buyers and producers to refine future auctions and enhance product offerings, ensuring the preservation of traditional cheese-making techniques and fostering a global community of connoisseurs.",
+  "activities": [
+    "Source Cheeses",
+    "Verify Quality",
+    "Schedule Tasting",
+    "Conduct Tasting",
+    "Evaluate Feedback",
+    "Arrange Logistics",
+    "Prepare Auction",
+    "Open Bidding",
+    "Monitor Prices",
+    "Close Auction",
+    "Confirm Winners",
+    "Coordinate Packaging",
+    "Initiate Shipping",
+    "Track Delivery",
+    "Collect Feedback",
+    "Analyze Results"
+  ]
+}

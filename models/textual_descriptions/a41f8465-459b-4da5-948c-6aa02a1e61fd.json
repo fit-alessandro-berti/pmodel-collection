@@ -1,0 +1,22 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process outlines the intricate steps involved in designing, assembling, and testing customized drones tailored for specific client requirements. It begins with requirement gathering and concept design, followed by component sourcing that involves rare materials and specialized suppliers. The assembly phase integrates advanced electronics and precision mechanical parts, necessitating rigorous quality checks at each stage. Post-assembly, drones undergo environmental stress testing and software calibration to ensure optimal performance in diverse conditions. Final approval includes client demonstration and feedback incorporation before shipment. This atypical process demands coordination across engineering, procurement, and quality assurance teams to deliver bespoke unmanned aerial vehicles that meet stringent operational standards.",
+  "activities": [
+    "Req Gathering",
+    "Concept Design",
+    "Supplier Vetting",
+    "Material Sourcing",
+    "Component Testing",
+    "Frame Assembly",
+    "Electronics Install",
+    "Wiring Setup",
+    "Software Upload",
+    "Calibration Check",
+    "Stress Testing",
+    "Flight Simulation",
+    "Client Demo",
+    "Feedback Fix",
+    "Final Approval",
+    "Packaging Ship"
+  ]
+}

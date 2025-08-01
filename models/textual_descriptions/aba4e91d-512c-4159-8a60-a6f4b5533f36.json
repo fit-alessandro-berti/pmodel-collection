@@ -1,0 +1,23 @@
+{
+  "title": "Urban Rooftop Farming Setup",
+  "description": "This process outlines the comprehensive steps required to establish an urban rooftop farming system on a commercial building. It starts with assessing rooftop structural integrity and environmental factors, followed by designing modular planting units tailored for limited space. The process includes selecting optimal crop varieties for urban microclimates, acquiring sustainable soil and nutrient sources, and integrating automated irrigation and monitoring systems. Coordination with local authorities for permits and compliance with zoning laws is essential. The workflow also involves staff training on hydroponic techniques, pest management without chemicals, and harvest logistics to ensure fresh produce delivery. Finally, continuous performance evaluation and adaptation strategies are implemented to maintain crop yield and sustainability in an urban context.",
+  "activities": [
+    "Roof Assess",
+    "Design Layout",
+    "Crop Select",
+    "Material Sourcing",
+    "Permit Filing",
+    "Unit Assembly",
+    "Soil Prep",
+    "Irrigation Setup",
+    "System Integrate",
+    "Staff Train",
+    "Pest Control",
+    "Growth Monitor",
+    "Harvest Plan",
+    "Delivery Schedule",
+    "Yield Review",
+    "Compliance Check",
+    "Waste Manage"
+  ]
+}

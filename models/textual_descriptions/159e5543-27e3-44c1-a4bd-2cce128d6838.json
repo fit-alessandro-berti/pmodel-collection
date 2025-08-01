@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process details the establishment of an urban vertical farming facility, integrating advanced hydroponics and IoT-based environmental controls. It begins with site evaluation and structural assessment, followed by modular system design and nutrient solution formulation. After installation, sensors are calibrated for optimal growth conditions, and AI-driven monitoring is initiated. The process includes crop selection based on local demand and seasonal factors, pest management through organic methods, and continuous data analysis to improve yield. Finally, harvested produce undergoes quality inspection before packaging and distribution to local markets, ensuring freshness and sustainability throughout the supply chain.",
+  "activities": [
+    "Site Assess",
+    "Structure Check",
+    "System Design",
+    "Nutrient Mix",
+    "Install Modules",
+    "Sensor Setup",
+    "Calibrate Sensors",
+    "Select Crops",
+    "Seed Planting",
+    "Monitor Growth",
+    "Pest Control",
+    "Data Analyze",
+    "Harvest Crops",
+    "Quality Check",
+    "Pack Produce",
+    "Market Delivery"
+  ]
+}

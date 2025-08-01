@@ -1,0 +1,21 @@
+{
+  "title": "Custom Artifact Authentication",
+  "description": "This process governs the end-to-end authentication and provenance verification of rare cultural artifacts prior to acquisition by private collectors or museums. It involves multidisciplinary collaboration between historians, forensic analysts, digital archivists, and blockchain experts. The workflow begins with preliminary artifact inspection followed by material composition analysis using advanced spectrometry. Concurrently, provenance records are digitized and cross-verified against global registries. Forensic handwriting and signature analysis are performed if applicable. A secure blockchain entry is created to immutably log all findings and ownership history. Finally, a multi-signature digital certificate is issued to confirm authenticity, ensuring traceability and minimizing risks of forgery and illegal trade in cultural heritage items.",
+  "activities": [
+    "Initial Inspection",
+    "Material Scan",
+    "Provenance Check",
+    "Registry Search",
+    "Handwriting Review",
+    "Signature Verify",
+    "Digital Archive",
+    "Spectrometry Test",
+    "Cross Reference",
+    "Blockchain Entry",
+    "Expert Panel",
+    "Risk Analysis",
+    "Certificate Issue",
+    "Ownership Log",
+    "Final Approval"
+  ]
+}

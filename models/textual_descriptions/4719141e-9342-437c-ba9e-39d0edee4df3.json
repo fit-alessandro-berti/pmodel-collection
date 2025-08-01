@@ -1,0 +1,23 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process involves the design, customization, and assembly of bespoke drones tailored to specific client requirements. It includes initial consultation to determine unique operational needs, iterative prototype development, component sourcing from multiple suppliers, software customization, rigorous testing under various environmental conditions, regulatory compliance verification, and final quality assurance before delivery. Post-delivery support and firmware updates are also integrated into the process to ensure optimal performance and client satisfaction over time.",
+  "activities": [
+    "Client Consult",
+    "Needs Analysis",
+    "Design Draft",
+    "Component Sourcing",
+    "Prototype Build",
+    "Software Setup",
+    "Firmware Install",
+    "Initial Testing",
+    "Design Review",
+    "Compliance Check",
+    "Environmental Test",
+    "Quality Audit",
+    "Final Assembly",
+    "Client Training",
+    "Delivery Schedule",
+    "Post Support",
+    "Firmware Update"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Custom Art Commission Workflow",
+  "description": "This process governs the lifecycle of a custom art commission from initial client inquiry to final delivery and post-sale support. It begins with client briefing and concept ideation, followed by iterative design reviews and adjustments. The artist then proceeds with material sourcing and prototype creation, coordinating with external vendors for specialty supplies. Quality assurance involves both technical and aesthetic evaluations, ensuring the artwork meets client expectations and industry standards. After final approval, packaging and logistics are arranged with eco-friendly considerations. Post-delivery, the process includes client feedback collection, documentation for portfolio updates, and scheduling of potential future commissions or maintenance services. Throughout, communication and contract management maintain transparency and protect intellectual property rights, ensuring a seamless experience for both artist and client.",
+  "activities": [
+    "Client Brief",
+    "Concept Sketch",
+    "Design Review",
+    "Material Sourcing",
+    "Prototype Build",
+    "Vendor Coordination",
+    "Quality Check",
+    "Client Approval",
+    "Packaging Prep",
+    "Shipping Arrange",
+    "Feedback Collect",
+    "Portfolio Update",
+    "Contract Sign",
+    "IP Management",
+    "Future Schedule",
+    "Maintenance Plan"
+  ]
+}

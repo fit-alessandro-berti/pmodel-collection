@@ -1,0 +1,23 @@
+{
+  "title": "Urban Beekeeping Supply Chain",
+  "description": "This process outlines the complex supply chain and operational workflow for an urban beekeeping business that produces honey, beeswax products, and educational services. It involves sourcing specialized urban-friendly bee colonies, adapting hive designs for rooftop and balcony installations, monitoring hive health with IoT sensors, harvesting honey safely without disrupting urban environments, processing raw materials in small-scale urban facilities, packaging with eco-friendly materials, managing direct-to-consumer deliveries via bicycle couriers, coordinating educational workshops for city residents, and ensuring compliance with municipal regulations. The process also integrates community engagement activities and data-driven hive maintenance schedules to optimize yield while minimizing environmental impact in dense city areas.",
+  "activities": [
+    "Colony Sourcing",
+    "Hive Design",
+    "Site Survey",
+    "Installation Prep",
+    "Hive Setup",
+    "Sensor Install",
+    "Health Monitor",
+    "Pest Control",
+    "Honey Harvest",
+    "Wax Processing",
+    "Product Packaging",
+    "Order Dispatch",
+    "Workshop Setup",
+    "Community Outreach",
+    "Regulation Check",
+    "Data Analysis",
+    "Maintenance Plan"
+  ]
+}

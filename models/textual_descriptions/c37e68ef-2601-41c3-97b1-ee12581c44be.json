@@ -1,0 +1,23 @@
+{
+  "title": "Artisan Cheese Supply",
+  "description": "This process covers the end-to-end supply chain for artisan cheese production, starting from raw milk sourcing through quality verification, fermentation control, and aging management. It includes packaging design customization, niche market distribution, and feedback integration for continuous product refinement. The process also involves regulatory compliance checks, seasonal inventory adjustments, and collaborative marketing campaigns to strengthen brand presence in specialty food markets. Stakeholder coordination ensures timely deliveries while maintaining product integrity throughout transit and storage.",
+  "activities": [
+    "Milk Sourcing",
+    "Quality Testing",
+    "Starter Prep",
+    "Curd Cutting",
+    "Whey Draining",
+    "Molding Press",
+    "Fermentation Control",
+    "Aging Setup",
+    "Humidity Check",
+    "Packaging Design",
+    "Label Approval",
+    "Inventory Audit",
+    "Order Scheduling",
+    "Market Delivery",
+    "Feedback Review",
+    "Compliance Check",
+    "Marketing Sync"
+  ]
+}

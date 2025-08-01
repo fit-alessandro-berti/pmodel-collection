@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process outlines the comprehensive workflow used by cultural heritage institutions to authenticate and verify the provenance of rare artifacts. The steps include initial artifact intake, condition assessment, historical data mining, scientific material analysis, expert panel review, digital imaging, and provenance chain verification. It integrates multidisciplinary expertise, advanced technology, and legal checks to ensure each artifact's authenticity and rightful ownership before cataloging for exhibition or sale. The process also incorporates risk assessment for potential forgeries and legal compliance with international cultural property laws, culminating in a final certification and archival documentation.",
+  "activities": [
+    "Artifact Intake",
+    "Condition Check",
+    "Data Mining",
+    "Material Scan",
+    "Expert Review",
+    "Digital Imaging",
+    "Provenance Check",
+    "Forgery Risk",
+    "Legal Audit",
+    "Ownership Verify",
+    "Scientific Test",
+    "Catalog Entry",
+    "Certification",
+    "Archival Store",
+    "Exhibit Prep",
+    "Sale Approval"
+  ]
+}

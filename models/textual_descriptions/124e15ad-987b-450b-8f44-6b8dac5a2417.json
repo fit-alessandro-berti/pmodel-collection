@@ -1,0 +1,21 @@
+{
+  "title": "Artisan Cheese Supply Chain",
+  "description": "This process outlines the complex and atypical supply chain involved in producing artisan cheese from small-scale farms to niche gourmet shops. It begins with seasonal milk collection, followed by precise fermentation control, handcrafting curd molding, and quality maturation monitoring. The process includes sensory evaluation panels, organic certification audits, and custom packaging design tailored to regional tastes. Distribution leverages specialized cold transport logistics and direct-to-chef delivery schedules. Feedback loops from retailers and consumers inform iterative recipe adjustments, ensuring unique flavors and consistent quality across batches. Sustainability tracking and waste repurposing are integrated throughout, emphasizing eco-conscious production and community engagement within a localized artisan network.",
+  "activities": [
+    "Milk Harvest",
+    "Fermentation Check",
+    "Curd Molding",
+    "Salt Application",
+    "Pressing Stage",
+    "Maturation Monitor",
+    "Quality Testing",
+    "Sensory Panel",
+    "Certification Audit",
+    "Packaging Design",
+    "Cold Transport",
+    "Retail Delivery",
+    "Consumer Feedback",
+    "Recipe Tuning",
+    "Waste Recycling"
+  ]
+}

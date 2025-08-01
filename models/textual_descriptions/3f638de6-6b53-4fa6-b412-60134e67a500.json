@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process outlines the detailed verification and authentication workflow for rare historical artifacts submitted to a museum. It involves initial intake and documentation, provenance research, scientific testing including isotopic and material analysis, expert consultation across multiple disciplines, condition reporting, legal compliance checks related to cultural property laws, digital cataloging with high-resolution imaging, temporary exhibition preparation, insurance valuation, and final certification issuance. The process ensures that each artifact is thoroughly vetted for authenticity, legal ownership, and preservation standards before public display or acquisition, maintaining institutional integrity and cultural heritage protection.",
+  "activities": [
+    "Intake Review",
+    "Provenance Check",
+    "Material Analysis",
+    "Isotope Testing",
+    "Expert Consult",
+    "Condition Report",
+    "Legal Review",
+    "Digital Imaging",
+    "Catalog Entry",
+    "Exhibit Prep",
+    "Insurance Valuation",
+    "Certification",
+    "Storage Allocation",
+    "Public Disclosure",
+    "Final Approval"
+  ]
+}

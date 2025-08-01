@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process describes the comprehensive cycle of urban vertical farming, integrating sustainable agriculture with advanced technology in densely populated environments. It begins with site analysis and environmental calibration, followed by automated seeding and nutrient optimization. Continuous monitoring through IoT sensors ensures ideal growth conditions. The system adapts lighting and irrigation dynamically based on plant health data. Pest detection is managed through AI-driven imaging, reducing chemical use. Harvesting is executed by robotic units, and produce is quality-checked before packaging. Finally, logistics coordinate rapid delivery to local markets, maintaining freshness and minimizing carbon footprint. This atypical but realistic process exemplifies future-forward urban agriculture.",
+  "activities": [
+    "Site Analysis",
+    "Env Calibration",
+    "Seed Automation",
+    "Nutrient Mix",
+    "IoT Monitoring",
+    "Light Adjustment",
+    "Irrigation Control",
+    "Health Scanning",
+    "Pest Detection",
+    "AI Imaging",
+    "Robotic Harvest",
+    "Quality Check",
+    "Packaging Prep",
+    "Cold Storage",
+    "Logistics Plan",
+    "Market Delivery"
+  ]
+}

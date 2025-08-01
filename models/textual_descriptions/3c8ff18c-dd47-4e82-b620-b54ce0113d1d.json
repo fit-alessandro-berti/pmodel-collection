@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the establishment of an urban vertical farming system within a repurposed industrial building. It involves site analysis, modular rack installation, climate system calibration, nutrient solution preparation, seed selection, automated planting, lighting optimization, pest monitoring, data analytics integration, crop harvesting, waste recycling, packaging, and distribution logistics. The process ensures sustainable, high-yield crop production with minimal environmental impact, leveraging IoT sensors and AI-driven adjustments to maximize efficiency in a dense urban environment.",
+  "activities": [
+    "Site Survey",
+    "Rack Setup",
+    "Climate Adjust",
+    "Nutrient Mix",
+    "Seed Select",
+    "Auto Plant",
+    "Light Tune",
+    "Pest Check",
+    "Sensor Sync",
+    "Data Review",
+    "Growth Scan",
+    "Harvest Crop",
+    "Waste Sort",
+    "Pack Goods",
+    "Distribute"
+  ]
+}

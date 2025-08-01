@@ -1,0 +1,22 @@
+{
+  "title": "Urban Beekeeping Setup",
+  "description": "This process outlines the intricate steps involved in establishing an urban beekeeping operation within a densely populated city environment. It involves securing legal permits, site assessment for optimal hive placement considering microclimate and pollution levels, sourcing sustainable and disease-resistant bee colonies, designing modular hive systems adaptable to rooftop and balcony spaces, implementing integrated pest management tailored for urban pests, monitoring hive health through IoT sensors, coordinating community awareness programs to educate residents on bee safety, harvesting honey while ensuring minimal disruption to the colony, processing and packaging honey with urban branding, and maintaining continuous compliance with environmental and health regulations to promote urban biodiversity and sustainable practices.",
+  "activities": [
+    "Permit Check",
+    "Site Survey",
+    "Hive Design",
+    "Colony Source",
+    "Pest Control",
+    "Sensor Setup",
+    "Health Monitor",
+    "Community Meet",
+    "Safety Training",
+    "Hive Install",
+    "Honey Harvest",
+    "Honey Process",
+    "Brand Design",
+    "Regulation Audit",
+    "Waste Manage",
+    "Data Analyze"
+  ]
+}

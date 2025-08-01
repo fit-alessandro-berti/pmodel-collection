@@ -1,0 +1,22 @@
+{
+  "title": "Reverse Logistics Audit",
+  "description": "This process manages the complex flow of returned goods from customers back to the warehouse, ensuring accurate inspection, refurbishment, and redistribution or disposal. It involves coordination between multiple departments including customer service, quality control, and logistics to validate return reasons, assess product conditions, execute necessary repairs, and update inventory records. The process also incorporates compliance checks for hazardous materials and environmental regulations, re-packaging of items for resale, and financial reconciliation for refunds or credits. Continuous monitoring and reporting are embedded to optimize return rates and reduce waste, making the reverse logistics audit a critical yet atypical business operation.",
+  "activities": [
+    "Return Initiation",
+    "Label Generation",
+    "Pickup Scheduling",
+    "Goods Receipt",
+    "Condition Inspection",
+    "Compliance Check",
+    "Repair Assignment",
+    "Refurbishment Work",
+    "Quality Approval",
+    "Inventory Update",
+    "Repackaging",
+    "Restock Placement",
+    "Disposal Decision",
+    "Credit Processing",
+    "Performance Review",
+    "Report Generation"
+  ]
+}

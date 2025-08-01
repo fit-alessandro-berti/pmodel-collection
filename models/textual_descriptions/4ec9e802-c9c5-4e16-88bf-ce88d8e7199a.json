@@ -1,0 +1,22 @@
+{
+  "title": "Adaptive Urban Farming Cycle",
+  "description": "This process outlines a highly adaptive urban farming cycle designed to optimize crop yields in micro-environments within cityscapes. It begins with microclimate scanning to assess localized conditions, followed by dynamic soil profiling to tailor nutrient delivery. The system employs modular planting strategies which adapt based on real-time sensor data, enabling selective germination and staggered growth phases. Automated pest detection and biological control deployment ensure sustainable protection without chemicals. Concurrently, vertical irrigation management adjusts water flow based on evapotranspiration rates. Harvesting is synchronized with market demand analytics to minimize waste and maximize freshness. Post-harvest sorting integrates AI-driven quality assessment, while urban composting loops recycle organic waste into nutrient-rich substrates. Finally, community feedback and data-driven analytics refine future cycles, creating a continuous improvement loop tailored for dense urban agricultural ecosystems.",
+  "activities": [
+    "Microclimate Scan",
+    "Soil Profiling",
+    "Nutrient Mapping",
+    "Modular Planting",
+    "Sensor Calibration",
+    "Germination Check",
+    "Growth Staggering",
+    "Pest Detection",
+    "Biocontrol Deploy",
+    "Irrigation Adjust",
+    "Market Sync",
+    "Harvest Timing",
+    "Quality Sorting",
+    "Compost Processing",
+    "Feedback Analyze",
+    "Cycle Refinement"
+  ]
+}

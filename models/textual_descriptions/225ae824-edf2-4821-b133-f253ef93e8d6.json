@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the comprehensive steps involved in establishing an urban vertical farming system within a metropolitan environment. It includes site assessment, environmental analysis, infrastructure integration, technology deployment, crop selection, nutrient management, automation setup, yield monitoring, and sustainable waste handling. The process ensures efficient space utilization, maximizes crop output, minimizes energy consumption through IoT-enabled devices, and integrates renewable energy sources. Additionally, it incorporates community engagement and compliance with urban agricultural regulations, aiming to create a resilient, scalable, and eco-friendly food production model tailored for densely populated cities.",
+  "activities": [
+    "Site Survey",
+    "Climate Study",
+    "Design Layout",
+    "Secure Permits",
+    "Install Frames",
+    "Set Irrigation",
+    "Deploy Sensors",
+    "Select Crops",
+    "Mix Nutrients",
+    "Configure AI",
+    "Start Seeding",
+    "Monitor Growth",
+    "Adjust Lighting",
+    "Harvest Batches",
+    "Process Waste",
+    "Engage Community",
+    "Report Metrics"
+  ]
+}

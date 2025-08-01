@@ -1,0 +1,23 @@
+{
+  "title": "Urban Rooftop Farming Setup",
+  "description": "This process outlines the comprehensive steps involved in establishing an urban rooftop farming operation on a commercial building. It begins with structural assessments to ensure load capacity, followed by microclimate analysis to optimize plant selection and layout. Procurement of sustainable materials and soil substrates occurs next, alongside installation of automated irrigation systems and solar-powered lighting. Continuous integration of sensor networks allows real-time monitoring of moisture, temperature, and nutrient levels. Staff training in urban agriculture techniques and safety protocols ensures efficient daily operations. Finally, the process includes marketing strategies targeting local restaurants and community programs to promote farm-to-table initiatives, ensuring economic viability and social impact within urban environments.",
+  "activities": [
+    "Load Check",
+    "Climate Scan",
+    "Material Buy",
+    "Soil Prep",
+    "Irrigation Fit",
+    "Lighting Setup",
+    "Sensor Install",
+    "Data Sync",
+    "Crop Select",
+    "Staff Train",
+    "Safety Drill",
+    "Harvest Plan",
+    "Market Outreach",
+    "Community Engage",
+    "Waste Manage",
+    "Energy Audit",
+    "Yield Assess"
+  ]
+}

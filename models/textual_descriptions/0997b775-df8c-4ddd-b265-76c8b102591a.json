@@ -1,0 +1,21 @@
+{
+  "title": "Custom Artifact Authentication",
+  "description": "This process outlines the intricate steps involved in authenticating rare historical artifacts for a high-security auction house. It begins with initial artifact intake and condition assessment, followed by multi-layered provenance research including archival verification and expert consultations. Concurrently, advanced scientific analysis such as isotope testing and material composition scanning is conducted to validate authenticity. The process also involves coordinating with legal teams to ensure compliance with international cultural heritage laws. Final steps include generating detailed authentication reports and secure digital certification before artifact cataloging and auction preparation. This atypical process ensures utmost credibility and compliance in a niche but critical domain.",
+  "activities": [
+    "Artifact Intake",
+    "Condition Check",
+    "Provenance Research",
+    "Archive Verify",
+    "Expert Consult",
+    "Isotope Testing",
+    "Material Scan",
+    "Legal Review",
+    "Compliance Check",
+    "Report Draft",
+    "Digital Certify",
+    "Catalog Entry",
+    "Auction Prep",
+    "Client Notify",
+    "Secure Storage"
+  ]
+}

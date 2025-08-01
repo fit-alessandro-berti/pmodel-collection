@@ -1,0 +1,21 @@
+{
+  "title": "Cross-Department Innovation Cycle",
+  "description": "This process orchestrates the ideation and development of innovative solutions by integrating inputs from multiple departments including R&D, marketing, finance, and operations. It begins with opportunity scanning and proceeds through collaborative brainstorming sessions, rapid prototyping, cross-functional reviews, and iterative feedback loops. The process incorporates external stakeholder engagement, regulatory compliance checks, and risk assessment to ensure feasibility. Final stages involve pilot testing, resource allocation for scaling, performance monitoring, and continuous improvement measures to embed innovation sustainably within the organization.",
+  "activities": [
+    "Opportunity Scan",
+    "Idea Collection",
+    "Brainstorming",
+    "Prototype Build",
+    "Cross-Review",
+    "Stakeholder Meet",
+    "Compliance Check",
+    "Risk Assess",
+    "Pilot Launch",
+    "Feedback Loop",
+    "Resource Plan",
+    "Scaling Prep",
+    "Performance Track",
+    "Improvement Plan",
+    "Final Approval"
+  ]
+}

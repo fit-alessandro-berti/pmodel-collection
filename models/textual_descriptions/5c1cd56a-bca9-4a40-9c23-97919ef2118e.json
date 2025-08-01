@@ -1,0 +1,21 @@
+{
+  "title": "Custom Drone Leasing",
+  "description": "This process outlines the complex workflow involved in leasing customized drones for industrial inspection purposes. It includes client consultation to determine specific requirements, drone design adjustments, regulatory compliance checks, prototype testing, contract negotiation, insurance setup, pilot training scheduling, deployment planning, real-time monitoring, maintenance scheduling, data analytics delivery, feedback collection, renewal assessment, and end-of-lease asset recovery. Each step requires coordination between engineering, legal, operations, and customer service teams to ensure tailored solutions meet safety standards and client expectations while optimizing operational efficiency and minimizing downtime.",
+  "activities": [
+    "Client Consult",
+    "Design Adjust",
+    "Compliance Check",
+    "Prototype Test",
+    "Contract Sign",
+    "Insurance Setup",
+    "Pilot Train",
+    "Deploy Plan",
+    "Real-time Monitor",
+    "Schedule Maintenance",
+    "Data Analytics",
+    "Collect Feedback",
+    "Renewal Assess",
+    "Asset Recover",
+    "Invoice Process"
+  ]
+}

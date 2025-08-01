@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the establishment of an urban vertical farming system designed to maximize crop yield in limited city spaces by integrating hydroponics, AI-driven climate control, and automated harvesting. It begins with site scouting and structural assessment, followed by modular system design tailored to specific crops. Installation includes environmental sensors, water recycling units, and LED lighting arrays. After setup, the system undergoes calibration and AI model training to optimize growth conditions. Routine maintenance and yield analysis ensure continuous improvement. The process also incorporates community engagement for education and local distribution logistics to minimize food miles, creating a sustainable urban agriculture ecosystem.",
+  "activities": [
+    "Site Scouting",
+    "Structure Check",
+    "Modular Design",
+    "System Install",
+    "Sensor Setup",
+    "Water Recycling",
+    "LED Wiring",
+    "AI Calibration",
+    "Model Training",
+    "Crop Planting",
+    "Climate Control",
+    "Harvest Automate",
+    "Yield Analysis",
+    "Maintenance",
+    "Community Engage",
+    "Logistics Plan"
+  ]
+}

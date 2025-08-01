@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farm Management",
+  "description": "This process involves the comprehensive management of a multi-layer urban vertical farm integrating advanced hydroponics, IoT sensor networks, and AI-driven climate control. It includes seed selection and germination, nutrient solution calibration, pest detection via computer vision, robotic harvesting, and automated packaging. Continuous environmental monitoring adjusts light, humidity, and temperature to optimize crop yield and quality. The process further encompasses waste recycling, energy consumption analysis, real-time supply chain coordination, and dynamic market pricing updates to ensure sustainable and efficient production tailored to urban consumer demands.",
+  "activities": [
+    "Seed Sowing",
+    "Germination Check",
+    "Nutrient Mix",
+    "Sensor Calibration",
+    "Pest Scan",
+    "Climate Adjust",
+    "Water Circulate",
+    "Growth Monitor",
+    "Harvest Robots",
+    "Quality Inspect",
+    "Waste Sort",
+    "Energy Audit",
+    "Pack Produce",
+    "Order Sync",
+    "Price Update",
+    "Delivery Plan"
+  ]
+}

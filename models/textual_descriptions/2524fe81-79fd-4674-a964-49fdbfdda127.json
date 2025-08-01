@@ -1,0 +1,22 @@
+{
+  "title": "Custom Drone Delivery Setup",
+  "description": "This process outlines the end-to-end setup and execution of custom drone delivery services for specialized clients. It involves initial client consultation to understand unique delivery requirements, drone customization to meet payload and navigation needs, regulatory compliance checks including airspace permissions, route optimization considering weather and obstacles, pilot training and certification for specific drone models, real-time monitoring during delivery, incident response planning, and post-delivery analytics. The process ensures tailored solutions while maintaining safety, efficiency, and regulatory adherence in an emerging logistics sector.",
+  "activities": [
+    "Client Consult",
+    "Needs Analysis",
+    "Drone Design",
+    "Payload Setup",
+    "Software Config",
+    "Regulatory Check",
+    "Route Planning",
+    "Pilot Assign",
+    "Training Session",
+    "Preflight Check",
+    "Launch Drone",
+    "Monitor Flight",
+    "Incident Response",
+    "Delivery Confirm",
+    "Data Review",
+    "Maintenance Log"
+  ]
+}

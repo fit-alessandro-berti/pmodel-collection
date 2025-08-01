@@ -1,0 +1,22 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process involves the end-to-end assembly and testing of custom-made drones tailored to unique client specifications. It begins with detailed requirement analysis, followed by component sourcing from multiple specialized suppliers. Each drone frame is assembled manually to ensure precision. Firmware is then developed and uploaded to the flight controller. The drone undergoes multi-stage calibration, including sensor alignment and motor balancing. After initial bench testing, a simulated flight test is conducted in a controlled environment. Post-testing, data analytics are applied to evaluate performance metrics. If the drone passes quality standards, it is packaged with personalized documentation and shipped using a custom logistics solution. Throughout, frequent client updates and iterative feedback integration ensure the final product meets exact expectations.",
+  "activities": [
+    "Requirement Review",
+    "Supplier Selection",
+    "Component Sourcing",
+    "Frame Assembly",
+    "Firmware Upload",
+    "Sensor Calibration",
+    "Motor Balancing",
+    "Bench Testing",
+    "Flight Simulation",
+    "Data Analysis",
+    "Quality Audit",
+    "Client Feedback",
+    "Documentation Prep",
+    "Custom Packaging",
+    "Logistics Planning",
+    "Shipment Dispatch"
+  ]
+}

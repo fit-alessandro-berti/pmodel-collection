@@ -1,0 +1,21 @@
+{
+  "title": "Artisanal Perfume Creation",
+  "description": "This process outlines the creation of a bespoke artisanal perfume, starting from raw material sourcing to the final personalized packaging. It involves selecting rare botanical extracts, formulating unique scent blends through iterative testing, aging the mixture to enhance aroma complexity, and conducting sensory evaluations with expert panels. The process also integrates sustainable harvesting methods, custom bottle design, and client feedback incorporation to ensure a distinct and high-quality product tailored to individual preferences. Documentation and quality assurance steps are embedded to maintain consistency and traceability throughout production.",
+  "activities": [
+    "Material Sourcing",
+    "Extract Distill",
+    "Blend Testing",
+    "Scent Aging",
+    "Sensory Panel",
+    "Formula Adjust",
+    "Sustainable Harvest",
+    "Batch Labeling",
+    "Client Sampling",
+    "Feedback Review",
+    "Bottle Design",
+    "Packaging Print",
+    "Quality Audit",
+    "Inventory Check",
+    "Order Dispatch"
+  ]
+}

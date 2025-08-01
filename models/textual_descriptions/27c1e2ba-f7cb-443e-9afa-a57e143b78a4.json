@@ -1,0 +1,22 @@
+{
+  "title": "Antique Artifacts Authentication",
+  "description": "This process outlines the comprehensive steps involved in authenticating antique artifacts for auction purposes. It begins with initial artifact intake and provenance verification, followed by detailed material composition analysis using advanced spectroscopy. Next, stylistic and historical context assessments are performed by experts, complemented by digital imaging and 3D scanning to detect restoration or forgery. The process involves cross-referencing with global artifact databases and consultation with external historians. A risk evaluation is then conducted to estimate potential market value and legal considerations. Finally, a certification report is generated and archived, with recommendations for preservation or restoration. The process ensures thorough validation to maintain auction integrity and client trust.",
+  "activities": [
+    "Artifact Intake",
+    "Provenance Check",
+    "Material Scan",
+    "Spectral Analysis",
+    "Stylistic Review",
+    "Historical Context",
+    "3D Imaging",
+    "Forgery Detection",
+    "Database Crossref",
+    "Expert Consult",
+    "Risk Assessment",
+    "Value Estimation",
+    "Legal Review",
+    "Report Generation",
+    "Archive Storage",
+    "Preservation Plan"
+  ]
+}

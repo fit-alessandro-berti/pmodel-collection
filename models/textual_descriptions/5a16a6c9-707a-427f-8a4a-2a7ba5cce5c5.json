@@ -1,0 +1,22 @@
+{
+  "title": "Rare Artifact Authentication",
+  "description": "This process involves the complex and meticulous steps required to authenticate rare historical artifacts before acquisition by a museum or private collector. It includes provenance verification, material analysis, expert consultations, and risk assessments to ensure authenticity and legal compliance. The workflow integrates interdisciplinary collaboration between historians, scientists, legal advisors, and logistics teams. Each phase requires specialized tools and documentation, culminating in a final appraisal and certification for acquisition or rejection. The process is atypical due to its reliance on diverse expertise and the high stakes involved in verifying unique cultural heritage items.",
+  "activities": [
+    "Initial Review",
+    "Provenance Check",
+    "Material Scan",
+    "Xray Analysis",
+    "Chemical Test",
+    "Expert Consult",
+    "Historical Compare",
+    "Legal Audit",
+    "Risk Assess",
+    "Condition Report",
+    "Photograph Item",
+    "Database Search",
+    "Appraisal Draft",
+    "Final Certification",
+    "Logistics Plan",
+    "Acquisition Approval"
+  ]
+}

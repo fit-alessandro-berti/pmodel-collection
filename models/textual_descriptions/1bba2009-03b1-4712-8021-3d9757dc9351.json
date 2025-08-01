@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the establishment of an urban vertical farm inside a repurposed high-rise building. It involves initial site evaluation, structural adaptation for hydroponic systems, environmental controls installation, crop selection based on urban microclimates, seedling propagation, nutrient solution preparation, automated monitoring setup, pest control strategies, harvesting schedules, post-harvest processing, packaging optimization for local distribution, waste recycling protocols, energy consumption tracking, and continuous improvement cycles to maximize yield and sustainability in a confined urban environment.",
+  "activities": [
+    "Site Survey",
+    "Structure Retrofit",
+    "System Install",
+    "Crop Select",
+    "Seedling Prep",
+    "Nutrient Mix",
+    "Sensor Setup",
+    "Pest Control",
+    "Water Cycle",
+    "Lighting Adjust",
+    "Harvest Plan",
+    "Post Harvest",
+    "Packaging",
+    "Waste Process",
+    "Energy Audit"
+  ]
+}

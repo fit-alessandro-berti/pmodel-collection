@@ -1,0 +1,21 @@
+{
+  "title": "Custom Artifact Authentication",
+  "description": "This process involves the intricate authentication of rare cultural artifacts obtained through unconventional channels. The workflow begins with provenance verification, followed by material composition analysis using advanced spectroscopy. Parallelly, historical context validation is performed via archival research and expert consultations. Once initial checks pass, the artifact undergoes digital 3D scanning and microscopic wear pattern analysis. Subsequent steps include cross-referencing with stolen artifact databases and coordinating with international law enforcement. Final stages involve certification issuance, secure documentation, and client briefing. This atypical process ensures high confidence in artifact legitimacy, balancing scientific rigor with legal compliance and ethical considerations.",
+  "activities": [
+    "Provenance Check",
+    "Material Test",
+    "Archive Search",
+    "Expert Review",
+    "3D Scanning",
+    "Wear Analysis",
+    "Database Cross",
+    "Law Consult",
+    "Forgery Detect",
+    "Certification",
+    "Document Prep",
+    "Client Brief",
+    "Secure Storage",
+    "Risk Assessment",
+    "Final Approval"
+  ]
+}

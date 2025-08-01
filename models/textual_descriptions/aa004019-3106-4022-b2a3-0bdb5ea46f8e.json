@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the meticulous verification and authentication of ancient artifacts sourced from various archaeological sites before they are approved for museum exhibitions or private collections. It begins with initial provenance research, followed by multi-disciplinary scientific analysis, including radiocarbon dating and material composition tests. Expert consultations are held to evaluate stylistic and cultural attributes. The findings are compiled into a detailed report, which undergoes peer review. If discrepancies arise, further investigative activities such as microscopic imaging and comparative historical analysis are conducted. Once the artifact passes all authentication phases, legal documentation is prepared to certify its authenticity and ownership. Finally, the artifact is cataloged into the digital archive system and prepared for secure transportation to its display location, ensuring compliance with international cultural heritage laws and ethical guidelines.",
+  "activities": [
+    "Provenance Check",
+    "Visual Inspection",
+    "Radiocarbon Test",
+    "Material Analysis",
+    "Stylistic Review",
+    "Expert Consult",
+    "Report Draft",
+    "Peer Review",
+    "Microscopic Scan",
+    "Historical Compare",
+    "Discrepancy Audit",
+    "Legal Prepare",
+    "Certification Issue",
+    "Catalog Entry",
+    "Secure Transport",
+    "Compliance Verify"
+  ]
+}

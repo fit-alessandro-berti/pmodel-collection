@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This complex process involves verifying the authenticity of rare historical artifacts through a multi-disciplinary approach. It includes initial provenance research, material composition analysis using spectroscopy, expert visual examination, cross-referencing with global databases, and legal ownership validation. The process also incorporates risk assessment for potential forgeries, condition reporting, digital archiving of findings, and final certification issuance. Communication with stakeholders is maintained throughout to ensure transparency and compliance with international trade regulations, culminating in secure storage or exhibition preparation depending on the artifact's status.",
+  "activities": [
+    "Provenance Check",
+    "Material Scan",
+    "Visual Audit",
+    "Database Match",
+    "Ownership Verify",
+    "Forgery Risk",
+    "Condition Report",
+    "Stakeholder Sync",
+    "Legal Review",
+    "Digital Archive",
+    "Expert Consultation",
+    "Certification Issue",
+    "Storage Prep",
+    "Exhibit Plan",
+    "Compliance Audit"
+  ]
+}

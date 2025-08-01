@@ -1,0 +1,23 @@
+{
+  "title": "Artisan Supply Chain",
+  "description": "This process governs the intricate supply chain for handcrafted artisan goods, integrating raw material sourcing from remote villages, quality certification by cultural experts, bespoke packaging design, and direct-to-consumer logistics. It involves multiple stakeholders including local artisans, certification bodies, eco-friendly transport providers, and niche market distributors, ensuring authenticity, sustainability, and cultural preservation while adapting dynamically to fluctuating demand and seasonal availability of materials.",
+  "activities": [
+    "Material Sourcing",
+    "Artisan Vetting",
+    "Quality Audit",
+    "Cultural Certify",
+    "Design Packaging",
+    "Order Processing",
+    "Inventory Sync",
+    "Custom Labeling",
+    "Eco Transport",
+    "Demand Forecast",
+    "Market Analysis",
+    "Consumer Feedback",
+    "Restock Planning",
+    "Stakeholder Meet",
+    "Compliance Check",
+    "Payment Settlement",
+    "Return Handling"
+  ]
+}

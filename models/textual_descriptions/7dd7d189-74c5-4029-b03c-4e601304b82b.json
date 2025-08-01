@@ -1,0 +1,22 @@
+{
+  "title": "Artisan Supply Chain",
+  "description": "This process manages the sourcing, customization, and distribution of rare artisan materials used in bespoke product creation. It involves intricate coordination between local artisans, quality assurance teams, custom order management, and eco-friendly logistics providers. The process ensures traceability from raw material harvest to final delivery, incorporating sustainability checks and dynamic inventory adjustments based on artisan availability and regional demand fluctuations. It also includes a feedback loop with artisans to refine material quality and adapt supply strategies in real-time, balancing tradition with modern efficiency to meet unique customer specifications worldwide.",
+  "activities": [
+    "Material Sourcing",
+    "Supplier Vetting",
+    "Quality Inspect",
+    "Custom Design",
+    "Order Validation",
+    "Inventory Check",
+    "Artisan Coordination",
+    "Sustainability Audit",
+    "Packaging Prep",
+    "Logistics Planning",
+    "Shipment Book",
+    "Customs Clearance",
+    "Delivery Tracking",
+    "Customer Feedback",
+    "Demand Forecast",
+    "Stock Replenish"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Rare Artifact Authentication",
+  "description": "This process involves the multi-layered authentication of rare historical artifacts for museums and private collectors. It begins with initial provenance verification and scientific material analysis, followed by expert stylistic evaluation and forensic imaging. Subsequent steps include cross-referencing with global databases, consulting cultural heritage specialists, and conducting environmental aging simulations. The process further incorporates stakeholder interviews, legal ownership verification, and risk assessment for potential forgery. Final activities encompass preparation of detailed certification reports, digital archiving of findings, and secure artifact handover with traceability protocols to ensure authenticity and legal compliance throughout the artifact's lifecycle.",
+  "activities": [
+    "Provenance Check",
+    "Material Scan",
+    "Stylistic Eval",
+    "Forensic Image",
+    "Database Match",
+    "Heritage Consult",
+    "Age Simulation",
+    "Stakeholder Talk",
+    "Ownership Verify",
+    "Forgery Risk",
+    "Certify Report",
+    "Data Archive",
+    "Secure Handover",
+    "Trace Protocol",
+    "Legal Review"
+  ]
+}

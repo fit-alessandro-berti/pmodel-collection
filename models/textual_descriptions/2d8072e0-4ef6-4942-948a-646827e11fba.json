@@ -1,0 +1,21 @@
+{
+  "title": "Cross-Industry Innovation Cycle",
+  "description": "This process facilitates the systematic generation and implementation of innovative solutions by integrating knowledge, technologies, and methodologies from multiple unrelated industries. It begins with opportunity scouting across diverse sectors, followed by cross-disciplinary ideation workshops where experts collaboratively brainstorm new concepts. Subsequently, rapid prototyping uses hybrid technologies to test feasibility. Parallel market simulations evaluate potential adoption in different contexts. Iterative feedback loops refine the prototypes based on technical, regulatory, and cultural constraints. The process includes IP landscape analysis to ensure freedom to operate and strategic partnership formation for resource sharing. Final validation involves pilot deployments in controlled environments, culminating in knowledge transfer sessions to embed innovations into core business units, ensuring sustainable competitive advantage and continuous learning.",
+  "activities": [
+    "Opportunity Scan",
+    "Expert Select",
+    "Idea Workshop",
+    "Concept Filter",
+    "Tech Prototype",
+    "Market Simulate",
+    "Feedback Gather",
+    "Regulatory Check",
+    "Cultural Assess",
+    "IP Analysis",
+    "Partner Align",
+    "Pilot Deploy",
+    "Data Review",
+    "Knowledge Share",
+    "Scale Plan"
+  ]
+}

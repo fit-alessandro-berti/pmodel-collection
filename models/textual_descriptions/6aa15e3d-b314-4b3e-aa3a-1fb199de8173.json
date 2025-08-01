@@ -1,0 +1,21 @@
+{
+  "title": "Global Reverse Logistics",
+  "description": "This process manages the complex sequence of activities involved in the global return and refurbishment of electronic devices. It begins with customer return initiation, followed by multi-modal transportation coordination to centralized refurbishment hubs. The process includes quality assessment, component harvesting, data sanitization, and environmental compliance checks. Refurbished units are then repackaged and redistributed through secondary markets or donation programs. The process ensures traceability, cost optimization, and regulatory adherence across diverse jurisdictions while minimizing environmental impact and maximizing asset recovery value.",
+  "activities": [
+    "Return Initiation",
+    "Transport Scheduling",
+    "Customs Clearance",
+    "Inbound Sorting",
+    "Quality Check",
+    "Data Wiping",
+    "Component Harvest",
+    "Compliance Audit",
+    "Refurbishment",
+    "Packaging",
+    "Inventory Update",
+    "Secondary Sales",
+    "Donation Handling",
+    "Waste Disposal",
+    "Reporting"
+  ]
+}

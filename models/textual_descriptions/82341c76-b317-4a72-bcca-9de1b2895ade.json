@@ -1,0 +1,22 @@
+{
+  "title": "Urban Farming Supply Chain",
+  "description": "This process manages the end-to-end supply chain for urban farming operations, integrating multiple stakeholders such as vertical farms, local suppliers, and distribution hubs. It starts with seed sourcing from specialized vendors, includes hydroponic nutrient formulation, real-time environmental monitoring, and automated crop harvesting using AI-powered robotics. The process also involves quality checks tailored for microgreen varieties, dynamic inventory adjustment based on environmental feedback, and last-mile delivery using electric cargo bikes to minimize carbon footprint. Additionally, it incorporates waste recycling by converting organic residues into biofertilizers, ensuring sustainability. The process requires coordination between software platforms for farm management, logistics, and customer relationship management to maintain a seamless flow from seed to consumer in densely populated urban areas.",
+  "activities": [
+    "Seed Sourcing",
+    "Nutrient Mix",
+    "Env Monitoring",
+    "Crop Seeding",
+    "Growth Tracking",
+    "Pest Scanning",
+    "Automated Harvest",
+    "Quality Check",
+    "Waste Sorting",
+    "Biofertilizer Prep",
+    "Inventory Update",
+    "Order Allocation",
+    "Route Planning",
+    "Bike Dispatch",
+    "Customer Feedback",
+    "Data Sync"
+  ]
+}

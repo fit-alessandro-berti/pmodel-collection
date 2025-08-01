@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farm Onboarding",
+  "description": "This process outlines the comprehensive steps required to onboard new urban vertical farms into a smart city ecosystem. It involves site evaluation, integration with city utilities, real-time data synchronization, regulatory compliance verification, IoT sensor installation, automated climate calibration, supply chain linkage, waste recycling setup, and continuous performance monitoring. The goal is to ensure sustainable urban agriculture with optimized resource usage and seamless interaction with city infrastructure, enabling scalable, tech-driven food production within dense metropolitan environments.",
+  "activities": [
+    "Site Survey",
+    "Utility Sync",
+    "Regulation Check",
+    "Sensor Install",
+    "Data Link",
+    "Climate Adjust",
+    "Crop Scheduling",
+    "Waste Setup",
+    "Supply Link",
+    "Energy Audit",
+    "Security Setup",
+    "Staff Training",
+    "System Test",
+    "Performance Review",
+    "Reporting Setup"
+  ]
+}

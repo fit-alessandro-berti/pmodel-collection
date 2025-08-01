@@ -1,0 +1,21 @@
+{
+  "title": "Custom Urban Farming Setup",
+  "description": "This process outlines the establishment of a custom urban farming system tailored to specific client locations and environmental conditions. It involves initial site assessment, soil and pollution testing, modular farm design, sourcing of specialized seeds and nutrients, installation of IoT sensors for real-time monitoring, integration of renewable energy sources, staff training on sustainable practices, and ongoing performance optimization. The process ensures maximized yield with minimal environmental impact, adapting to urban constraints while promoting local food production and community engagement through workshops and digital platforms for farm management.",
+  "activities": [
+    "Site Survey",
+    "Soil Testing",
+    "Pollution Check",
+    "Farm Design",
+    "Seed Sourcing",
+    "Nutrient Plan",
+    "Sensor Setup",
+    "Energy Integration",
+    "Irrigation Install",
+    "Staff Training",
+    "Regulation Review",
+    "Community Workshop",
+    "Data Monitoring",
+    "Yield Analysis",
+    "System Upgrade"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process outlines the detailed steps involved in authenticating historical artifacts for museum acquisition. It includes initial provenance research, multispectral imaging analysis, material composition testing, expert panel review, and legal clearance. The workflow integrates interdisciplinary collaboration, ensuring both scientific validation and cultural significance are verified before final cataloging and insurance appraisal. Each stage involves iterative feedback loops to address discrepancies and confirm authenticity, culminating in secure digital archiving of all findings and certification issuance to guarantee artifact legitimacy and traceability.",
+  "activities": [
+    "Provenance Check",
+    "Imaging Scan",
+    "Material Test",
+    "Carbon Dating",
+    "Expert Review",
+    "Legal Verify",
+    "Condition Assess",
+    "Cultural Context",
+    "Digital Archive",
+    "Feedback Loop",
+    "Report Draft",
+    "Insurance Appraise",
+    "Certification Issue",
+    "Stakeholder Meet",
+    "Final Approval"
+  ]
+}

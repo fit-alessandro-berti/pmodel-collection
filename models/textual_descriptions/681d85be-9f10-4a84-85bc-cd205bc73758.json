@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farm Supply",
+  "description": "This process manages the supply chain and operational flow of an urban vertical farm specializing in microgreens and exotic herbs. It begins with seed sourcing from specialized breeders, followed by environmental calibration of grow chambers using IoT sensors. Nutrient solutions are mixed precisely by automated systems, and planting is executed by robotic arms. Continuous monitoring detects plant health issues early, triggering adaptive lighting and humidity controls. Harvesting involves selective picking to maximize yield quality, with immediate packaging in biodegradable containers. Quality assurance includes rapid microbial testing and flavor profiling through AI analysis. The process concludes with dynamic distribution scheduling to local markets and restaurants, optimizing freshness and minimizing carbon footprint, while integrating customer feedback for iterative improvements.",
+  "activities": [
+    "Seed Sourcing",
+    "Chamber Setup",
+    "Nutrient Mixing",
+    "Robotic Planting",
+    "Health Monitoring",
+    "Lighting Control",
+    "Humidity Adjust",
+    "Selective Harvest",
+    "Bio Packaging",
+    "Microbial Test",
+    "Flavor Profile",
+    "Quality Audit",
+    "Order Scheduling",
+    "Delivery Route",
+    "Feedback Review",
+    "Inventory Sync"
+  ]
+}

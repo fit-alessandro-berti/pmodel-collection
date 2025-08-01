@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farm Supply Chain",
+  "description": "This process involves the end-to-end management of a vertical urban farm's supply chain, integrating hydroponic crop production with automated harvesting, real-time environmental monitoring, dynamic demand forecasting, and direct-to-consumer distribution. It begins with seed selection and nutrient formulation tailored to specific crops and fluctuating urban market trends. Continuous sensor-based climate adjustment ensures optimal growth conditions, while robotic harvesters collect produce with minimal human intervention. Post-harvest, the products undergo automated quality inspection and packaging. Inventory levels are adjusted dynamically based on predictive analytics derived from consumer purchase patterns and urban consumption data. Finally, the system coordinates last-mile delivery using electric vehicles optimized for route efficiency, completing a sustainable and technologically advanced urban agriculture cycle.",
+  "activities": [
+    "Seed Select",
+    "Nutrient Mix",
+    "Climate Monitor",
+    "Growth Adjust",
+    "Pest Detect",
+    "Harvest Robot",
+    "Quality Scan",
+    "Pack Produce",
+    "Inventory Sync",
+    "Demand Forecast",
+    "Order Process",
+    "Route Plan",
+    "Vehicle Charge",
+    "Delivery Track",
+    "Customer Feedback",
+    "Data Archive"
+  ]
+}

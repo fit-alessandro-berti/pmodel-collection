@@ -1,0 +1,21 @@
+{
+  "title": "Rare Artifact Authentication",
+  "description": "This process involves the authentication and validation of rare artifacts for a specialized auction house. It begins with initial artifact intake, followed by detailed provenance research, material composition analysis using advanced spectroscopy, expert stylistic comparison, and historical context verification. Each artifact undergoes multi-disciplinary review sessions, condition assessment, and restoration feasibility studies. Legal ownership checks and export compliance reviews are conducted before final valuation and cataloging. The process concludes with secure storage preparation and digital archiving of all findings to ensure transparency and traceability for high-value sales.",
+  "activities": [
+    "Artifact Intake",
+    "Provenance Check",
+    "Material Scan",
+    "Style Review",
+    "Context Verify",
+    "Expert Panel",
+    "Condition Report",
+    "Restoration Plan",
+    "Ownership Audit",
+    "Export Review",
+    "Final Valuation",
+    "Catalog Entry",
+    "Storage Prep",
+    "Digital Archive",
+    "Sales Approval"
+  ]
+}

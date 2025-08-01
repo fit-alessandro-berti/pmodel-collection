@@ -1,0 +1,22 @@
+{
+  "title": "Artisan Supply Chain",
+  "description": "This process manages the end-to-end flow of handcrafted materials from local artisan sourcing through quality verification, customized order assembly, and eco-friendly packaging to final distribution. It integrates traditional craftsmanship validation with modern logistics coordination, ensuring sustainable sourcing, traceability, and timely delivery while maintaining artisan uniqueness and regulatory compliance. The process includes dynamic inventory adjustments based on seasonal artisan availability and customer demand forecasting, alongside continuous feedback loops for artisan skill development and customer satisfaction enhancement.",
+  "activities": [
+    "Source Artisans",
+    "Verify Quality",
+    "Design Custom",
+    "Order Assembly",
+    "Material Sorting",
+    "Skill Assessment",
+    "Inventory Update",
+    "Demand Forecast",
+    "Package Eco",
+    "Compliance Check",
+    "Logistics Plan",
+    "Dispatch Goods",
+    "Customer Feedback",
+    "Skill Training",
+    "Traceability Log",
+    "Seasonal Adjust"
+  ]
+}

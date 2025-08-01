@@ -1,0 +1,23 @@
+{
+  "title": "Artisan Cheese Trade",
+  "description": "This process describes the complex supply chain and quality assurance workflow involved in the artisan cheese trade, from farm sourcing to boutique retail delivery. It includes unique activities such as milk terroir analysis, microbial culture selection, aging environment calibration, and sensory panel evaluation. The process integrates traditional craftsmanship with modern quality control, involving multiple stakeholders including dairy farmers, microbiologists, master cheesemakers, logistics coordinators, and specialty retailers. Each cheese batch undergoes rigorous testing and certification before packaging and distribution, ensuring product authenticity and premium quality for discerning customers across diverse markets.",
+  "activities": [
+    "Farm Audit",
+    "Milk Testing",
+    "Culture Prep",
+    "Coagulation Start",
+    "Curd Cutting",
+    "Whey Draining",
+    "Molding Press",
+    "Salting Bath",
+    "Aging Setup",
+    "Humidity Control",
+    "Flavor Profiling",
+    "Microbe Check",
+    "Packaging Prep",
+    "Label Printing",
+    "Order Sorting",
+    "Transport Scheduling",
+    "Retail Delivery"
+  ]
+}

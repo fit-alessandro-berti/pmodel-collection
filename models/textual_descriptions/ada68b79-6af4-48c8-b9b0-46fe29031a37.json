@@ -1,0 +1,24 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the establishment of an urban vertical farm within a repurposed warehouse, integrating hydroponic systems and AI-driven climate controls. It involves site analysis, modular structure assembly, nutrient solution preparation, crop selection based on market trends, continuous environmental monitoring, pest detection using image recognition, automated harvesting scheduling, and supply chain synchronization with local retailers to ensure freshness and reduce carbon footprint. The process also includes waste recycling, energy optimization, and data analytics for yield improvement, making it a complex but sustainable agricultural innovation in city environments.",
+  "activities": [
+    "Site Survey",
+    "Design Layout",
+    "Structure Build",
+    "Install Hydroponics",
+    "Prepare Nutrients",
+    "Select Crops",
+    "Setup Sensors",
+    "Configure AI",
+    "Plant Seeding",
+    "Monitor Growth",
+    "Detect Pests",
+    "Schedule Harvest",
+    "Sort Produce",
+    "Pack Orders",
+    "Coordinate Delivery",
+    "Recycle Waste",
+    "Analyze Data",
+    "Optimize Energy"
+  ]
+}

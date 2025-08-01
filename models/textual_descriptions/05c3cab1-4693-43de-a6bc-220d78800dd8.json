@@ -1,0 +1,23 @@
+{
+  "title": "Adaptive Art Auction",
+  "description": "This process governs a dynamic art auction platform where artworks are not only bid on traditionally but also undergo adaptive revaluation based on real-time sentiment analysis from social media, expert reviews, and collector interest. The process integrates AI-driven appraisal updates and selective artist feedback loops, allowing bidders to adjust their offers as the perceived value of the artwork evolves during the auction. Additionally, it incorporates provenance verification and fractional ownership settlement, enabling multiple parties to co-invest in pieces with transparent ownership records. This atypical auction model blends technology, market psychology, and collaborative financing to create a fluid, multi-dimensional marketplace experience.",
+  "activities": [
+    "Initiate Auction",
+    "Upload Artwork",
+    "Verify Provenance",
+    "Analyze Sentiment",
+    "Update Appraisal",
+    "Notify Experts",
+    "Collect Feedback",
+    "Broadcast Auction",
+    "Monitor Bids",
+    "Recalculate Value",
+    "Notify Bidders",
+    "Adjust Offers",
+    "Confirm Ownership",
+    "Process Payments",
+    "Issue Certificates",
+    "Enable Fractional",
+    "Close Auction"
+  ]
+}

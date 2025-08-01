@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the comprehensive steps required to establish a fully operational urban vertical farm within a repurposed industrial building. It involves site assessment, environmental control design, modular system installation, nutrient cycling setup, and integration of AI-driven monitoring. The process ensures sustainable resource use by incorporating rainwater harvesting and waste biomass recycling. Stakeholder coordination includes local authorities, agronomists, and technology providers to optimize crop yield and minimize ecological impact. Continuous testing and adjustment phases guarantee optimal growth conditions and system efficiency before commercial production launch.",
+  "activities": [
+    "Site Survey",
+    "Permits Acquire",
+    "Design Layout",
+    "Install Frame",
+    "Setup Hydroponics",
+    "Water Harvest",
+    "Nutrient Mix",
+    "Lighting Install",
+    "Sensor Calibrate",
+    "AI Integration",
+    "Waste Process",
+    "Crop Planting",
+    "Growth Monitor",
+    "Yield Testing",
+    "Stakeholder Meet",
+    "System Audit"
+  ]
+}

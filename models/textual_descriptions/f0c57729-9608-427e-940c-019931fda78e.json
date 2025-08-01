@@ -1,0 +1,22 @@
+{
+  "title": "Custom Art Commission Workflow",
+  "description": "This process manages the end-to-end workflow of commissioning custom artwork from initial client inquiry to final delivery. It includes client consultation, concept drafting, iterative feedback cycles, contract negotiation with unique terms, artist assignment based on style matching, material sourcing with ethical considerations, progress tracking with milestone reviews, quality assurance involving third-party evaluation, legal copyright transfer, packaging design for fragile items, and post-delivery support including care instructions and follow-up surveys. This atypical process ensures both artist creativity and client satisfaction through structured yet flexible collaboration while addressing logistics, legalities, and customer experience comprehensively.",
+  "activities": [
+    "Inquiry Intake",
+    "Consultation Call",
+    "Concept Draft",
+    "Feedback Loop",
+    "Contract Setup",
+    "Artist Match",
+    "Material Sourcing",
+    "Ethics Review",
+    "Progress Check",
+    "Milestone Approve",
+    "Quality Audit",
+    "Copyright Transfer",
+    "Packaging Plan",
+    "Shipping Arrange",
+    "Post Delivery",
+    "Client Survey"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Custom Drone Fabrication",
+  "description": "This process involves the design, development, and assembly of custom drones tailored for specialized applications such as environmental monitoring, precision agriculture, and industrial inspection. Starting from client consultation to understand unique requirements, it proceeds through iterative prototype design, component sourcing from niche suppliers, and integration of advanced sensors. Quality assurance includes rigorous flight testing under varied conditions and software calibration for autonomous navigation. The process concludes with client training and after-sales support including firmware updates and maintenance scheduling to ensure optimal drone performance over its operational lifecycle.",
+  "activities": [
+    "Client Consult",
+    "Requirement Gather",
+    "Concept Sketch",
+    "Prototype Build",
+    "Sensor Select",
+    "Component Source",
+    "Flight Testing",
+    "Software Upload",
+    "Autonomy Setup",
+    "Calibration Run",
+    "Quality Check",
+    "Packaging Prep",
+    "Client Training",
+    "Warranty Setup",
+    "Maintenance Plan",
+    "Firmware Update"
+  ]
+}

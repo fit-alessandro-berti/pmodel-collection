@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process outlines the comprehensive cycle of urban vertical farming in a controlled environment. It begins with site assessment and structural installation, followed by seed selection and nutrient solution preparation. Automated planting and environmental monitoring ensure optimal growth. Pest control and disease detection use AI-driven sensors. Harvesting is scheduled based on maturity data, after which post-harvest processing including cleaning, packaging, and quality inspection occurs. The produce is then distributed via smart logistics to urban markets. Maintenance of the farming units and data analytics for yield improvement complete the cycle, integrating sustainability and technology in an atypical agricultural business model.",
+  "activities": [
+    "Site Assess",
+    "Install Structure",
+    "Select Seeds",
+    "Prepare Nutrients",
+    "Automate Planting",
+    "Monitor Climate",
+    "Detect Pests",
+    "Control Disease",
+    "Schedule Harvest",
+    "Harvest Crops",
+    "Clean Produce",
+    "Package Goods",
+    "Inspect Quality",
+    "Distribute Goods",
+    "Maintain Units",
+    "Analyze Data"
+  ]
+}

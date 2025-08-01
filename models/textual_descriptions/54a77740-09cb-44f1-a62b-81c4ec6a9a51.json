@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the complex verification and authentication of rare historical artifacts for museum acquisition. It integrates multidisciplinary expert evaluations including provenance research, material composition analysis, and digital imaging. The workflow handles conflicting data by iterative cross-validation and incorporates legal clearance checks. Coordination between legal, scientific, and curatorial teams ensures authenticity before final acquisition decisions. Special attention is given to ethical sourcing, risk assessment of forgeries, and long-term conservation planning, making this an intricate and atypical business process requiring high collaboration and precision.",
+  "activities": [
+    "Initial Audit",
+    "Provenance Check",
+    "Material Scan",
+    "Imaging Capture",
+    "Expert Review",
+    "Data Crosscheck",
+    "Forgery Analysis",
+    "Legal Clearance",
+    "Ethics Review",
+    "Risk Assessment",
+    "Curator Meeting",
+    "Conservation Plan",
+    "Acquisition Vote",
+    "Documentation",
+    "Final Approval"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Urban Rooftop Farming Setup",
+  "description": "This process outlines the complex steps involved in establishing an urban rooftop farm on a commercial building. It involves initial feasibility studies including structural assessments, microclimate analysis, and local regulations review. Following approvals, the process continues with soil-less system design, procurement of specialized equipment such as hydroponic trays and automated irrigation systems, installation of solar-powered sensors for real-time monitoring, and staff training on sustainable farming practices. Finally, the setup includes pilot planting, data collection on crop yield and environmental impact, ongoing maintenance scheduling, and community engagement initiatives to promote urban agriculture awareness and participation.",
+  "activities": [
+    "Site Survey",
+    "Load Test",
+    "Climate Study",
+    "Permit Check",
+    "System Design",
+    "Equipment Buy",
+    "Sensor Setup",
+    "Irrigation Fit",
+    "Solar Install",
+    "Staff Train",
+    "Pilot Plant",
+    "Data Monitor",
+    "Crop Harvest",
+    "Maintenance Plan",
+    "Community Meet"
+  ]
+}

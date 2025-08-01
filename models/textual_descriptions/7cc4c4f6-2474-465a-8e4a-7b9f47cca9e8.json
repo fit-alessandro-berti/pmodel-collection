@@ -1,0 +1,24 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process outlines the complex operational workflow of an urban vertical farming facility integrating automated environmental controls, real-time data analytics, and multi-crop management to maximize yield. The cycle begins with seed selection and preparation, followed by nutrient solution formulation tailored to each crop. Automated seeding and planting occur next, supported by environmental monitoring that adjusts lighting, humidity, and temperature dynamically. Growth phases are tracked via sensor arrays and AI-driven health assessments, triggering targeted interventions such as pest control or nutrient adjustments. Harvesting is scheduled based on optimal maturity indices and coordinated with packaging and cold storage systems. Waste recycling and water reclamation subsystems ensure sustainability. Finally, data is archived for continuous improvement and market forecasting, completing a closed-loop, tech-enabled agricultural ecosystem uncommon in traditional farming yet realistic for modern urban food production.",
+  "activities": [
+    "Seed Prep",
+    "Nutrient Mix",
+    "Automated Plant",
+    "Env Monitor",
+    "Light Adjust",
+    "Humidity Control",
+    "Temp Regulate",
+    "Growth Track",
+    "Health Assess",
+    "Pest Control",
+    "Nutrient Boost",
+    "Harvest Plan",
+    "Packaging Prep",
+    "Cold Storage",
+    "Waste Recycle",
+    "Water Reclaim",
+    "Data Archive",
+    "Market Forecast"
+  ]
+}

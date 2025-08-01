@@ -1,0 +1,22 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process involves the bespoke design and assembly of high-performance drones tailored for specialized industrial applications. Starting from client consultation to understand unique requirements, the workflow includes component sourcing, firmware customization, precision assembly, multi-stage testing, and regulatory compliance verification. The integration of AI modules and advanced sensors is followed by environmental stress testing and final quality assurance before packaging and logistics coordination to ensure timely delivery. This atypical process demands cross-functional collaboration among designers, engineers, and logistics specialists to meet strict performance and safety standards in an evolving market.",
+  "activities": [
+    "Client Brief",
+    "Design Draft",
+    "Component Order",
+    "Firmware Build",
+    "PCB Assembly",
+    "Sensor Install",
+    "Motor Mount",
+    "Battery Test",
+    "AI Module",
+    "System Integrate",
+    "Flight Simulate",
+    "Stress Test",
+    "Compliance Check",
+    "Quality Audit",
+    "Package Drone",
+    "Delivery Plan"
+  ]
+}

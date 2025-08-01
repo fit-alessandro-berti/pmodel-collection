@@ -1,0 +1,22 @@
+{
+  "title": "Urban Rooftop Farming Setup",
+  "description": "This process outlines the steps required to establish a sustainable urban rooftop farm in a dense city environment. It involves assessing rooftop structural integrity, designing modular planting systems, sourcing organic soil and seeds, installing automated irrigation and climate control, integrating renewable energy sources such as solar panels, and implementing pest control methods using natural predators. The process also includes community engagement for educational workshops, establishing distribution channels for local markets, and continuous monitoring through IoT sensors to optimize crop yield and resource usage. Finally, it covers maintenance routines and scalability planning for expanding the farm footprint across multiple rooftops in the city.",
+  "activities": [
+    "Site Survey",
+    "Load Testing",
+    "Design Layout",
+    "Material Sourcing",
+    "Soil Preparation",
+    "Seed Selection",
+    "Irrigation Setup",
+    "Climate Control",
+    "Energy Integration",
+    "Pest Management",
+    "Community Outreach",
+    "Market Setup",
+    "Sensor Installation",
+    "Data Monitoring",
+    "Routine Maintenance",
+    "Expansion Planning"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Adaptive Supply Chain Reconfiguration",
+  "description": "This process involves dynamically adjusting supply chain operations in response to real-time market disruptions and internal performance analytics. It starts with continuous data ingestion from multiple sources including supplier status, logistics conditions, and demand forecasts. Using predictive algorithms, the system identifies potential bottlenecks or opportunities for optimization. Next, automated scenario simulations evaluate alternative sourcing, routing, and inventory strategies. Decisions are then collaboratively reviewed by a cross-functional team who approve rapid reconfiguration plans. Implementation involves coordinated updates to procurement, warehousing, and transportation functions while monitoring key performance indicators to ensure resilience and cost efficiency. The process also integrates feedback loops to refine predictive models and operational protocols, enabling an agile, self-correcting supply network that adapts to unexpected changes without human intervention.",
+  "activities": [
+    "Data Ingest",
+    "Status Check",
+    "Forecast Update",
+    "Risk Assess",
+    "Scenario Sim",
+    "Model Run",
+    "Option Select",
+    "Team Review",
+    "Plan Approve",
+    "Procure Adjust",
+    "Route Replan",
+    "Inventory Shift",
+    "Execute Updates",
+    "Monitor KPIs",
+    "Feedback Loop"
+  ]
+}

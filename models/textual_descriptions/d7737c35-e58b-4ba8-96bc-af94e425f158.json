@@ -1,0 +1,23 @@
+{
+  "title": "Artisan Cheese Traceability",
+  "description": "This process ensures comprehensive traceability of artisan cheese production from raw milk sourcing through aging and packaging to final distribution. It involves meticulous documentation of milk origin, microbial cultures used, fermentation conditions, aging environments, and sensory evaluations. Quality checkpoints include microbial testing, texture analysis, and flavor profiling. The process integrates supplier audits, batch tracking, and regulatory compliance reviews. It also incorporates consumer feedback loops and sustainability assessments to optimize both product quality and environmental impact. Data is collected digitally at each stage to enable real-time analytics and to support recall procedures if necessary.",
+  "activities": [
+    "Milk Sourcing",
+    "Supplier Audit",
+    "Culture Prep",
+    "Milk Testing",
+    "Fermentation Start",
+    "pH Monitoring",
+    "Curd Cutting",
+    "Mold Inoculation",
+    "Aging Setup",
+    "Humidity Control",
+    "Texture Check",
+    "Flavor Profiling",
+    "Batch Labeling",
+    "Packaging",
+    "Distribution",
+    "Feedback Review",
+    "Sustainability Audit"
+  ]
+}

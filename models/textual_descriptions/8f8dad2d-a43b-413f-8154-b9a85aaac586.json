@@ -1,0 +1,22 @@
+{
+  "title": "Dynamic Urban Farming Cycle",
+  "description": "This process describes a complex urban farming system that integrates aquaponics, renewable energy, and real-time data analytics to optimize crop yield and resource efficiency. The cycle begins with environmental sensing and seed selection, followed by adaptive nutrient balancing and automated pest control. It incorporates waste recycling from local sources, energy management through solar and wind inputs, and dynamic scheduling based on weather predictions. Continuous monitoring ensures plant health, while machine learning algorithms adjust growth parameters. Harvesting is synchronized with market demand forecasts, and post-harvest processing includes packaging and distribution using sustainable logistics. The process closes with community feedback integration and system maintenance to enhance future cycles.",
+  "activities": [
+    "Seed Select",
+    "Env Sensing",
+    "Water Filter",
+    "Nutrient Mix",
+    "Pest Control",
+    "Waste Collect",
+    "Energy Charge",
+    "Data Monitor",
+    "Growth Adjust",
+    "Health Check",
+    "Market Sync",
+    "Harvest Crop",
+    "Package Goods",
+    "Logistics Plan",
+    "Feedback Loop",
+    "System Maintain"
+  ]
+}

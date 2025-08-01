@@ -1,0 +1,22 @@
+{
+  "title": "Cryptocurrency Art Auction",
+  "description": "This process outlines the steps involved in conducting a cryptocurrency-based art auction where digital and physical artworks are tokenized and auctioned using blockchain technology. It includes artist verification, artwork digitization, smart contract creation, bidder registration via crypto wallets, live bidding with real-time crypto payments, and post-auction token transfer. The process also handles dispute resolution through decentralized arbitration and ensures provenance tracking on the blockchain. Finally, it integrates with external shipment providers for delivering physical artworks and manages royalty payouts automatically to artists through smart contracts, ensuring transparency and security throughout the auction lifecycle.",
+  "activities": [
+    "Artist Verify",
+    "Artwork Tokenize",
+    "Smart Contract",
+    "Bidder Register",
+    "Wallet Link",
+    "Reserve Set",
+    "Auction Launch",
+    "Live Bidding",
+    "Payment Confirm",
+    "Bid Increment",
+    "Dispute Review",
+    "Arbitration Call",
+    "Token Transfer",
+    "Royalty Process",
+    "Shipment Arrange",
+    "Provenance Track"
+  ]
+}

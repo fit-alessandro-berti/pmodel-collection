@@ -1,0 +1,21 @@
+{
+  "title": "Remote Artifact Authentication",
+  "description": "This process involves the remote authentication of historical artifacts using a combination of advanced imaging, chemical analysis, and blockchain verification. Experts initiate a virtual inspection, coordinate with on-site technicians for sample collection, and utilize AI-driven pattern recognition to compare findings with known databases. Simultaneously, provenance records are cross-checked against decentralized ledgers to ensure authenticity and prevent forgery. The process concludes with a certified digital report generation and secure archival for future reference, involving multiple stakeholders across different geographic locations, ensuring traceability and transparency throughout the entire workflow.",
+  "activities": [
+    "Initiate Inspection",
+    "Schedule Sample",
+    "Collect Data",
+    "Image Capture",
+    "Chemical Scan",
+    "AI Analysis",
+    "Pattern Match",
+    "Record Check",
+    "Ledger Verify",
+    "Expert Review",
+    "Report Draft",
+    "Digital Sign",
+    "Archive Store",
+    "Notify Stakeholders",
+    "Close Case"
+  ]
+}

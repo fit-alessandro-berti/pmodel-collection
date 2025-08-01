@@ -1,0 +1,22 @@
+{
+  "title": "Cross-Industry Innovation Cycle",
+  "description": "This process orchestrates the identification, evaluation, and integration of breakthrough innovations sourced from diverse industries into a company's existing product or service lines. It involves systematic scouting of emerging technologies, cross-disciplinary ideation workshops, feasibility assessments combining technical and market insights, pilot prototyping with rapid iteration, stakeholder alignment across departments, regulatory compliance checks adapted for unconventional applications, and finally scaled deployment with continuous feedback loops. The process emphasizes agility, knowledge transfer, and risk management to harness unconventional ideas while ensuring alignment with strategic goals and operational capabilities.",
+  "activities": [
+    "Tech Scouting",
+    "Idea Harvest",
+    "Feasibility Check",
+    "Market Scan",
+    "Concept Workshop",
+    "Risk Review",
+    "Prototype Build",
+    "Pilot Launch",
+    "Stakeholder Sync",
+    "Compliance Audit",
+    "Feedback Loop",
+    "Iteration Sprint",
+    "Scale Planning",
+    "Knowledge Transfer",
+    "Launch Review",
+    "Post Launch"
+  ]
+}

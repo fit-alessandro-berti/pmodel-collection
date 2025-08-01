@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the comprehensive steps involved in establishing an urban vertical farm within a densely populated city environment. It begins with site assessment and zoning approvals, followed by modular structure design and procurement of hydroponic systems. After installation, the farm undergoes environmental calibration to optimize light, humidity, and nutrient delivery. Crop selection is tailored to local demand and growth cycles. Continuous monitoring and adaptive pest management ensure sustainable yields. The process concludes with harvest scheduling, packaging, and distribution logistics targeted at local markets, while integrating data analytics for ongoing optimization and scalability of operations.",
+  "activities": [
+    "Site Survey",
+    "Zoning Check",
+    "Design Layout",
+    "System Order",
+    "Structure Build",
+    "Install Hydroponics",
+    "Calibrate Sensors",
+    "Select Crops",
+    "Plant Seeding",
+    "Monitor Growth",
+    "Manage Pests",
+    "Schedule Harvest",
+    "Package Produce",
+    "Local Delivery",
+    "Analyze Data"
+  ]
+}

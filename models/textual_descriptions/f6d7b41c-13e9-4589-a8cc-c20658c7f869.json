@@ -1,0 +1,23 @@
+{
+  "title": "Corporate Art Leasing",
+  "description": "This process involves leasing high-value artwork to corporations for office display, combining legal, logistical, and curatorial expertise. It begins with client consultation to assess aesthetic and spatial needs, followed by artwork selection from a curated inventory or bespoke acquisitions. Legal agreements cover insurance, liability, and lease terms. Logistics coordinate secure transportation and installation by specialized art handlers. Periodic condition reports and appraisals ensure preservation and compliance. The process includes renewal negotiations or artwork rotation to keep displays fresh. Financial reconciliation manages lease payments, tax implications, and depreciation schedules. Finally, deinstallation and return or purchase options complete the cycle, emphasizing sustainability and client relationship management throughout.",
+  "activities": [
+    "Client Consult",
+    "Needs Assess",
+    "Art Selection",
+    "Inventory Check",
+    "Legal Draft",
+    "Contract Sign",
+    "Insurance Setup",
+    "Transport Plan",
+    "Secure Transit",
+    "Art Install",
+    "Condition Check",
+    "Appraisal Log",
+    "Lease Renew",
+    "Payment Process",
+    "Deinstall Art",
+    "Return Inspect",
+    "Purchase Option"
+  ]
+}

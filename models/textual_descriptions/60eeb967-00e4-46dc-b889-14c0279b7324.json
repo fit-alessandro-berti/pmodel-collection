@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the complex establishment of an urban vertical farm within a repurposed industrial building. It involves assessing structural integrity, designing modular growth units, integrating IoT sensors for environmental control, sourcing sustainable water and nutrient supplies, and implementing energy-efficient LED lighting systems. The process also includes staff training on crop management, scheduling automated harvesting, and establishing supply chain logistics for local distribution. Continuous monitoring and iterative optimization ensure maximum yield and minimal resource waste, adapting to seasonal and market variations in an urban context.",
+  "activities": [
+    "Site Survey",
+    "Structural Check",
+    "Unit Design",
+    "Sensor Setup",
+    "Water Sourcing",
+    "Nutrient Prep",
+    "Lighting Install",
+    "System Integrate",
+    "Staff Train",
+    "Crop Plan",
+    "Automation Setup",
+    "Harvest Schedule",
+    "Supply Chain",
+    "Yield Monitor",
+    "Optimize Process",
+    "Waste Manage",
+    "Market Adapt"
+  ]
+}

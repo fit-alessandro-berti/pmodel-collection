@@ -1,0 +1,21 @@
+{
+  "title": "Cross-Industry Innovation Cycle",
+  "description": "This process involves identifying emerging technologies from unrelated industries and systematically adapting them for novel applications within a company's core sector. It starts with cross-sector research, followed by ideation workshops that blend diverse perspectives. Prototyping leverages rapid iteration and external collaborations. Validation includes multi-disciplinary testing and market simulations. Implementation requires customized integration planning and change management. Finally, continuous feedback loops ensure scalability and sustained innovation, fostering a culture that embraces unconventional problem-solving and leverages external knowledge ecosystems to maintain competitive advantage.",
+  "activities": [
+    "Trend Scan",
+    "Tech Harvest",
+    "Idea Merge",
+    "Concept Sketch",
+    "Rapid Prototype",
+    "Expert Review",
+    "Cross-Test",
+    "Market Simulate",
+    "Integration Plan",
+    "Change Align",
+    "Pilot Deploy",
+    "Feedback Loop",
+    "Scale Up",
+    "Knowledge Share",
+    "Culture Embed"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Dynamic Art Leasing",
+  "description": "This process outlines the dynamic leasing of fine art pieces to corporate clients, combining inventory management, client preference analysis, and rotational logistics to ensure artworks remain fresh and relevant within office environments. The process begins with artwork acquisition and categorization, followed by personalized client profiling to match art styles with corporate branding. Contracts are negotiated with flexible duration terms, incorporating insurance and maintenance clauses. Logistics teams coordinate artwork delivery, installation, and periodic rotation based on client feedback and seasonal trends. Maintenance crews perform condition checks and restoration as needed. Billing cycles adapt to contract changes, while data analytics monitor client satisfaction and market trends to optimize the art portfolio. The process concludes with contract renewal discussions or artwork return, ensuring a seamless, evolving art leasing experience that balances client needs, artist exposure, and operational efficiency.",
+  "activities": [
+    "Art Sourcing",
+    "Style Analysis",
+    "Client Profiling",
+    "Contract Drafting",
+    "Insurance Setup",
+    "Inventory Tagging",
+    "Logistics Planning",
+    "Artwork Delivery",
+    "Installation Setup",
+    "Rotation Scheduling",
+    "Condition Check",
+    "Restoration Work",
+    "Billing Process",
+    "Feedback Collection",
+    "Portfolio Review",
+    "Contract Renewal",
+    "Return Handling"
+  ]
+}

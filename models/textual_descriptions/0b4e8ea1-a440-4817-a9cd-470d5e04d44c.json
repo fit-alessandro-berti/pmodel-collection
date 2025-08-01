@@ -1,0 +1,22 @@
+{
+  "title": "Dynamic Talent Allocation",
+  "description": "Dynamic Talent Allocation is a multifaceted process designed to optimize workforce distribution across multiple projects in real-time by leveraging predictive analytics and continuous feedback loops. The process starts with skill profiling and project requirement mapping, followed by availability forecasting using AI-driven models. Concurrently, employee preferences and historical performance metrics are analyzed to match talents with evolving project demands. Throughout the project lifecycle, dynamic reassignment and upskilling initiatives are executed based on emerging skill gaps and shifting priorities. Continuous performance monitoring and stakeholder feedback ensure alignment with organizational goals while minimizing downtime and maximizing productivity. The process concludes with post-project evaluation and knowledge retention activities to enhance future allocation cycles.",
+  "activities": [
+    "Skill Profiling",
+    "Requirement Map",
+    "Availability Check",
+    "Preference Survey",
+    "Performance Review",
+    "Demand Forecast",
+    "Talent Match",
+    "Assignment Notify",
+    "Onboard Brief",
+    "Progress Monitor",
+    "Gap Identify",
+    "Upskill Plan",
+    "Reassign Talent",
+    "Feedback Gather",
+    "Project Closeout",
+    "Knowledge Archive"
+  ]
+}

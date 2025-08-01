@@ -1,0 +1,21 @@
+{
+  "title": "Antique Artifact Verification",
+  "description": "This process involves the detailed verification and authentication of antique artifacts before acquisition or sale. It includes provenance research, material analysis, historical context validation, expert consultation, and legal compliance checks. Each artifact undergoes multi-stage verification to ensure authenticity, prevent fraud, and assess value accurately. The process also incorporates digital cataloging, condition reporting, and restoration recommendations, culminating in final approval or rejection for market entry.",
+  "activities": [
+    "Artifact Intake",
+    "Provenance Check",
+    "Material Testing",
+    "Historical Review",
+    "Expert Interview",
+    "Condition Audit",
+    "Digital Catalog",
+    "Forgery Detection",
+    "Legal Compliance",
+    "Restoration Plan",
+    "Valuation Report",
+    "Market Analysis",
+    "Final Approval",
+    "Sale Preparation",
+    "Client Notification"
+  ]
+}

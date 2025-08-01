@@ -1,0 +1,23 @@
+{
+  "title": "Artisanal Cheese Supply Chain",
+  "description": "This process outlines the intricate steps involved in producing and distributing artisanal cheese from small-scale farms to niche gourmet shops. It starts with careful milk sourcing from heritage breeds, continues through precise fermentation and aging conditions tailored for flavor profiles, includes intermittent quality tastings by expert affineurs, and integrates sustainable packaging choices. The process also manages limited batch production scheduling, coordinates with local transport for freshness, involves direct communications with specialty retailers, and incorporates consumer feedback loops to refine future batches. Each stage demands close attention to detail to preserve the unique qualities that differentiate artisanal cheese from mass-produced alternatives, ensuring a premium product reaches discerning customers in optimal condition.",
+  "activities": [
+    "Milk Sourcing",
+    "Quality Testing",
+    "Starter Prep",
+    "Curd Cutting",
+    "Whey Draining",
+    "Mold Inoculation",
+    "Pressing Cheese",
+    "Salt Brining",
+    "Fermentation",
+    "Aging Control",
+    "Taste Sampling",
+    "Batch Labeling",
+    "Sustainable Pack",
+    "Order Scheduling",
+    "Local Shipping",
+    "Retail Liaison",
+    "Feedback Review"
+  ]
+}

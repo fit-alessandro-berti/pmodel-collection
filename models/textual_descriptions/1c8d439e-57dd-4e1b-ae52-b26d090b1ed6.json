@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the complex steps involved in establishing an urban vertical farm, integrating advanced hydroponics, IoT sensor networks, renewable energy sources, and automated harvesting systems. The process begins with site assessment and feasibility studies, followed by modular structure design tailored for limited urban spaces. Next, installation of climate control systems and nutrient delivery networks ensures optimal plant growth conditions. Integration of AI-driven monitoring and predictive maintenance reduces downtime and maximizes yield. Subsequent stages include staff training on system operations, trial planting phases to calibrate environmental parameters, and establishing logistics for produce distribution within city markets. This atypical yet realistic process requires coordination between architects, engineers, agronomists, and supply chain managers, highlighting the multidisciplinary nature of sustainable urban agriculture ventures.",
+  "activities": [
+    "Site Assess",
+    "Design Module",
+    "Install Hydroponics",
+    "Setup Sensors",
+    "Configure Climate",
+    "Install Lighting",
+    "Connect Energy",
+    "Program AI",
+    "Test Systems",
+    "Train Staff",
+    "Trial Planting",
+    "Monitor Growth",
+    "Adjust Nutrients",
+    "Schedule Harvest",
+    "Plan Logistics",
+    "Distribute Produce"
+  ]
+}

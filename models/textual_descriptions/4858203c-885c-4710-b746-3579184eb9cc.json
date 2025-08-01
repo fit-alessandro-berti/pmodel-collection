@@ -1,0 +1,21 @@
+{
+  "title": "Custom Artifact Authentication",
+  "description": "This process involves the intricate validation and certification of rare historical artifacts before they are auctioned to collectors worldwide. It begins with provenance research, followed by material composition analysis using advanced spectroscopy. Next, expert forensic imaging is performed to detect any restoration or forgery attempts. The artifact then undergoes environmental impact testing to ensure preservation standards. Legal clearance checks confirm ownership legitimacy, while digital 3D modeling creates an archival record. The process also includes coordination with customs for export permits, insurance valuation, and final certification issuance. The entire workflow ensures authenticity, legality, and preservation compliance for high-value cultural items.",
+  "activities": [
+    "Provenance Check",
+    "Material Scan",
+    "Forensic Imaging",
+    "Restoration Detect",
+    "Impact Testing",
+    "Legal Review",
+    "Ownership Verify",
+    "3D Modeling",
+    "Customs Liaison",
+    "Insurance Quote",
+    "Valuation Review",
+    "Certification",
+    "Archival Upload",
+    "Export Permit",
+    "Final Approval"
+  ]
+}

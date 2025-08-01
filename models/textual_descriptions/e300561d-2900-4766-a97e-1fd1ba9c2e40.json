@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the systematic verification and authentication of historical artifacts within a museum's acquisition department. It begins with the initial artifact intake, where physical condition and provenance documentation are recorded. The artifact then undergoes material composition testing using spectrometry and other scientific methods to verify age and origin. Concurrently, expert historians conduct stylistic analysis comparing the artifact to known references. Any discrepancies trigger a secondary review involving cross-institutional consultation. Provenance authenticity is validated through archival research and digital ledger cross-checks. Upon successful authentication, conservation specialists prepare the artifact for display or storage, documenting all interventions. The final step involves creating a detailed report and updating the museum database to reflect the artifact's authenticated status and provenance trail, ensuring traceability and future re-verification capability.",
+  "activities": [
+    "Intake Check",
+    "Condition Log",
+    "Provenance Review",
+    "Material Test",
+    "Spectrometry Scan",
+    "Stylistic Analysis",
+    "Expert Consult",
+    "Archive Search",
+    "Ledger Verification",
+    "Secondary Review",
+    "Cross-Check",
+    "Conservation Prep",
+    "Documentation",
+    "Report Creation",
+    "Database Update"
+  ]
+}

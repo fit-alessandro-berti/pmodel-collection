@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process outlines the comprehensive operational cycle of an urban vertical farm integrating automated hydroponics, AI-driven climate control, and real-time crop health analytics. Starting from seed selection, the farm leverages sensor networks and robotic systems to optimize nutrient delivery and light exposure. Periodic data analysis guides pruning and harvesting schedules, while waste is recycled through on-site composting. Market demand forecasts inform planting decisions, and harvested produce undergoes quality checks before distribution. The cycle also includes maintenance of mechanical systems and continuous improvement protocols based on yield performance and resource efficiency metrics, ensuring sustainable urban agriculture within limited city spaces.",
+  "activities": [
+    "Seed Selection",
+    "Nutrient Mixing",
+    "Planting Setup",
+    "Climate Control",
+    "Sensor Calibration",
+    "Data Collection",
+    "Growth Monitoring",
+    "Pruning Schedule",
+    "Pest Detection",
+    "Harvest Planning",
+    "Quality Check",
+    "Waste Recycling",
+    "Market Forecast",
+    "Distribution Prep",
+    "System Maintenance",
+    "Yield Analysis"
+  ]
+}

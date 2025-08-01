@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process outlines the detailed steps involved in authenticating rare historical artifacts for a high-profile auction house. It begins with initial artifact intake and preliminary inspection, followed by provenance verification through archival research. Scientific analysis, including material composition and radiocarbon dating, is conducted to confirm authenticity. Parallelly, expert consultations are arranged to assess stylistic and cultural relevance. Findings are compiled into a comprehensive report, reviewed internally, and then presented to the client. Final approval triggers secure packaging and logistics coordination for transport to the auction venue. Throughout, strict chain-of-custody protocols ensure artifact integrity and legal compliance, minimizing risks of forgery or damage during handling and transit.",
+  "activities": [
+    "Intake Review",
+    "Preliminary Inspect",
+    "Provenance Check",
+    "Archival Research",
+    "Material Testing",
+    "Radiocarbon Date",
+    "Stylistic Assess",
+    "Expert Consult",
+    "Findings Compile",
+    "Internal Review",
+    "Client Present",
+    "Approval Confirm",
+    "Secure Package",
+    "Transport Arrange",
+    "Chain Custody"
+  ]
+}

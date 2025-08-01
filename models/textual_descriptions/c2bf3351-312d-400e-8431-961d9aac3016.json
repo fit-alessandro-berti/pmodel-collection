@@ -1,0 +1,22 @@
+{
+  "title": "Adaptive Urban Farming Cycle",
+  "description": "This process describes the adaptive urban farming cycle designed to optimize limited space agriculture through dynamic resource allocation, environmental monitoring, and community engagement. It begins with site analysis to assess microclimate and soil conditions, followed by modular bed setup. Sensors gather real-time data on moisture, light, and air quality, which feeds into an AI-driven irrigation and nutrient delivery system. Concurrently, crop selection adapts seasonally based on predictive analytics and community dietary needs. Pest control leverages integrated biological methods, minimizing chemical use. Harvesting is coordinated with local markets and direct consumer feedback to adjust future planting schedules. Continuous education workshops foster urban farmer skills, and waste composting closes the loop, ensuring sustainable nutrient cycling. This cyclical approach promotes resilience, efficiency, and social integration within urban agriculture systems.",
+  "activities": [
+    "Site Analysis",
+    "Bed Setup",
+    "Sensor Install",
+    "Data Capture",
+    "Irrigation Adjust",
+    "Nutrient Supply",
+    "Crop Select",
+    "Pest Monitor",
+    "Biocontrol Deploy",
+    "Harvest Plan",
+    "Market Sync",
+    "Feedback Gather",
+    "Workshop Host",
+    "Waste Compost",
+    "Cycle Review",
+    "Schedule Update"
+  ]
+}

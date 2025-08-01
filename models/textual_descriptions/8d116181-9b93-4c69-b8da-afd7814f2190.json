@@ -1,0 +1,21 @@
+{
+  "title": "Adaptive Urban Farming Setup",
+  "description": "This process outlines the setup and operational workflow for an adaptive urban farming system that integrates IoT sensors, AI-driven crop optimization, and community engagement. It begins with site analysis and environmental scanning, followed by modular farm design tailored to spatial constraints. Subsequent steps include sensor deployment for real-time monitoring, nutrient cycling management, and dynamic planting schedules based on AI predictions. The process also incorporates waste-to-compost conversion, stakeholder coordination meetings, and ongoing data analytics for yield improvement. Community workshops and feedback loops ensure adaptability and sustainability, while periodic system audits maintain regulatory compliance and resource efficiency throughout the farm lifecycle.",
+  "activities": [
+    "Site Analysis",
+    "Env Scanning",
+    "Modular Design",
+    "Sensor Deploy",
+    "Nutrient Cycle",
+    "AI Scheduling",
+    "Waste Compost",
+    "Stakeholder Meet",
+    "Data Analytics",
+    "Yield Review",
+    "Community Workshop",
+    "Feedback Loop",
+    "System Audit",
+    "Regulatory Check",
+    "Resource Adjust"
+  ]
+}

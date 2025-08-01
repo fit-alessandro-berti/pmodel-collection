@@ -1,0 +1,23 @@
+{
+  "title": "Custom Art Installation Workflow",
+  "description": "This process details the complex and highly customized workflow for planning, designing, fabricating, and installing large-scale art installations in public spaces. It involves multiple stakeholders including artists, engineers, city planners, and logistics teams. The process begins with concept approval and budget alignment, followed by iterative design reviews and structural simulations. Procurement of unique materials and specialized fabrication techniques are coordinated with artisans and vendors. Permitting requires coordination with municipal authorities and compliance with safety regulations. Installation involves precise scheduling, site preparation, and on-site assembly with contingency plans for weather or technical setbacks. Post-installation includes inspections, maintenance planning, and public unveiling events, ensuring the artwork remains sustainable and engaging for the community over time.",
+  "activities": [
+    "Concept Approve",
+    "Budget Align",
+    "Design Review",
+    "Structure Simulate",
+    "Material Procure",
+    "Vendor Select",
+    "Permit Apply",
+    "Safety Check",
+    "Site Prep",
+    "Logistics Plan",
+    "Fabricate Parts",
+    "Assemble Onsite",
+    "Quality Inspect",
+    "Weather Monitor",
+    "Public Unveil",
+    "Maintenance Plan",
+    "Stakeholder Meet"
+  ]
+}

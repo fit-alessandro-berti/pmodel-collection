@@ -1,0 +1,23 @@
+{
+  "title": "Artifact Provenance Verification",
+  "description": "This process involves the detailed verification and authentication of cultural artifacts before acquisition by a museum or private collector. It includes multi-layered historical research, forensic material analysis, legal ownership tracing, and ethical compliance checks. The process ensures that each artifact's origin is accurately documented to prevent illicit trade and to uphold provenance integrity. Activities consist of interdisciplinary collaboration among historians, scientists, legal experts, and conservators, culminating in a comprehensive provenance report and approval for acquisition or repatriation decisions.",
+  "activities": [
+    "Initial Inquiry",
+    "Document Review",
+    "Historical Research",
+    "Material Sampling",
+    "Forensic Testing",
+    "Ownership Audit",
+    "Legal Verification",
+    "Ethical Screening",
+    "Expert Consultation",
+    "Cultural Assessment",
+    "Condition Survey",
+    "Provenance Mapping",
+    "Risk Analysis",
+    "Report Compilation",
+    "Acquisition Approval",
+    "Repatriation Review",
+    "Archival Storage"
+  ]
+}

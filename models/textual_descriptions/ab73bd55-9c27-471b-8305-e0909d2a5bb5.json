@@ -1,0 +1,23 @@
+{
+  "title": "Adaptive Urban Farming Cycle",
+  "description": "This process manages an adaptive urban farming cycle designed to optimize crop yield in confined city environments by integrating real-time environmental monitoring, automated resource allocation, and dynamic crop rotation. The system begins with site assessment, followed by microclimate analysis and soil testing. Based on collected data, seed selection and planting schedules are dynamically adjusted. Nutrient delivery and irrigation are continuously monitored through IoT sensors, with AI-driven adjustments to optimize water and fertilizer use. Pest detection employs image recognition for early intervention. Crop growth is tracked via drone surveillance, enabling timely pruning and harvesting. Post-harvest, produce is quality-graded and packaged using automated sorting systems. Waste is minimized through composting and recycling of organic matter. Finally, feedback from sales trends and consumer preferences informs the next planting cycle, creating a sustainable loop tailored to urban demands and environmental constraints.",
+  "activities": [
+    "Site Assess",
+    "Climate Scan",
+    "Soil Test",
+    "Seed Select",
+    "Plant Schedule",
+    "Irrigation Set",
+    "Nutrient Feed",
+    "Pest Detect",
+    "Drone Scan",
+    "Growth Track",
+    "Prune Crop",
+    "Harvest Crop",
+    "Quality Grade",
+    "Auto Package",
+    "Waste Manage",
+    "Sales Review",
+    "Cycle Adjust"
+  ]
+}

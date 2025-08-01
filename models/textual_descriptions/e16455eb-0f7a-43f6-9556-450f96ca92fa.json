@@ -1,0 +1,23 @@
+{
+  "title": "Global Art Loan Management",
+  "description": "This process outlines the complex coordination required to manage the international loan of high-value artwork between museums. It involves verifying provenance, arranging climate-controlled transport, managing customs clearance, coordinating insurance coverage, scheduling installation by specialized handlers, monitoring environmental conditions during display, facilitating scholarly access, and overseeing secure return logistics. Each step demands meticulous attention to legal, logistical, and conservation requirements to ensure the artwork's integrity and compliance with international cultural property laws throughout the loan period.",
+  "activities": [
+    "Verify Provenance",
+    "Assess Condition",
+    "Negotiate Terms",
+    "Arrange Transport",
+    "Customs Clearance",
+    "Secure Insurance",
+    "Schedule Handlers",
+    "Install Artwork",
+    "Monitor Climate",
+    "Manage Security",
+    "Facilitate Access",
+    "Document Display",
+    "Coordinate Events",
+    "Inspect Periodically",
+    "Plan Return",
+    "Deinstall Artwork",
+    "Finalize Reports"
+  ]
+}

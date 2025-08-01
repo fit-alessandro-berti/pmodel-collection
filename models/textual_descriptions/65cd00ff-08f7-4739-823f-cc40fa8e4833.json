@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the comprehensive steps involved in establishing an urban vertical farm designed to maximize crop yield in limited city spaces. It includes site analysis, modular infrastructure assembly, climate control calibration, nutrient solution preparation, automated planting, growth monitoring through IoT sensors, pest management with integrated biocontrol, adaptive lighting adjustment, harvesting automation, post-harvest processing, packaging, and distribution logistics. The process also involves continuous data analysis for yield optimization and sustainability reporting to comply with local regulations and environmental standards.",
+  "activities": [
+    "Site Survey",
+    "Design Layout",
+    "Module Setup",
+    "Climate Calibrate",
+    "Nutrient Mix",
+    "Plant Seeding",
+    "Sensor Install",
+    "Growth Monitor",
+    "Pest Control",
+    "Light Adjust",
+    "Harvest Crop",
+    "Process Sorting",
+    "Pack Goods",
+    "Logistics Plan",
+    "Data Analysis",
+    "Sustain Report"
+  ]
+}

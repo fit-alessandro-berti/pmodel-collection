@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process outlines the comprehensive workflow for authenticating rare historical artifacts prior to acquisition by a museum or collector. It involves multidisciplinary evaluation including provenance verification, scientific analysis, expert consultation, and legal clearance. The process begins with initial artifact intake, followed by detailed condition assessment and documentation. Next, provenance research is conducted through archival searches and ownership history tracing. Scientific analysis employs various techniques such as radiocarbon dating, spectroscopy, and material composition tests to confirm period authenticity. Parallel to these, expert appraisals are collected from historians, archaeologists, and cultural specialists to validate findings. Legal teams then perform due diligence to ensure no ownership disputes or export restrictions apply. The final phase includes consolidation of all findings into a comprehensive authentication report, review by senior curators, and decision-making regarding acquisition or rejection. This atypical process ensures rigorous validation to mitigate risks related to forgery, misattribution, and legal complications, preserving institutional integrity and cultural heritage.",
+  "activities": [
+    "Artifact Intake",
+    "Condition Check",
+    "Photo Documentation",
+    "Provenance Search",
+    "Archive Review",
+    "Ownership Trace",
+    "Radiocarbon Test",
+    "Spectroscopy Scan",
+    "Material Analysis",
+    "Expert Consult",
+    "Appraisal Collection",
+    "Legal Review",
+    "Export Check",
+    "Report Compilation",
+    "Curator Review",
+    "Final Decision"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process outlines the comprehensive cycle of urban vertical farming, integrating advanced technologies and sustainability principles. It begins with site analysis and climate mapping to optimize microclimate conditions. Seed selection follows, emphasizing heirloom and genetically optimized varieties. Automated planting is performed using robotics, ensuring precision and efficiency. Nutrient monitoring leverages IoT sensors to maintain optimal hydroponic solutions. Pollination is artificially induced via drone deployment in enclosed environments. Growth tracking uses AI-powered imaging for real-time health assessment. Pest control employs biocontrol agents introduced through targeted release systems. Harvest scheduling adapts dynamically based on crop maturity data. Post-harvest handling includes automated sorting and quality grading using machine vision. Packaging is eco-friendly with biodegradable materials custom-fit by automated machinery. Distribution logistics use blockchain for traceability and smart contracts to ensure timely delivery. Waste recycling repurposes organic residues into biofertilizers. Energy management optimizes renewable inputs and storage. Finally, data analysis feeds back into process improvements, closing the cycle for sustainable urban agriculture.",
+  "activities": [
+    "Site Analysis",
+    "Climate Mapping",
+    "Seed Selection",
+    "Automated Planting",
+    "Nutrient Monitoring",
+    "Pollination Drone",
+    "Growth Tracking",
+    "Pest Control",
+    "Harvest Scheduling",
+    "Post-Harvest",
+    "Quality Grading",
+    "Eco Packaging",
+    "Distribution Track",
+    "Waste Recycling",
+    "Energy Management",
+    "Data Analysis"
+  ]
+}

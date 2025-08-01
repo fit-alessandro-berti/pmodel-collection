@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process involves establishing an urban vertical farm within a repurposed industrial building. It starts with site analysis and structural assessment, followed by environmental system design including hydroponics and aeroponics integration. The process continues with procuring specialized lighting and water recycling systems, then installing modular growing racks. Next, seed selection and germination protocols are established alongside nutrient formula calibration. Staff training on automated monitoring and pest management takes place before launching a pilot crop cycle. Data collection and yield optimization conclude the process, ensuring sustainable urban agriculture with minimal environmental impact and maximized crop density in limited space.",
+  "activities": [
+    "Site Analysis",
+    "Structure Check",
+    "Enviro Design",
+    "Hydro Setup",
+    "Aeroponics Add",
+    "Lighting Procure",
+    "Water Recycle",
+    "Rack Install",
+    "Seed Select",
+    "Germinate Seeds",
+    "Nutrient Mix",
+    "Staff Train",
+    "Pest Control",
+    "Pilot Crop",
+    "Data Gather",
+    "Yield Optimize"
+  ]
+}

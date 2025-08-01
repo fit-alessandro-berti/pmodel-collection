@@ -1,0 +1,23 @@
+{
+  "title": "Artisan Cheese Supply Chain",
+  "description": "This process outlines the intricate supply chain and quality assurance workflow for artisan cheese production, starting from sourcing rare raw milk varieties to aging in controlled environments. It includes activities such as microbial testing, traditional curdling, seasonal staff coordination, and niche market distribution. The process also covers sustainable packaging decisions, traceability logging, and customer feedback integration to maintain authenticity and meet artisanal standards while navigating regulatory compliance and fluctuating seasonal yields.",
+  "activities": [
+    "Milk Sourcing",
+    "Quality Testing",
+    "Curd Processing",
+    "Salt Application",
+    "Mold Inoculation",
+    "Press Molding",
+    "Brine Soaking",
+    "Aging Setup",
+    "Humidity Control",
+    "Microbial Check",
+    "Packaging Design",
+    "Label Printing",
+    "Trace Logging",
+    "Distribution Plan",
+    "Customer Review",
+    "Inventory Audit",
+    "Sustainability Audit"
+  ]
+}

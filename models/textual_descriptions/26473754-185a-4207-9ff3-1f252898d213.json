@@ -1,0 +1,22 @@
+{
+  "title": "Adaptive Urban Farming Cycle",
+  "description": "This process outlines the adaptive urban farming cycle designed to optimize crop yield in limited city spaces by dynamically integrating environmental data, community feedback, and resource constraints. It begins with microclimate analysis to assess localized conditions, followed by tailored seed selection that suits the urban microenvironment. Subsequent activities involve nutrient profiling and automated irrigation scheduling to maximize growth efficiency. The system incorporates pest monitoring using AI-powered sensors, triggering organic treatment protocols only when thresholds are exceeded. Community engagement is facilitated through real-time data sharing and volunteer coordination, ensuring social sustainability. Harvest timing is continuously adjusted based on predictive growth models, while post-harvest handling includes immediate quality grading and distribution planning to minimize waste. Finally, data from each cycle feeds into machine learning models to refine future operations, creating a resilient and self-improving urban agricultural ecosystem.",
+  "activities": [
+    "Microclimate Scan",
+    "Seed Selection",
+    "Nutrient Profile",
+    "Irrigation Plan",
+    "Soil Testing",
+    "Pest Monitoring",
+    "Organic Treatment",
+    "Growth Tracking",
+    "Volunteer Sync",
+    "Data Sharing",
+    "Harvest Timing",
+    "Quality Grading",
+    "Waste Minimization",
+    "Distribution Plan",
+    "Cycle Feedback",
+    "Model Training"
+  ]
+}

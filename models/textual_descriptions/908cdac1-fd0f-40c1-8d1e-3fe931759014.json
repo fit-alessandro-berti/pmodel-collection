@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process outlines the complex operational cycle of an urban vertical farm integrating automated hydroponic systems, environmental controls, and supply chain logistics. It begins with seed selection and germination, followed by nutrient monitoring and adaptive lighting adjustments to optimize plant growth. Continuous pest detection and bio-control deployment maintain crop health without chemicals. Concurrently, data from IoT sensors is analyzed for predictive maintenance of farm equipment. Harvesting is synchronized with packaging and cold chain preparation to ensure freshness. The process concludes with real-time demand forecasting and direct-to-consumer distribution, closing the loop with customer feedback integration for iterative improvements in crop varieties and operational efficiency.",
+  "activities": [
+    "Seed Selection",
+    "Germination Start",
+    "Nutrient Check",
+    "Light Adjust",
+    "Pest Scan",
+    "Bio-Control Deploy",
+    "Sensor Data",
+    "Equipment Check",
+    "Growth Analysis",
+    "Harvest Plan",
+    "Crop Picking",
+    "Package Prep",
+    "Cold Chain",
+    "Demand Forecast",
+    "Order Dispatch",
+    "Feedback Review"
+  ]
+}

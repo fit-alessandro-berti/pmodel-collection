@@ -1,0 +1,21 @@
+{
+  "title": "Custom Artifact Authentication",
+  "description": "This complex process involves the verification and authentication of rare cultural artifacts intended for international exhibition. It begins with provenance research, followed by multi-tiered physical inspection using advanced imaging technologies. Expert historians and material scientists collaborate to assess authenticity, while legal compliance teams verify export regulations. Concurrently, a digital ledger records all findings for transparency. After validation, the items undergo preservation treatment tailored to their material composition. Finally, secure packaging and logistics coordination ensure safe delivery to exhibit venues while maintaining chain-of-custody documentation throughout the process.",
+  "activities": [
+    "Provenance Check",
+    "Image Scan",
+    "Material Test",
+    "Expert Review",
+    "Legal Audit",
+    "Ledger Update",
+    "Condition Report",
+    "Preservation Plan",
+    "Treatment Apply",
+    "Packaging Prep",
+    "Logistics Plan",
+    "Custom Clearance",
+    "Chain Verify",
+    "Exhibit Setup",
+    "Final Approval"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Antique Authentication Workflow",
+  "description": "This process outlines the intricate steps involved in authenticating antique artifacts for auction houses and private collectors. It begins with initial artifact intake and digital cataloging, followed by multi-disciplinary scientific analysis including carbon dating and metallurgical tests. Expert consultations are conducted with historians and provenance researchers to verify historical context and ownership lineage. Parallel to verification, legal compliance checks ensure no cultural heritage laws are violated. Post-validation, restoration assessment determines any necessary conservation work. The final phase involves preparing detailed certification reports, archiving findings, and coordinating secure transportation logistics to auction or display venues. This atypical yet realistic process requires tight coordination between scientists, legal experts, historians, and logistics teams to maintain artifact integrity and authenticity throughout.",
+  "activities": [
+    "Artifact Intake",
+    "Digital Catalog",
+    "Carbon Dating",
+    "Metal Testing",
+    "Expert Consult",
+    "Provenance Check",
+    "Legal Review",
+    "Heritage Compliance",
+    "Restoration Assess",
+    "Conservation Plan",
+    "Certification Prep",
+    "Report Generation",
+    "Findings Archive",
+    "Transport Arrange",
+    "Venue Coordination"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Remote Expert Network",
+  "description": "This process coordinates a decentralized network of subject matter experts (SMEs) who provide real-time consultancy for complex, niche problems across diverse industries. It begins with client intake and problem classification, followed by automated expert matching using AI-driven profiles. Experts collaborate asynchronously and synchronously to diagnose issues, propose solutions, and validate outcomes. The system integrates feedback loops to refine expert recommendations and continuously update profiles based on performance metrics. Additionally, it handles dynamic scheduling, multi-channel communications, and secure document exchanges. The process concludes with quality assurance reviews and client satisfaction assessments, ensuring that the network evolves through adaptive learning and trust-building among participants.",
+  "activities": [
+    "Client Intake",
+    "Problem Classify",
+    "Expert Match",
+    "Schedule Sync",
+    "Issue Diagnose",
+    "Solution Propose",
+    "Collaborate Async",
+    "Validate Outcome",
+    "Feedback Loop",
+    "Profile Update",
+    "Secure Exchange",
+    "Quality Review",
+    "Client Assess",
+    "Trust Build",
+    "Adaptive Learn"
+  ]
+}

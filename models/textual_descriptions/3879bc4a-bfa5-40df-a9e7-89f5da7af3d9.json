@@ -1,0 +1,24 @@
+{
+  "title": "Urban Beekeeping Supply Chain",
+  "description": "This process outlines the complex supply chain involved in urban beekeeping, integrating environmental monitoring, community engagement, and sustainable product distribution. It begins with hive site selection based on microclimate data and urban flora analysis, followed by custom hive fabrication using recycled materials. Next, queen bee sourcing is managed through selective breeding programs to ensure disease resistance. Routine hive inspections incorporate sensor data for hive health assessment, triggering adaptive feeding and pest control strategies. Honey extraction is performed in modular mobile units to minimize contamination, then quality tested for urban pollutants. Packaging combines eco-friendly materials with local branding initiatives. Distribution leverages a hybrid model of direct sales at farmers markets and subscription-based delivery services. Throughout the process, educational workshops and citizen-science data collection are integrated to foster community involvement and promote urban biodiversity awareness.",
+  "activities": [
+    "Site Select",
+    "Flora Survey",
+    "Microclimate Map",
+    "Hive Design",
+    "Material Source",
+    "Hive Build",
+    "Queen Breed",
+    "Hive Inspect",
+    "Sensor Check",
+    "Feed Adjust",
+    "Pest Control",
+    "Honey Extract",
+    "Quality Test",
+    "Eco Package",
+    "Market Setup",
+    "Subscribe Setup",
+    "Workshop Plan",
+    "Data Collect"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process involves the complex orchestration of establishing an urban vertical farm within a constrained city environment. It starts with site assessment and zoning compliance, followed by modular infrastructure design and procurement. The process continues with climate system integration, hydroponic nutrient programming, and automated lighting calibration. Concurrently, staff training on biosecurity and crop monitoring is conducted. Post-installation, the process includes iterative testing of growth cycles, data analytics for yield optimization, pest control protocols, and community engagement for local distribution. Finally, the operation undergoes sustainability auditing and scalability planning to ensure long-term viability within urban agriculture paradigms.",
+  "activities": [
+    "Site Survey",
+    "Zoning Check",
+    "Design Layout",
+    "Material Order",
+    "Climate Setup",
+    "Nutrient Mix",
+    "Light Calibrate",
+    "Staff Training",
+    "Biosecurity Audit",
+    "Growth Testing",
+    "Data Analysis",
+    "Pest Control",
+    "Community Meet",
+    "Sustain Audit",
+    "Scale Planning"
+  ]
+}

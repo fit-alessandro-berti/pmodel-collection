@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the detailed verification and authentication of historical artifacts before acquisition or exhibition. It includes provenance research, scientific testing, expert consultations, and legal documentation to ensure artifact legitimacy and compliance with international heritage laws. The workflow begins with initial artifact intake and condition assessment, followed by advanced material analysis and carbon dating. Concurrently, provenance tracing is conducted through archival research and interviews with previous owners or custodians. After scientific validation, expert panels review findings to confirm authenticity. Legal teams then verify ownership rights and prepare acquisition contracts. Finally, the artifact undergoes conservation planning before being cataloged for display or storage. This atypical process requires coordination between historians, scientists, legal experts, and conservators to uphold ethical standards and cultural preservation.",
+  "activities": [
+    "Artifact Intake",
+    "Condition Check",
+    "Material Test",
+    "Carbon Dating",
+    "Provenance Trace",
+    "Archive Research",
+    "Owner Interview",
+    "Expert Review",
+    "Legal Verify",
+    "Rights Review",
+    "Contract Draft",
+    "Acquisition Approve",
+    "Conservation Plan",
+    "Catalog Entry",
+    "Exhibit Prep"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Urban Farming Supply Cycle",
+  "description": "This process outlines the end-to-end cycle of managing a vertical urban farming supply chain, starting from crop selection and seed procurement through controlled environment cultivation, automated nutrient delivery, real-time growth monitoring, harvesting, post-harvest processing, quality assurance, packaging, and distribution to local markets. It integrates IoT sensor data analytics with manual inspection to optimize yield and sustainability in densely populated areas. The process also includes waste recycling, energy consumption tracking, and customer feedback integration to continuously improve the urban farming ecosystem while minimizing environmental impact and maximizing freshness and nutritional value for consumers.",
+  "activities": [
+    "Seed Sourcing",
+    "Crop Planning",
+    "Environment Setup",
+    "Nutrient Mixing",
+    "Automated Feeding",
+    "Growth Monitoring",
+    "Data Analysis",
+    "Manual Inspection",
+    "Harvest Scheduling",
+    "Crop Harvesting",
+    "Post-Harvest",
+    "Quality Testing",
+    "Packaging Prep",
+    "Distribution Plan",
+    "Waste Recycling",
+    "Energy Tracking",
+    "Customer Feedback"
+  ]
+}

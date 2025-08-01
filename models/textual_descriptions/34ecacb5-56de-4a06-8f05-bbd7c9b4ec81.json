@@ -1,0 +1,21 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process details the end-to-end assembly and deployment of custom drones tailored for specialized environmental monitoring. It begins with client consultation to specify unique sensor and flight requirements, followed by component sourcing from niche suppliers. The assembly phase involves precision integration of avionics, sensors, and bespoke software modules. Rigorous multi-stage testing ensures operational reliability under diverse environmental conditions. Subsequent calibration aligns sensor outputs with client specifications. Finally, the process concludes with drone packaging, pilot training sessions, and remote deployment planning, ensuring seamless field operation and data acquisition for research or industrial applications.",
+  "activities": [
+    "Client Consult",
+    "Specs Finalize",
+    "Component Sourcing",
+    "Frame Assembly",
+    "Avionics Install",
+    "Sensor Mounting",
+    "Software Upload",
+    "Initial Testing",
+    "Flight Calibration",
+    "Environmental Test",
+    "Data Validation",
+    "Packaging Prep",
+    "Pilot Training",
+    "Deployment Plan",
+    "Field Support"
+  ]
+}

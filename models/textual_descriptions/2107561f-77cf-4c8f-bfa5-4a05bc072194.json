@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process outlines the detailed steps involved in authenticating historical artifacts for museums and private collectors. It begins with preliminary provenance research and physical inspection, followed by advanced scientific analysis such as isotope dating and material composition tests. Experts then cross-reference findings with historical records and consult with specialized historians. The artifact undergoes condition assessment, restoration feasibility study, and ethical clearance review. Documentation is compiled into a comprehensive report, which is then verified by a peer review panel. Finally, authentication certification is issued, and the artifact is logged into a centralized registry for future reference and insurance purposes. Throughout the process, secure chain-of-custody protocols and confidentiality agreements are strictly maintained to ensure integrity and trustworthiness.",
+  "activities": [
+    "Provenance Check",
+    "Visual Inspect",
+    "Material Test",
+    "Isotope Dating",
+    "Historical Cross",
+    "Expert Consult",
+    "Condition Assess",
+    "Restoration Plan",
+    "Ethics Review",
+    "Report Compile",
+    "Peer Review",
+    "Certify Authentic",
+    "Registry Log",
+    "Custody Secure",
+    "Confidentiality"
+  ]
+}

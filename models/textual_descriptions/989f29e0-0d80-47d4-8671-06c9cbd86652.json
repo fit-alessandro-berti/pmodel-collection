@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Launch",
+  "description": "This process outlines the comprehensive steps involved in launching a vertical farming business within an urban environment. It includes site selection under zoning constraints, modular infrastructure assembly, hydroponic system calibration, seed selection based on local climate adaptability, nutrient solution optimization, automated environmental monitoring setup, regulatory compliance verification, marketing campaign development targeting local consumers, staff recruitment with specialized agronomy skills, iterative yield testing, waste recycling integration, community engagement initiatives, and final launch event coordination. The process ensures sustainability, efficiency, and community integration in an atypical yet realistic urban agriculture venture.",
+  "activities": [
+    "Site Selection",
+    "Zoning Review",
+    "Modular Setup",
+    "System Calibration",
+    "Seed Selection",
+    "Nutrient Mix",
+    "Sensor Install",
+    "Compliance Check",
+    "Market Analysis",
+    "Hiring Staff",
+    "Yield Testing",
+    "Waste Sorting",
+    "Community Meet",
+    "Promo Launch",
+    "Feedback Loop"
+  ]
+}

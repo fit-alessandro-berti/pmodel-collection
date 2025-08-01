@@ -1,0 +1,21 @@
+{
+  "title": "Artisanal Cheese Export",
+  "description": "This process details the complex steps involved in exporting artisanal cheese from small-scale farms to international gourmet markets. It begins with milk sourcing from specific breed cows, followed by precise curdling and aging under controlled conditions. The cheese is then carefully packaged with temperature monitoring and compliance with diverse export regulations. Logistics coordination includes cold chain management, customs clearance, and distribution to boutique retailers. The process requires continuous quality testing and feedback loops with producers to maintain product integrity and meet varying consumer tastes across regions.",
+  "activities": [
+    "Milk Sourcing",
+    "Breed Selection",
+    "Curd Formation",
+    "Pressing Cheese",
+    "Aging Process",
+    "Quality Testing",
+    "Packaging Prep",
+    "Temp Monitoring",
+    "Label Compliance",
+    "Export Documentation",
+    "Cold Chain",
+    "Customs Clearance",
+    "Shipping Booking",
+    "Retail Coordination",
+    "Feedback Review"
+  ]
+}

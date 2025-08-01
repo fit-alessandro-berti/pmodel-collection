@@ -1,0 +1,21 @@
+{
+  "title": "Artisan Supply Chain",
+  "description": "This process manages the unique supply chain of handcrafted artisan goods, integrating rare raw material sourcing from remote locations, quality validation by expert artisans, adaptive production scheduling based on seasonal demand, bespoke packaging design, and direct-to-consumer personalized delivery. It includes real-time cultural trend analysis to adjust product lines, collaborative artisan feedback loops, and sustainability assessments ensuring ethical sourcing and minimal environmental impact, all coordinated through decentralized digital ledgers for transparency and trust among stakeholders.",
+  "activities": [
+    "Material Sourcing",
+    "Quality Check",
+    "Trend Analysis",
+    "Demand Forecast",
+    "Production Plan",
+    "Artisan Review",
+    "Prototype Build",
+    "Customer Feedback",
+    "Packaging Design",
+    "Sustainability Audit",
+    "Order Custom",
+    "Inventory Sync",
+    "Shipment Prep",
+    "Delivery Schedule",
+    "Ledger Update"
+  ]
+}

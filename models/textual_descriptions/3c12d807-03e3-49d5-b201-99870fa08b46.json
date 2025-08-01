@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the complex steps involved in establishing a vertical farming operation within an urban environment. It includes site analysis for structural suitability, environmental impact assessment, resource logistics coordination, specialized equipment procurement, modular farm assembly, hydroponic system calibration, nutrient solution formulation, integrated pest management planning, real-time monitoring setup using IoT sensors, staff training in crop management, regulatory compliance verification, community engagement initiatives, yield forecasting, and continuous optimization based on data analytics to ensure sustainable production and profitability in constrained urban spaces.",
+  "activities": [
+    "Site Survey",
+    "Impact Study",
+    "Resource Plan",
+    "Vendor Select",
+    "Equipment Order",
+    "Module Build",
+    "Hydroponic Setup",
+    "Solution Mix",
+    "Pest Control",
+    "Sensor Setup",
+    "Staff Train",
+    "Compliance Check",
+    "Community Meet",
+    "Yield Forecast",
+    "Data Review"
+  ]
+}

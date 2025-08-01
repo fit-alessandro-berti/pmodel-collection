@@ -1,0 +1,21 @@
+{
+  "title": "Artisanal Cheese Supply Chain",
+  "description": "This process outlines the end-to-end flow for producing and distributing artisanal cheese from small-scale farms. It begins with raw milk sourcing from select local farms, followed by quality testing and fermentation initiation under controlled conditions. The curdling phase involves precise temperature and humidity adjustments, then aging in specialized environments with regular monitoring. Packaging is done using eco-friendly materials, then the product undergoes certification for organic and regional authenticity. Distribution channels include farmer\u2019s markets, boutique stores, and direct online sales, supported by customer feedback loops and inventory management to ensure freshness and demand alignment. Finally, waste materials are composted or repurposed, closing the sustainable cycle.",
+  "activities": [
+    "Milk Sourcing",
+    "Quality Test",
+    "Fermentation Start",
+    "Curdling Phase",
+    "Temperature Control",
+    "Humidity Adjust",
+    "Aging Monitor",
+    "Eco Packaging",
+    "Certification Check",
+    "Market Distribution",
+    "Store Delivery",
+    "Online Sales",
+    "Feedback Loop",
+    "Inventory Audit",
+    "Waste Compost"
+  ]
+}

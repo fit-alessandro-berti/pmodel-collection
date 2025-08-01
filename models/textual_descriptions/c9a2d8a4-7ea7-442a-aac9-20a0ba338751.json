@@ -1,0 +1,22 @@
+{
+  "title": "Global Trade Compliance Audit",
+  "description": "This process involves conducting a comprehensive audit of multinational trade activities to ensure full compliance with dynamic international trade regulations, sanctions, and tariffs. It includes verifying supplier certifications, screening transactions against restricted party lists, harmonizing product classifications, and assessing risk exposure across jurisdictions. The audit requires cross-functional collaboration among legal, logistics, procurement, and finance teams, integrating automated data validation with manual inspections. The process culminates in generating detailed compliance reports, identifying remediation actions, and facilitating continuous monitoring to prevent violations and optimize trade efficiency.",
+  "activities": [
+    "Initiate Audit",
+    "Gather Documents",
+    "Verify Suppliers",
+    "Screen Transactions",
+    "Classify Products",
+    "Assess Risks",
+    "Check Sanctions",
+    "Review Tariffs",
+    "Cross-Verify Data",
+    "Conduct Interviews",
+    "Analyze Reports",
+    "Identify Gaps",
+    "Recommend Actions",
+    "Implement Changes",
+    "Monitor Compliance",
+    "Finalize Report"
+  ]
+}

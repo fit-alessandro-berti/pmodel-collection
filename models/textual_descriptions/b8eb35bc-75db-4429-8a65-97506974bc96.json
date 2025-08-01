@@ -1,0 +1,23 @@
+{
+  "title": "Urban Beekeeping Supply Chain",
+  "description": "This process manages the end-to-end supply chain for an urban beekeeping business that sources local raw honey, produces artisanal bee products, and distributes them through niche urban markets. It involves site scouting for rooftop hives, hive installation, bee health monitoring, honey extraction, product formulation including beeswax candles and propolis tinctures, quality testing, branding, and eco-friendly packaging. The process also integrates community education workshops, urban pollination tracking, and sustainability reporting to ensure environmental compliance and social impact. Complexities arise due to variability in urban flora, seasonal bee activity, and tight regulatory constraints on food and agricultural products within city limits.",
+  "activities": [
+    "Site Scouting",
+    "Hive Setup",
+    "Bee Monitoring",
+    "Pest Control",
+    "Honey Harvest",
+    "Wax Processing",
+    "Product Blending",
+    "Quality Testing",
+    "Brand Design",
+    "Eco Packaging",
+    "Market Analysis",
+    "Community Workshop",
+    "Pollination Track",
+    "Sustainability Audit",
+    "Regulatory Review",
+    "Order Fulfillment",
+    "Customer Feedback"
+  ]
+}

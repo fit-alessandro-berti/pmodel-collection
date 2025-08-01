@@ -1,0 +1,23 @@
+{
+  "title": "Urban Drone Delivery Workflow",
+  "description": "This process manages the end-to-end operation of urban drone deliveries for perishable goods. It includes initial order validation, dynamic route optimization considering real-time air traffic and weather conditions, automated drone dispatch, continuous in-flight monitoring with obstacle avoidance, secure parcel handoff using biometric verification, and post-delivery data analytics to improve future efficiency. The workflow integrates cross-functional teams and advanced AI algorithms to ensure timely, safe, and compliant deliveries within congested city environments, adapting dynamically to unexpected disruptions.",
+  "activities": [
+    "Order Validate",
+    "Route Optimize",
+    "Drone Assign",
+    "Preflight Check",
+    "Load Package",
+    "Flight Launch",
+    "Traffic Monitor",
+    "Weather Assess",
+    "Obstacle Avoid",
+    "Battery Check",
+    "Delivery Verify",
+    "Biometric Scan",
+    "Package Release",
+    "Return Flight",
+    "Post Flight",
+    "Data Analyze",
+    "Feedback Collect"
+  ]
+}

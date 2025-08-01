@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Onboarding",
+  "description": "This process describes the onboarding and setup of an urban vertical farming operation within a repurposed commercial building. It involves multi-disciplinary coordination including site analysis, environmental control calibration, crop selection tailored to micro-climates, integration of IoT sensors for real-time monitoring, and staff training on automated nutrient delivery systems. The process also covers regulatory compliance checks, sustainability assessments, and market launch strategy to ensure the farm meets local food demand efficiently while minimizing resource consumption and environmental impact.",
+  "activities": [
+    "Site Survey",
+    "Structural Audit",
+    "Climate Mapping",
+    "Crop Selection",
+    "Sensor Install",
+    "System Calibrate",
+    "Nutrient Setup",
+    "Water Testing",
+    "Staff Training",
+    "Compliance Check",
+    "Energy Audit",
+    "Waste Plan",
+    "Data Integration",
+    "Market Research",
+    "Launch Planning"
+  ]
+}

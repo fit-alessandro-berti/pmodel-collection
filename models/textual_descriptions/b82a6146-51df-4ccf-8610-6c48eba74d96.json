@@ -1,0 +1,23 @@
+{
+  "title": "Artisan Cheese Supply Chain",
+  "description": "This process involves the sourcing, crafting, and distribution of small-batch artisan cheeses with an emphasis on traditional methods and quality control. Starting from selecting rare milk varieties, the process includes multiple fermentation stages, aging in controlled environments, and detailed sensory evaluations. Packaging is customized for different markets, followed by a logistics phase targeting niche retailers and direct consumer deliveries. Throughout, traceability and sustainability metrics are continuously monitored to ensure product integrity and minimal environmental impact, making this supply chain complex yet highly specialized and adaptive to market preferences.",
+  "activities": [
+    "Milk Sourcing",
+    "Quality Testing",
+    "Starter Prep",
+    "Milk Pasteurize",
+    "Curd Cutting",
+    "Whey Draining",
+    "Press Molding",
+    "Salt Application",
+    "Fermentation Stage",
+    "Aging Control",
+    "Sensory Review",
+    "Packaging Design",
+    "Label Printing",
+    "Order Processing",
+    "Distribution Plan",
+    "Sustainability Audit",
+    "Customer Feedback"
+  ]
+}

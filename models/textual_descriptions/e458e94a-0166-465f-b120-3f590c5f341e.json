@@ -1,0 +1,22 @@
+{
+  "title": "Custom Art Commission Workflow",
+  "description": "This process manages the end-to-end workflow for commissioning custom artwork from initial client inquiry through final delivery and post-sale support. It includes client onboarding, concept development, iterative feedback loops, contract negotiation, milestone payments, artwork creation, quality assurance, framing coordination, shipping logistics, and customer satisfaction follow-up. The process ensures tailored communication between artist and client while maintaining clear documentation and legal compliance throughout. It also incorporates contingency planning for creative revisions and unexpected delays, ensuring a seamless experience from idea inception to completed commissioned piece delivery.",
+  "activities": [
+    "Inquiry Review",
+    "Client Onboard",
+    "Concept Draft",
+    "Feedback Cycle",
+    "Contract Setup",
+    "Payment Schedule",
+    "Material Sourcing",
+    "Artwork Create",
+    "Quality Check",
+    "Frame Selection",
+    "Packaging Prep",
+    "Shipment Arrange",
+    "Delivery Confirm",
+    "Post-Sale Support",
+    "Revision Manage",
+    "Delay Mitigate"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process outlines the comprehensive management cycle of an urban vertical farm that integrates IoT monitoring, automated nutrient delivery, and sustainable energy usage. It begins with environmental sensing to assess light, humidity, and temperature, followed by adaptive lighting adjustments. Water recycling and nutrient mixing are precisely controlled to optimize plant growth. Pollination is facilitated through robotic drones, while growth progress is tracked via computer vision systems. Harvest scheduling aligns with demand forecasting, and post-harvest processing includes packaging and quality assurance. Waste materials are composted onsite, and energy consumption is continuously optimized through smart grid integration, ensuring minimal environmental impact and maximum yield in a constrained urban environment.",
+  "activities": [
+    "Env Sensing",
+    "Light Adjust",
+    "Humidity Check",
+    "Temp Control",
+    "Nutrient Mix",
+    "Water Recycle",
+    "Drone Pollinate",
+    "Growth Scan",
+    "Pest Detect",
+    "Harvest Plan",
+    "Demand Forecast",
+    "Quality Check",
+    "Pack Produce",
+    "Waste Compost",
+    "Energy Optimize",
+    "Data Archive"
+  ]
+}

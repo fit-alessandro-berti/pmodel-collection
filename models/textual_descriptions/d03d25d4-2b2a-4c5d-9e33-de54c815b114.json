@@ -1,0 +1,22 @@
+{
+  "title": "Artisanal Coffee Traceability",
+  "description": "This process ensures complete traceability and quality control in the artisanal coffee supply chain, from farm to cup. It involves unique steps like micro-lot identification, sensory profiling, blockchain recording, and dynamic pricing based on real-time market demand and quality metrics. The process also integrates direct farmer feedback, environmental impact assessment, and adaptive roasting schedules to optimize flavor profiles while maintaining sustainability and ethical sourcing. Each batch undergoes rigorous testing and certification before distribution, enabling transparency and consumer trust in a highly competitive specialty coffee market.",
+  "activities": [
+    "Farm Registration",
+    "Lot Tagging",
+    "Soil Testing",
+    "Harvest Logging",
+    "Coffee Sorting",
+    "Sensory Profiling",
+    "Quality Scoring",
+    "Blockchain Entry",
+    "Environmental Audit",
+    "Farmer Feedback",
+    "Dynamic Pricing",
+    "Roast Scheduling",
+    "Batch Testing",
+    "Certification Review",
+    "Distribution Prep",
+    "Consumer Feedback"
+  ]
+}

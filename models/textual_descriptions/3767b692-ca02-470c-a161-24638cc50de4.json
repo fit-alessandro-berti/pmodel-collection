@@ -1,0 +1,21 @@
+{
+  "title": "Cross-Regional Artifact Authentication",
+  "description": "This process involves the complex authentication and provenance verification of historical artifacts sourced from multiple regions worldwide. The process begins with initial artifact receipt and condition logging, followed by multi-expert physical inspection, advanced material composition analysis, and cross-referencing with global artifact databases. Subsequent activities include digital 3D modeling, provenance chain reconstruction through archival research, and authentication report drafting. Additionally, the process integrates blockchain registration for provenance transparency, stakeholder consultation for disputed origins, and final certification issuance. Parallel steps encompass conservation recommendations, replication authorization, and secure artifact storage planning. The entire workflow demands coordination between historians, scientists, legal experts, and technology specialists to ensure authenticity, legal compliance, and preservation of cultural heritage assets.",
+  "activities": [
+    "Artifact Receipt",
+    "Condition Log",
+    "Expert Inspection",
+    "Material Analysis",
+    "Database Check",
+    "3D Modeling",
+    "Provenance Research",
+    "Report Draft",
+    "Blockchain Register",
+    "Stakeholder Consult",
+    "Certification Issue",
+    "Conservation Plan",
+    "Replication Review",
+    "Storage Design",
+    "Legal Compliance"
+  ]
+}

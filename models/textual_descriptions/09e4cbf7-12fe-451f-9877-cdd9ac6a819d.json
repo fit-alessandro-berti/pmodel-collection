@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Deployment",
+  "description": "This process outlines the complex implementation of an urban vertical farming system within a densely populated city environment. It involves site evaluation, modular farm design, environmental control integration, resource logistics, crop selection based on microclimate data, advanced automation setup, continuous monitoring, and community engagement. The process also incorporates adaptive pest management strategies, energy optimization protocols, and real-time data analytics to ensure sustainable crop production. Additionally, it integrates waste recycling loops and supply chain coordination with local markets to maximize efficiency and reduce environmental impact. Coordination among multidisciplinary teams including agronomists, engineers, urban planners, and IT specialists is critical for successful deployment and scalability of the farming system.",
+  "activities": [
+    "Site Survey",
+    "Design Layout",
+    "Climate Study",
+    "Resource Plan",
+    "Modular Build",
+    "Sensor Install",
+    "Automation Setup",
+    "Crop Select",
+    "Irrigation Tune",
+    "Pest Control",
+    "Data Monitor",
+    "Waste Cycle",
+    "Energy Audit",
+    "Market Link",
+    "Team Sync",
+    "Feedback Loop",
+    "Scale Review"
+  ]
+}

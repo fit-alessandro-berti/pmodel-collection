@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the multi-layered verification and authentication of ancient artifacts before acquisition or exhibition. It begins with initial provenance research, followed by scientific material analysis, stylistic comparison, and expert consultations. Legal clearance and ethical sourcing checks are conducted alongside insurance valuation and risk assessment. The process also includes digital archiving, replica creation for display, and preparation for transport under controlled conditions. Finally, the artifact undergoes a final review meeting before formal cataloging and public announcement, ensuring authenticity, legality, and preservation standards are met comprehensively.",
+  "activities": [
+    "Provenance Check",
+    "Material Testing",
+    "Stylistic Review",
+    "Expert Panel",
+    "Legal Clearance",
+    "Ethics Audit",
+    "Insurance Quote",
+    "Risk Assess",
+    "Digital Archive",
+    "Replica Build",
+    "Transport Prep",
+    "Final Review",
+    "Catalog Entry",
+    "Public Notice",
+    "Condition Report"
+  ]
+}

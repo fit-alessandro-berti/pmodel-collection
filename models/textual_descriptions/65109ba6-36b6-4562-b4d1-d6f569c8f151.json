@@ -1,0 +1,21 @@
+{
+  "title": "Crowdsourced Innovation Cycle",
+  "description": "This process involves leveraging a global community to generate, evaluate, and refine innovative ideas for new product development. It starts by broadcasting challenge themes to a diverse participant base, encouraging submission of novel concepts. These ideas undergo automated and peer review stages to filter feasible proposals. Selected ideas enter prototyping, where rapid virtual models are created and tested using simulation tools. Feedback loops from community experts and end-users drive iterative improvements. Concurrently, intellectual property assessments and market viability analyses are conducted to ensure alignment with strategic goals. Final concepts proceed to a pilot launch phase, coupled with targeted marketing experiments and data collection to validate user engagement and scalability before full-scale production is authorized.",
+  "activities": [
+    "Theme Launch",
+    "Idea Submit",
+    "Auto Filter",
+    "Peer Review",
+    "Feasibility Check",
+    "Prototype Build",
+    "Simulate Test",
+    "Expert Feedback",
+    "User Review",
+    "IP Audit",
+    "Market Scan",
+    "Iterate Design",
+    "Pilot Launch",
+    "Data Collect",
+    "Scale Approve"
+  ]
+}

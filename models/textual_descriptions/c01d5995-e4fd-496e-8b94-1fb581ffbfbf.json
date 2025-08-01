@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farm Setup",
+  "description": "This process outlines the complex setup of an urban vertical farm integrating hydroponics, renewable energy, and AI-driven climate control. It begins with site assessment and urban zoning compliance, followed by modular structure design and advanced nutrient system installation. After seed selection and germination, automated planting and growth monitoring commence. The process includes continuous environmental adjustments, pest anomaly detection, and adaptive resource allocation. Harvesting is synchronized with supply chain logistics to ensure freshness. Post-harvest, waste recycling and data analytics for yield optimization complete the cycle, emphasizing sustainability and urban food security within constrained city environments.",
+  "activities": [
+    "Site Assessment",
+    "Zoning Check",
+    "Structure Design",
+    "Nutrient Setup",
+    "Seed Selection",
+    "Germination Start",
+    "Automated Planting",
+    "Growth Monitor",
+    "Climate Adjust",
+    "Pest Detection",
+    "Resource Allocate",
+    "Harvest Sync",
+    "Logistics Plan",
+    "Waste Recycle",
+    "Data Analytics",
+    "Yield Optimize"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Artisan Cheese Supply Chain",
+  "description": "This process outlines the end-to-end supply chain for artisan cheese production, emphasizing small-batch quality and traceability. It begins with raw milk sourcing from local farms, followed by milk quality testing and fermentation control. The cheese is then manually curdled, molded, and aged under specific conditions. Each batch undergoes sensory evaluation and packaging with detailed provenance labels. Distribution involves coordinating with niche retailers and specialty food markets. The process includes customer feedback loops to adjust recipes and maintain artisanal standards while ensuring regulatory compliance and seasonal ingredient management.",
+  "activities": [
+    "Milk Sourcing",
+    "Quality Testing",
+    "Fermentation Check",
+    "Curd Formation",
+    "Molding Cheese",
+    "Aging Control",
+    "Sensory Eval",
+    "Batch Packaging",
+    "Label Printing",
+    "Inventory Logging",
+    "Retail Coordination",
+    "Transport Scheduling",
+    "Customer Survey",
+    "Recipe Adjust",
+    "Compliance Audit",
+    "Seasonal Sourcing"
+  ]
+}

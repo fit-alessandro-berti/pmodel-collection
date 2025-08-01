@@ -1,0 +1,22 @@
+{
+  "title": "Artisan Coffee Supply Chain",
+  "description": "This process outlines the complex journey of artisan coffee beans from remote high-altitude farms to exclusive urban cafes. It involves unique steps such as micro-lot selection, hand-picking quality checks, natural fermentation monitoring, and custom roasting profiles tailored for each batch. The process also integrates blockchain tracking to verify origin and fair trade certification, alongside dynamic demand forecasting based on seasonal consumer preferences. Packaging includes biodegradable materials with embedded NFC tags for consumer engagement. Finally, distribution leverages a mixed logistics network combining drone delivery for remote areas and traditional cold chain transport to preserve freshness, culminating in direct-to-customer subscription services with personalized brewing guides.",
+  "activities": [
+    "Farm Registration",
+    "Lot Selection",
+    "Hand Picking",
+    "Fermentation Check",
+    "Quality Scoring",
+    "Blockchain Tagging",
+    "Roast Profiling",
+    "Batch Roasting",
+    "NFC Embedding",
+    "Eco Packaging",
+    "Drone Dispatch",
+    "Cold Chain",
+    "Demand Forecast",
+    "Cafe Delivery",
+    "Subscription Setup",
+    "Brew Guide"
+  ]
+}

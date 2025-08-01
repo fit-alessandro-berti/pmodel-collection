@@ -1,0 +1,23 @@
+{
+  "title": "Artisan Cheese Trade",
+  "description": "This process involves the sourcing, aging, quality testing, and distribution of handcrafted artisan cheeses from small farms to specialty retailers and exclusive restaurants. It includes selecting raw milk suppliers based on seasonal yield, managing aging conditions with precise humidity and temperature controls, performing microbial assessments, coordinating packaging with unique branding, and arranging logistics that ensure freshness while complying with international food safety regulations. The process also incorporates feedback loops from retailers on flavor profiles and demand forecasting to adjust production volumes and diversify cheese varieties offered in the market.",
+  "activities": [
+    "Milk Sourcing",
+    "Supplier Vetting",
+    "Milk Testing",
+    "Curd Preparation",
+    "Pressing Cheese",
+    "Salt Application",
+    "Aging Setup",
+    "Humidity Control",
+    "Microbial Testing",
+    "Flavor Sampling",
+    "Packaging Design",
+    "Label Printing",
+    "Order Processing",
+    "Transport Scheduling",
+    "Retail Feedback",
+    "Demand Forecast",
+    "Inventory Audit"
+  ]
+}

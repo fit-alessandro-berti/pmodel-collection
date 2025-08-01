@@ -1,0 +1,21 @@
+{
+  "title": "Remote Asset Harvesting",
+  "description": "This process involves the orchestration of remotely managing and harvesting digital assets from decentralized networks while ensuring compliance with dynamic regulatory frameworks. It includes activities such as asset discovery, risk evaluation, automated bidding, extraction scheduling, encrypted transfer, multi-node verification, and post-harvest analytics. The process must adapt to fluctuating network conditions and maintain security protocols throughout. Additionally, continuous feedback loops are integrated to optimize harvesting parameters based on performance data and emerging threats, making it a robust and adaptive system for maximizing asset recovery in volatile environments.",
+  "activities": [
+    "Asset Scan",
+    "Risk Assess",
+    "Bid Submit",
+    "Schedule Extract",
+    "Encrypt Data",
+    "Transfer Init",
+    "Node Verify",
+    "Compliance Check",
+    "Threat Monitor",
+    "Performance Log",
+    "Parameter Adjust",
+    "Feedback Loop",
+    "Data Merge",
+    "Report Generate",
+    "Archive Assets"
+  ]
+}

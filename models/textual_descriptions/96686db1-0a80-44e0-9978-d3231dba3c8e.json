@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process describes the complex establishment of an urban vertical farm within a repurposed multi-story building. It involves integrating advanced hydroponic systems, optimizing artificial lighting, and implementing automated nutrient delivery tailored to diverse plant species. The process ensures sustainable water recycling, climate control, and pest management without chemicals. Coordination with local authorities for zoning and energy compliance is required. Post-installation, continuous monitoring through IoT sensors enables adaptive growth adjustments. The integration of AI-driven analytics supports yield forecasting and resource optimization, ensuring economic viability within urban agriculture constraints.",
+  "activities": [
+    "Site Survey",
+    "Zoning Approval",
+    "Structural Audit",
+    "Hydroponic Design",
+    "Lighting Setup",
+    "Nutrient Plan",
+    "Water Recycling",
+    "Climate Control",
+    "Pest Monitoring",
+    "Sensor Install",
+    "IoT Network",
+    "AI Integration",
+    "Staff Training",
+    "Growth Testing",
+    "Yield Forecast"
+  ]
+}

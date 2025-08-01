@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Integration",
+  "description": "This process outlines the integration of a vertical farming system within an urban commercial building, combining agriculture, technology, and logistics. The workflow includes site assessment, modular farm design, environmental control setup, automated nutrient delivery, crop monitoring via IoT sensors, AI-driven yield prediction, pest management, energy optimization, waste recycling, produce packaging, and distribution logistics. It involves coordination between architects, agronomists, IT specialists, and supply chain managers to ensure sustainable production, minimal environmental impact, and fresh produce delivery directly to local consumers and retailers in an efficient, scalable manner.",
+  "activities": [
+    "Site Survey",
+    "Design Layout",
+    "Install Modules",
+    "Setup Sensors",
+    "Calibrate Systems",
+    "Deploy AI",
+    "Nutrient Mix",
+    "Crop Planting",
+    "Monitor Growth",
+    "Pest Control",
+    "Energy Audit",
+    "Waste Sort",
+    "Package Produce",
+    "Schedule Delivery",
+    "Customer Feedback",
+    "System Update"
+  ]
+}

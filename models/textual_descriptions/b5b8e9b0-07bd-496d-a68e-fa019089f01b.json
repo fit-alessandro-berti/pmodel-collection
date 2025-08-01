@@ -1,0 +1,24 @@
+{
+  "title": "Artisan Microbrew Supply Chain",
+  "description": "This process outlines the end-to-end supply chain management of a small-scale artisan microbrewery that specializes in rare hop varieties and seasonal brews. It involves sourcing unique ingredients from remote farms, custom fermentation monitoring, small-batch quality control, adaptive packaging design, and direct-to-consumer distribution through niche channels. The process integrates traditional brewing techniques with modern IoT sensors for environment regulation, includes community feedback loops for recipe refinement, and leverages sustainable logistics practices to minimize carbon footprint while maintaining artisanal quality and exclusivity in the craft beer market.",
+  "activities": [
+    "Hop Sourcing",
+    "Malt Selection",
+    "Water Testing",
+    "Yeast Culturing",
+    "Batch Planning",
+    "Fermentation Start",
+    "Sensor Setup",
+    "Quality Sampling",
+    "Recipe Adjust",
+    "Packaging Design",
+    "Label Printing",
+    "Bottling Run",
+    "Cold Storage",
+    "Order Processing",
+    "Direct Shipping",
+    "Customer Feedback",
+    "Waste Recycling",
+    "Inventory Audit"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Dynamic Urban Farming Cycle",
+  "description": "This process outlines the intricate cycle of managing a dynamic urban farming system integrating IoT sensors, AI-driven crop monitoring, community feedback loops, and adaptive resource allocation. The workflow begins with site analysis and sensor deployment, followed by continuous data collection and AI-based growth prediction. Community members provide feedback on crop preferences and environmental impact, which informs real-time adjustments in irrigation, nutrient delivery, and pest control. The process also includes periodic soil regeneration through biochar application and microbial inoculation, ensuring sustainable productivity. Harvesting is coordinated via automated systems, while post-harvest analysis feeds into future planting strategies. This atypical farming cycle merges technology, ecology, and social input for optimized urban agriculture.",
+  "activities": [
+    "Site Analysis",
+    "Sensor Setup",
+    "Data Capture",
+    "AI Prediction",
+    "Community Poll",
+    "Irrigation Adjust",
+    "Nutrient Mix",
+    "Pest Control",
+    "Soil Testing",
+    "Biochar Apply",
+    "Microbial Add",
+    "Automated Harvest",
+    "Yield Review",
+    "Waste Process",
+    "Feedback Loop"
+  ]
+}

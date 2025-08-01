@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the comprehensive authentication of historical artifacts before acquisition by a museum. It includes provenance verification, material analysis, expert consultation, digital archiving, and legal compliance checks. The workflow ensures that each artifact is authentic, legally obtainable, and properly documented for future research and exhibition. It integrates multidisciplinary expertise and advanced technology, enabling the museum to maintain collection integrity and public trust. The process also involves negotiation with sellers, risk assessment related to artifact condition and origin, and final approval by the acquisition committee.",
+  "activities": [
+    "Initial Review",
+    "Provenance Check",
+    "Material Testing",
+    "Expert Survey",
+    "Digital Scan",
+    "Condition Report",
+    "Legal Review",
+    "Risk Analysis",
+    "Seller Negotiation",
+    "Documentation",
+    "Archival Entry",
+    "Committee Review",
+    "Final Approval",
+    "Acquisition Setup",
+    "Exhibit Planning"
+  ]
+}

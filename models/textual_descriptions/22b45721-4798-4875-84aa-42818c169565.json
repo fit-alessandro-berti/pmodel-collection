@@ -1,0 +1,22 @@
+{
+  "title": "Antique Restoration Workflow",
+  "description": "This process outlines the detailed steps involved in restoring antique furniture and artifacts to their original condition while preserving historical value. Beginning with initial assessment and documentation, the workflow includes material analysis, gentle cleaning, structural repairs, paint and finish evaluation, and controlled environmental testing. Specialized techniques such as micro-sanding, resin infill, and patina recreation are applied selectively. The process concludes with quality verification, client consultation, and archival recording to ensure both aesthetic integrity and provenance are maintained. Each step requires precise coordination among conservators, material scientists, and historians to balance restoration with preservation ethics.",
+  "activities": [
+    "Initial Survey",
+    "Photo Capture",
+    "Material Test",
+    "Dust Removal",
+    "Structural Check",
+    "Joint Repair",
+    "Micro Sand",
+    "Resin Fill",
+    "Finish Assess",
+    "Patina Match",
+    "Surface Coat",
+    "UV Test",
+    "Humidity Set",
+    "Client Review",
+    "Archival Log",
+    "Final Approval"
+  ]
+}

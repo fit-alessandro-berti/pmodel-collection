@@ -1,0 +1,21 @@
+{
+  "title": "Urban Rooftop Farming Setup",
+  "description": "This process describes the complex and atypical business workflow for establishing an urban rooftop farm on commercial buildings. It includes securing permits, structural assessments, soil and water testing, sourcing sustainable materials, installing modular planters, integrating IoT sensors for environmental monitoring, setting up automated irrigation systems, coordinating with local vendors for organic seeds, training staff on urban agriculture practices, implementing pest control measures, marketing fresh produce to local restaurants, managing seasonal crop rotation, ensuring compliance with city health regulations, and establishing waste composting protocols to maintain environmental sustainability and maximize yield within limited urban space.",
+  "activities": [
+    "Permit Securing",
+    "Structure Check",
+    "Soil Testing",
+    "Water Analysis",
+    "Material Sourcing",
+    "Planter Setup",
+    "Sensor Install",
+    "Irrigation Setup",
+    "Vendor Liaison",
+    "Staff Training",
+    "Pest Control",
+    "Produce Marketing",
+    "Crop Rotation",
+    "Health Audit",
+    "Waste Composting"
+  ]
+}

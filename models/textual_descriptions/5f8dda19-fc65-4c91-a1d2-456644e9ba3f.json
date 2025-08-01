@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the establishment of a fully automated urban vertical farming system that integrates IoT sensors, renewable energy sources, and AI-driven crop management. It begins with site assessment and design planning, followed by modular farm assembly and installation of hydroponic and aeroponic units. The system is then calibrated with environmental sensors for humidity, temperature, and nutrient monitoring. Renewable energy solutions like solar panels and wind turbines are integrated to ensure sustainable operation. AI algorithms are trained to optimize growth cycles and detect plant diseases early. The process concludes with staff training, compliance checks, and launch of a real-time monitoring dashboard for continuous performance analysis and yield forecasting.",
+  "activities": [
+    "Site Assess",
+    "Design Plan",
+    "Module Build",
+    "Unit Install",
+    "Sensor Setup",
+    "Energy Integrate",
+    "AI Train",
+    "Calibrate Enviro",
+    "System Test",
+    "Staff Train",
+    "Compliance Check",
+    "Disease Detect",
+    "Growth Optimize",
+    "Dashboard Launch",
+    "Yield Forecast"
+  ]
+}

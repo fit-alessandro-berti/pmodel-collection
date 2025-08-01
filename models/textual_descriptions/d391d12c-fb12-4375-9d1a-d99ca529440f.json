@@ -1,0 +1,24 @@
+{
+  "title": "Custom Urban Farming Setup",
+  "description": "This process outlines the steps involved in establishing a bespoke urban farming system tailored to small rooftop spaces in densely populated cities. It includes site analysis, microclimate assessment, soil-less media selection, modular hydroponic design, nutrient cycling optimization, and automated environmental controls. The workflow integrates stakeholder coordination, regulatory compliance checks, and community engagement programs to ensure sustainability and scalability. Continuous monitoring and adaptive management strategies are embedded to respond to seasonal variations and urban pollution factors, enabling year-round crop production with minimal resource waste while fostering local food security and green urban spaces.",
+  "activities": [
+    "Site Survey",
+    "Climate Check",
+    "Soil Testing",
+    "Media Select",
+    "Design Layout",
+    "Hydro Setup",
+    "Nutrient Mix",
+    "Sensor Install",
+    "Regulation Review",
+    "Permit Apply",
+    "Stakeholder Meet",
+    "Community Train",
+    "Plant Seed",
+    "Monitor Growth",
+    "Adjust Controls",
+    "Harvest Plan",
+    "Waste Recycle",
+    "Feedback Loop"
+  ]
+}

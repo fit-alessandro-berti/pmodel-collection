@@ -1,0 +1,22 @@
+{
+  "title": "Custom Urban Farming Setup",
+  "description": "This process outlines the complex orchestration required to establish a bespoke urban farming system tailored to specific environmental constraints and client preferences. It begins with site analysis and soil testing, followed by modular design iterations and resource allocation. The process integrates IoT sensor calibration, automated irrigation programming, and nutrient cycle optimization. Throughout, regulatory compliance and sustainability assessments are conducted to ensure ecological impact is minimized. Finally, staff training and digital monitoring setup finalize the system, enabling scalable urban agriculture with precise environmental controls and remote management capabilities.",
+  "activities": [
+    "Site Survey",
+    "Soil Testing",
+    "Design Draft",
+    "Resource Plan",
+    "Permits Check",
+    "Module Build",
+    "Sensor Setup",
+    "Irrigation Config",
+    "Nutrient Mix",
+    "Compliance Audit",
+    "Sustainability Eval",
+    "Staff Training",
+    "System Install",
+    "Data Sync",
+    "Remote Enable",
+    "Performance Review"
+  ]
+}

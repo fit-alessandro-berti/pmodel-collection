@@ -1,0 +1,21 @@
+{
+  "title": "Artisan Supply Chain",
+  "description": "This process involves sourcing rare raw materials from remote locations, verifying artisan credentials, custom-designing product prototypes, coordinating multi-vendor collaboration, managing quality inspections at various stages, handling bespoke packaging, and organizing niche market distribution. Additionally, it includes real-time artisan feedback integration, dynamic inventory allocation, and adaptive pricing strategies based on limited-edition demand fluctuations, ensuring a seamless blend of tradition and innovation in a highly specialized supply chain network.",
+  "activities": [
+    "Material Sourcing",
+    "Credential Check",
+    "Prototype Design",
+    "Vendor Sync",
+    "Quality Inspect",
+    "Packaging Design",
+    "Market Analysis",
+    "Inventory Allocate",
+    "Demand Forecast",
+    "Price Adjust",
+    "Order Processing",
+    "Shipping Plan",
+    "Feedback Collect",
+    "Data Review",
+    "Sales Report"
+  ]
+}

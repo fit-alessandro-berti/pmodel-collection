@@ -1,0 +1,23 @@
+{
+  "title": "Artisan Cheese Supply Chain",
+  "description": "This process details the intricate steps involved in sourcing, producing, aging, packaging, and distributing small-batch artisan cheese. It begins with selecting rare milk varieties from niche farms, followed by precise fermentation and curdling techniques unique to each cheese type. The aging process involves controlled environments tailored for texture and flavor development. Quality control includes microscopic bacterial analysis and sensory evaluation. Packaging uses biodegradable materials with embedded freshness sensors. Distribution prioritizes temperature-controlled logistics and direct relationships with specialty retailers and exclusive restaurants, ensuring optimal product integrity and customer satisfaction throughout the supply chain.",
+  "activities": [
+    "Milk Sourcing",
+    "Milk Testing",
+    "Culture Prep",
+    "Curd Formation",
+    "Whey Removal",
+    "Pressing Cheese",
+    "Salt Application",
+    "Aging Setup",
+    "Microbial Check",
+    "Sensory Test",
+    "Packaging Prep",
+    "Sensor Embed",
+    "Label Printing",
+    "Storage Monitor",
+    "Logistics Plan",
+    "Retail Delivery",
+    "Customer Feedback"
+  ]
+}

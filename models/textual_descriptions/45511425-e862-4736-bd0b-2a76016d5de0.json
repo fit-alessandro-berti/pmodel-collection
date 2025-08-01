@@ -1,0 +1,21 @@
+{
+  "title": "Global Artifact Authentication",
+  "description": "This process involves verifying the authenticity of rare cultural artifacts sourced globally through a multi-layered approach combining scientific analysis, provenance research, and expert consultations. It begins with initial artifact intake and condition assessment, followed by advanced material composition testing and historical document cross-referencing. The process integrates blockchain registration for immutable provenance tracking and concludes with a final certification report issued to clients. Throughout, coordination with international regulatory bodies and ethical compliance reviews ensures that every artifact is legally and ethically validated before entering the market or museum collections, minimizing fraud and preserving cultural heritage integrity.",
+  "activities": [
+    "Artifact Intake",
+    "Condition Check",
+    "Material Testing",
+    "Provenance Review",
+    "Expert Consult",
+    "Document Analysis",
+    "Blockchain Entry",
+    "Ethics Audit",
+    "Legal Verification",
+    "Market Scan",
+    "Regulator Liaison",
+    "Report Draft",
+    "Client Review",
+    "Final Certification",
+    "Archival Storage"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Antique Authentication Workflow",
+  "description": "This process outlines the comprehensive steps involved in authenticating antique items for resale or auction. It begins with initial item intake and visual inspection, followed by provenance research and materials analysis using advanced spectroscopy. Expert consultations and historical context verification ensure accurate dating and origin identification. Condition reporting and restoration feasibility assessments are conducted next, before generating a detailed certification report. Finally, the item is digitally documented, insured, and prepared for market listing or archival storage, ensuring traceability and compliance with legal regulations throughout the process.",
+  "activities": [
+    "Item Intake",
+    "Visual Inspect",
+    "Provenance Check",
+    "Materials Scan",
+    "Spectroscopy Test",
+    "Expert Consult",
+    "Context Verify",
+    "Date Confirm",
+    "Origin Identify",
+    "Condition Report",
+    "Restoration Plan",
+    "Certification Gen",
+    "Digital Archive",
+    "Insurance Setup",
+    "Market Prep"
+  ]
+}

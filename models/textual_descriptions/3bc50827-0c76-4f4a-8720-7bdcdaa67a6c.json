@@ -1,0 +1,23 @@
+{
+  "title": "Urban Beekeeping Management",
+  "description": "This process involves the comprehensive management of urban beekeeping operations in a metropolitan environment, balancing ecological sustainability with city regulations. Activities include hive setup in constrained spaces, regular health assessments of bee colonies, monitoring urban flora for pollen diversity, and coordinating with local authorities on compliance. It also covers harvesting honey with minimal disruption to the ecosystem, processing and packaging products in small urban facilities, and community engagement through educational workshops. The process integrates data collection on bee behavior using IoT sensors, pest control with organic methods, and adaptive strategies to mitigate pollution impacts, ensuring a resilient urban apiary system that supports biodiversity while producing high-quality honey and bee products.",
+  "activities": [
+    "Hive Setup",
+    "Colony Check",
+    "Pollen Survey",
+    "Regulation Review",
+    "Health Monitor",
+    "Pest Control",
+    "Harvest Honey",
+    "Product Process",
+    "Package Goods",
+    "Data Logging",
+    "Community Talk",
+    "Flora Mapping",
+    "Pollution Test",
+    "Sensor Install",
+    "Waste Manage",
+    "Weather Watch",
+    "Supply Order"
+  ]
+}

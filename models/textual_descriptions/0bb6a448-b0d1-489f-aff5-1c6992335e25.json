@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farm Launch",
+  "description": "This process outlines the intricate steps involved in launching an urban vertical farm, integrating advanced hydroponics, renewable energy, and IoT monitoring systems. It begins with site analysis and regulatory approval, followed by system design, vendor selection, and infrastructure setup. Subsequent phases include seed sourcing, climate calibration, and automation programming. Quality control and pest management run concurrently with staff training and community outreach to ensure sustainability and local engagement. The final stages focus on trial harvests, data analysis, and iterative optimization before full commercial production begins, ensuring a resilient urban agriculture ecosystem.",
+  "activities": [
+    "Site Analysis",
+    "Permit Filing",
+    "System Design",
+    "Vendor Selection",
+    "Infrastructure Setup",
+    "Seed Sourcing",
+    "Climate Setup",
+    "Automation Code",
+    "Quality Control",
+    "Pest Monitoring",
+    "Staff Training",
+    "Community Outreach",
+    "Trial Harvest",
+    "Data Review",
+    "Process Optimize",
+    "Launch Prep",
+    "Commercial Start"
+  ]
+}

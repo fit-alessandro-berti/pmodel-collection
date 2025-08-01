@@ -1,0 +1,24 @@
+{
+  "title": "Crisis Supply Chain Adaptation",
+  "description": "This process details the dynamic adaptation of a global supply chain in response to an unexpected geopolitical crisis. It involves rapid risk assessment, alternative sourcing, logistics rerouting, stakeholder communication, compliance verification, and continuous monitoring to ensure minimal disruption. The process integrates cross-functional teams, leverages real-time data analytics, and incorporates contingency protocols to maintain operational continuity while managing cost and compliance risks. It requires iterative feedback loops and decision gates to adapt to evolving conditions and regulatory environments.",
+  "activities": [
+    "Risk Assess",
+    "Source Alternatives",
+    "Supplier Audit",
+    "Contract Review",
+    "Regulation Check",
+    "Inventory Scan",
+    "Logistics Reroute",
+    "Customs Notify",
+    "Stakeholder Alert",
+    "Data Analyze",
+    "Cost Forecast",
+    "Compliance Verify",
+    "Scenario Plan",
+    "Decision Gate",
+    "Feedback Loop",
+    "Report Generate",
+    "Market Monitor",
+    "Team Sync"
+  ]
+}

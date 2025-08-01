@@ -1,0 +1,21 @@
+{
+  "title": "Rare Art Authentication",
+  "description": "This complex process involves verifying the authenticity of rare and valuable artworks through a multi-disciplinary approach combining scientific analysis, provenance research, expert consultation, and advanced imaging technologies. It begins with initial visual inspection and historical documentation gathering, followed by pigment and material composition testing using spectroscopy. Next, experts analyze stylistic elements and compare them against known artist techniques. Provenance chains are meticulously traced to identify any gaps or suspicious transfers. Digital imaging techniques such as infrared reflectography and X-ray fluorescence are employed to reveal underdrawings and alterations. A cross-functional team then consolidates findings to assess authenticity, with a final report generated for stakeholders. This process helps prevent forgery circulation and ensures cultural heritage preservation.",
+  "activities": [
+    "Visual Inspect",
+    "Document Gather",
+    "Material Test",
+    "Pigment Analyze",
+    "Style Compare",
+    "Provenance Trace",
+    "Data Crosscheck",
+    "Infrared Scan",
+    "Xray Fluoresce",
+    "Expert Consult",
+    "Forgery Detect",
+    "Report Draft",
+    "Stakeholder Review",
+    "Final Approval",
+    "Archive Store"
+  ]
+}

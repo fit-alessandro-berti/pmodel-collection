@@ -1,0 +1,22 @@
+{
+  "title": "Rare Artifact Authentication",
+  "description": "This process involves the detailed authentication of rare historical artifacts before acquisition by museums or private collectors. It combines scientific analysis, provenance research, expert consultations, and legal verifications. The workflow includes physical examination, chemical testing, archival research, digital imaging, cross-referencing databases, expert panel review, and final certification. Additional steps ensure cultural sensitivity and compliance with international heritage laws, followed by secure transport arrangements and insurance validation. The process concludes with archival documentation and publication of findings to maintain transparency and historical integrity.",
+  "activities": [
+    "Artifact Receipt",
+    "Initial Inspection",
+    "Material Testing",
+    "Provenance Check",
+    "Digital Imaging",
+    "Database Search",
+    "Expert Consult",
+    "Legal Review",
+    "Cultural Audit",
+    "Condition Report",
+    "Risk Assessment",
+    "Insurance Setup",
+    "Transport Plan",
+    "Final Certification",
+    "Archive Entry",
+    "Publication Prep"
+  ]
+}

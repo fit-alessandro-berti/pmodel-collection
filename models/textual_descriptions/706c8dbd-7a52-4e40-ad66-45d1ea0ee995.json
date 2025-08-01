@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the intricate steps required to authenticate historical artifacts for museum acquisition or private collection. It begins with preliminary visual inspection followed by material composition analysis using non-invasive techniques. Provenance research is conducted through archival record comparison and expert interviews. Scientific dating methods such as radiocarbon or thermoluminescence are applied to determine age. Microbial and residue analysis identify environmental exposure and usage patterns. A risk assessment for forgery indicators is completed, including stylistic evaluation by art historians. Legal clearance ensures compliance with cultural heritage laws. Finally, a comprehensive authenticity report is compiled and peer-reviewed before final approval and acquisition decision.",
+  "activities": [
+    "Visual Check",
+    "Material Scan",
+    "Archival Search",
+    "Expert Interview",
+    "Radiocarbon Test",
+    "Thermoluminescence",
+    "Residue Analysis",
+    "Microbial Test",
+    "Style Review",
+    "Forgery Risk",
+    "Legal Review",
+    "Compliance Check",
+    "Report Draft",
+    "Peer Review",
+    "Final Approval"
+  ]
+}

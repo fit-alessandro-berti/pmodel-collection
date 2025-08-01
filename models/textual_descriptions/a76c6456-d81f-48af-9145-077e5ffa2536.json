@@ -1,0 +1,21 @@
+{
+  "title": "Urban Rooftop Farming Setup",
+  "description": "This process outlines the setup of an urban rooftop farming system integrating sustainable agriculture with smart technology on city rooftops. It begins with site assessment and structural analysis, followed by modular bed installation and soil conditioning. The process then incorporates automated irrigation setup, sensor deployment for real-time monitoring, and nutrient management calibration. Subsequent activities include crop selection based on microclimate data, pest control via integrated biological agents, and periodic growth assessment using drones. The process concludes with harvest scheduling, produce packaging optimization, and data-driven yield forecasting to maximize productivity and sustainability in limited urban spaces.",
+  "activities": [
+    "Site Assess",
+    "Structure Check",
+    "Bed Install",
+    "Soil Prep",
+    "Irrigation Set",
+    "Sensor Deploy",
+    "Nutrient Tune",
+    "Crop Select",
+    "Pest Control",
+    "Growth Scan",
+    "Drone Survey",
+    "Harvest Plan",
+    "Package Opt",
+    "Yield Forecast",
+    "Waste Manage"
+  ]
+}

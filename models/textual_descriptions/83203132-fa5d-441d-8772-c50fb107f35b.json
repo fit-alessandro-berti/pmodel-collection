@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the end-to-end setup of an urban vertical farming facility designed to maximize crop yield in limited city spaces by integrating hydroponics, automated climate control, and renewable energy sources. It begins with site analysis and ends with real-time monitoring system deployment. The workflow includes critical steps such as equipment sourcing, nutrient solution formulation, and staff training for operational efficiency. Uniquely, it incorporates waste recycling loops from local restaurants as organic input and engages with city planners for regulatory compliance. This atypical business process blends agriculture, technology, and sustainability to meet growing urban food demands while minimizing environmental impact.",
+  "activities": [
+    "Site Survey",
+    "Design Layout",
+    "Permit Obtain",
+    "Supplier Vetting",
+    "Equipment Order",
+    "Install Racks",
+    "Setup Lighting",
+    "Nutrient Mix",
+    "Water Testing",
+    "Climate Config",
+    "Waste Intake",
+    "System Integration",
+    "Staff Training",
+    "Trial Growth",
+    "Compliance Check",
+    "Launch Monitor",
+    "Data Logging"
+  ]
+}

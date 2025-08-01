@@ -1,0 +1,22 @@
+{
+  "title": "Remote Sensor Calibration",
+  "description": "This process involves the remote calibration of IoT sensor networks deployed in harsh and inaccessible environments such as deep forests or offshore platforms. The workflow starts with data acquisition from multiple sensor nodes, followed by anomaly detection using adaptive algorithms. Once anomalies are confirmed, the system initiates remote calibration commands, adjusting sensor parameters to maintain data accuracy. Periodic validation through cross-referencing sensor outputs ensures long-term reliability. Additionally, the process includes fallback manual overrides and synchronization with central data repositories to guarantee seamless integration and continuous monitoring despite network latency or disruptions.",
+  "activities": [
+    "Data Grab",
+    "Anomaly Check",
+    "Signal Boost",
+    "Param Adjust",
+    "Sync Time",
+    "Validation Run",
+    "Fallback Mode",
+    "Override Cmd",
+    "Cross Ref",
+    "Data Archive",
+    "Status Poll",
+    "Error Log",
+    "Report Gen",
+    "Alert Send",
+    "Network Reset",
+    "Calibration End"
+  ]
+}

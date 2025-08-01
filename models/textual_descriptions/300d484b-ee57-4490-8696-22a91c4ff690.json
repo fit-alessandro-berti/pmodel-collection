@@ -1,0 +1,21 @@
+{
+  "title": "Custom Drone Fleet Management",
+  "description": "This process manages the end-to-end lifecycle of a custom drone fleet tailored for complex environmental monitoring missions. It begins with client consultation to define specific requirements, followed by modular drone design and prototype assembly. The process continues with iterative flight testing, data integration setup, and regulatory compliance validation. After deployment planning and operator training, the fleet undergoes continuous performance monitoring and adaptive maintenance scheduling. Data collected from missions is analyzed for insights, triggering firmware updates and hardware recalibrations. Post-mission reports are generated to refine future deployments and optimize operational efficiency, ensuring sustainable and scalable drone fleet management tailored to unique environmental challenges.",
+  "activities": [
+    "Client Consult",
+    "Requirement Gather",
+    "Modular Design",
+    "Prototype Build",
+    "Flight Testing",
+    "Data Setup",
+    "Compliance Check",
+    "Deployment Plan",
+    "Operator Train",
+    "Performance Monitor",
+    "Maintenance Schedule",
+    "Data Analysis",
+    "Firmware Update",
+    "Hardware Calibrate",
+    "Report Generate"
+  ]
+}

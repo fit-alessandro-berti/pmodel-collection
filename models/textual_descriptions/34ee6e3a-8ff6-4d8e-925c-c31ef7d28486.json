@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process outlines the detailed workflow for authenticating historical artifacts within a museum's conservation department. It involves multidisciplinary collaboration among historians, material scientists, and digital analysts to verify provenance, composition, and authenticity. The workflow begins with initial artifact intake and condition assessment, followed by archival research and comparative analysis using advanced imaging techniques. Subsequent steps include chemical testing, digital fingerprinting, and expert panel review. The process concludes with documentation, digital cataloging, and preparation for public exhibition or secure storage, ensuring each artifact's legitimacy and preservation status are thoroughly validated before display or archival.",
+  "activities": [
+    "Artifact Intake",
+    "Condition Check",
+    "Archival Search",
+    "Imaging Scan",
+    "Material Test",
+    "Digital Trace",
+    "Provenance Map",
+    "Expert Review",
+    "Data Correlate",
+    "Report Draft",
+    "Panel Meeting",
+    "Final Approval",
+    "Catalog Entry",
+    "Exhibit Prep",
+    "Storage Setup"
+  ]
+}

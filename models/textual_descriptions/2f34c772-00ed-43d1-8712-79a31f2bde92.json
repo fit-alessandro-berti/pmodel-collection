@@ -1,0 +1,22 @@
+{
+  "title": "Custom Urban Farming Setup",
+  "description": "This process outlines the detailed steps for establishing a bespoke urban farming system in densely populated city environments. It involves site analysis, modular design customization, integration of IoT sensors for real-time monitoring, adaptive irrigation scheduling based on microclimate data, community engagement for crop selection, and iterative yield optimization through data analytics. Additional activities include local regulatory compliance, vertical structure assembly, soil-less media preparation, renewable energy sourcing, pest management using bio-controls, and final harvest logistics coordination to ensure fresh produce delivery directly to consumers with minimal environmental impact.",
+  "activities": [
+    "Site Survey",
+    "Design Draft",
+    "Sensor Setup",
+    "Microclimate Map",
+    "Irrigation Plan",
+    "Crop Selection",
+    "Regulation Check",
+    "Structure Build",
+    "Media Prep",
+    "Energy Setup",
+    "Pest Control",
+    "Community Meet",
+    "Data Analysis",
+    "Yield Adjust",
+    "Harvest Plan",
+    "Delivery Coord"
+  ]
+}

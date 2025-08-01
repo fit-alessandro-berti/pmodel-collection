@@ -1,0 +1,22 @@
+{
+  "title": "Crisis Response Coordination",
+  "description": "This process involves managing an organization's response to an unexpected large-scale crisis that affects multiple departments and external stakeholders simultaneously. It includes rapid assessment of the situation, mobilizing cross-functional teams, prioritizing resource allocation, communicating with authorities and media, adapting operational workflows in real-time, and documenting all actions for post-crisis analysis. The goal is to minimize damage, maintain stakeholder trust, and restore normal operations efficiently while ensuring compliance with regulatory requirements and internal policies under high-pressure conditions.",
+  "activities": [
+    "Alert Initiation",
+    "Situation Scan",
+    "Team Mobilize",
+    "Resource Check",
+    "Risk Assess",
+    "Priority Set",
+    "Communication Plan",
+    "Stakeholder Notify",
+    "Media Brief",
+    "Operational Shift",
+    "Supply Reallocate",
+    "Data Log",
+    "Compliance Review",
+    "Feedback Gather",
+    "Recovery Plan",
+    "After Action"
+  ]
+}

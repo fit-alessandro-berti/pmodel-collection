@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the comprehensive steps involved in establishing an urban vertical farming system within a repurposed warehouse. It includes site analysis, environmental control installation, seed selection, and nutrient calibration to optimize crop yields. The process further involves integrating automated harvesting robots, data-driven growth monitoring, and waste recycling protocols to ensure sustainability. Stakeholder coordination, regulatory compliance checks, and market launch strategies are also incorporated to guarantee a successful and scalable urban agriculture enterprise.",
+  "activities": [
+    "Site Survey",
+    "Layout Design",
+    "Environmental Setup",
+    "Seed Selection",
+    "Nutrient Mix",
+    "Lighting Install",
+    "Irrigation Setup",
+    "Sensor Calibration",
+    "Growth Monitoring",
+    "Automated Harvest",
+    "Waste Recycling",
+    "Data Analysis",
+    "Compliance Check",
+    "Stakeholder Meet",
+    "Market Launch"
+  ]
+}

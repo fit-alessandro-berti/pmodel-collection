@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the systematic verification and validation of ancient artifacts using interdisciplinary techniques combining historical research, material science, and digital imaging. Activities include provenance tracing, carbon dating, spectral analysis, and expert consultations. The workflow ensures accurate authentication for museums or private collectors, mitigating risks of forgery while preserving cultural heritage. The process further integrates legal compliance checks, condition assessment, and secure transportation planning to maintain artifact integrity throughout the chain of custody. Anomalies detected prompt iterative re-examinations and final certification issuance.",
+  "activities": [
+    "Provenance Check",
+    "Historical Review",
+    "Material Sampling",
+    "Carbon Dating",
+    "Spectral Scan",
+    "Microscopic Exam",
+    "Expert Consult",
+    "Condition Report",
+    "Forgery Screening",
+    "Legal Review",
+    "Restoration Plan",
+    "Transport Setup",
+    "Security Audit",
+    "Certification",
+    "Reexamination"
+  ]
+}

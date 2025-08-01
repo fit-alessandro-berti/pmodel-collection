@@ -1,0 +1,21 @@
+{
+  "title": "Crowdsourced Disaster Response",
+  "description": "This process coordinates rapid disaster response by leveraging a global network of volunteers, local authorities, and AI-driven resource allocation. It begins with hazard detection and public alerting, followed by volunteer mobilization through geotagged task assignments. Data from on-site volunteers is continuously aggregated and analyzed for situational awareness. Concurrently, supply chains are dynamically managed to deliver essential goods, while remote experts provide real-time guidance via digital platforms. The process integrates feedback loops to adapt resource allocation and volunteer deployment, ensuring efficient coverage despite unpredictable conditions and communication challenges. Post-event, the system facilitates impact assessment and lessons learned compilation for future preparedness.",
+  "activities": [
+    "Hazard Detect",
+    "Issue Alert",
+    "Mobilize Volunteers",
+    "Assign Tasks",
+    "Collect Data",
+    "Analyze Reports",
+    "Allocate Supplies",
+    "Coordinate Transport",
+    "Provide Guidance",
+    "Monitor Progress",
+    "Update Status",
+    "Adjust Deployment",
+    "Manage Feedback",
+    "Conduct Debrief",
+    "Compile Lessons"
+  ]
+}

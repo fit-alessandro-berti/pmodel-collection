@@ -1,0 +1,22 @@
+{
+  "title": "Microbial Supply Chain",
+  "description": "This process outlines the complex and atypical supply chain management for sourcing, cultivating, and distributing specialized microbial cultures used in biotechnological applications. It involves initial strain identification from diverse environments, genetic optimization, controlled fermentation scaling, quality assurance through multi-stage bioassays, cryopreservation logistics, and regulatory compliance for international bio-material shipments. The process integrates real-time environmental monitoring, adaptive resource allocation based on microbial growth kinetics, and custom packaging solutions to maintain viability. Additionally, it incorporates feedback loops for strain performance data collected from end-users to inform continuous improvement and innovation in microbial product offerings.",
+  "activities": [
+    "Strain Sourcing",
+    "Genetic Editing",
+    "Culture Initiation",
+    "Growth Monitoring",
+    "Fermentation Scale",
+    "Bioassay Testing",
+    "Viability Check",
+    "Cryo Packaging",
+    "Cold Chain",
+    "Regulatory Review",
+    "Custom Labeling",
+    "Shipment Booking",
+    "Environmental Scan",
+    "Data Feedback",
+    "Resource Adjust",
+    "Performance Audit"
+  ]
+}

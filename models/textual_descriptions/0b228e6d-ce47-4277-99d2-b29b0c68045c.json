@@ -1,0 +1,23 @@
+{
+  "title": "Dynamic Urban Farming Cycle",
+  "description": "This process outlines the complex, cyclical operations of an urban vertical farm that integrates renewable energy management, waste recycling, and community engagement. It starts with seed selection based on predictive analytics, moves through automated nutrient delivery and environmental adjustments using IoT sensors, incorporates waste-to-compost conversion onsite, and ends with dynamic crop harvesting schedules adjusted by market demand and weather forecasts. Additionally, it involves coordinating volunteer shifts, educational workshops, and direct-to-consumer distribution, ensuring sustainability both economically and environmentally in a densely populated urban setting.",
+  "activities": [
+    "Seed Selection",
+    "Soil Prep",
+    "Nutrient Mix",
+    "Planting Cycle",
+    "Sensor Check",
+    "Env Adjust",
+    "Waste Collect",
+    "Compost Turn",
+    "Energy Monitor",
+    "Water Reuse",
+    "Volunteer Coord",
+    "Workshop Plan",
+    "Market Forecast",
+    "Harvest Schedule",
+    "Delivery Pack",
+    "Customer Notify",
+    "Feedback Gather"
+  ]
+}

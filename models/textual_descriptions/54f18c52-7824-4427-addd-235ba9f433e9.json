@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process outlines the detailed steps involved in authenticating rare historical artifacts for acquisition by a museum. It begins with initial artifact intake and cataloging, followed by provenance verification through archival research and expert consultations. Scientific analysis includes material composition testing and radiocarbon dating. Parallel activities involve digital imaging and 3D modeling for condition assessment. Subsequently, a multidisciplinary review committee evaluates all gathered evidence to confirm authenticity or flag discrepancies. Final approval triggers secure documentation creation and integration into the museum's digital registry. Each step demands meticulous record-keeping and cross-referencing to ensure the artifact's legitimacy before public exhibition or storage, thereby minimizing risks of fraud or misattribution.",
+  "activities": [
+    "Artifact Intake",
+    "Catalog Entry",
+    "Provenance Check",
+    "Archive Research",
+    "Expert Consult",
+    "Material Test",
+    "Radiocarbon Date",
+    "Digital Imaging",
+    "3D Modeling",
+    "Condition Review",
+    "Evidence Collate",
+    "Review Meeting",
+    "Authenticity Vote",
+    "Documentation",
+    "Registry Update",
+    "Final Approval"
+  ]
+}

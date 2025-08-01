@@ -1,0 +1,23 @@
+{
+  "title": "Antique Restoration Workflow",
+  "description": "This process governs the detailed restoration of valuable antiques, combining historical research, material analysis, and delicate repair techniques to preserve authenticity while enhancing structural integrity. It involves documentation, condition assessment, sourcing period-appropriate materials, and employing specialized cleaning and consolidation methods. Experts coordinate with conservation scientists to ensure reversible interventions, aesthetic fidelity, and compliance with legal and ethical standards. The workflow also includes digital archiving of restoration stages and client consultations to balance preservation goals with market value considerations.",
+  "activities": [
+    "Item Survey",
+    "History Check",
+    "Material Test",
+    "Damage Map",
+    "Source Parts",
+    "Clean Surface",
+    "Stabilize Base",
+    "Repair Joints",
+    "Retouch Paint",
+    "Consolidate Wood",
+    "Document Changes",
+    "Digital Archive",
+    "Client Review",
+    "Legal Verify",
+    "Final Polish",
+    "Quality Audit",
+    "Shipping Prep"
+  ]
+}

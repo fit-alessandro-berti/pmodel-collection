@@ -1,0 +1,21 @@
+{
+  "title": "Custom Antenna Fabrication",
+  "description": "This process involves the bespoke design and manufacturing of high-frequency antennas tailored for specialized aerospace and defense applications. It starts with client requirement analysis, followed by electromagnetic simulation and material selection. The process continues with precision machining, micro-assembly, and multi-layer coating to optimize signal integrity and durability. Quality assurance is performed through advanced spectral testing and environmental stress screening. Final packaging includes custom shielding and documentation before dispatch to ensure performance under extreme conditions.",
+  "activities": [
+    "Requirement Analysis",
+    "Signal Modeling",
+    "Material Selection",
+    "Pattern Etching",
+    "Substrate Cutting",
+    "Layer Lamination",
+    "Micro Assembly",
+    "Coating Application",
+    "Spectral Testing",
+    "Stress Screening",
+    "Thermal Cycling",
+    "Shielding Setup",
+    "Documentation",
+    "Final Inspection",
+    "Custom Packaging"
+  ]
+}

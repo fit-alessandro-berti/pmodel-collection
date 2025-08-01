@@ -1,0 +1,23 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process outlines the comprehensive steps involved in authenticating historical artifacts for museum acquisition and scholarly research. It begins with initial artifact intake, followed by provenance verification through archival research and expert interviews. Non-invasive material analysis is conducted using advanced imaging techniques to assess composition and age. Parallel to scientific testing, stylistic comparison with known artifacts is performed to identify cultural and temporal context. Legal clearance checks ensure no ownership disputes exist. Findings from all investigations are compiled into a detailed report, which undergoes peer review by a panel of historians and conservators. The final authentication decision informs acquisition strategy and potential restoration planning. Throughout the process, secure documentation and data integrity are maintained to support future reference and exhibit planning.",
+  "activities": [
+    "Artifact Intake",
+    "Provenance Check",
+    "Archive Search",
+    "Expert Interview",
+    "Material Scan",
+    "Age Analysis",
+    "Stylistic Review",
+    "Context Mapping",
+    "Legal Clearance",
+    "Data Compilation",
+    "Report Drafting",
+    "Peer Review",
+    "Final Assessment",
+    "Acquisition Plan",
+    "Restoration Prep",
+    "Documentation",
+    "Data Backup"
+  ]
+}

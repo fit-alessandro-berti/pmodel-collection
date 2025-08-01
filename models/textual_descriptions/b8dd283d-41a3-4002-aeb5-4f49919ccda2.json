@@ -1,0 +1,22 @@
+{
+  "title": "Cross-Industry Innovation Cycle",
+  "description": "This process outlines an atypical yet realistic approach to foster innovation by integrating knowledge and resources from multiple unrelated industries. It begins with trend spotting across sectors, followed by opportunity mapping and collaborative ideation sessions with diverse expert teams. Prototypes are rapidly developed using cross-functional agile squads, then assessed through multi-criteria evaluation including sustainability, market fit, and technological feasibility. Feedback loops involve external stakeholders such as regulators and end-users to ensure compliance and practical relevance. Final concepts undergo iterative refinement before handoff to specialized commercialization units. This cyclical process encourages continuous learning and adaptability, ensuring that innovations remain relevant in dynamic markets and leverage unconventional synergies.",
+  "activities": [
+    "Trend Spotting",
+    "Opportunity Map",
+    "Idea Workshop",
+    "Team Assemble",
+    "Rapid Prototype",
+    "Feasibility Check",
+    "Sustainability Scan",
+    "Market Testing",
+    "Stakeholder Review",
+    "Regulator Consult",
+    "User Feedback",
+    "Iteration Loop",
+    "Risk Assessment",
+    "Concept Finalize",
+    "Commercial Handoff",
+    "Performance Audit"
+  ]
+}

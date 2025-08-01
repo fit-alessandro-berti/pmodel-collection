@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farm Supply Chain",
+  "description": "This process outlines the end-to-end supply chain management for an urban vertical farming operation that integrates local produce cultivation with smart logistics and sustainability practices. Starting with seed procurement, it includes controlled environment monitoring, nutrient blending, crop growth tracking, automated harvesting, quality inspection, packaging customization, cold chain management, dynamic route planning for delivery via electric vehicles, real-time inventory updates, consumer feedback integration, waste recycling, and data analytics for yield optimization. The process ensures fresh, eco-friendly produce reaches urban consumers efficiently, minimizing carbon footprint while maintaining product freshness and maximizing resource utilization.",
+  "activities": [
+    "Seed Sourcing",
+    "Env Monitoring",
+    "Nutrient Blend",
+    "Crop Tracking",
+    "Automated Harvest",
+    "Quality Inspect",
+    "Pack Customize",
+    "Cold Storage",
+    "Route Planning",
+    "EV Dispatch",
+    "Inventory Update",
+    "Customer Feedback",
+    "Waste Recycle",
+    "Data Analytics",
+    "Yield Optimize"
+  ]
+}

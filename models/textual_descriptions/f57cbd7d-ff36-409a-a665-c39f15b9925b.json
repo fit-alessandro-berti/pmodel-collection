@@ -1,0 +1,21 @@
+{
+  "title": "Corporate Innovation Pipeline",
+  "description": "This process outlines the end-to-end flow for managing corporate innovation projects that deviate from traditional R&D workflows. It begins with external trend scanning and internal ideation sprints, followed by cross-departmental feasibility reviews and risk assessments. Selected ideas progress through rapid prototyping using minimal viable technologies, then undergo market simulation and stakeholder alignment workshops. Post-validation, projects enter a resource allocation phase involving budget rebalancing and talent sourcing, before moving into iterative pilot launches with continuous data-driven refinements. The process concludes with scalability analysis and integration planning to embed successful innovations into existing business units while managing change and knowledge transfer effectively across teams.",
+  "activities": [
+    "Trend Scan",
+    "Idea Sprint",
+    "Feasibility Check",
+    "Risk Review",
+    "Tech Prototype",
+    "Market Simulate",
+    "Stakeholder Align",
+    "Budget Adjust",
+    "Talent Source",
+    "Pilot Launch",
+    "Data Refine",
+    "Scale Analysis",
+    "Integration Plan",
+    "Change Manage",
+    "Knowledge Transfer"
+  ]
+}

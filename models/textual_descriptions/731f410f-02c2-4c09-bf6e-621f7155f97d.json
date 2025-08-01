@@ -1,0 +1,22 @@
+{
+  "title": "Crowdsourced Innovation Cycle",
+  "description": "This process involves leveraging a global community to generate, evaluate, and implement innovative ideas for product development. It starts with idea crowdsourcing, followed by filtering through AI-assisted evaluation, community voting, expert refinement, and prototype creation. After field testing with select users, feedback is collected and analyzed to iterate on designs. The process incorporates rapid pivoting based on real-time data, intellectual property assessment, and strategic partnerships to scale successful innovations. Continuous monitoring and knowledge sharing ensure sustained innovation beyond the initial cycle, fostering an adaptive and collaborative environment uncommon in traditional R&D workflows.",
+  "activities": [
+    "Idea Sourcing",
+    "AI Filtering",
+    "Community Vote",
+    "Expert Review",
+    "Concept Refining",
+    "Prototype Build",
+    "Field Testing",
+    "Feedback Collect",
+    "Data Analyze",
+    "Design Iterate",
+    "Pivot Decision",
+    "IP Assessment",
+    "Partner Align",
+    "Scale Launch",
+    "Knowledge Share",
+    "Monitor Trends"
+  ]
+}

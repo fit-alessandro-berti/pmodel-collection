@@ -1,0 +1,22 @@
+{
+  "title": "Custom Art Commission Workflow",
+  "description": "This process manages the end-to-end handling of custom art commissions for a boutique studio specializing in mixed media pieces. It involves initial client consultation to understand artistic preferences, followed by concept sketching and iterative feedback cycles. Once approved, materials sourcing is conducted considering sustainability and cost. The creation phase includes layering of diverse media, drying periods, and quality checks. Post-production involves framing options, documentation of artwork provenance, and final client presentation. Payment scheduling aligns with milestone completions, and after-delivery support includes care instructions and potential restoration services. The workflow ensures personalized client engagement while maintaining artistic integrity and operational efficiency.",
+  "activities": [
+    "Client Meet",
+    "Preference Survey",
+    "Concept Sketch",
+    "Feedback Loop",
+    "Material Sourcing",
+    "Cost Analysis",
+    "Layer Application",
+    "Drying Period",
+    "Quality Check",
+    "Frame Selection",
+    "Provenance Doc",
+    "Final Presentation",
+    "Payment Setup",
+    "Delivery Schedule",
+    "Aftercare Support",
+    "Restoration Plan"
+  ]
+}

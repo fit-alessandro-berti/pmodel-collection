@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farm Cycle",
+  "description": "This process describes the comprehensive operational cycle of an urban vertical farm integrating IoT sensors, AI-driven nutrient management, and automated harvesting. Starting from seed selection based on real-time climate data, the farm adjusts lighting, humidity, and irrigation through predictive analytics. Concurrently, waste organic matter is converted via bio-digesters to generate energy for internal use. Employees coordinate maintenance drones for pest control and monitor crop health via augmented reality interfaces. Finally, harvested produce undergoes automated quality sorting and packaging before real-time distribution scheduling to local markets, ensuring minimal waste and maximum freshness in a fully sustainable urban agriculture ecosystem.",
+  "activities": [
+    "Seed Select",
+    "Climate Scan",
+    "Light Adjust",
+    "Irrigation Set",
+    "Nutrient Mix",
+    "Sensor Sync",
+    "Waste Digest",
+    "Energy Store",
+    "Drone Deploy",
+    "Pest Control",
+    "Crop Monitor",
+    "Data Analyze",
+    "Harvest Auto",
+    "Quality Sort",
+    "Package Item",
+    "Dispatch Plan",
+    "Market Link"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process governs the authentication of rare historical artifacts before acquisition by museums or private collectors. It involves multidisciplinary verification steps including provenance validation, scientific material analysis, expert consultation, and legal compliance checks. Initial artifact intake triggers documentation and condition assessment, followed by imaging and spectroscopy tests. Concurrently, provenance research is conducted through archival records and ownership history. Expert panels review findings to confirm authenticity, while legal teams ensure clear title and export permissions. Any conflicting data initiates re-examination or rejection. Final approval leads to cataloging and secure storage, completing the authentication cycle with comprehensive reporting for stakeholders.",
+  "activities": [
+    "Artifact Intake",
+    "Condition Check",
+    "Imaging Scan",
+    "Spectroscopy Test",
+    "Provenance Research",
+    "Archival Review",
+    "Ownership Verify",
+    "Expert Panel",
+    "Data Reconcile",
+    "Legal Review",
+    "Export Check",
+    "Conflict Resolve",
+    "Final Approval",
+    "Catalog Entry",
+    "Secure Storage"
+  ]
+}

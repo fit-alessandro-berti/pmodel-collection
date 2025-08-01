@@ -1,0 +1,21 @@
+{
+  "title": "Custom Artifact Authentication",
+  "description": "This process involves verifying the authenticity of rare and custom-made artifacts through multi-layered analysis combining historical research, material science tests, provenance validation, and expert consensus. It integrates unconventional data sources such as oral histories and blockchain records, followed by secure certification and archival. The process ensures artifacts are properly cataloged, insured, and prepared for exhibition or sale, while maintaining strict confidentiality and compliance with international cultural property laws. Final steps include continuous monitoring through IoT sensors and periodic re-validation to prevent fraud and degradation.",
+  "activities": [
+    "Data Collection",
+    "Provenance Check",
+    "Material Scan",
+    "Historical Review",
+    "Expert Panel",
+    "Blockchain Verify",
+    "Oral History",
+    "Condition Report",
+    "Legal Review",
+    "Certification",
+    "Archival Update",
+    "Insurance Setup",
+    "Exhibition Prep",
+    "IoT Monitoring",
+    "Re-validation"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Crisis Response Logistics",
+  "description": "This process governs the rapid mobilization and coordination of resources during a sudden multi-regional crisis, such as a natural disaster combined with infrastructure failure. It involves initial threat assessment, stakeholder communication, resource allocation under uncertainty, dynamic route planning for aid delivery, contingency management for supply chain disruption, and real-time feedback incorporation from field teams. The process demands flexible decision-making frameworks, integration of multiple data sources including satellite and social media feeds, and simultaneous coordination with governmental agencies, NGOs, and private sector partners to minimize response time and maximize impact. Post-crisis evaluation and knowledge transfer to improve future responses are also key components.",
+  "activities": [
+    "Threat Assess",
+    "Stakeholder Sync",
+    "Resource Map",
+    "Priority Set",
+    "Route Plan",
+    "Asset Deploy",
+    "Field Brief",
+    "Supply Check",
+    "Transport Track",
+    "Data Integrate",
+    "Risk Manage",
+    "Partner Align",
+    "Feedback Loop",
+    "Crisis Review",
+    "Lessons Share",
+    "Contingency Set"
+  ]
+}

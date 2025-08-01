@@ -1,0 +1,22 @@
+{
+  "title": "Dynamic Art Licensing",
+  "description": "This process governs the complex flow of licensing dynamic, generative art pieces to multiple digital platforms under varying usage rights and time-bound exclusivity. It involves continuous monitoring of artwork versioning, real-time negotiation of terms based on AI-generated demand forecasts, adaptive royalty recalculations, cross-platform synchronization of rights management, and automated dispute resolution triggered by unauthorized derivative works or usage breaches. The process requires coordination between legal, technical, and creative teams to ensure compliance, optimize revenue streams, and maintain artistic integrity while navigating multi-jurisdictional intellectual property laws and evolving digital distribution standards.",
+  "activities": [
+    "Art Submission",
+    "Version Control",
+    "Demand Forecast",
+    "Rights Review",
+    "Term Negotiation",
+    "Contract Draft",
+    "Royalty Setup",
+    "Platform Sync",
+    "Usage Monitor",
+    "Dispute Trigger",
+    "Legal Consult",
+    "Payment Process",
+    "Compliance Check",
+    "Data Backup",
+    "Report Generate",
+    "Renewal Alert"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farm Supply Chain",
+  "description": "This process outlines the end-to-end supply chain management for an urban vertical farming operation that integrates advanced hydroponic cultivation with local distribution. Starting from seed procurement, the process includes nutrient mix optimization, climate monitoring, iterative growth adjustments, pest bio-control application, and automated harvesting. Post-harvest, fresh produce undergoes quality inspection, packaging with biodegradable materials, and dynamic inventory allocation based on real-time demand analytics. The distribution phase involves route optimization for electric delivery vehicles, last-mile cold chain maintenance, and direct-to-consumer subscription management. Additionally, waste biomass recycling and data feedback loops for continuous process improvement are integral to ensure sustainability and operational efficiency within constrained urban environments.",
+  "activities": [
+    "Seed Sourcing",
+    "Nutrient Mix",
+    "Climate Check",
+    "Growth Adjust",
+    "Pest Control",
+    "Harvest Cycle",
+    "Quality Scan",
+    "Eco Packaging",
+    "Inventory Sort",
+    "Demand Forecast",
+    "Route Plan",
+    "Cold Chain",
+    "Delivery Track",
+    "Subscription Mgmt",
+    "Waste Recycle",
+    "Data Feedback"
+  ]
+}

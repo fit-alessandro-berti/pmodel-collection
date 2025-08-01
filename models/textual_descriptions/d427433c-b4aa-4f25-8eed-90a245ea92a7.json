@@ -1,0 +1,23 @@
+{
+  "title": "Artisanal Cheese Supply Chain",
+  "description": "This process outlines the complex supply chain for artisanal cheese production, starting from raw milk collection from multiple small farms, followed by quality testing, milk blending, and fermentation monitoring. The process involves aging control, packaging customization based on regional demand, cold-chain logistics coordination, regulatory compliance checks, and finally, distribution to niche gourmet retailers. Throughout, traceability is maintained via blockchain recording, while dynamic pricing models are applied based on market trends and seasonal variations. Customer feedback loops are integrated to adjust future batches and optimize flavor profiles, ensuring a premium product that balances tradition and innovation.",
+  "activities": [
+    "Milk Collection",
+    "Quality Testing",
+    "Milk Blending",
+    "Starter Culture",
+    "Fermentation Check",
+    "Curd Cutting",
+    "Whey Separation",
+    "Molding Press",
+    "Salting Stage",
+    "Aging Control",
+    "Packaging Design",
+    "Cold Shipping",
+    "Compliance Audit",
+    "Blockchain Log",
+    "Market Pricing",
+    "Order Fulfillment",
+    "Feedback Review"
+  ]
+}

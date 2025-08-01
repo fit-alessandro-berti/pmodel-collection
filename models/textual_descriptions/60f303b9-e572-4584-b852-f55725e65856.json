@@ -1,0 +1,22 @@
+{
+  "title": "Urban Drone Delivery Setup",
+  "description": "This process outlines the complex and atypical steps involved in establishing an urban drone delivery network for perishable goods. It includes site assessment, regulatory compliance, drone fleet configuration, dynamic route planning, real-time weather monitoring, payload optimization, multi-agent coordination, emergency response setup, and continuous data analysis to ensure safe, efficient, and scalable delivery in dense metropolitan environments while minimizing environmental impact and adhering to privacy laws.",
+  "activities": [
+    "Site Survey",
+    "Permit Check",
+    "Fleet Config",
+    "Payload Prep",
+    "Route Design",
+    "Weather Track",
+    "Signal Setup",
+    "Flight Test",
+    "Load Balance",
+    "Data Sync",
+    "Risk Assess",
+    "Emergency Drill",
+    "Privacy Audit",
+    "Fleet Deploy",
+    "Delivery Track",
+    "Feedback Loop"
+  ]
+}

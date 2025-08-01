@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the authentication of rare cultural artifacts through a multi-step approach integrating scientific analysis, provenance verification, expert consultation, and legal compliance checks. Initially, the artifact undergoes non-invasive material scanning to detect composition and condition. Concurrently, provenance data is gathered from historical records and previous ownership chains. Specialists in art history and archaeology review the combined data to assess authenticity. Legal teams verify export and import permissions to ensure compliance with international heritage laws. Finally, a digital certificate of authenticity is generated and archived, while stakeholders receive a comprehensive report. This atypical workflow ensures the artifact's legitimacy, protects cultural heritage, and supports collectors' and institutions' trust in acquisitions.",
+  "activities": [
+    "Initial Scan",
+    "Material Test",
+    "Provenance Check",
+    "Ownership Trace",
+    "Historical Review",
+    "Expert Consult",
+    "Condition Report",
+    "Legal Verify",
+    "Export Audit",
+    "Import Audit",
+    "Fraud Screening",
+    "Data Consolidate",
+    "Certificate Gen",
+    "Report Draft",
+    "Stakeholder Notify",
+    "Archive Record"
+  ]
+}

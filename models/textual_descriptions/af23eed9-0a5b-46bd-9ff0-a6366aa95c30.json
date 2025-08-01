@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process is designed to authenticate and verify the provenance of rare historical artifacts prior to acquisition by a museum. It involves multidisciplinary evaluations including forensic material analysis, provenance research, expert consultations, and legal clearance. Initial steps include artifact intake and preliminary condition assessment, followed by spectroscopy and carbon dating tests to validate age. Concurrently, provenance documentation is gathered and cross-referenced with archival databases to detect forgeries or ownership disputes. Expert historians and conservators provide interpretive reports, while legal teams ensure compliance with cultural heritage laws. The process concludes with a comprehensive authentication report and decision on acquisition, ensuring the artifact\u2019s legitimacy and ethical procurement.",
+  "activities": [
+    "Artifact Intake",
+    "Condition Check",
+    "Material Scan",
+    "Age Dating",
+    "Provenance Search",
+    "Archive Review",
+    "Forgery Check",
+    "Expert Consult",
+    "Historical Report",
+    "Legal Review",
+    "Compliance Audit",
+    "Conservator Input",
+    "Risk Assessment",
+    "Final Analysis",
+    "Report Generation",
+    "Acquisition Vote"
+  ]
+}

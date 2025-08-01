@@ -1,0 +1,23 @@
+{
+  "title": "Patent Monetization Workflow",
+  "description": "This process outlines the complex and non-traditional workflow of patent monetization within a technology company. It involves identifying valuable intellectual property, conducting market research to find potential licensees, performing legal assessments on patent enforceability, negotiating licensing terms, and managing royalty collections. Additionally, it includes monitoring infringement through automated systems, initiating enforcement actions when necessary, and continuously optimizing the patent portfolio based on evolving market trends and technological advancements. The workflow requires cross-functional collaboration between legal, R&D, finance, and business development teams to maximize revenue from intangible assets while mitigating risks associated with patent disputes.",
+  "activities": [
+    "IP Identification",
+    "Market Scan",
+    "Legal Review",
+    "Valuation Estimate",
+    "License Outreach",
+    "Negotiation Phase",
+    "Contract Draft",
+    "Royalty Setup",
+    "Infringement Scan",
+    "Enforcement Action",
+    "Portfolio Audit",
+    "Trend Analysis",
+    "Risk Assessment",
+    "Revenue Tracking",
+    "Renewal Management",
+    "Stakeholder Sync",
+    "Compliance Check"
+  ]
+}

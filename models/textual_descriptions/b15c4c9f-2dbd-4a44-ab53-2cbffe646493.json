@@ -1,0 +1,24 @@
+{
+  "title": "Artisan Supply Chain",
+  "description": "This process manages the end-to-end supply chain for handcrafted artisan goods, integrating unpredictable raw material sourcing from remote locations, specialized artisan scheduling, quality validation by expert panels, and bespoke packaging options. It includes dynamic demand forecasting based on cultural trends, adaptive logistics for fragile items, and collaborative marketing with local communities to preserve authenticity while scaling distribution globally. The process ensures traceability of materials, artisan skill certification, and sustainable practices compliance, creating a unique blend of traditional craftsmanship and modern supply chain management that supports niche markets and ethical consumerism.",
+  "activities": [
+    "Source Materials",
+    "Verify Origins",
+    "Schedule Artisans",
+    "Assign Orders",
+    "Craft Items",
+    "Quality Review",
+    "Panel Approval",
+    "Material Trace",
+    "Certify Skills",
+    "Package Custom",
+    "Plan Logistics",
+    "Arrange Shipping",
+    "Track Deliveries",
+    "Collect Feedback",
+    "Update Forecast",
+    "Engage Communities",
+    "Sustainability Audit",
+    "Market Collaborate"
+  ]
+}

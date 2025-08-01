@@ -1,0 +1,23 @@
+{
+  "title": "Cross-Industry Innovation Cycle",
+  "description": "This process describes a cyclical approach where multiple industries collaborate to innovate a shared technology platform. It begins with trend spotting in diverse sectors, followed by ideation sessions that mix domain experts. Prototypes are co-developed and tested in controlled pilot environments across industries. Feedback loops involve multi-disciplinary review boards, adapting the product for specific market needs. Parallel regulatory assessments ensure compliance across jurisdictions. After iterative refinement, a joint go-to-market strategy is launched, including synchronized branding and distribution channels. Post-launch monitoring collects cross-sector data to inform the next innovation cycle, fostering sustainable competitive advantage through continuous, collaborative evolution.",
+  "activities": [
+    "Trend Spotting",
+    "Idea Harvest",
+    "Expert Sync",
+    "Concept Sketch",
+    "Feasibility Check",
+    "Prototype Build",
+    "Pilot Deploy",
+    "Multisector Test",
+    "Compliance Audit",
+    "Review Board",
+    "Market Adapt",
+    "Strategy Plan",
+    "Brand Align",
+    "Launch Sync",
+    "Performance Track",
+    "Feedback Loop",
+    "Cycle Review"
+  ]
+}

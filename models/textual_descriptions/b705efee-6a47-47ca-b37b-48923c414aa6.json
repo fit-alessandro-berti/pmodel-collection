@@ -1,0 +1,22 @@
+{
+  "title": "Advanced Asset Tokenization Workflow",
+  "description": "This process outlines the comprehensive steps involved in converting physical and digital assets into blockchain-based tokens for fractional ownership and trading. It begins with asset verification and legal compliance checks, followed by smart contract development tailored to asset type and investor requirements. The workflow includes multi-party approval, dynamic pricing algorithms, and integration with decentralized exchanges. Post-token issuance, the process manages continuous asset auditing, dividend distribution automation, and secondary market monitoring to ensure transparency and regulatory adherence throughout the asset lifecycle.",
+  "activities": [
+    "Asset Verify",
+    "Legal Review",
+    "Risk Assess",
+    "Contract Draft",
+    "Token Design",
+    "Price Model",
+    "Investor Qualify",
+    "Multi Approve",
+    "Smart Deploy",
+    "Exchange Link",
+    "Initial Offer",
+    "Audit Schedule",
+    "Dividend Set",
+    "Market Watch",
+    "Compliance Update",
+    "Report Generate"
+  ]
+}

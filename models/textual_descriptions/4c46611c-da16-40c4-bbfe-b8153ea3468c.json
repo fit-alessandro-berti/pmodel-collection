@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Supply Chain",
+  "description": "This process manages the end-to-end supply chain of an urban vertical farming operation, integrating automated planting, environmental monitoring, nutrient delivery, and harvest scheduling with downstream distribution logistics. It involves coordination between IoT sensors, AI-driven growth optimization, quality inspections, packaging automation, and last-mile delivery to retailers and consumers within a metropolitan area. The process ensures minimal waste, energy efficiency, and freshness, while adapting dynamically to demand fluctuations and seasonal variations, requiring continuous data analysis and prompt decision-making across multiple departments and external partners.",
+  "activities": [
+    "Seed Selection",
+    "Tray Preparation",
+    "Automated Planting",
+    "Env Monitoring",
+    "Nutrient Delivery",
+    "Growth Analysis",
+    "Pest Detection",
+    "Harvest Scheduling",
+    "Quality Inspection",
+    "Automated Packaging",
+    "Inventory Tracking",
+    "Demand Forecast",
+    "Order Processing",
+    "Last-Mile Dispatch",
+    "Customer Feedback",
+    "Waste Management",
+    "Energy Optimization"
+  ]
+}

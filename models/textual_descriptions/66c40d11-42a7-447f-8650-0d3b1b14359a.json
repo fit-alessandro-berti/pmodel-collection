@@ -1,0 +1,22 @@
+{
+  "title": "Custom Artifact Authentication",
+  "description": "This process involves the complex validation and authentication of rare cultural artifacts sourced globally. It encompasses provenance research, multi-layered material analysis, expert consensus, and legal compliance verification. Each artifact undergoes detailed historical cross-referencing, advanced chemical testing, and digital imaging before final certification. The process also includes stakeholder coordination spanning archaeologists, legal advisors, and auction houses, ensuring authenticity, ethical acquisition, and traceability. Post-authentication, artifacts are cataloged with secure blockchain entries to prevent forgery, and continuous monitoring for ownership disputes is maintained, integrating international regulatory updates and client feedback loops.",
+  "activities": [
+    "Artifact Intake",
+    "Provenance Check",
+    "Material Scan",
+    "Historical Match",
+    "Expert Review",
+    "Legal Verify",
+    "Imaging Capture",
+    "Chemical Test",
+    "Consensus Vote",
+    "Blockchain Log",
+    "Ownership Audit",
+    "Ethics Review",
+    "Market Analysis",
+    "Client Update",
+    "Dispute Monitor",
+    "Regulation Sync"
+  ]
+}

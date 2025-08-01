@@ -1,0 +1,22 @@
+{
+  "title": "Custom Artifact Restoration",
+  "description": "This process involves the detailed restoration of ancient artifacts discovered during archaeological digs. It requires initial assessment of artifact condition, cleaning using specialized chemical and mechanical methods, structural stabilization with reversible adhesives, pigment analysis through spectroscopy, digital reconstruction for visualization, and finally, controlled environment packaging to ensure long-term preservation. Each step demands meticulous documentation and quality checks to maintain historical integrity and scientific accuracy while enabling future research and exhibition possibilities.",
+  "activities": [
+    "Initial Assessment",
+    "Surface Cleaning",
+    "Chemical Wash",
+    "Mechanical Cleaning",
+    "Damage Mapping",
+    "Pigment Analysis",
+    "Material Testing",
+    "Structural Repair",
+    "Adhesive Application",
+    "Digital Scan",
+    "3D Reconstruction",
+    "Condition Reporting",
+    "Quality Review",
+    "Packaging Prep",
+    "Climate Control",
+    "Final Documentation"
+  ]
+}

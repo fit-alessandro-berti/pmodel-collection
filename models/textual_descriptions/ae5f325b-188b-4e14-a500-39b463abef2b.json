@@ -1,0 +1,22 @@
+{
+  "title": "Cross-Continental Art Loan",
+  "description": "This process governs the loaning of rare artworks between international museums involving complex logistics, legal compliance, condition verification, and insurance arrangements. It begins with curator selection, followed by provenance validation and conservation assessment. Customs clearance and specialized packaging are coordinated alongside climate-controlled transport planning. Upon arrival, condition re-verification, installation setup, and security calibration occur. The process concludes with public unveiling, ongoing condition monitoring during display, and final repatriation with detailed reporting to all stakeholders.",
+  "activities": [
+    "Curator Select",
+    "Provenance Check",
+    "Condition Assess",
+    "Legal Review",
+    "Insurance Setup",
+    "Packaging Plan",
+    "Customs Clear",
+    "Transport Book",
+    "Climate Control",
+    "Arrival Inspect",
+    "Install Setup",
+    "Security Calibrate",
+    "Public Unveil",
+    "Condition Monitor",
+    "Return Arrange",
+    "Final Report"
+  ]
+}

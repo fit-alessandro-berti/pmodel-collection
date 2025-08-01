@@ -1,0 +1,22 @@
+{
+  "title": "Urban Rooftop Farming Setup",
+  "description": "This process outlines the establishment of a sustainable urban rooftop farm in a dense city environment. It involves assessing structural integrity, securing permits, designing modular planting systems, selecting crop varieties suited for limited sunlight and space, integrating smart irrigation systems, recruiting local community volunteers, and setting up a supply chain for fresh produce distribution. The process also includes ongoing maintenance protocols, pest management strategies adapted to rooftop conditions, seasonal crop rotation planning, and data collection for yield optimization and environmental impact assessment. The goal is to create a self-sustaining, eco-friendly urban agricultural system that enhances city resilience and community engagement.",
+  "activities": [
+    "Site Assess",
+    "Permit Secure",
+    "Design Layout",
+    "Select Crops",
+    "Build Modules",
+    "Install Irrigation",
+    "Recruit Volunteers",
+    "Soil Prep",
+    "Plant Seeds",
+    "Setup Sensors",
+    "Manage Pests",
+    "Harvest Produce",
+    "Distribute Goods",
+    "Record Data",
+    "Plan Rotation",
+    "Maintain Systems"
+  ]
+}

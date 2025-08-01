@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process outlines the comprehensive steps involved in authenticating rare historical artifacts for museum acquisition. It includes initial artifact reception, condition assessment, provenance verification through archival research, scientific material analysis using spectroscopy, expert consultation for stylistic evaluation, and risk assessment of forgery. The workflow further involves documentation preparation, cross-referencing with international databases, legal clearance for export-import, insurance valuation, and final approval by the acquisition committee. Post-approval, artifacts are cataloged, conserved, and displayed with detailed authentication reports to ensure transparency and maintain cultural heritage integrity.",
+  "activities": [
+    "Receive Artifact",
+    "Condition Check",
+    "Provenance Research",
+    "Material Analysis",
+    "Stylistic Review",
+    "Forgery Risk",
+    "Expert Consult",
+    "Document Prep",
+    "Database Cross",
+    "Legal Clearance",
+    "Insurance Quote",
+    "Committee Review",
+    "Approval Grant",
+    "Catalog Entry",
+    "Conservation",
+    "Display Setup"
+  ]
+}

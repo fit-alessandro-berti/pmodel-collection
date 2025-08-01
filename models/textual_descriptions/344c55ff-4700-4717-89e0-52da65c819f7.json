@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the systematic verification and authentication of rare historical artifacts for museum acquisition or private collection. It includes provenance research, material analysis, expert consultation, and legal clearance. Multiple specialists collaborate to ensure authenticity, condition assessment, and ethical compliance before final approval and documentation, integrating interdisciplinary methods and advanced technology to mitigate forgery risks and protect cultural heritage.",
+  "activities": [
+    "Initial Review",
+    "Provenance Check",
+    "Material Scan",
+    "Carbon Dating",
+    "Expert Consult",
+    "Condition Report",
+    "Forgery Test",
+    "Ethics Audit",
+    "Legal Review",
+    "Ownership Verify",
+    "Appraisal Estimate",
+    "Risk Assessment",
+    "Final Approval",
+    "Documentation",
+    "Archive Entry",
+    "Client Brief"
+  ]
+}

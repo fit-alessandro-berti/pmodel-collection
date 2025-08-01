@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process involves the continuous cycle of managing an urban vertical farm, integrating advanced agricultural techniques with smart technology. It begins with environmental calibration to optimize conditions, followed by seed selection tailored to urban microclimates. Automated seeding is then performed, before nutrient dosing is precisely managed via hydroponic systems. Real-time growth monitoring leverages AI-driven imaging, triggering adaptive lighting and climate adjustments. Periodic pest control is executed using biocontrol agents to maintain ecological balance. Harvest scheduling coordinates labor and logistics to ensure freshness, while waste recycling incorporates organic matter into composting units. Post-harvest quality checks maintain standards for distribution. Finally, data analytics review system efficiency and crop yield trends, enabling continuous improvement in sustainable urban farming practices.",
+  "activities": [
+    "Env Calibration",
+    "Seed Selection",
+    "Auto Seeding",
+    "Nutrient Dosing",
+    "Growth Monitoring",
+    "Light Adjustment",
+    "Climate Control",
+    "Pest Control",
+    "Harvest Scheduling",
+    "Labor Coordination",
+    "Waste Recycling",
+    "Compost Processing",
+    "Quality Checking",
+    "Distribution Prep",
+    "Data Analytics"
+  ]
+}

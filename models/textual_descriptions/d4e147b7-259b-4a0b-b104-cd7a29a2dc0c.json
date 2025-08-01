@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the meticulous examination and validation of historical artifacts to verify their authenticity and provenance. It includes initial physical inspection, advanced scientific testing, provenance research through archival databases, expert consultations across multiple disciplines, and legal verification of ownership. Each step ensures that artifacts meet stringent cultural and legal standards before being approved for exhibition or sale. The workflow requires coordination between historians, scientists, legal advisors, and curators, integrating physical, digital, and documentary evidence to form a conclusive authentication report.",
+  "activities": [
+    "Artifact Intake",
+    "Visual Scan",
+    "Material Test",
+    "Radiocarbon Check",
+    "Provenance Search",
+    "Archive Review",
+    "Expert Consult",
+    "Microscope Exam",
+    "Infrared Scan",
+    "Legal Verify",
+    "Condition Report",
+    "Digital Catalog",
+    "Ownership Audit",
+    "Restoration Plan",
+    "Final Approval",
+    "Authentication Cert"
+  ]
+}

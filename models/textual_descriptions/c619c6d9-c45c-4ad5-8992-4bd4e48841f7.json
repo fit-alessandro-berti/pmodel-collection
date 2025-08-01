@@ -1,0 +1,22 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process involves the bespoke assembly of unmanned aerial vehicles tailored to specific client requirements. Starting from initial design consultation, the workflow includes component sourcing from multiple specialized suppliers, precision calibration of sensors, custom firmware integration, iterative flight testing in controlled environments, and compliance verification with aviation regulations. The process demands cross-functional coordination among engineering, quality assurance, software development, and logistics teams to ensure timely delivery of fully operational drones equipped with client-specific payloads and optimized flight parameters.",
+  "activities": [
+    "Design Consult",
+    "Component Sourcing",
+    "Sensor Calibrate",
+    "Firmware Integrate",
+    "Payload Configure",
+    "Assembly Setup",
+    "Wiring Connect",
+    "Chassis Build",
+    "Software Load",
+    "Flight Testing",
+    "Data Analyze",
+    "Regulation Check",
+    "Quality Inspect",
+    "Packaging Prep",
+    "Logistics Plan",
+    "Client Review"
+  ]
+}

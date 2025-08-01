@@ -1,0 +1,22 @@
+{
+  "title": "Custom Drone Fleet Deployment",
+  "description": "This process outlines the end-to-end workflow for deploying a custom drone fleet tailored to environmental monitoring in remote areas. It involves initial client consultation to gather unique requirements, followed by modular drone design and component sourcing from specialized suppliers. Prototype assembly and rigorous field testing ensure operational reliability under extreme conditions. After validation, software integration for real-time data analytics and autonomous navigation is conducted. The fleet undergoes pilot training and regulatory compliance verification before final deployment. Post-deployment includes continuous remote monitoring, maintenance scheduling, and iterative performance optimization through AI-driven feedback mechanisms, ensuring the drones adapt to evolving environmental challenges effectively.",
+  "activities": [
+    "Client Meet",
+    "Requirement Gather",
+    "Module Design",
+    "Supplier Vetting",
+    "Component Order",
+    "Prototype Build",
+    "Field Testing",
+    "Test Analysis",
+    "Software Setup",
+    "Data Integration",
+    "Pilot Train",
+    "Compliance Check",
+    "Fleet Deploy",
+    "Remote Monitor",
+    "Maintenance Plan",
+    "Performance Tune"
+  ]
+}

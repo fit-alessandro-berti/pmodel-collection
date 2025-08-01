@@ -1,0 +1,22 @@
+{
+  "title": "Artisanal Cheese Supply",
+  "description": "This process outlines the complex, multi-stage supply chain for artisanal cheese production and distribution. It begins with sourcing rare milk varieties from niche farms, followed by precise curdling under controlled conditions. The cheese undergoes unique aging in microclimates, requiring regular quality inspections and environmental adjustments. Packaging involves sustainable, handcrafted materials to maintain freshness and brand ethos. Distribution channels include exclusive boutique stores and direct-to-consumer delivery with temperature monitoring. Throughout, traceability is ensured via blockchain logging to certify authenticity and origin, while customer feedback is gathered post-sale to refine future batches and marketing strategies.",
+  "activities": [
+    "Milk Sourcing",
+    "Curd Formation",
+    "Temperature Control",
+    "Aging Setup",
+    "Humidity Check",
+    "Quality Inspect",
+    "Microclimate Adjust",
+    "Rind Treatment",
+    "Packaging Prep",
+    "Eco Wrap",
+    "Batch Labeling",
+    "Blockchain Log",
+    "Store Delivery",
+    "Customer Survey",
+    "Feedback Review",
+    "Recipe Update"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process outlines the intricate steps involved in authenticating rare historical artifacts for a private museum collection. It begins with initial artifact intake, followed by provenance verification through archival research and expert interviews. Subsequently, advanced material analysis using spectroscopy and radiocarbon dating is conducted to determine the artifact's age and composition. Concurrently, digital imaging and 3D modeling capture detailed visual data. A collaborative review meeting with historians, scientists, and curators evaluates all collected data to reach a consensus on authenticity. If authenticated, the artifact undergoes conservation assessment and customized preservation planning. Finally, detailed documentation is archived and a public exhibition strategy is developed, ensuring the artifact's historical integrity is maintained while maximizing educational impact.",
+  "activities": [
+    "Artifact Intake",
+    "Provenance Check",
+    "Archive Research",
+    "Expert Interview",
+    "Material Analysis",
+    "Spectroscopy Test",
+    "Carbon Dating",
+    "Digital Imaging",
+    "3D Modeling",
+    "Data Review",
+    "Consensus Meeting",
+    "Conservation Plan",
+    "Preservation Setup",
+    "Documentation",
+    "Exhibition Prep"
+  ]
+}

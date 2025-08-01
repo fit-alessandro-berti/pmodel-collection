@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farm Launch",
+  "description": "This process outlines the comprehensive steps required to launch a vertical farming operation within an urban environment, integrating advanced hydroponic systems, AI-driven climate control, and community engagement initiatives. The process begins with site acquisition and feasibility analysis, followed by modular farm design and procurement of specialized equipment. Installation involves setting up climate sensors, nutrient delivery systems, and automated harvesting robots. Concurrently, regulatory compliance and sustainability certification are secured. Marketing strategies focus on local partnerships and transparent supply chain communication. Training programs for staff emphasize technology operation and crop management. The process concludes with pilot harvests, data-driven optimization, and phased scaling to meet urban food demands sustainably.",
+  "activities": [
+    "Site Acquire",
+    "Feasibility Check",
+    "Design Farm",
+    "Equipment Order",
+    "Install Sensors",
+    "Setup Hydroponics",
+    "Integrate AI",
+    "Robot Deploy",
+    "Compliance Review",
+    "Certify Sustain",
+    "Launch Marketing",
+    "Partner Outreach",
+    "Staff Training",
+    "Pilot Harvest",
+    "Data Optimize",
+    "Scale Operations"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Collaborative Patent Filing",
+  "description": "This process outlines the collaborative patent filing workflow in a multinational corporation involving cross-departmental coordination. It begins with invention disclosure and proceeds through prior art search, legal review, and strategic claim drafting. The workflow integrates iterative feedback loops among R&D, legal, and marketing teams to refine patent scope and applicability. Following internal approvals, the application undergoes formatting, electronic submission, and formal examination request. Post-filing, monitoring competitor filings and managing office actions ensure sustained patent prosecution. The process demands careful version control, confidentiality maintenance, and timely compliance with jurisdiction-specific regulations, culminating in patent grant and portfolio integration for commercialization support.",
+  "activities": [
+    "Invention Disclose",
+    "Prior Art",
+    "Legal Review",
+    "Claim Drafting",
+    "Team Feedback",
+    "Scope Refinement",
+    "Internal Approve",
+    "Doc Formatting",
+    "E-Submit",
+    "Exam Request",
+    "Competitor Watch",
+    "Office Action",
+    "Version Control",
+    "Confidentiality",
+    "Compliance Check",
+    "Patent Grant",
+    "Portfolio Add"
+  ]
+}

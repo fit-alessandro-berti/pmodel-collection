@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the intricate verification and authentication of historical artifacts before acquisition by a museum. It begins with initial artifact intake and condition assessment, followed by provenance research utilizing multidisciplinary experts. Scientific testing methods such as radiocarbon dating and spectroscopy are employed to validate authenticity. Concurrently, legal clearance and cultural heritage compliance checks are performed to ensure ethical acquisition. The workflow also includes digital documentation, expert committee reviews, and final acquisition approval. Post-approval, artifacts undergo conservation planning and secure storage preparations. Throughout, communication with external stakeholders like historians, legal advisors, and cultural representatives is maintained to ensure transparency and adherence to international standards.",
+  "activities": [
+    "Artifact Intake",
+    "Condition Check",
+    "Provenance Research",
+    "Scientific Testing",
+    "Radiocarbon Dating",
+    "Spectroscopy Scan",
+    "Legal Clearance",
+    "Heritage Compliance",
+    "Digital Archiving",
+    "Expert Review",
+    "Committee Vote",
+    "Acquisition Approval",
+    "Conservation Plan",
+    "Storage Setup",
+    "Stakeholder Update"
+  ]
+}

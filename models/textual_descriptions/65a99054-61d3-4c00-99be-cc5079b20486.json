@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process governs the verification and authentication of rare historical artifacts submitted for appraisal or acquisition. It involves multi-disciplinary evaluation including provenance research, material composition analysis, expert consultations, and legal clearance checks. The workflow ensures that every artifact is thoroughly vetted for authenticity, condition, and legal ownership before final certification and cataloging. The process also integrates risk assessment for potential forgeries and coordinates with international artifact databases to prevent illicit trade. Final decisions are documented, and discrepancies trigger secondary evaluations or legal investigations.",
+  "activities": [
+    "Submission Review",
+    "Initial Screening",
+    "Provenance Check",
+    "Material Testing",
+    "Expert Consultation",
+    "Forgery Detection",
+    "Legal Clearance",
+    "Risk Assessment",
+    "Database Crosscheck",
+    "Condition Report",
+    "Secondary Review",
+    "Certification Draft",
+    "Final Approval",
+    "Documentation",
+    "Client Notification",
+    "Archive Update"
+  ]
+}

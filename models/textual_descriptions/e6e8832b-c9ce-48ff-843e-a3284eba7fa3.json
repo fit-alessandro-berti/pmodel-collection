@@ -1,0 +1,21 @@
+{
+  "title": "Remote Asset Liquidation",
+  "description": "This process outlines the steps for liquidating physical and digital assets located in multiple international jurisdictions without direct physical access. It involves remote valuation, compliance verification with local laws, digital auction setup, secure transfer of ownership, and final financial reconciliation. Given the complexity of cross-border regulations, fluctuating asset values, and cybersecurity risks, each activity must ensure transparency, legality, and efficient communication between remote teams, legal advisors, and buyers to maximize asset recovery while minimizing exposure to fraud and legal penalties.",
+  "activities": [
+    "Asset Listing",
+    "Valuation Check",
+    "Compliance Scan",
+    "Legal Review",
+    "Remote Audit",
+    "Auction Setup",
+    "Bid Monitoring",
+    "Fraud Detection",
+    "Ownership Transfer",
+    "Payment Clearing",
+    "Tax Calculation",
+    "Fund Allocation",
+    "Dispute Handling",
+    "Report Generation",
+    "Stakeholder Update"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the detailed verification and certification of rare cultural artifacts before acquisition or sale. It integrates multidisciplinary expert analysis, provenance research, non-invasive material testing, and legal clearance. Activities include coordinating with historians, forensic labs, and legal advisors to ensure authenticity and compliance with international trade laws. The workflow also manages digital archiving of findings, stakeholder communications, and final certification issuance, ensuring transparency and traceability throughout the artifact's lifecycle from discovery to market placement.",
+  "activities": [
+    "Initial Review",
+    "Provenance Check",
+    "Expert Consultation",
+    "Material Sampling",
+    "Lab Analysis",
+    "Data Synthesis",
+    "Legal Clearance",
+    "Digital Archiving",
+    "Stakeholder Update",
+    "Risk Assessment",
+    "Market Evaluation",
+    "Certification Draft",
+    "Quality Assurance",
+    "Final Approval",
+    "Document Issuance",
+    "Post-Sale Audit"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the intricate steps involved in establishing an urban vertical farm within a confined city environment. It integrates advanced hydroponic and aeroponic systems, sustainable energy solutions, and IoT sensors for real-time monitoring. The workflow includes site assessment, modular unit assembly, nutrient solution calibration, seed selection based on microclimate data, pest control via biological agents, and continuous yield optimization using AI-driven analytics. The process further encompasses community engagement, regulatory compliance checks, and scalable expansion planning to ensure sustainable urban agriculture that minimizes resource usage and maximizes output in limited spaces.",
+  "activities": [
+    "Site Survey",
+    "Design Layout",
+    "Material Sourcing",
+    "Unit Assembly",
+    "System Wiring",
+    "Sensor Install",
+    "Water Testing",
+    "Nutrient Mix",
+    "Seed Selection",
+    "Planting Setup",
+    "Climate Control",
+    "Pest Management",
+    "Data Calibration",
+    "Yield Analysis",
+    "Community Meet",
+    "Compliance Check",
+    "Expansion Plan"
+  ]
+}

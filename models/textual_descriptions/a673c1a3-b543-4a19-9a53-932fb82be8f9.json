@@ -1,0 +1,22 @@
+{
+  "title": "Cross-border Drone Shipping",
+  "description": "This process outlines the end-to-end workflow for managing international drone-based parcel delivery services. It involves complex coordination between drone fleet management, airspace compliance, customs clearance, real-time weather adaptation, dynamic routing, payload security verification, and automated customer notifications to ensure timely and secure cross-border shipments. The process requires continuous monitoring of regulatory changes in multiple jurisdictions, integration of AI-driven risk assessment modules, and contingency handling for drone malfunctions or restricted zones. Additionally, it incorporates blockchain-based tracking for transparency and dispute resolution, as well as post-delivery data analytics to optimize future operations and maintain service quality across diverse geographies.",
+  "activities": [
+    "Fleet Check",
+    "Route Plan",
+    "Weather Scan",
+    "Airspace Clear",
+    "Payload Secure",
+    "Flight Authorize",
+    "Customs File",
+    "Drone Launch",
+    "Real-time Track",
+    "Mid-flight Adjust",
+    "No-fly Zone",
+    "Delivery Confirm",
+    "Return Route",
+    "Post-flight Scan",
+    "Data Sync",
+    "Performance Review"
+  ]
+}

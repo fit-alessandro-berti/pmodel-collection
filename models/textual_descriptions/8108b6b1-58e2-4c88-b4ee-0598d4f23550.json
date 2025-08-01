@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process involves establishing a multi-level urban vertical farm designed to optimize limited city space for sustainable food production. It includes site selection, environmental analysis, modular system design, hydroponic installation, nutrient calibration, lighting optimization, climate control integration, pest monitoring, crop scheduling, yield tracking, waste recycling, energy management, market alignment, and community engagement to ensure efficient operation and social acceptance in urban environments.",
+  "activities": [
+    "Site Selection",
+    "Env Analysis",
+    "Modular Design",
+    "Hydroponic Setup",
+    "Nutrient Calibrate",
+    "Light Optimize",
+    "Climate Control",
+    "Pest Monitor",
+    "Crop Schedule",
+    "Yield Track",
+    "Waste Recycle",
+    "Energy Manage",
+    "Market Align",
+    "Community Engage",
+    "System Audit"
+  ]
+}

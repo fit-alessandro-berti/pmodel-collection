@@ -1,0 +1,22 @@
+{
+  "title": "Artisan Cheese Export",
+  "description": "This process outlines the complex workflow involved in exporting small-batch artisan cheese from local farms to international gourmet markets. It includes sourcing raw milk, quality testing, aging, packaging in climate-controlled conditions, regulatory compliance with export laws, arranging specialized freight, customs clearance, and final delivery to boutique retailers. Each step requires coordination between farmers, quality experts, logistics providers, and customs agents to maintain product integrity and meet strict food safety standards, ensuring the cheese arrives fresh and meets both domestic and foreign regulations.",
+  "activities": [
+    "Milk Sourcing",
+    "Quality Testing",
+    "Batch Selection",
+    "Curd Preparation",
+    "Pressing Cheese",
+    "Aging Control",
+    "Flavor Profiling",
+    "Packaging Prep",
+    "Climate Packing",
+    "Export Licensing",
+    "Customs Filing",
+    "Freight Booking",
+    "Cold Storage",
+    "Transport Tracking",
+    "Retail Delivery",
+    "Feedback Collection"
+  ]
+}

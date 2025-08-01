@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the intricate steps required to authenticate rare historical artifacts. It begins with initial provenance research followed by material composition analysis using advanced spectrometry. Specialists then conduct microscopic wear pattern examination to identify inconsistencies. Concurrently, digital imaging captures high-resolution details for pattern matching against known databases. Legal verification ensures ownership legitimacy, while ethical committees assess cultural sensitivity. The artifact undergoes carbon dating to confirm age, and restoration experts evaluate preservation needs. Finally, a comprehensive report is compiled, reviewed by multiple stakeholders, and archived securely for future reference and public exhibition approval.",
+  "activities": [
+    "Provenance Check",
+    "Material Scan",
+    "Wear Analysis",
+    "Image Capture",
+    "Pattern Match",
+    "Ownership Verify",
+    "Ethics Review",
+    "Carbon Dating",
+    "Restoration Eval",
+    "Report Draft",
+    "Stakeholder Review",
+    "Archive Data",
+    "Exhibit Approve",
+    "Condition Monitor",
+    "Final Certification"
+  ]
+}

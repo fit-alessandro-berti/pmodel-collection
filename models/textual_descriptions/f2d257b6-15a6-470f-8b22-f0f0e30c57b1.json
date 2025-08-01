@@ -1,0 +1,21 @@
+{
+  "title": "Antique Artifact Authentication",
+  "description": "This process involves the meticulous verification of antique artifacts combining scientific analysis, provenance research, and expert consultation to ensure authenticity. Activities range from initial artifact intake and condition assessment to advanced material dating techniques, historical documentation cross-referencing, and collaboration with historians and forensic specialists. The process integrates digital imaging, chemical composition testing, and market trend evaluation to establish artifact legitimacy and value before final certification and archival storage.",
+  "activities": [
+    "Artifact Intake",
+    "Condition Check",
+    "Material Sampling",
+    "Radiocarbon Test",
+    "Provenance Review",
+    "Imaging Capture",
+    "Chemical Analysis",
+    "Historical Match",
+    "Expert Consult",
+    "Forgery Scan",
+    "Market Survey",
+    "Value Estimate",
+    "Certification",
+    "Digital Archive",
+    "Final Storage"
+  ]
+}

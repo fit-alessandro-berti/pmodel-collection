@@ -1,0 +1,22 @@
+{
+  "title": "Custom Art Leasing",
+  "description": "This process involves leasing unique artwork pieces to corporate clients for limited timeframes. It starts with client profiling to understand aesthetic preferences and office environments. Then, curators select suitable artworks from a diverse inventory. Contracts are drafted specifying lease terms, insurance, and maintenance responsibilities. Logistics arrange secure packaging and delivery. Upon installation, an augmented reality app is provided for virtual placement previews. Periodic artwork rotation and condition inspections are scheduled. Feedback is collected to refine future selections. Finally, at lease end, artworks are retrieved, app deactivated, and clients offered purchase options or new leases. This atypical method blends art curation with leasing logistics to enhance corporate spaces dynamically.",
+  "activities": [
+    "Profile Client",
+    "Select Artwork",
+    "Draft Contract",
+    "Arrange Delivery",
+    "Install Artwork",
+    "Activate App",
+    "Schedule Rotation",
+    "Inspect Condition",
+    "Collect Feedback",
+    "Retrieve Art",
+    "Deactivate App",
+    "Offer Purchase",
+    "Renew Lease",
+    "Update Inventory",
+    "Notify Client",
+    "Process Payment"
+  ]
+}
