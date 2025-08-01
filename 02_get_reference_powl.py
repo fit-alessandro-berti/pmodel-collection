@@ -9,6 +9,7 @@ import argparse
 import traceback
 import requests
 import pm4py
+import time
 from pm4py.objects.powl.obj import StrictPartialOrder, OperatorPOWL, Transition, SilentTransition
 from pm4py.objects.process_tree.obj import Operator
 
@@ -19,13 +20,23 @@ if not API_KEY:
     print("ERROR: OPENAI_API_KEY not set", file=sys.stderr)
     sys.exit(1)
 
-# CLI args
+# Parse model argument first to use it for default paths
 parser = argparse.ArgumentParser(description="Generate POWL models and Petri nets from textual descriptions.")
-parser.add_argument("--input-dir", type=str, default="models/textual_descriptions", help="Directory of input JSON files")
-parser.add_argument("--powl-dir", type=str, default="models/powl_o4mini", help="Directory to save generated POWL Python files")
-parser.add_argument("--vis-dir", type=str, default="models/visualization_o4mini", help="Directory to save Petri net visualizations")
-parser.add_argument("--max-threads", type=int, default=20, help="Max concurrent threads")
 parser.add_argument("--model", type=str, default="o4-mini", help="OpenAI model to use")
+
+# Parse just the model argument first
+args, remaining_argv = parser.parse_known_args()
+model_name = args.model
+
+# Now add the remaining arguments with defaults based on the model
+parser.add_argument("--input-dir", type=str, default="models/textual_descriptions", help="Directory of input JSON files")
+parser.add_argument("--max-threads", type=int, default=20, help="Max concurrent threads")
+parser.add_argument("--powl-dir", type=str, default=f"models/{model_name}/powl", help="Directory to save generated POWL Python files")
+parser.add_argument("--vis-dir", type=str, default=f"models/{model_name}/visualization", help="Directory to save Petri net visualizations")
+parser.add_argument("--max-global-retries", type=int, default=10, help="Maximum number of global retry attempts")
+parser.add_argument("--retry-delay", type=int, default=5, help="Delay in seconds between global retries")
+
+# Parse all arguments
 args = parser.parse_args()
 
 INPUT_DIR = args.input_dir
@@ -33,32 +44,20 @@ POWL_DIR = args.powl_dir
 VIS_DIR = args.vis_dir
 MAX_THREADS = args.max_threads
 MODEL = args.model
+MAX_GLOBAL_RETRIES = args.max_global_retries
+RETRY_DELAY = args.retry_delay
 
 # Prepare directories
 os.makedirs(INPUT_DIR, exist_ok=True)
 os.makedirs(POWL_DIR, exist_ok=True)
 os.makedirs(VIS_DIR, exist_ok=True)
 
-# Queue of files to process
-file_queue = queue.Queue()
-for fname in os.listdir(INPUT_DIR):
-    if not fname.endswith('.json'):
-        continue
-    base = fname[:-5]
-    powl_file = os.path.join(POWL_DIR, base + '.py')
-    if not os.path.exists(powl_file):
-        file_queue.put(fname)
-
-total = file_queue.qsize()
-print(f"Found {total} unprocessed descriptors in '{INPUT_DIR}'. Launching up to {MAX_THREADS} threads.")
-
+# Track failed files for retry
+failed_files = set()
 lock = threading.Lock()
-processed = 0
-errors = 0
 
 # Worker function
-def worker():
-    global processed, errors
+def worker(file_queue, processed_counter, error_counter, total_files):
     thread_name = threading.current_thread().name
     
     while True:
@@ -141,6 +140,7 @@ def worker():
                     if attempt == max_retries - 1:
                         raise
                     print(f"{thread_name}: API request failed (attempt {attempt + 1}/{max_retries}): {e}")
+                    time.sleep(2)  # Brief delay before retry
                     
             response_json = resp.json()
             if 'choices' not in response_json or len(response_json['choices']) == 0:
@@ -205,12 +205,15 @@ def worker():
             pm4py.save_vis_petri_net(net, im, fm, svg_path)
 
             with lock:
-                processed += 1
-                print(f"{thread_name}: [{processed}/{total}] Success: {base}")
+                processed_counter[0] += 1
+                # Remove from failed files if it was there
+                failed_files.discard(fname)
+                print(f"{thread_name}: [{processed_counter[0]}/{total_files}] Success: {base}")
                 
         except Exception as e:
             with lock:
-                errors += 1
+                error_counter[0] += 1
+                failed_files.add(fname)
                 print(f"{thread_name}: Error processing {fname}: {str(e)}")
                 if args.max_threads == 1:  # Only print full traceback in single-threaded mode
                     traceback.print_exc()
@@ -219,24 +222,74 @@ def worker():
             
     print(f"{thread_name} exiting.")
 
-# Launch threads
-threads = []
-num_threads = min(MAX_THREADS, total) if total > 0 else 0
+def process_files():
+    """Process all unprocessed files and return the number of errors"""
+    # Queue of files to process
+    file_queue = queue.Queue()
+    
+    # Find unprocessed files
+    for fname in os.listdir(INPUT_DIR):
+        if not fname.endswith('.json'):
+            continue
+        base = fname[:-5]
+        powl_file = os.path.join(POWL_DIR, base + '.py')
+        if not os.path.exists(powl_file):
+            file_queue.put(fname)
+    
+    total = file_queue.qsize()
+    if total == 0:
+        return 0
+    
+    print(f"\nFound {total} unprocessed descriptors. Launching up to {MAX_THREADS} threads.")
+    
+    # Counters
+    processed_counter = [0]  # Using list to make it mutable in threads
+    error_counter = [0]
+    
+    # Launch threads
+    threads = []
+    num_threads = min(MAX_THREADS, total)
+    
+    for i in range(num_threads):
+        t = threading.Thread(
+            target=worker, 
+            args=(file_queue, processed_counter, error_counter, total),
+            name=f"Worker-{i+1}"
+        )
+        t.start()
+        threads.append(t)
+    
+    # Wait for completion
+    for t in threads:
+        t.join()
+    
+    print(f"Iteration complete. Successfully processed {processed_counter[0]}/{total} files.")
+    if error_counter[0] > 0:
+        print(f"Encountered errors in {error_counter[0]} files.")
+    
+    return error_counter[0]
 
-if num_threads == 0:
-    print("No files to process.")
-    sys.exit(0)
-
-for i in range(num_threads):
-    t = threading.Thread(target=worker, name=f"Worker-{i+1}")
-    t.start()
-    threads.append(t)
-
-# Wait for completion
-for t in threads:
-    t.join()
-
-print(f"\nAll done. Successfully processed {processed}/{total} files.")
-if errors > 0:
-    print(f"Encountered errors in {errors} files.")
-    sys.exit(1)
+# Main loop - repeat until no errors
+attempt = 0
+while attempt < MAX_GLOBAL_RETRIES:
+    attempt += 1
+    print(f"\n{'='*60}")
+    print(f"GLOBAL ATTEMPT {attempt}/{MAX_GLOBAL_RETRIES}")
+    print(f"{'='*60}")
+    
+    # Clear the failed files set at the start of each attempt
+    failed_files.clear()
+    
+    errors = process_files()
+    
+    if errors == 0:
+        print("\n✅ All files processed successfully!")
+        sys.exit(0)
+    
+    if attempt < MAX_GLOBAL_RETRIES:
+        print(f"\n⚠️  {errors} files failed. Retrying in {RETRY_DELAY} seconds...")
+        time.sleep(RETRY_DELAY)
+    else:
+        print(f"\n❌ Failed to process all files after {MAX_GLOBAL_RETRIES} attempts.")
+        print(f"Failed files: {sorted(failed_files)}")
+        sys.exit(1)
