@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process outlines the comprehensive workflow for authenticating rare historical artifacts through multidisciplinary evaluation, provenance verification, scientific testing, and expert consultation. It involves initial artifact intake, condition assessment, advanced material analysis, stylistic comparison with known exemplars, blockchain provenance logging, and collaborative expert panel review. The workflow also includes risk assessment for forgery, legal compliance checks, report generation, and final certification. Throughout the process, iterative feedback loops ensure data integrity and accuracy before artifact release or acquisition recommendation. This atypical yet realistic process supports museums, collectors, and auction houses in validating artifact authenticity while minimizing fraudulent risks.",
+  "activities": [
+    "Intake Review",
+    "Condition Scan",
+    "Material Test",
+    "Style Match",
+    "Provenance Log",
+    "Forgery Risk",
+    "Legal Audit",
+    "Expert Panel",
+    "Data Crosscheck",
+    "Report Draft",
+    "Blockchain Tag",
+    "Certification",
+    "Client Feedback",
+    "Final Approval",
+    "Release Prep"
+  ]
+}

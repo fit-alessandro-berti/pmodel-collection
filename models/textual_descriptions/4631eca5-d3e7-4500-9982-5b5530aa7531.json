@@ -1,0 +1,23 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process involves the custom assembly of drones tailored to individual client specifications. It starts with detailed requirement gathering and design adaptation, followed by component sourcing from multiple suppliers, quality verification, and firmware customization. The assembly line incorporates manual and automated steps ensuring precision fitting of sensors, motors, and batteries. Post assembly, each drone undergoes rigorous flight testing in various conditions, calibration of navigation systems, and software integration. Final packaging includes client-specific documentation and configuration files. The entire process requires iterative feedback loops between design and production teams to accommodate rapid changes and ensure compliance with aviation regulations before shipment.",
+  "activities": [
+    "Req Gathering",
+    "Design Adapt",
+    "Supplier Vetting",
+    "Component Order",
+    "Quality Check",
+    "Firmware Load",
+    "Sensor Fit",
+    "Motor Install",
+    "Battery Mount",
+    "Assembly Test",
+    "Flight Trial",
+    "Nav Calibrate",
+    "Software Sync",
+    "Doc Prepare",
+    "Client Review",
+    "Final Package",
+    "Compliance Audit"
+  ]
+}

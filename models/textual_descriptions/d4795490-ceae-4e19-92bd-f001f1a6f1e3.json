@@ -1,0 +1,21 @@
+{
+  "title": "Advanced Artisanal Coffee Distribution",
+  "description": "This process involves sourcing rare coffee beans from remote, eco-sensitive farms, ensuring sustainable harvesting practices. Beans undergo micro-lot selection, followed by specialized fermentation and drying techniques tailored to each batch's unique profile. Quality control includes chemical and sensory analysis. The beans are then roasted using variable profiles depending on target markets. Packaging incorporates biodegradable materials with embedded QR codes for traceability. Distribution logistics optimize cold-chain transport to preserve freshness, integrating real-time environmental monitoring. Customer feedback loops inform continuous process refinement and personalized subscription adjustments, blending artisanal craftsmanship with advanced technology to deliver premium coffee experiences globally.",
+  "activities": [
+    "Farm Sourcing",
+    "Lot Selection",
+    "Bean Sorting",
+    "Fermentation",
+    "Drying Process",
+    "Quality Control",
+    "Chemical Testing",
+    "Sensory Analysis",
+    "Roast Profiling",
+    "Eco Packaging",
+    "Traceability QR",
+    "Cold Transport",
+    "Env Monitoring",
+    "Customer Feedback",
+    "Subscription Adjust"
+  ]
+}
