@@ -1,0 +1,45 @@
+Here's the prompt translated to normal text:
+
+---
+
+Generate a POWL model for the following process, saving the final result in the variable 'root'.
+
+A partially ordered workflow language (POWL) is a partially ordered graph representation of a process, extended with control-flow operators for modeling choice and loop structures. There are four types of POWL models:
+- an activity (identified by its label, e.g., 'M' identifies the activity M). Silent activities with empty labels (tau labels) are also supported.
+- a choice of other POWL models (exclusive choice: X(A, B)).
+- a loop node (* (A, B)): execute A, then choose to exit or execute B then A again, repeated until exit.
+- a partial order: PO=(nodes={...}, order={...}), where order is a set of source-->target dependencies; unconnected nodes are concurrent.
+
+Example 1: PO=(nodes={NODE1, NODE2}, order={})
+Example 2: PO=(nodes={NODE1, NODE2}, order={NODE1-->NODE2})
+Example 3: PO=(nodes={NODE1, NODE2, NODE3, X(NODE4, NODE5)}, order={NODE1-->NODE2, NODE1-->X(NODE4, NODE5), NODE2-->X(NODE4, NODE5)})
+
+POWL classes in pm4py.objects.powl.obj:
+- SilentTransition(): silent transition
+- Transition(label): labeled transition
+- StrictPartialOrder(nodes=[...]) with .order.add_edge(src, tgt)
+- OperatorPOWL(operator=Operator.XOR or Operator.LOOP, children=[...])
+
+Example code:
+```python
+import pm4py
+from pm4py.objects.powl.obj import StrictPartialOrder, OperatorPOWL, Transition, SilentTransition
+from pm4py.objects.process_tree.obj import Operator
+A = Transition(label='A')
+B = Transition(label='B')
+C = Transition(label='C')
+skip = SilentTransition()
+loop = OperatorPOWL(operator=Operator.LOOP, children=[A, B])
+xor = OperatorPOWL(operator=Operator.XOR, children=[C, skip])
+root = StrictPartialOrder(nodes=[loop, xor])
+root.order.add_edge(loop, xor)
+```
+
+NOW, generate the POWL model for the process below.
+DESCRIPTION: {description}
+ACTIVITIES (use these exactly, same names): {activities}
+Respond with valid Python code only, defining 'root'.
+
+---
+
+Note: The `{description}` and `{activities}` placeholders would be replaced with actual values when this prompt template is used.

@@ -22,7 +22,7 @@ if not API_KEY:
 
 # Parse model argument first to use it for default paths
 parser = argparse.ArgumentParser(description="Generate POWL models and Petri nets from textual descriptions.")
-parser.add_argument("--model", type=str, default="o4-mini", help="OpenAI model to use")
+parser.add_argument("--model", type=str, default="gpt-4.1-mini", help="OpenAI model to use")
 
 # Parse just the model argument first
 args, remaining_argv = parser.parse_known_args()
@@ -30,7 +30,7 @@ model_name = args.model
 
 # Now add the remaining arguments with defaults based on the model
 parser.add_argument("--input-dir", type=str, default="models/textual_descriptions", help="Directory of input JSON files")
-parser.add_argument("--max-threads", type=int, default=20, help="Max concurrent threads")
+parser.add_argument("--max-threads", type=int, default=50, help="Max concurrent threads")
 parser.add_argument("--powl-dir", type=str, default=f"models/{model_name}/powl", help="Directory to save generated POWL Python files")
 parser.add_argument("--vis-dir", type=str, default=f"models/{model_name}/visualization", help="Directory to save Petri net visualizations")
 parser.add_argument("--max-global-retries", type=int, default=10, help="Maximum number of global retry attempts")
