@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process outlines the end-to-end management of an urban vertical farming system that integrates automated nutrient delivery, climate control, pest management, and crop harvesting within a multi-level indoor environment. The cycle begins with seed selection and germination under controlled light spectrums, followed by transplanting seedlings into hydroponic towers. Nutrient mixing and precise pH balancing ensure optimal growth conditions, while AI-powered sensors continuously monitor humidity, temperature, and CO2 levels. Pest detection triggers environmentally friendly interventions, avoiding chemical use. Harvesting is scheduled by maturity models and robots collect produce for packaging. Waste is composted on-site and water is recycled to minimize resource use, closing the loop for sustainable urban agriculture.",
+  "activities": [
+    "Seed Select",
+    "Germinate Seeds",
+    "Transplant Seedlings",
+    "Mix Nutrients",
+    "Adjust pH",
+    "Monitor Climate",
+    "Control Humidity",
+    "CO2 Regulation",
+    "Detect Pests",
+    "Deploy Biocontrols",
+    "Schedule Harvest",
+    "Automate Picking",
+    "Package Produce",
+    "Compost Waste",
+    "Recycle Water",
+    "Data Logging",
+    "System Maintenance"
+  ]
+}

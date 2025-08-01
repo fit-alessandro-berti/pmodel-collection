@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the complex setup of an urban vertical farming system designed to optimize limited city space for high-yield crop production. It involves site analysis, modular structure assembly, environmental control calibration, nutrient solution preparation, and integration of IoT monitoring devices. Specialized activities include biosecurity protocol implementation to prevent contamination, adaptive lighting adjustment based on crop growth stages, and waste recycling for sustainability. The process concludes with trial harvests and data analysis to refine system parameters for commercial scalability and continuous improvement.",
+  "activities": [
+    "Site Survey",
+    "Design Layout",
+    "Structure Assemble",
+    "Lighting Setup",
+    "Climate Control",
+    "Nutrient Mix",
+    "Sensor Install",
+    "Biosecurity Check",
+    "Irrigation Test",
+    "Seed Planting",
+    "Growth Monitor",
+    "Waste Recycling",
+    "Data Logging",
+    "Trial Harvest",
+    "System Tuning",
+    "Safety Audit"
+  ]
+}

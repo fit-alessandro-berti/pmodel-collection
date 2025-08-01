@@ -1,0 +1,21 @@
+{
+  "title": "Antique Artifact Authentication",
+  "description": "This process involves the detailed verification and authentication of antique artifacts sourced from various international locations. It combines historical research, scientific analysis, provenance validation, and expert consultation. The process begins with initial artifact intake, followed by condition assessment, material testing, stylistic comparison, and carbon dating. Parallelly, provenance documents are scrutinized for legitimacy, and digital imaging techniques are applied to detect restorations or forgeries. The findings are reviewed by a panel of historians and conservators, culminating in a comprehensive authentication report. This rigorous approach ensures the artifact's authenticity is confirmed beyond reasonable doubt before it is cataloged or auctioned.",
+  "activities": [
+    "Artifact Intake",
+    "Condition Check",
+    "Material Test",
+    "Style Compare",
+    "Carbon Dating",
+    "Document Review",
+    "Provenance Check",
+    "Digital Imaging",
+    "Forgery Scan",
+    "Expert Consult",
+    "Historical Research",
+    "Panel Review",
+    "Report Draft",
+    "Final Approval",
+    "Catalog Entry"
+  ]
+}

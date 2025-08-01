@@ -1,0 +1,21 @@
+{
+  "title": "Urban Beekeeping Integration",
+  "description": "This process outlines the integration of urban beekeeping into municipal green initiatives, combining environmental sustainability with local community engagement. It begins with site identification and environmental assessment, followed by regulatory compliance checks and stakeholder consultations. Hive installation and bee colony introduction are coordinated alongside educational workshops for residents. Continuous monitoring of hive health and data collection on pollination impact are conducted, integrating insights into urban planning. Maintenance routines and crisis management protocols ensure bee welfare and public safety. Finally, feedback loops from community and environmental data guide iterative improvements, fostering a harmonious balance between urban development and ecological preservation.",
+  "activities": [
+    "Site Survey",
+    "Env Assessment",
+    "Reg Check",
+    "Stakeholder Meet",
+    "Permit Apply",
+    "Hive Setup",
+    "Colony Introduce",
+    "Workshop Host",
+    "Health Monitor",
+    "Data Collect",
+    "Impact Analyze",
+    "Maintenance",
+    "Crisis Manage",
+    "Feedback Gather",
+    "Plan Update"
+  ]
+}

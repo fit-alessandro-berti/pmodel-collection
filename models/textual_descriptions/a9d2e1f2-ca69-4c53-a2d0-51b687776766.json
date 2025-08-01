@@ -1,0 +1,22 @@
+{
+  "title": "Artisan Cheese Supply Chain",
+  "description": "This process manages the end-to-end supply chain of artisan cheese production, starting from milk sourcing through seasonal farm visits. It includes quality testing at multiple stages, temperature-controlled transport coordination, aging room inventory tracking, and niche market distribution. Unique to this process is the integration of sensory evaluation panels and small batch customization requests, ensuring each cheese batch meets specific flavor profiles. Additionally, the process tracks environmental impact metrics related to pasture grazing and waste recycling, supporting sustainability goals while maintaining artisan authenticity and compliance with regional food regulations.",
+  "activities": [
+    "Milk Sourcing",
+    "Farm Inspection",
+    "Milk Testing",
+    "Cheese Making",
+    "Batch Labeling",
+    "Aging Tracking",
+    "Sensory Panel",
+    "Quality Audit",
+    "Temp Monitoring",
+    "Inventory Check",
+    "Waste Sorting",
+    "Custom Orders",
+    "Transport Booking",
+    "Market Delivery",
+    "Impact Reporting",
+    "Reg Compliance"
+  ]
+}

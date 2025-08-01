@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Integration",
+  "description": "This process outlines the complex integration of urban vertical farming systems within existing city infrastructure to optimize food production and sustainability. It involves selecting suitable building sites, retrofitting structures, installing hydroponic and aeroponic systems, integrating IoT sensors for climate control, managing energy consumption, coordinating with local supply chains, and ensuring regulatory compliance. The process also includes workforce training on new agricultural technologies, ongoing maintenance, real-time data analysis for crop optimization, and community engagement to promote urban agriculture awareness. This atypical business process bridges agriculture, technology, and urban planning to create a scalable model for sustainable city farming.",
+  "activities": [
+    "Site Select",
+    "Structure Assess",
+    "Retrofit Plan",
+    "System Install",
+    "Hydroponic Setup",
+    "Aeroponic Setup",
+    "Sensor Deploy",
+    "Climate Adjust",
+    "Energy Manage",
+    "Supply Coordinate",
+    "Compliance Check",
+    "Staff Train",
+    "Maintenance Run",
+    "Data Analyze",
+    "Community Engage",
+    "Crop Optimize"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process involves establishing an urban vertical farm within a repurposed city warehouse. It starts with site evaluation and structural assessment, followed by climate control system design. Next, hydroponic system installation occurs alongside LED lighting setup. Seed selection and germination testing are performed to ensure optimal crop yield. Nutrient solution formulation and automated delivery configuration are conducted. Continuous environmental monitoring and pest management protocols are established. Harvest scheduling and post-harvest processing are integrated, followed by packaging design tailored for urban retail. Finally, logistics planning ensures timely distribution to local markets while maintaining product freshness. The process requires cross-disciplinary coordination between agronomists, engineers, and supply chain experts to optimize productivity in a confined urban space.",
+  "activities": [
+    "Site Eval",
+    "Structure Check",
+    "Climate Plan",
+    "Hydroponic Fit",
+    "LED Setup",
+    "Seed Test",
+    "Nutrient Mix",
+    "Delivery Setup",
+    "Env Monitoring",
+    "Pest Control",
+    "Harvest Plan",
+    "Post-Harvest",
+    "Package Design",
+    "Logistics Map",
+    "Market Sync"
+  ]
+}

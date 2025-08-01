@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process outlines the detailed steps involved in authenticating rare historical artifacts brought in by collectors or museums. It involves initial inspection, provenance research, scientific testing, expert consultation, and final certification. The workflow ensures that each item undergoes rigorous validation combining physical examination and digital verification methods, including spectral analysis and blockchain tracking, to prevent forgery and establish authenticity before public or private acquisition.",
+  "activities": [
+    "Item Intake",
+    "Visual Scan",
+    "Provenance Check",
+    "Historical Review",
+    "Material Sampling",
+    "Spectral Test",
+    "Database Match",
+    "Expert Review",
+    "Forgery Analysis",
+    "Digital Scan",
+    "Blockchain Log",
+    "Condition Report",
+    "Certification Prep",
+    "Final Approval",
+    "Client Notification",
+    "Archive Update"
+  ]
+}

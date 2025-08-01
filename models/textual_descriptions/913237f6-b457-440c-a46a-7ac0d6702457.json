@@ -1,0 +1,21 @@
+{
+  "title": "Crowdsourced Innovation Cycle",
+  "description": "This process involves sourcing innovative ideas from a global crowd through a digital platform, followed by multi-phase validation including community voting, expert evaluation, and prototype development. The process incorporates iterative feedback loops from contributors and stakeholders to refine ideas before final selection. Legal and IP reviews are conducted to secure intellectual property rights. Selected innovations proceed to pilot testing with real users, gathering data to assess viability. Upon successful pilots, the process transitions to scaling strategies involving marketing and production planning, ensuring alignment with organizational goals and market demands. Continuous post-launch monitoring and community engagement maintain innovation momentum and foster ongoing improvement.",
+  "activities": [
+    "Idea Sourcing",
+    "Community Vote",
+    "Expert Review",
+    "IP Clearance",
+    "Prototype Build",
+    "Feedback Loop",
+    "Stakeholder Align",
+    "Pilot Launch",
+    "Data Capture",
+    "Viability Assess",
+    "Scale Planning",
+    "Market Prep",
+    "Production Setup",
+    "Post Launch",
+    "Engagement Boost"
+  ]
+}

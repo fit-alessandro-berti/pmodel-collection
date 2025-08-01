@@ -1,0 +1,23 @@
+{
+  "title": "Rare Artifact Procurement",
+  "description": "This process involves the identification, authentication, and acquisition of rare cultural artifacts from remote or politically sensitive regions. It requires coordination with historians, local authorities, and international legal bodies to ensure compliance with heritage laws. Detailed provenance research, risk assessment, and secure transport logistics are crucial to prevent fraud, damage, or legal disputes. Post-acquisition, artifacts undergo conservation evaluation and are prepared for either museum display or private collection. Due diligence includes ethical sourcing verification and ongoing monitoring of geopolitical factors affecting ownership rights. The entire workflow demands meticulous documentation, multi-party approvals, and contingency planning for unexpected regulatory changes or transport complications.",
+  "activities": [
+    "Site Survey",
+    "Artifact Scan",
+    "Provenance Check",
+    "Legal Review",
+    "Risk Assess",
+    "Local Liaison",
+    "Permit Request",
+    "Funding Approval",
+    "Secure Packing",
+    "Transport Arrange",
+    "Customs Clear",
+    "Condition Report",
+    "Conservation Plan",
+    "Exhibit Prep",
+    "Ownership Audit",
+    "Compliance Verify",
+    "Final Documentation"
+  ]
+}

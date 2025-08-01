@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication",
+  "description": "This process involves the intricate verification and authentication of rare historical artifacts sourced from various global locations. It includes provenance research, material analysis, expert consultations, and legal clearance to ensure authenticity and compliance with cultural property laws. The process demands collaboration between historians, scientists, legal experts, and logistics teams to accurately assess, document, and secure each artifact before acquisition or exhibition. Each step must be meticulously recorded to maintain traceability and uphold ethical standards, addressing challenges such as forgery detection, cross-border regulations, and preservation requirements.",
+  "activities": [
+    "Source Artifact",
+    "Initial Inspection",
+    "Provenance Check",
+    "Material Testing",
+    "Expert Review",
+    "Legal Clearance",
+    "Forgery Analysis",
+    "Condition Report",
+    "Cultural Audit",
+    "Transport Planning",
+    "Customs Filing",
+    "Insurance Setup",
+    "Secure Packaging",
+    "Documentation",
+    "Final Approval",
+    "Exhibit Preparation"
+  ]
+}

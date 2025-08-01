@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Deployment",
+  "description": "This process involves the end-to-end deployment of an urban vertical farming system in dense metropolitan areas. It begins with site analysis and regulatory compliance checks, followed by modular farm design tailored to the building structure. Procurement of specialized hydroponic equipment and nutrient solutions is critical, alongside the integration of IoT sensors for climate control. Installation includes assembling grow racks, lighting, and irrigation systems. Post-installation, calibration of environmental controls ensures optimal plant growth. Staff training on maintenance and data monitoring is conducted before initiating the crop seeding phase. Continuous monitoring, pest management, and yield optimization are performed throughout the growth cycle. Finally, harvested produce is packaged and distributed locally, completing the sustainable urban agriculture supply chain.",
+  "activities": [
+    "Site Analysis",
+    "Permits Check",
+    "Farm Design",
+    "Equipment Buy",
+    "Nutrient Prep",
+    "Sensor Setup",
+    "Rack Install",
+    "Light Config",
+    "Irrigation Fit",
+    "Enviro Calibrate",
+    "Staff Training",
+    "Crop Seeding",
+    "Growth Monitor",
+    "Pest Control",
+    "Yield Optimize",
+    "Harvest Pack",
+    "Local Deliver"
+  ]
+}

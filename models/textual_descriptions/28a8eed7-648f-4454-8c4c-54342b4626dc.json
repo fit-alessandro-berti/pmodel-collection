@@ -1,0 +1,23 @@
+{
+  "title": "Artisan Cheese Import",
+  "description": "This process details the complex steps involved in importing artisan cheeses from remote European farms to boutique stores in North America. It involves sourcing rare cheese varieties, verifying organic certifications, coordinating with local customs agents, managing temperature-controlled logistics, handling quarantine inspections, and ensuring compliance with strict FDA regulations. The process also includes quality sampling, labeling adjustments for different markets, marketing coordination for product launch, and final distribution to specialty retailers, all while maintaining traceability and minimizing spoilage risks throughout the supply chain.",
+  "activities": [
+    "Farm Sourcing",
+    "Certify Organic",
+    "Contract Signing",
+    "Customs Liaison",
+    "Logistics Planning",
+    "Temp Monitoring",
+    "Quarantine Check",
+    "FDA Compliance",
+    "Sample Testing",
+    "Label Revision",
+    "Marketing Prep",
+    "Import Clearance",
+    "Quality Audit",
+    "Retail Scheduling",
+    "Traceability Setup",
+    "Spoilage Control",
+    "Distribution Setup"
+  ]
+}

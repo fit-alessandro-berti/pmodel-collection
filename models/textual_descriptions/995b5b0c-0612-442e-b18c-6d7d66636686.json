@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Launch",
+  "description": "This process outlines the launch of a vertical farming operation within an urban environment, integrating agricultural technology, sustainable energy use, and community engagement. It involves site assessment, modular setup, hydroponic nutrient calibration, AI-driven growth monitoring, waste recycling, and local market integration. The approach balances technological innovation with ecological impact, ensuring efficient resource use and social acceptance. Key steps include sensor installation for microclimate control, automated seeding, pest management without pesticides, data analytics for yield prediction, and partnership formation with local businesses and residents to promote fresh produce accessibility and educational outreach.",
+  "activities": [
+    "Site Assess",
+    "Tech Design",
+    "Modular Build",
+    "Install Sensors",
+    "Calibrate Nutrients",
+    "Seed Automation",
+    "Climate Control",
+    "Pest Monitor",
+    "Waste Cycle",
+    "Data Analyze",
+    "Yield Predict",
+    "Market Link",
+    "Community Meet",
+    "Energy Optimize",
+    "Report Results"
+  ]
+}

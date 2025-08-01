@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Onboarding",
+  "description": "This process outlines the comprehensive onboarding of a new urban vertical farm into a city's sustainable food supply network. It involves site evaluation, modular system installation, environmental calibration, crop selection tailored to local demand, integration with renewable energy sources, staff training on automated systems, real-time monitoring setup, waste recycling integration, and compliance verification with urban agricultural regulations. The process also includes community engagement initiatives to promote local awareness and partnerships with retailers for direct-to-consumer distribution, ensuring a seamless launch and operational sustainability within a densely populated urban environment.",
+  "activities": [
+    "Site Survey",
+    "Module Setup",
+    "Env Calibration",
+    "Crop Planning",
+    "Energy Sync",
+    "Staff Training",
+    "Sensor Install",
+    "Data Integration",
+    "Waste Setup",
+    "Reg Review",
+    "Community Meet",
+    "Retail Align",
+    "System Testing",
+    "Launch Prep",
+    "Feedback Loop"
+  ]
+}

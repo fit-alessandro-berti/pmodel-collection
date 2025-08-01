@@ -1,0 +1,21 @@
+{
+  "title": "Crisis Supply Chain Recovery",
+  "description": "This process involves rapidly restoring disrupted supply chains following unexpected global crises such as natural disasters, geopolitical conflicts, or pandemics. It requires cross-functional coordination to assess damage, identify alternate suppliers, reroute logistics, and ensure compliance with emergency regulations. Continuous risk monitoring and stakeholder communication are crucial to adapt strategies as conditions evolve. The process also incorporates contingency financing, technology deployment for real-time tracking, and post-crisis analysis to strengthen future resilience, making it a complex and dynamic recovery operation atypical in routine supply management.",
+  "activities": [
+    "Damage Assess",
+    "Risk Monitor",
+    "Supplier Vet",
+    "Alternate Source",
+    "Compliance Check",
+    "Logistics Reroute",
+    "Emergency Finance",
+    "Stakeholder Sync",
+    "Tech Deploy",
+    "Inventory Audit",
+    "Transport Secure",
+    "Customs Expedite",
+    "Demand Forecast",
+    "Communication Plan",
+    "Post-Crisis Review"
+  ]
+}

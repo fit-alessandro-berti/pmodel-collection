@@ -1,0 +1,22 @@
+{
+  "title": "Custom Artifact Provenance",
+  "description": "This process outlines the detailed verification and authentication workflow for custom-made historical artifacts intended for museum acquisition. It involves multidisciplinary collaboration among historians, material scientists, forensic analysts, and legal advisors to ensure the artifact's origin, age, and ownership are accurately documented and verified. The steps include preliminary research, sample testing, chain-of-custody validation, provenance documentation, legal clearance, and final certification. The process ensures authenticity while adhering to international cultural property laws, minimizing risks of forgery and illicit trade. The workflow integrates both physical analysis and archival investigation, including interviews with previous owners and cross-referencing with historical databases, culminating in a comprehensive provenance report for museum curators and acquisition committees.",
+  "activities": [
+    "Initial Research",
+    "Sample Testing",
+    "Material Analysis",
+    "Forensic Imaging",
+    "Historical Check",
+    "Ownership Audit",
+    "Chain Validation",
+    "Legal Review",
+    "Interview Owners",
+    "Database Crossref",
+    "Condition Report",
+    "Forgery Scan",
+    "Provenance Draft",
+    "Compliance Check",
+    "Final Certification",
+    "Report Delivery"
+  ]
+}

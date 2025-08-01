@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the systematic verification and authentication of historical artifacts acquired by museums or private collectors. It begins with initial assessment and cataloging, followed by material analysis using non-invasive technology. Experts from multiple disciplines collaborate to compare findings with historical records. The workflow includes provenance verification, condition evaluation, and risk assessment for potential forgery or damage. Upon successful authentication, secure packaging and insurance appraisal are conducted before final archival registration. Continuous monitoring and periodic re-evaluation ensure long-term preservation and authenticity validation over time.",
+  "activities": [
+    "Initial Assessment",
+    "Catalog Entry",
+    "Material Scan",
+    "Expert Review",
+    "Provenance Check",
+    "Condition Eval",
+    "Forgery Risk",
+    "Cross Reference",
+    "Report Draft",
+    "Secure Packaging",
+    "Insurance Appraisal",
+    "Archival Entry",
+    "Stakeholder Brief",
+    "Periodic Audit",
+    "Preservation Plan",
+    "Reevaluation Set"
+  ]
+}

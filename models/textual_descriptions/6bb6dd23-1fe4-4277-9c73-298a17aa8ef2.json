@@ -1,0 +1,22 @@
+{
+  "title": "Artisan Supply Chain",
+  "description": "This process describes the end-to-end flow of sourcing rare, handcrafted materials from remote artisans, verifying authenticity through blockchain certification, coordinating bespoke production schedules with multiple small workshops, and managing bespoke logistics for fragile goods. The process involves collaborative design reviews, custom packaging development, and adaptive marketing strategies tailored to niche collectors, ensuring exclusivity and traceability throughout the supply chain while maintaining sustainability and fair trade practices.",
+  "activities": [
+    "Supplier Onboard",
+    "Material Verify",
+    "Auth Certify",
+    "Design Review",
+    "Sample Produce",
+    "Quality Inspect",
+    "Order Schedule",
+    "Workshop Align",
+    "Packaging Develop",
+    "Logistics Plan",
+    "Custom Label",
+    "Shipment Track",
+    "Customer Notify",
+    "Feedback Collect",
+    "Sustain Audit",
+    "Trade Compliance"
+  ]
+}

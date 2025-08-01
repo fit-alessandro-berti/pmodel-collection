@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the multi-layered verification of historical artifacts sourced from various private collectors, museums, and archaeological sites. Initially, artifacts undergo physical inspection and provenance validation, followed by advanced material composition analysis using spectroscopy. Concurrently, experts perform stylistic comparisons against known databases. The process includes legal clearance for export/import regulations and digital cataloging with blockchain certification for authenticity. Finally, artifacts are prepared for exhibition or sale, ensuring compliance with cultural heritage laws and ethical standards. This atypical workflow demands coordination among historians, scientists, legal advisors, and curators to guarantee artifact legitimacy and secure transfer.",
+  "activities": [
+    "Initial Inspect",
+    "Provenance Check",
+    "Material Scan",
+    "Spectroscopy Test",
+    "Stylistic Match",
+    "Database Query",
+    "Legal Review",
+    "Export Clearance",
+    "Blockchain Certify",
+    "Digital Catalog",
+    "Expert Panel",
+    "Condition Report",
+    "Ethics Audit",
+    "Exhibit Prep",
+    "Final Approval",
+    "Transfer Log"
+  ]
+}

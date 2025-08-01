@@ -1,0 +1,22 @@
+{
+  "title": "Custom Drone Manufacturing",
+  "description": "This process outlines the end-to-end production of custom drones tailored for specialized industrial applications. It begins with client consultation to gather detailed requirements, followed by design customization using advanced CAD tools. The production phase involves precision component fabrication, including 3D printing of unique parts and selective material treatments. Assembly is conducted in a controlled environment to ensure optimal integration of electronics and mechanical systems. Quality assurance includes rigorous flight testing and software calibration. Finally, the process concludes with packaging, client training, and post-delivery support to ensure operational success and client satisfaction.",
+  "activities": [
+    "Client Brief",
+    "Design Draft",
+    "Material Sourcing",
+    "Part Fabrication",
+    "3D Printing",
+    "Surface Treat",
+    "Component Test",
+    "System Assembly",
+    "Firmware Load",
+    "Calibration Setup",
+    "Flight Testing",
+    "Quality Review",
+    "Packaging Prep",
+    "Client Training",
+    "Delivery Setup",
+    "Support Launch"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Reverse Logistics Optimization",
+  "description": "This process involves managing the return and refurbishment of used electronic devices from customers to restore value and minimize waste. It starts with receiving returned items, followed by inspection, segregation based on condition, data wiping for privacy, component harvesting, repair or refurbishment, quality testing, and repackaging. Simultaneously, defective parts are recycled or disposed of responsibly. The process also includes updating inventory records, coordinating with resale channels, handling customer refunds or credits, and continuously analyzing return patterns to improve future product designs and reduce return rates. This atypical process integrates sustainability with profitability in a complex supply chain environment.",
+  "activities": [
+    "Receive Returns",
+    "Inspect Items",
+    "Segregate Stock",
+    "Wipe Data",
+    "Harvest Parts",
+    "Refurbish Units",
+    "Test Quality",
+    "Recycle Waste",
+    "Dispose Defects",
+    "Update Inventory",
+    "Coordinate Resale",
+    "Process Refunds",
+    "Analyze Patterns",
+    "Improve Design",
+    "Report Metrics"
+  ]
+}

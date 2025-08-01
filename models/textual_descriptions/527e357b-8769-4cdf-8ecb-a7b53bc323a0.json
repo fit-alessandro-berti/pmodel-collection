@@ -1,0 +1,21 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process involves the bespoke assembly of custom drones tailored to unique client specifications. It begins with requirement gathering and component sourcing, followed by precise frame construction. The next steps include sensor calibration, software integration, and quality assurance testing. Specialized activities such as aerodynamic tuning, battery optimization, and secure communication setup ensure superior performance. Final stages involve pilot training, deployment planning, and ongoing maintenance scheduling. The process requires interdisciplinary coordination between engineering, software development, and customer support teams to deliver fully functional, customized drone solutions efficiently and reliably.",
+  "activities": [
+    "Client Brief",
+    "Part Sourcing",
+    "Frame Build",
+    "Sensor Setup",
+    "Software Load",
+    "Calibration Test",
+    "Aerodynamic Tune",
+    "Battery Check",
+    "Comm Setup",
+    "Flight Trial",
+    "Quality Audit",
+    "Pilot Train",
+    "Deploy Plan",
+    "Maintenance Log",
+    "Feedback Review"
+  ]
+}

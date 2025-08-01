@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process details the complex steps involved in establishing an urban vertical farm within a repurposed industrial building. It integrates architectural redesign, advanced hydroponic system installation, environmental control calibration, and supply chain coordination. The workflow encompasses site analysis, regulatory compliance, modular assembly, nutrient solution formulation, automation programming, and staff training. Emphasis is placed on sustainability through energy-efficient lighting, water recycling, and waste management. The process concludes with quality assurance testing and market launch preparation to ensure consistent crop production and profitability in an unconventional urban agriculture setting.",
+  "activities": [
+    "Site Survey",
+    "Design Layout",
+    "Regulatory Check",
+    "Structural Reinforce",
+    "Hydroponic Setup",
+    "Lighting Install",
+    "Climate Control",
+    "Water Recycling",
+    "Nutrient Mix",
+    "Automation Config",
+    "Sensor Calibrate",
+    "System Testing",
+    "Staff Training",
+    "Waste Disposal",
+    "Market Launch"
+  ]
+}

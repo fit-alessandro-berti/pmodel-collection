@@ -1,0 +1,22 @@
+{
+  "title": "Artisan Supply Chain",
+  "description": "This process manages the sourcing, crafting, and distribution of unique artisan goods which involve coordinating with local craftsmen, verifying material authenticity, customizing orders based on client preferences, and ensuring timely delivery while maintaining sustainability standards and minimizing waste throughout the supply chain.",
+  "activities": [
+    "Source Materials",
+    "Verify Authenticity",
+    "Negotiate Price",
+    "Order Custom",
+    "Design Prototype",
+    "Approve Design",
+    "Craft Item",
+    "Quality Inspect",
+    "Package Goods",
+    "Schedule Pickup",
+    "Arrange Transport",
+    "Track Shipment",
+    "Confirm Delivery",
+    "Collect Feedback",
+    "Restock Inventory",
+    "Sustainability Audit"
+  ]
+}

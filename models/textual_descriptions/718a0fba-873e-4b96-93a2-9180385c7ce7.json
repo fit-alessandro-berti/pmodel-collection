@@ -1,0 +1,22 @@
+{
+  "title": "Urban Beekeeping Supply Chain",
+  "description": "This process outlines the atypical yet realistic supply chain management for urban beekeeping. It involves sourcing sustainable hive materials from local artisans, coordinating micro-scale nectar collection schedules with city flora bloom cycles, ensuring compliance with municipal regulations on apiary placement, monitoring hive health remotely using IoT sensors, orchestrating community workshops for beekeeper training, managing seasonal honey extraction and packaging, facilitating direct-to-consumer urban farmers markets sales, and implementing a feedback loop for continuous product and process improvement. The complexity arises from intertwining ecological factors, regulatory constraints, and hyper-localized logistics within a dense urban environment, demanding agile coordination across diverse stakeholders.",
+  "activities": [
+    "Material Sourcing",
+    "Design Approval",
+    "Regulation Check",
+    "Artisan Liaison",
+    "Bloom Mapping",
+    "Nectar Timing",
+    "Hive Setup",
+    "Sensor Install",
+    "Health Monitor",
+    "Workshop Plan",
+    "Training Deliver",
+    "Honey Extract",
+    "Packaging Prep",
+    "Market Setup",
+    "Customer Feedback",
+    "Process Review"
+  ]
+}

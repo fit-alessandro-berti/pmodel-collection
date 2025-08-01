@@ -1,0 +1,21 @@
+{
+  "title": "Global Remote Hackathon Workflow",
+  "description": "This process outlines the end-to-end coordination of a global remote hackathon involving diverse participants across multiple time zones. It begins with concept ideation and sponsor alignment, followed by participant registration and team formation using AI matchmaking. Next, preparatory workshops are scheduled and delivered virtually. During the hackathon, continuous monitoring, live support, and iterative feedback loops ensure smooth progress. Submission validation and automated plagiarism checks precede jury evaluations conducted via a secure portal. Finally, winners are announced through a synchronized global livestream, and post-event analytics drive future improvements, ensuring an engaging and equitable competition experience for all participants worldwide.",
+  "activities": [
+    "Concept Ideation",
+    "Sponsor Alignment",
+    "Participant SignUp",
+    "Team Formation",
+    "Workshop Setup",
+    "Workshop Delivery",
+    "Progress Monitor",
+    "Live Support",
+    "Feedback Loop",
+    "Submission Check",
+    "Plagiarism Scan",
+    "Jury Evaluation",
+    "Result Compilation",
+    "Winner Announcement",
+    "Post Analytics"
+  ]
+}

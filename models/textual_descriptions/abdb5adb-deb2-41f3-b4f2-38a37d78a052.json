@@ -1,0 +1,21 @@
+{
+  "title": "Interdepartmental Innovation Cycle",
+  "description": "This process governs the cyclical collaboration between multiple departments to foster continuous innovation within an organization. It begins with idea solicitation from all teams, followed by cross-functional brainstorming sessions. Selected concepts undergo rapid prototyping, internal testing, and iterative feedback collection. Simultaneously, risk assessments and market feasibility studies are conducted to ensure viability. Upon refinement, resource allocation and budget approval are secured before pilot deployment. Post-deployment analytics and stakeholder evaluations inform final adjustments. The cycle concludes with knowledge sharing and documentation to embed learnings into organizational best practices, thus promoting sustainable innovation across departments.",
+  "activities": [
+    "Idea Gathering",
+    "Cross Brainstorm",
+    "Concept Screening",
+    "Prototype Build",
+    "Internal Testing",
+    "Feedback Loop",
+    "Risk Review",
+    "Market Study",
+    "Resource Plan",
+    "Budget Approval",
+    "Pilot Launch",
+    "Data Analysis",
+    "Stakeholder Meet",
+    "Final Adjust",
+    "Knowledge Share"
+  ]
+}

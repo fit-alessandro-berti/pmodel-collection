@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the establishment of a vertical farming operation within an urban environment, integrating advanced hydroponic systems, AI-driven climate control, and local supply chain logistics. It begins with site analysis and ends with ongoing yield optimization, incorporating activities such as nutrient cycling, pest monitoring without pesticides, and community engagement for sustainable food distribution. The process involves cross-disciplinary collaboration among agronomists, engineers, data scientists, and local authorities to ensure compliance and efficiency. It emphasizes resource recycling, energy management, and adaptive crop planning based on real-time data and market demand forecasts, creating a highly responsive urban agriculture model.",
+  "activities": [
+    "Site Survey",
+    "Design Layout",
+    "Permits Obtain",
+    "System Install",
+    "Seed Selection",
+    "Nutrient Mix",
+    "Planting Setup",
+    "Climate Control",
+    "Pest Monitor",
+    "Data Integration",
+    "Growth Tracking",
+    "Harvest Plan",
+    "Yield Analysis",
+    "Waste Recycle",
+    "Market Liaison",
+    "Community Engage"
+  ]
+}

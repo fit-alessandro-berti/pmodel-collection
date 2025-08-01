@@ -1,0 +1,21 @@
+{
+  "title": "Crowdsourced Innovation Cycle",
+  "description": "This process orchestrates the collection, evaluation, and implementation of innovative ideas sourced from a global community. It begins with idea solicitation through multiple channels, followed by automated filtering and peer review to prioritize high-potential concepts. Selected ideas undergo prototyping and iterative feedback loops involving both internal experts and the crowd. Concurrently, legal assessments ensure intellectual property compliance, while resource allocation optimizes development costs. After refinement, successful prototypes are transitioned to pilot programs with continuous performance monitoring. Finally, viable innovations are scaled for full market deployment, supported by targeted marketing and post-launch evaluation to capture learnings and inform future cycles.",
+  "activities": [
+    "Idea Capture",
+    "Filter Review",
+    "Peer Voting",
+    "Concept Ranking",
+    "Prototype Build",
+    "Expert Feedback",
+    "Legal Check",
+    "Resource Assign",
+    "Pilot Launch",
+    "Performance Monitor",
+    "Market Test",
+    "Scale Plan",
+    "Marketing Prep",
+    "Post Launch",
+    "Data Analyze"
+  ]
+}

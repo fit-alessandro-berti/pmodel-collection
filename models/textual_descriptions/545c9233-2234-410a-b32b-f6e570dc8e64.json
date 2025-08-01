@@ -1,0 +1,21 @@
+{
+  "title": "Artisan Supply Chain Orchestration",
+  "description": "This process involves coordinating a network of independent artisans and small-scale suppliers to produce bespoke handcrafted products. It starts with raw material sourcing from sustainable local farms, followed by quality vetting and batch allocation to different artisan groups. Each artisan customizes components based on unique client orders, integrating traditional techniques with modern design inputs. The process includes iterative feedback loops between artisans and design coordinators, logistics planning for staggered deliveries, and dynamic inventory adjustments. Final assembly is conducted in a centralized atelier where quality assurance and packaging are tailored to individual client specifications, culminating in a personalized delivery experience that emphasizes craftsmanship and sustainability throughout the supply chain.",
+  "activities": [
+    "Material Sourcing",
+    "Quality Vetting",
+    "Batch Allocation",
+    "Order Customizing",
+    "Design Feedback",
+    "Artisan Coordination",
+    "Component Tracking",
+    "Inventory Adjusting",
+    "Logistics Planning",
+    "Delivery Scheduling",
+    "Assembly Prep",
+    "Final Assembly",
+    "Quality Review",
+    "Packaging Tailoring",
+    "Client Delivery"
+  ]
+}

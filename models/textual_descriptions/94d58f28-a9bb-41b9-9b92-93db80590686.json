@@ -1,0 +1,23 @@
+{
+  "title": "Artisanal Cheese Supply Chain",
+  "description": "This process encompasses the unique steps involved in producing and distributing artisanal cheese from farm to gourmet retailer. It begins with selecting rare milk breeds and monitoring animal diet to influence flavor profiles. The milk undergoes micro-filtering and custom fermentation using wild cultures. Aging occurs in controlled microclimates with periodic turning and humidity adjustments. Quality is assessed through sensory panels and microbial analysis. Packaging utilizes biodegradable materials with embedded QR codes detailing provenance. Finally, logistics involve temperature-monitored transport and boutique delivery, ensuring freshness and traceability throughout the supply chain.",
+  "activities": [
+    "Breed Select",
+    "Diet Monitor",
+    "Milk Harvest",
+    "Micro Filter",
+    "Wild Culture",
+    "Custom Ferment",
+    "Curd Cut",
+    "Press Form",
+    "Microclimate Age",
+    "Turn Cheese",
+    "Humidity Adjust",
+    "Sensory Panel",
+    "Microbial Test",
+    "Eco Package",
+    "QR Code",
+    "Temp Transport",
+    "Boutique Deliver"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Rare Artifact Authentication",
+  "description": "This process involves the multidisciplinary verification of rare artifacts combining historical research, material science, and expert consultation to establish provenance and authenticity. It includes initial discovery documentation, advanced imaging, chemical composition analysis, comparative stylistic evaluation, external expert validation, and legal ownership checks. Collaboration with museums and private collectors ensures accuracy, while risk assessment and conservation recommendations are made before final certification and secure transfer procedures. The process is iterative and may require revisiting prior steps based on new findings or disputes.",
+  "activities": [
+    "Discover Item",
+    "Document Find",
+    "Initial Survey",
+    "Image Capture",
+    "Material Testing",
+    "Style Compare",
+    "Expert Consult",
+    "Provenance Check",
+    "Ownership Verify",
+    "Legal Review",
+    "Risk Assess",
+    "Conservation Plan",
+    "Certification",
+    "Secure Transfer",
+    "Dispute Resolve",
+    "Final Archive"
+  ]
+}

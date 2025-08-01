@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the establishment of an urban vertical farming facility designed to optimize limited city space for sustainable food production. It involves site selection within dense urban areas, modular system design, environmental control setup, crop selection based on microclimate data, automated nutrient delivery, and integration of IoT sensors for real-time monitoring. The process also includes staff training on vertical farming techniques, waste recycling protocols, and establishing supply chain links with local markets. The goal is to create a resilient, scalable, and eco-friendly food production system that leverages technology and urban infrastructure to reduce food miles and improve fresh produce availability in metropolitan regions.",
+  "activities": [
+    "Site Survey",
+    "Design Layout",
+    "System Build",
+    "Install Sensors",
+    "Select Crops",
+    "Setup Lighting",
+    "Configure Climate",
+    "Nutrient Mix",
+    "Automate Watering",
+    "Test Systems",
+    "Train Staff",
+    "Waste Plan",
+    "Market Link",
+    "Data Monitor",
+    "Optimize Yield"
+  ]
+}

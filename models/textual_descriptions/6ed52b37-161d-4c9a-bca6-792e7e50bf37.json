@@ -1,0 +1,21 @@
+{
+  "title": "Custom Artifact Provenance Verification",
+  "description": "This process involves verifying the authenticity and provenance of rare cultural artifacts before acquisition by a museum or private collector. It includes multi-stage scientific testing, historical record analysis, expert consultations across various domains, and coordination with international regulatory agencies. The process ensures comprehensive validation of artifact origin, condition assessment, legal clearance, and ethical sourcing. It incorporates iterative hypothesis refinement, cross-referencing with global databases, and final certification issuance, aiming to prevent fraud and protect cultural heritage while facilitating secure and transparent transactions in the artifact market.",
+  "activities": [
+    "Artifact Intake",
+    "Initial Survey",
+    "Material Testing",
+    "Historical Audit",
+    "Expert Review",
+    "Provenance Check",
+    "Database Query",
+    "Legal Screening",
+    "Ethics Assessment",
+    "Condition Report",
+    "Hypothesis Update",
+    "Regulatory Liaison",
+    "Certification Prep",
+    "Final Validation",
+    "Ownership Transfer"
+  ]
+}

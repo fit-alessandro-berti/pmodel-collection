@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the thorough authentication of historical artifacts intended for museum acquisition. It begins with preliminary provenance research, followed by multispectral imaging and material composition analysis. Specialist consultations are conducted to verify stylistic consistency. Trace element profiling and radiocarbon dating provide scientific validation. Parallelly, legal ownership checks and export compliance reviews ensure ethical acquisition. The workflow culminates in compiling a comprehensive authentication report and final approval by the acquisitions board, minimizing the risk of counterfeit or illegally sourced artifacts entering the collection.",
+  "activities": [
+    "Provenance Check",
+    "Image Capture",
+    "Material Scan",
+    "Style Review",
+    "Element Analysis",
+    "Carbon Dating",
+    "Consult Experts",
+    "Ownership Verify",
+    "Export Review",
+    "Legal Clearance",
+    "Data Integration",
+    "Report Draft",
+    "Board Review",
+    "Final Approval",
+    "Archive Data"
+  ]
+}

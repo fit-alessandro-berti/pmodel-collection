@@ -1,0 +1,23 @@
+{
+  "title": "Urban Farming Supply Chain",
+  "description": "This process outlines the unique supply chain management for an urban farming cooperative that integrates local food production with city-wide distribution. It involves sourcing specialized seeds adapted to urban climates, coordinating rooftop and indoor farm schedules, monitoring crop health using IoT sensors, managing vertical farm nutrient cycles, and optimizing harvest timing. The process also includes packaging with sustainable materials, handling last-mile delivery via electric vehicles, and engaging community members for feedback and demand forecasting. This atypical supply chain emphasizes sustainability, technology integration, and community involvement to ensure fresh produce availability in dense urban settings while minimizing waste and carbon footprint.",
+  "activities": [
+    "Seed Sourcing",
+    "Farm Scheduling",
+    "Sensor Monitoring",
+    "Nutrient Cycling",
+    "Crop Forecasting",
+    "Pest Inspection",
+    "Harvest Timing",
+    "Quality Check",
+    "Eco Packaging",
+    "Storage Allocation",
+    "Order Processing",
+    "Route Planning",
+    "Vehicle Dispatch",
+    "Customer Feedback",
+    "Demand Analysis",
+    "Waste Management",
+    "Community Outreach"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Urban Rooftop Farming Setup",
+  "description": "This process outlines the establishment of an urban rooftop farm on a commercial building, involving unique steps such as structural load assessment, soil-less medium installation, microclimate analysis, and automated irrigation programming. It integrates multiple disciplines including architecture, agriculture, and environmental engineering to ensure sustainable food production in a limited urban space. The process also includes community engagement for local sourcing and education, regulatory compliance with city zoning laws, and the implementation of renewable energy systems to minimize environmental impact. Continuous monitoring and adaptive management ensure optimal crop yield while maintaining building integrity and tenant satisfaction.",
+  "activities": [
+    "Load Assess",
+    "Permit Review",
+    "Site Survey",
+    "Design Layout",
+    "Soil Mix",
+    "Install Beds",
+    "Irrigation Set",
+    "Climate Test",
+    "Sensor Deploy",
+    "Energy Setup",
+    "Crop Select",
+    "Plant Seeding",
+    "Community Meet",
+    "Compliance Check",
+    "Growth Monitor",
+    "Harvest Plan",
+    "Waste Recycle"
+  ]
+}

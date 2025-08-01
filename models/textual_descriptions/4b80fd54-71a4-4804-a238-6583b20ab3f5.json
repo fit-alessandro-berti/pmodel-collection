@@ -1,0 +1,23 @@
+{
+  "title": "Artisan Supply Chain",
+  "description": "This process manages the end-to-end flow of rare artisan materials from ethically sourced rural suppliers to luxury handcrafted product manufacturers. It involves scouting unique raw material providers, verifying authenticity, coordinating special transport methods to preserve quality, scheduling precise delivery windows, conducting multi-stage quality inspections, managing artisan contracts, and integrating customer feedback for continuous product refinement. The process must handle irregular supply schedules, fluctuating demand, and maintain strong relationships with niche suppliers while ensuring compliance with international trade regulations and sustainability standards.",
+  "activities": [
+    "Supplier Scout",
+    "Auth Verify",
+    "Sample Collect",
+    "Quality Inspect",
+    "Transport Setup",
+    "Customs Clear",
+    "Inventory Log",
+    "Order Confirm",
+    "Schedule Pickup",
+    "Artisan Assign",
+    "Contract Review",
+    "Product Assemble",
+    "Final Inspect",
+    "Feedback Gather",
+    "Demand Forecast",
+    "Sustain Audit",
+    "Shipment Track"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Cross-Platform Content Syndication",
+  "description": "This process manages the end-to-end syndication of digital content across multiple platforms, including social media, partner websites, and proprietary apps. It involves content adaptation for diverse formats, automated scheduling based on audience analytics, compliance checks for licensing and regional restrictions, real-time performance monitoring, and iterative optimization through machine learning insights. The workflow ensures consistent branding, maximizes reach, and balances organic and paid distribution strategies while maintaining content integrity and legal compliance in dynamic market environments.",
+  "activities": [
+    "Content Ingest",
+    "Format Adapt",
+    "Metadata Tagging",
+    "License Verify",
+    "Audience Segment",
+    "Schedule Publish",
+    "Platform Sync",
+    "Quality Audit",
+    "Compliance Check",
+    "Performance Track",
+    "Engagement Analyze",
+    "Budget Adjust",
+    "Campaign Optimize",
+    "Partner Notify",
+    "Report Generate",
+    "Feedback Integrate"
+  ]
+}

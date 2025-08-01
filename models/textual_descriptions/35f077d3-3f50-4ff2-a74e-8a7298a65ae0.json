@@ -1,0 +1,21 @@
+{
+  "title": "Global Art Loan Cycle",
+  "description": "This process manages the intricate logistics and legal considerations involved in lending high-value artworks across international borders for exhibitions. It includes authentication, condition reporting, customs clearance, insurance coordination, and installation oversight. The process ensures compliance with cultural heritage laws, coordinates with multiple stakeholders such as museums, insurers, transporters, and customs officials, and manages risk throughout the artwork's journey. Post-exhibition, the process involves de-installation, condition reassessment, and secure return, closing with archival documentation and financial reconciliation.",
+  "activities": [
+    "Verify Artwork",
+    "Authenticate Piece",
+    "Condition Report",
+    "Insurance Quote",
+    "Contract Draft",
+    "Customs Filing",
+    "Transport Booking",
+    "Packaging Prep",
+    "Secure Transit",
+    "Installation Setup",
+    "Exhibition Monitor",
+    "De-install Artwork",
+    "Return Transit",
+    "Final Inspection",
+    "Archive Records"
+  ]
+}

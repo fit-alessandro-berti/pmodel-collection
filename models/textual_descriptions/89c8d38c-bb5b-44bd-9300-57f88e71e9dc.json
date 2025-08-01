@@ -1,0 +1,22 @@
+{
+  "title": "Custom Drone Deployment",
+  "description": "This process involves the design, assembly, testing, and deployment of bespoke drones tailored for unique environmental monitoring tasks. It starts with client consultation to gather specific requirements, followed by component sourcing and integration of advanced sensors. After assembly, drones undergo rigorous flight simulation and real-world testing to ensure reliability under diverse conditions. Post-testing includes software calibration and custom firmware updates. Finally, drones are packaged with operation manuals and shipped alongside remote support setup for client training and maintenance scheduling to guarantee optimal long-term performance and compliance with aviation regulations.",
+  "activities": [
+    "Client Consult",
+    "Requirement Gather",
+    "Component Sourcing",
+    "Sensor Integration",
+    "Frame Assembly",
+    "Firmware Upload",
+    "Flight Simulate",
+    "Real Test",
+    "Data Calibration",
+    "Quality Inspect",
+    "Manual Draft",
+    "Packaging Prep",
+    "Shipping Arrange",
+    "Support Setup",
+    "Training Schedule",
+    "Maintenance Plan"
+  ]
+}

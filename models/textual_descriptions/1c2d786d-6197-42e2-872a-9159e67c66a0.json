@@ -1,0 +1,24 @@
+{
+  "title": "Drone Fleet Deployment",
+  "description": "This process involves the coordinated preparation, calibration, and deployment of a commercial drone fleet for large-scale agricultural monitoring. It begins with environmental data collection and drone diagnostics, followed by flight path optimization using AI algorithms. The drones are then equipped with sensor payloads, undergo pre-flight safety checks, and are dispatched in staggered waves to cover diverse terrain. As drones collect multispectral imagery, onboard AI performs in-flight anomaly detection to flag crop health issues. The data is transmitted in real-time to a centralized system for further analysis, while drones are continuously monitored for battery status and mechanical integrity. Post-mission, drones return to designated charging stations for automated maintenance and firmware updates. Throughout, compliance with aviation regulations and data privacy protocols is ensured, integrating stakeholder communications and incident reporting mechanisms to maintain operational transparency and efficiency.",
+  "activities": [
+    "Data Collect",
+    "Drone Setup",
+    "Sensor Install",
+    "Diagnostics Run",
+    "Flight Plan",
+    "AI Optimize",
+    "Safety Check",
+    "Payload Load",
+    "Launch Drones",
+    "In-Flight AI",
+    "Data Stream",
+    "Status Monitor",
+    "Return Fleet",
+    "Auto Maintain",
+    "Firmware Update",
+    "Regulation Check",
+    "Incident Report",
+    "Stakeholder Notify"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Urban Drone Delivery Setup",
+  "description": "This process outlines the complex steps required to establish a fully operational urban drone delivery system. It includes obtaining regulatory approvals, designing drone flight paths that avoid restricted zones, integrating real-time weather data for flight safety, coordinating with local traffic control, setting up secure package handling protocols, and implementing customer notification systems. The process also covers periodic maintenance scheduling, emergency response planning, and data analytics to optimize delivery efficiency and reduce environmental impact, ensuring a sustainable and compliant urban delivery network.",
+  "activities": [
+    "Regulatory Check",
+    "Path Design",
+    "Weather Sync",
+    "Traffic Align",
+    "Package Secure",
+    "Customer Alert",
+    "Drone Assemble",
+    "Flight Test",
+    "Data Monitor",
+    "Safety Audit",
+    "Emergency Plan",
+    "Maintenance Plan",
+    "Battery Cycle",
+    "Route Update",
+    "Performance Review",
+    "Impact Study",
+    "Compliance Review"
+  ]
+}

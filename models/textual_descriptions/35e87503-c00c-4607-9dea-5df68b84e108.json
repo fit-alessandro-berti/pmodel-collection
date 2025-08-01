@@ -1,0 +1,21 @@
+{
+  "title": "Custom Art Commission Workflow",
+  "description": "This process outlines the end-to-end workflow for commissioning bespoke artwork tailored to individual client preferences. It begins with initial client inquiry and concept briefing, proceeds through iterative design proposals and client feedback sessions, incorporates material sourcing and artist scheduling, and culminates in final production, quality assurance, packaging, and delivery. Throughout, the process involves coordination between multiple stakeholders including clients, artists, suppliers, and logistics, ensuring custom specifications are met while managing timelines and budgets efficiently. Post-delivery follow-ups and archival documentation close the cycle, enabling repeat business and portfolio enhancement.",
+  "activities": [
+    "Client Inquiry",
+    "Concept Brief",
+    "Design Draft",
+    "Feedback Review",
+    "Material Sourcing",
+    "Artist Scheduling",
+    "Prototype Creation",
+    "Quality Check",
+    "Client Approval",
+    "Final Production",
+    "Packaging Prep",
+    "Shipping Arrange",
+    "Delivery Confirm",
+    "Post Followup",
+    "Archive Records"
+  ]
+}

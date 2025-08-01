@@ -1,0 +1,23 @@
+{
+  "title": "Adaptive Urban Farming Cycle",
+  "description": "This process outlines the complex adaptive cycle of urban farming within a dynamic city environment, integrating environmental monitoring, community engagement, and resource optimization. It involves iterative soil testing, microclimate analysis, and crop selection based on real-time data. Community workshops promote sustainable practices, while automated irrigation systems adjust to weather variability. Waste from local markets is repurposed as compost, closing the nutrient loop. The process also includes periodic economic assessments to ensure profitability and social impact, as well as regulatory compliance checks. Data from IoT sensors feed into AI models that predict pest outbreaks and growth rates, enabling proactive interventions. This atypical urban agricultural approach balances ecological, social, and economic objectives to create resilient food production systems within city limits.",
+  "activities": [
+    "Soil Testing",
+    "Climate Scan",
+    "Crop Selection",
+    "Community Meet",
+    "Irrigation Adjust",
+    "Waste Collect",
+    "Compost Creation",
+    "Market Sync",
+    "Pest Forecast",
+    "Growth Monitor",
+    "Data Analysis",
+    "AI Prediction",
+    "Regulation Check",
+    "Economic Review",
+    "Resource Shift",
+    "Workshop Host",
+    "Yield Report"
+  ]
+}

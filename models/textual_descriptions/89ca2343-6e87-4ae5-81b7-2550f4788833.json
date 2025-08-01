@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the intricate steps involved in establishing an urban vertical farm within a constrained city environment. It begins with site analysis and zoning compliance, followed by modular structure design and custom hydroponic system integration. Concurrently, environmental sensors are calibrated to optimize plant growth cycles. Specialized nutrient solutions are formulated and tested for different crop types, while energy-efficient LED lighting schedules are programmed. Worker safety protocols are developed alongside automation routines for seeding, irrigation, and harvesting. Finally, a digital inventory system is implemented to track crop yields and supply chain logistics, ensuring sustainability and profitability in a complex urban agriculture setting.",
+  "activities": [
+    "Site Analysis",
+    "Zoning Check",
+    "Structure Design",
+    "Hydroponic Setup",
+    "Sensor Calibration",
+    "Nutrient Testing",
+    "Lighting Program",
+    "Safety Protocol",
+    "Automation Script",
+    "Seeding Cycle",
+    "Irrigation Plan",
+    "Harvest Routine",
+    "Inventory Setup",
+    "Yield Tracking",
+    "Supply Logistics"
+  ]
+}

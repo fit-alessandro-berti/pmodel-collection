@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Supply Chain",
+  "description": "This process outlines the end-to-end operations of an urban vertical farming supply chain, integrating advanced hydroponics, automated harvesting, and AI-driven demand forecasting. It begins with seed selection and nutrient formulation, followed by controlled environment monitoring and pest detection using IoT sensors. Crops are then harvested via robotic arms, quality-checked by computer vision systems, and packaged in biodegradable containers. Distribution leverages micro-fulfillment centers to enable rapid delivery to local markets while minimizing carbon footprint. Feedback loops from consumer preferences inform adaptive crop planning and resource allocation, ensuring sustainability and profitability in a complex urban agricultural ecosystem.",
+  "activities": [
+    "Seed Selection",
+    "Nutrient Mix",
+    "Environment Setup",
+    "Sensor Deployment",
+    "Growth Monitoring",
+    "Pest Detection",
+    "Automated Harvest",
+    "Quality Check",
+    "Packaging Prep",
+    "Biodegradable Pack",
+    "Inventory Sync",
+    "Demand Forecast",
+    "Micro Fulfillment",
+    "Local Dispatch",
+    "Consumer Feedback",
+    "Crop Adjustment"
+  ]
+}

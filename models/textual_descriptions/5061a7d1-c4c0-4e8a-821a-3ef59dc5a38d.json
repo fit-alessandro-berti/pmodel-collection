@@ -1,0 +1,23 @@
+{
+  "title": "Custom Drone Delivery Setup",
+  "description": "This complex business process involves designing and launching a tailored drone delivery solution for specialized clients. It begins with client needs analysis, followed by regulatory compliance checks and custom drone configuration. The process includes route optimization, payload testing, and integration with client logistics systems. Continuous monitoring and adaptive feedback loops ensure delivery efficiency and safety. Post-deployment support and iterative upgrades maintain operational excellence and client satisfaction over time, making the process both innovative and highly specialized.",
+  "activities": [
+    "Client Brief",
+    "Needs Analysis",
+    "Regulatory Check",
+    "Drone Design",
+    "Component Sourcing",
+    "Assembly Test",
+    "Payload Setup",
+    "Route Mapping",
+    "Flight Simulation",
+    "Logistics Sync",
+    "Safety Audit",
+    "Pilot Training",
+    "Deployment Launch",
+    "Performance Review",
+    "Feedback Loop",
+    "Maintenance Plan",
+    "Upgrade Cycle"
+  ]
+}

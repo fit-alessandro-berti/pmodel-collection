@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farm Setup",
+  "description": "This process outlines the establishment of an urban vertical farm that integrates advanced hydroponic systems with AI-driven environmental controls. It involves site evaluation in dense metropolitan areas, modular infrastructure assembly, nutrient solution formulation, and real-time sensor calibration. The process also includes labor scheduling for crop monitoring, pest management using biocontrol agents, and dynamic yield forecasting. Additionally, it covers regulatory compliance for urban agriculture, marketing to local retailers, harvesting automation, and waste recycling protocols to ensure sustainability and profitability in constrained urban spaces.",
+  "activities": [
+    "Site Survey",
+    "Design Layout",
+    "Permits Obtain",
+    "Structure Build",
+    "Hydro Setup",
+    "Sensor Install",
+    "Nutrient Mix",
+    "AI Config",
+    "Crop Planting",
+    "Pest Control",
+    "Labor Assign",
+    "Growth Monitor",
+    "Yield Forecast",
+    "Harvest Automate",
+    "Waste Recycle",
+    "Market Engage"
+  ]
+}

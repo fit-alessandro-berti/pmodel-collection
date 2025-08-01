@@ -1,0 +1,23 @@
+{
+  "title": "Artisanal Cheese Supply",
+  "description": "This process involves the complex orchestration of sourcing rare milk varieties, aging cheese in controlled microclimates, and managing artisanal packaging to preserve flavor integrity. It includes farm inspections, microbial testing, seasonal variation adjustments, and bespoke logistics coordination to ensure freshness and compliance with gourmet food regulations. The process also incorporates consumer feedback loops and limited edition releases to maintain exclusivity and market demand, requiring tight collaboration between dairy farmers, microbiologists, logistics teams, and marketing units.",
+  "activities": [
+    "Milk Sourcing",
+    "Farm Inspection",
+    "Microbial Test",
+    "Milk Pasteurize",
+    "Curd Formation",
+    "Whey Separation",
+    "Cheese Molding",
+    "Salting Stage",
+    "Aging Control",
+    "Climate Adjust",
+    "Quality Check",
+    "Packaging Design",
+    "Label Printing",
+    "Logistics Plan",
+    "Retail Dispatch",
+    "Customer Feedback",
+    "Market Analysis"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process outlines the end-to-end workflow for assembling bespoke drones tailored to client specifications. It begins with design consultation and component sourcing, followed by precision machining and custom firmware development. Each drone undergoes iterative calibration and environmental testing to ensure performance under diverse conditions. The process integrates real-time feedback loops between assembly and software teams to address emerging issues. Final steps include packaging with personalized branding and coordinated logistics for delivery, ensuring each unit meets stringent quality and regulatory standards before reaching the customer. This atypical yet practical process combines hardware craft, software innovation, and supply chain agility.",
+  "activities": [
+    "Client Brief",
+    "Design Draft",
+    "Part Sourcing",
+    "Machining Parts",
+    "Firmware Dev",
+    "Hardware Assembling",
+    "Initial Testing",
+    "Calibration Loop",
+    "Enviro Testing",
+    "Software Tuning",
+    "Quality Audit",
+    "Brand Packaging",
+    "Logistics Plan",
+    "Final Review",
+    "Customer Handover"
+  ]
+}

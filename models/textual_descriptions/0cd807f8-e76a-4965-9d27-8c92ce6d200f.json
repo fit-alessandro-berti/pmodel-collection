@@ -1,0 +1,21 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process involves the bespoke assembly of drones tailored to specific client requirements, integrating unique hardware and software components. It starts with requirement analysis, followed by parts sourcing from specialized vendors, custom frame fabrication, and component integration. Quality testing includes flight simulation and endurance trials. Final steps feature software calibration, safety certification, and packaging for delivery. The process requires coordination among design, engineering, procurement, and quality assurance teams to ensure each drone meets precise operational standards while maintaining adaptability for future upgrades and modifications.",
+  "activities": [
+    "Requirement Sync",
+    "Vendor Audit",
+    "Part Sourcing",
+    "Frame Design",
+    "Material Cut",
+    "Component Fit",
+    "Wiring Setup",
+    "Firmware Load",
+    "Initial Testing",
+    "Flight Sim",
+    "Battery Install",
+    "Endurance Test",
+    "Safety Cert",
+    "Software Tune",
+    "Final Pack"
+  ]
+}

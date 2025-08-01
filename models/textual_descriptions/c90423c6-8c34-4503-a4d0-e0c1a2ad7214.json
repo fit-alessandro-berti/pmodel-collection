@@ -1,0 +1,23 @@
+{
+  "title": "Artisan Coffee Supply Chain",
+  "description": "This process describes the complex journey of sourcing, roasting, packaging, and distributing artisan coffee beans from remote farms to specialty cafes. It includes unique steps such as micro-lot selection, sensory profiling, fermentation control, and direct trade negotiations. The process also involves sustainability audits, custom blend creation, and dynamic pricing models based on seasonal crop yields and market demand fluctuations, ensuring premium quality and traceability throughout the supply chain. Additionally, it incorporates digital inventory synchronization and barista training programs to maintain brand consistency and customer satisfaction across multiple geographic regions.",
+  "activities": [
+    "Farm Selection",
+    "Sample Testing",
+    "Trade Negotiation",
+    "Micro-Lot Sorting",
+    "Fermentation Control",
+    "Sensory Profiling",
+    "Roast Calibration",
+    "Blend Creation",
+    "Sustainability Audit",
+    "Packaging Design",
+    "Quality Inspection",
+    "Inventory Sync",
+    "Logistics Planning",
+    "Cafe Training",
+    "Dynamic Pricing",
+    "Customer Feedback",
+    "Traceability Logging"
+  ]
+}

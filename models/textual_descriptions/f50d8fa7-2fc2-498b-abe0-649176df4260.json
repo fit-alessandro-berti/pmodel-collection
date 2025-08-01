@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the complex steps involved in establishing a sustainable urban vertical farm within a repurposed industrial building. It integrates architectural retrofitting, advanced hydroponic system installation, energy-efficient lighting calibration, and IoT-based environmental monitoring. The process manages supply chain logistics for seeds and nutrients, secures regulatory compliance for urban agriculture, and coordinates labor training on both agricultural and technological operations. Continuous data analysis is employed to optimize crop yields while minimizing resource consumption, all within the constraints of urban zoning and community engagement initiatives. The process concludes with market launch planning and distribution network setup for fresh produce delivery.",
+  "activities": [
+    "Site Survey",
+    "Design Plan",
+    "Permit Acquire",
+    "Structural Retrofit",
+    "System Install",
+    "Lighting Setup",
+    "Sensor Deploy",
+    "Seed Sourcing",
+    "Nutrient Prep",
+    "Staff Training",
+    "Data Monitor",
+    "Yield Analyze",
+    "Compliance Check",
+    "Community Meet",
+    "Market Launch",
+    "Logistics Plan"
+  ]
+}

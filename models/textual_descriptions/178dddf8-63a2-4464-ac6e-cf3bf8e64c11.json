@@ -1,0 +1,22 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process involves the meticulous authentication and provenance verification of rare artifacts within a decentralized consortium of museums and private collectors. It begins with initial artifact intake and preliminary inspection, followed by multi-source historical data aggregation including archival documents, expert opinions, and scientific testing results. The process includes blockchain registration for immutable provenance records, advanced material composition analysis using spectrometry, and AI-driven stylistic comparison against established artifact databases. Discrepancies trigger a collaborative review session among curators and historians before final certification. Post-authentication, the artifact\u2019s digital twin is created and integrated into a virtual exhibit platform, enabling real-time condition monitoring and public accessibility while ensuring ongoing provenance validation through periodic re-assessment cycles.",
+  "activities": [
+    "Artifact Intake",
+    "Prelim Inspect",
+    "Data Aggregation",
+    "Archive Review",
+    "Expert Consult",
+    "Material Test",
+    "Spectrometry Scan",
+    "Style Compare",
+    "Blockchain Entry",
+    "Discrepancy Flag",
+    "Review Session",
+    "Final Certify",
+    "Digital Twin",
+    "Exhibit Upload",
+    "Condition Monitor",
+    "Periodic Audit"
+  ]
+}

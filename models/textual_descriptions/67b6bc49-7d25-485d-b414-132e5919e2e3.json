@@ -1,0 +1,21 @@
+{
+  "title": "Antique Restoration Workflow",
+  "description": "This process involves the careful evaluation, documentation, and restoration of antique artifacts to preserve their historical integrity while enhancing their aesthetic appeal. It includes detailed condition assessments, sourcing of period-accurate materials, delicate cleaning procedures, and expert craftsmanship to repair damages without compromising originality. Continuous consultation with historians and material scientists ensures authenticity. The process concludes with final quality checks, certification, and preparation for display or sale, balancing conservation ethics with market demands.",
+  "activities": [
+    "Artifact Intake",
+    "Historical Research",
+    "Condition Survey",
+    "Material Sourcing",
+    "Cleaning Prep",
+    "Surface Cleaning",
+    "Structural Repair",
+    "Finish Restoration",
+    "Expert Consultation",
+    "Documentation",
+    "Quality Review",
+    "Certification",
+    "Packaging",
+    "Display Setup",
+    "Client Handover"
+  ]
+}

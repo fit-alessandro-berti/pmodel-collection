@@ -1,0 +1,22 @@
+{
+  "title": "Urban Rooftop Farming Setup",
+  "description": "This process outlines the atypical business workflow for establishing a sustainable urban rooftop farm on commercial buildings. It involves site evaluation, structural assessment, soil and hydroponic system design, regulatory compliance checks, sourcing eco-friendly materials, community engagement, installation, crop selection tailored to urban climate, ongoing monitoring with IoT sensors, pest management using organic methods, harvest scheduling, and finally, direct-to-consumer distribution through local markets and digital platforms, ensuring a closed-loop, environmentally conscious urban agriculture initiative.",
+  "activities": [
+    "Site Survey",
+    "Load Test",
+    "Permit Review",
+    "Design Layout",
+    "Material Sourcing",
+    "Soil Prep",
+    "Hydroponic Setup",
+    "Community Meet",
+    "Crop Select",
+    "Sensor Install",
+    "Water Testing",
+    "Pest Control",
+    "Growth Monitor",
+    "Harvest Plan",
+    "Market Launch",
+    "Feedback Collect"
+  ]
+}

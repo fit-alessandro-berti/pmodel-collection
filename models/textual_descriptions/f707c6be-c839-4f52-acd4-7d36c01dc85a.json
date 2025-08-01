@@ -1,0 +1,21 @@
+{
+  "title": "Custom Artifact Authentication",
+  "description": "This process involves the verification and authentication of ancient artifacts using a combination of forensic analysis, historical research, and advanced imaging technologies. The process starts with initial artifact intake and condition assessment, followed by multi-spectral scanning and material composition testing. Experts cross-reference findings with historical databases and provenance records to identify inconsistencies or confirm authenticity. Additionally, the process includes collaboration with external historians and laboratories, legal documentation preparation, and final certification. The authentication process ensures the artifact's legitimacy for museums, collectors, and auction houses, reducing the risk of forgeries entering the market while preserving cultural heritage.",
+  "activities": [
+    "Artifact Intake",
+    "Condition Check",
+    "Multi-spectral Scan",
+    "Material Test",
+    "Database Match",
+    "Provenance Check",
+    "Expert Review",
+    "Historical Query",
+    "Lab Collaboration",
+    "Imaging Analysis",
+    "Forgery Detection",
+    "Legal Drafting",
+    "Certification Issue",
+    "Client Briefing",
+    "Archival Update"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Custom Drone Fleet Deployment",
+  "description": "This process outlines the deployment of a custom drone fleet for environmental monitoring in remote areas. It involves initial site analysis, drone customization to adapt to varying weather conditions, regulatory compliance checks with local authorities, pilot training on specialized equipment, iterative testing of flight patterns, real-time data integration with satellite feeds, maintenance scheduling based on predictive analytics, emergency response protocols setup, community engagement for awareness, and final deployment with continuous performance monitoring and adaptive mission updates. The process ensures optimized data collection while maintaining safety and regulatory standards in complex terrains.",
+  "activities": [
+    "Site Analysis",
+    "Drone Customization",
+    "Regulatory Check",
+    "Pilot Training",
+    "Flight Testing",
+    "Data Integration",
+    "Maintenance Plan",
+    "Emergency Setup",
+    "Community Outreach",
+    "Mission Planning",
+    "Performance Review",
+    "Pattern Adjustment",
+    "Battery Swap",
+    "Signal Calibration",
+    "Report Generation"
+  ]
+}

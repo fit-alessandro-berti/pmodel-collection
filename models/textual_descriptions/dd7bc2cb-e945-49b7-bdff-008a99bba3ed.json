@@ -1,0 +1,22 @@
+{
+  "title": "Artisan Cheese Supply",
+  "description": "This process outlines the intricate steps involved in sourcing, aging, and distributing artisan cheeses from small-scale farms to gourmet retailers. It begins with farm selection, ensuring ethical animal treatment and unique milk qualities, followed by milk testing, curdling, and controlled aging in specialized environments. Quality inspections occur at multiple stages, including texture and flavor profiling. Packaging is customized for each cheese type to maintain freshness and brand identity. The distribution involves cold chain logistics with real-time monitoring and retailer training on product handling. Finally, customer feedback is collected to refine future batches and maintain artisanal standards.",
+  "activities": [
+    "Farm Select",
+    "Milk Test",
+    "Milk Pasteurize",
+    "Curd Form",
+    "Whey Drain",
+    "Cheese Press",
+    "Salt Rub",
+    "Aging Set",
+    "Flavor Check",
+    "Texture Scan",
+    "Quality Approve",
+    "Custom Pack",
+    "Cold Ship",
+    "Retail Train",
+    "Feedback Log",
+    "Batch Adjust"
+  ]
+}

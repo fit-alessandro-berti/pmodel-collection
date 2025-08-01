@@ -1,0 +1,22 @@
+{
+  "title": "Urban Beekeeping Supply Chain",
+  "description": "This process manages the unique supply chain for urban beekeeping operations, integrating local environmental assessments, hive placement approvals, and specialized equipment distribution to city locations. It involves coordination with municipal authorities for permits, sourcing sustainable bee-friendly plants, monitoring hive health via IoT devices, and coordinating seasonal honey extraction and packaging. The process ensures compliance with urban regulations while supporting biodiversity and community engagement through educational workshops and local market distribution, requiring adaptive logistics and stakeholder communication in a non-traditional agricultural setting.",
+  "activities": [
+    "Site Survey",
+    "Permit Request",
+    "Local Sourcing",
+    "Plant Selection",
+    "Hive Assembly",
+    "Equipment Check",
+    "IoT Setup",
+    "Health Monitor",
+    "Community Meet",
+    "Hive Placement",
+    "Permit Approval",
+    "Seasonal Extract",
+    "Honey Filter",
+    "Packaging Prep",
+    "Market Dispatch",
+    "Feedback Review"
+  ]
+}

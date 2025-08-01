@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the complex steps required to establish an urban vertical farming system within a repurposed multi-story building. It involves site assessment, modular system design, climate control optimization, nutrient cycling integration, and automation deployment. The process must address sustainability metrics, regulatory compliance, and community engagement. It further includes supply chain coordination for specialized seeds, sensors installation, real-time data analysis for crop health, pest management without chemicals, and iterative system tuning to maximize yield while minimizing energy consumption and waste generation. The process culminates in establishing a market distribution network and continuous feedback loops for improvement.",
+  "activities": [
+    "Site Survey",
+    "Design Layout",
+    "System Build",
+    "Install Sensors",
+    "Setup Climate",
+    "Nutrient Mix",
+    "Seed Selection",
+    "Planting Phase",
+    "Monitor Growth",
+    "Pest Control",
+    "Data Analysis",
+    "Adjust Parameters",
+    "Energy Audit",
+    "Waste Manage",
+    "Market Setup"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Custom Artifact Authentication",
+  "description": "This process involves the intricate verification and certification of rare cultural artifacts before international auction. It begins with artifact intake and preliminary assessment, followed by multi-disciplinary expert validation including historical, chemical, and provenance analyses. After validation, a blockchain-based authenticity token is minted to ensure traceability. Next, legal compliance checks across jurisdictions are conducted, alongside insurance valuation and risk assessment. Finally, the artifact undergoes packaging with climate control measures before secure transport arrangements are finalized for auction delivery.",
+  "activities": [
+    "Artifact Intake",
+    "Preliminary Check",
+    "Historical Review",
+    "Chemical Test",
+    "Provenance Audit",
+    "Expert Panel",
+    "Token Minting",
+    "Legal Review",
+    "Compliance Check",
+    "Insurance Valuation",
+    "Risk Assessment",
+    "Packaging Prep",
+    "Climate Control",
+    "Transport Setup",
+    "Final Approval"
+  ]
+}

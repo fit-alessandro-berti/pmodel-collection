@@ -1,0 +1,23 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process details a comprehensive artifact authentication workflow used by museums and private collectors to verify the provenance and authenticity of rare historical items. It involves multidisciplinary expert evaluations, advanced material analysis, provenance record cross-checking, and digital fingerprinting technology. The workflow integrates collaboration between historians, chemists, and data scientists to ensure artifacts are genuine, mitigating risks of forgeries. Final verification results are documented and archived securely to support insurance and exhibition planning. The process requires iterative validation rounds and consensus building among experts before final certification is granted.",
+  "activities": [
+    "Initial Review",
+    "Provenance Check",
+    "Material Scan",
+    "Historical Compare",
+    "Expert Consult",
+    "Digital Imaging",
+    "Fingerprint Match",
+    "Chemical Test",
+    "Radiocarbon Date",
+    "Context Analysis",
+    "Forgery Detection",
+    "Consensus Meeting",
+    "Certification Prep",
+    "Documentation",
+    "Archive Storage",
+    "Insurance Liaison",
+    "Exhibit Setup"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Custom Art Commission Workflow",
+  "description": "This process outlines the end-to-end workflow for managing custom art commissions in a boutique studio. It begins with client inquiry and concept ideation, followed by detailed proposal drafting and contract agreement. Once approved, the artist performs research and preliminary sketches before proceeding to the main artwork creation. Throughout the process, feedback loops ensure alignment with client expectations. After final approval, high-resolution digitalization and packaging preparation occur, concluding with delivery and post-sale support including archival and client follow-up for future commissions or referrals. This atypical workflow balances creative flexibility with structured project management to ensure both artistic integrity and client satisfaction.",
+  "activities": [
+    "Client Inquiry",
+    "Concept Ideation",
+    "Proposal Draft",
+    "Contract Agree",
+    "Artist Research",
+    "Sketch Review",
+    "Material Sourcing",
+    "Base Painting",
+    "Detailing Phase",
+    "Client Feedback",
+    "Revision Cycle",
+    "Final Approval",
+    "Digital Capture",
+    "Packaging Prep",
+    "Delivery Setup",
+    "Post Support",
+    "Archival Store",
+    "Client Followup"
+  ]
+}

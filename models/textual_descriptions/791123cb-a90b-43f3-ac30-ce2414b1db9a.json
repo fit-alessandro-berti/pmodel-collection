@@ -1,0 +1,22 @@
+{
+  "title": "Cross-Channel Loyalty Sync",
+  "description": "This process manages the synchronization and optimization of customer loyalty rewards across multiple retail channels including in-store, online, and mobile app platforms. It involves complex data validation, real-time transaction tracking, personalized reward adjustments, fraud detection, and dynamic points allocation based on customer behavior analytics. The process also integrates third-party marketing campaigns and seasonal promotions, ensuring consistent and accurate reward redemption experiences. Additionally, it includes feedback loops for continuous algorithm tuning and compliance checks with privacy regulations to protect customer data while maximizing engagement and retention.",
+  "activities": [
+    "Data Import",
+    "Transaction Match",
+    "Fraud Check",
+    "Points Adjust",
+    "Promo Sync",
+    "Campaign Merge",
+    "Behavior Scan",
+    "Reward Calc",
+    "Privacy Audit",
+    "Compliance Verify",
+    "Customer Notify",
+    "Feedback Log",
+    "Algorithm Tune",
+    "Channel Update",
+    "Redemption Track",
+    "Report Generate"
+  ]
+}

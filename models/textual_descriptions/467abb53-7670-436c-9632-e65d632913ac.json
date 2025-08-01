@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process involves the complex orchestration of urban vertical farm development, integrating architectural design, environmental control systems, and agricultural science to optimize crop yield in constrained city spaces. It starts with site assessment and feasibility analysis, followed by modular farm design and structural adaptation to existing buildings. Subsequently, it includes installing hydroponic and aeroponic systems, integrating IoT sensors for real-time monitoring, and implementing automated nutrient delivery and climate regulation. The process also covers workforce training, supply chain coordination for seed and resource procurement, and establishing waste recycling protocols. Continuous data collection and AI-driven crop management optimize growth cycles, while marketing strategies are aligned to promote locally grown produce. This atypical business process blends technology, sustainability, and urban planning to revolutionize food production in metropolitan areas.",
+  "activities": [
+    "Site Assess",
+    "Feasibility Eval",
+    "Modular Design",
+    "Structure Adapt",
+    "System Install",
+    "Sensor Deploy",
+    "Nutrient Setup",
+    "Climate Control",
+    "Worker Train",
+    "Seed Procure",
+    "Resource Manage",
+    "Waste Recycle",
+    "Data Collect",
+    "AI Optimize",
+    "Market Launch",
+    "Supply Sync"
+  ]
+}

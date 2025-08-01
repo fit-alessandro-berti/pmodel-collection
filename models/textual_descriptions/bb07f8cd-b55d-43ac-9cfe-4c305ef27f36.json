@@ -1,0 +1,22 @@
+{
+  "title": "Custom Art Commission Workflow",
+  "description": "This process outlines the steps involved in commissioning a custom piece of artwork from initial client inquiry through final delivery and post-sale support. It begins with client briefing and concept development, followed by iterative design approvals and material sourcing. Mid-process includes detailed progress updates, client feedback incorporation, and quality assurance checks. Once the artwork is completed, logistics coordination ensures safe packaging and shipping. Finally, the process concludes with client satisfaction surveys and optional framing or installation services, ensuring a tailored, high-quality art experience that meets unique client needs while maintaining artist standards and timelines.",
+  "activities": [
+    "Client Inquiry",
+    "Brief Gathering",
+    "Concept Sketch",
+    "Design Review",
+    "Material Sourcing",
+    "Progress Update",
+    "Feedback Loop",
+    "Midway Approval",
+    "Detail Refinement",
+    "Quality Check",
+    "Final Approval",
+    "Packaging Prep",
+    "Shipping Arrange",
+    "Delivery Confirm",
+    "Satisfaction Survey",
+    "Installation Setup"
+  ]
+}

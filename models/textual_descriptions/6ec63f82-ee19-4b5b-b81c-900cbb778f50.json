@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the detailed steps involved in establishing an urban vertical farm within a repurposed industrial building. It begins with site analysis and environmental assessment, followed by modular system design and nutrient sourcing. The process includes installation of hydroponic towers, automated climate control calibration, and integration of renewable energy sources. Subsequent activities cover seed selection, germination monitoring, pest management without chemicals, and continuous growth optimization through AI analytics. Finally, the process addresses harvest scheduling, packaging automation, quality verification, and distribution logistics to local retailers, ensuring sustainability and minimal waste throughout the supply chain.",
+  "activities": [
+    "Site Analysis",
+    "Env Assessment",
+    "Modular Design",
+    "Nutrient Sourcing",
+    "Tower Install",
+    "Climate Setup",
+    "Energy Integrate",
+    "Seed Selection",
+    "Germination Check",
+    "Pest Control",
+    "Growth Monitor",
+    "Harvest Plan",
+    "Packaging Auto",
+    "Quality Check",
+    "Distribution"
+  ]
+}

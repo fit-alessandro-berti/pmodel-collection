@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farm Launch",
+  "description": "This process involves the complex coordination of multiple stakeholders and resources to establish an urban vertical farm within a densely populated city. It begins with site identification and environmental impact assessments, followed by securing permits and designing modular vertical farming units. The process includes sourcing specialized hydroponic equipment, integrating IoT-based monitoring systems, and implementing energy-efficient LED lighting. Staff recruitment focuses on agronomists and technicians trained in controlled environment agriculture. Concurrently, partnerships with local markets and distributors are negotiated to ensure product flow. The process also covers sustainable waste management, water recycling systems, and community engagement initiatives. Quality control protocols and crop cycle optimization are continuously refined to maximize yield and minimize resource consumption. Finally, a phased product launch is executed alongside ongoing data analytics to adapt operations dynamically.",
+  "activities": [
+    "Site Survey",
+    "Impact Study",
+    "Permit Filing",
+    "Unit Design",
+    "Equip Sourcing",
+    "System Setup",
+    "Lighting Install",
+    "Staff Hiring",
+    "Training Session",
+    "Market Outreach",
+    "Waste Setup",
+    "Water Recycle",
+    "Community Meet",
+    "Quality Check",
+    "Cycle Review",
+    "Launch Phase",
+    "Data Monitor"
+  ]
+}

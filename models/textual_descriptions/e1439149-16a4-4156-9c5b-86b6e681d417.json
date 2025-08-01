@@ -1,0 +1,21 @@
+{
+  "title": "Cross-Industry Innovation Cycle",
+  "description": "This process involves systematically sourcing ideas from unrelated industries to foster breakthrough innovations. It begins with environmental scanning to identify emerging trends outside the core market, followed by cross-functional ideation workshops. Concepts are refined through rapid prototyping and iterative feedback loops involving external experts. Parallel feasibility assessments ensure resource alignment and risk mitigation. The process culminates with pilot deployments in controlled environments, capturing performance data to inform scaling decisions. Continuous learning and knowledge sharing across departments embed innovation into the organizational culture, enabling sustained competitive advantage through unconventional approaches.",
+  "activities": [
+    "Trend Scan",
+    "Idea Harvest",
+    "Workshop Host",
+    "Concept Filter",
+    "Prototype Build",
+    "Expert Review",
+    "Feasibility Check",
+    "Risk Assess",
+    "Pilot Launch",
+    "Data Capture",
+    "Performance Review",
+    "Scale Plan",
+    "Resource Align",
+    "Learn Share",
+    "Culture Embed"
+  ]
+}

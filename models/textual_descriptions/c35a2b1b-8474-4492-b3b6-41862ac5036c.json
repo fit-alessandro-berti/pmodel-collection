@@ -1,0 +1,22 @@
+{
+  "title": "Antique Artifact Authentication",
+  "description": "This process involves the meticulous examination and validation of antique artifacts to verify authenticity and provenance. It includes initial physical inspection, material composition analysis, historical cross-referencing, expert consultations, and provenance documentation. The process integrates advanced imaging techniques, such as X-ray fluorescence and infrared spectroscopy, to detect restorations or forgeries. Additionally, market trend analysis and auction history reviews are conducted to assess value fluctuations. The final stage consolidates all findings into a comprehensive authenticity report, which is then approved by a certification board before the artifact is released for sale or exhibition. Throughout the process, strict chain-of-custody protocols are maintained to ensure integrity and prevent tampering or misplacement.",
+  "activities": [
+    "Initial Inspect",
+    "Material Test",
+    "Imaging Scan",
+    "Historical Check",
+    "Expert Consult",
+    "Provenance Trace",
+    "Forgery Detect",
+    "Restoration Map",
+    "Market Analyze",
+    "Auction Review",
+    "Value Assess",
+    "Report Draft",
+    "Board Review",
+    "Certification",
+    "Release Artifact",
+    "Chain Custody"
+  ]
+}

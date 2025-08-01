@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the complex sequence required to establish an urban vertical farm within a repurposed industrial building. It involves site analysis, environmental assessments, modular system design, procurement of specialized hydroponic equipment, installation of climate control units, integration of IoT sensors for monitoring, seed selection based on urban microclimate data, nutrient solution formulation, staff training on automated systems, regulatory compliance checks, trial crop planting, data-driven growth optimization, pest management using biocontrol agents, harvest scheduling, and final product packaging for local distribution. Each step requires coordination across multiple disciplines including agronomy, engineering, logistics, and regulatory affairs to ensure a sustainable and productive urban agriculture system.",
+  "activities": [
+    "Site Analysis",
+    "Env Assessment",
+    "System Design",
+    "Equipment Procure",
+    "Climate Install",
+    "Sensor Integrate",
+    "Seed Selection",
+    "Nutrient Mix",
+    "Staff Training",
+    "Compliance Check",
+    "Trial Planting",
+    "Growth Optimize",
+    "Pest Control",
+    "Harvest Schedule",
+    "Packaging Prep"
+  ]
+}

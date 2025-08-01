@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process governs the detailed authentication of historical artifacts prior to acquisition by a museum or private collector. It involves multidisciplinary examination including provenance research, material analysis, and expert validation. The workflow integrates scientific testing methods such as radiocarbon dating and spectroscopy, alongside archival investigation and comparative stylistic analysis. Stakeholders coordinate through iterative reviews to confirm authenticity, assess conservation needs, and finalize acquisition terms. This atypical yet realistic business process ensures artifacts meet strict cultural and legal standards while minimizing risks of forgery or misattribution, ultimately preserving historical integrity and value.",
+  "activities": [
+    "Initial Review",
+    "Provenance Check",
+    "Material Sampling",
+    "Radiocarbon Test",
+    "Spectroscopy Scan",
+    "Stylistic Compare",
+    "Archival Search",
+    "Expert Consult",
+    "Condition Assess",
+    "Conservation Plan",
+    "Risk Analysis",
+    "Legal Verify",
+    "Acquisition Offer",
+    "Stakeholder Review",
+    "Final Approval"
+  ]
+}

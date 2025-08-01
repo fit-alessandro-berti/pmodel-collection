@@ -1,0 +1,22 @@
+{
+  "title": "Global Art Loan Coordination",
+  "description": "This process manages the complex coordination of loaning valuable art pieces between multiple international museums and private collectors. It involves provenance verification, condition reporting, diplomatic clearance, insurance arrangements, logistical planning for secure transport, installation oversight, exhibition scheduling, and post-loan audits. The process requires collaboration between curators, legal teams, conservators, transport specialists, and financial departments to ensure artworks are safely and legally moved, displayed, and returned, maintaining cultural heritage integrity and compliance with international laws.",
+  "activities": [
+    "Verify Provenance",
+    "Assess Condition",
+    "Draft Contract",
+    "Obtain Clearance",
+    "Arrange Insurance",
+    "Schedule Transport",
+    "Pack Artwork",
+    "Track Shipment",
+    "Install Exhibit",
+    "Monitor Environment",
+    "Conduct Tours",
+    "Handle Queries",
+    "Deinstall Art",
+    "Return Shipment",
+    "Audit Records",
+    "Review Feedback"
+  ]
+}

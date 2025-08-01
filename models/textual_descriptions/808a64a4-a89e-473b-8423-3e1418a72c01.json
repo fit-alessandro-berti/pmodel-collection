@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the establishment of an urban vertical farm within a repurposed industrial building. It involves site assessment, modular system design, environmental control calibration, nutrient solution preparation, seed selection, and automated planting. Continuous monitoring of plant growth, pest detection using AI, and adaptive lighting adjustments are essential. The process also includes waste recycling, data analytics for yield optimization, and community engagement for local distribution. Finally, the system undergoes periodic maintenance and scalability evaluation to ensure sustainable production and economic viability in a densely populated urban environment.",
+  "activities": [
+    "Site Survey",
+    "System Design",
+    "Env Calibration",
+    "Seed Selection",
+    "Nutrient Prep",
+    "Automated Plant",
+    "Pest Detection",
+    "Lighting Adjust",
+    "Growth Monitor",
+    "Waste Recycle",
+    "Data Analyze",
+    "Yield Optimize",
+    "Community Engage",
+    "System Maintain",
+    "Scale Evaluate"
+  ]
+}

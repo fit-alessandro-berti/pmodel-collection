@@ -1,0 +1,21 @@
+{
+  "title": "Antique Artifacts Authentication",
+  "description": "This process involves the detailed examination and verification of antique artifacts to establish their authenticity and provenance. It starts with initial artifact intake and visual inspection, followed by multi-disciplinary scientific testing including radiocarbon dating, material composition analysis, and microscopic surface evaluation. Expert consultations with historians and art conservators are incorporated to cross-reference historical records and stylistic attributes. Documentation is meticulously prepared, and legal provenance is verified through archival research. The process concludes with an authentication report and recommendations for preservation or restoration, ensuring the artifact's historical integrity is maintained while enabling confident acquisition or exhibition decisions.",
+  "activities": [
+    "Artifact Intake",
+    "Visual Inspect",
+    "Radiocarbon Test",
+    "Material Analysis",
+    "Surface Microscopy",
+    "Historical Review",
+    "Provenance Check",
+    "Expert Consult",
+    "Stylistic Compare",
+    "Archival Research",
+    "Condition Report",
+    "Legal Verification",
+    "Authentication Draft",
+    "Preservation Plan",
+    "Final Report"
+  ]
+}

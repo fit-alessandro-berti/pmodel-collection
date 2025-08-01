@@ -1,0 +1,23 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process manages the complete operational cycle of an urban vertical farm specializing in multi-layer hydroponic crop production. It begins with seed selection based on climate and market demand, followed by nutrient optimization customized per plant type. Automated climate control adjusts humidity, temperature, and light spectra to maximize growth efficiency. Continuous pest monitoring uses AI-driven image recognition to detect early infestations, triggering targeted biocontrol interventions. Wastewater recycling incorporates filtration and mineral rebalancing before reuse. Harvest scheduling synchronizes with local distribution networks to ensure freshness and reduce carbon footprint. Additionally, real-time data analytics inform adaptive planting strategies, while employee training on advanced farming technologies maintains operational excellence. The process concludes with system maintenance and seasonal recalibration to prepare for subsequent cycles.",
+  "activities": [
+    "Seed Select",
+    "Nutrient Mix",
+    "Climate Adjust",
+    "Light Control",
+    "Pest Scan",
+    "Biocontrol Use",
+    "Water Filter",
+    "Mineral Rebalance",
+    "Growth Monitor",
+    "Data Analyze",
+    "Harvest Plan",
+    "Logistics Sync",
+    "Employee Train",
+    "System Maintain",
+    "Cycle Recalibrate",
+    "Waste Process",
+    "Inventory Check"
+  ]
+}

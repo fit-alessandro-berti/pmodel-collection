@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process outlines the intricate steps involved in authenticating rare historical artifacts for museums or private collectors. Beginning with initial provenance research, the workflow includes multidisciplinary scientific testing, expert consultations, and legal verifications to ensure authenticity and compliance with international cultural property laws. The process further addresses risk assessments, insurance appraisals, digital cataloging, and final certification issuance. Throughout the workflow, collaboration between historians, chemists, legal advisors, and logistics coordinators is critical to maintain integrity and transparency, culminating in secure artifact transfer or exhibition planning.",
+  "activities": [
+    "Provenance Check",
+    "Material Testing",
+    "Expert Review",
+    "Legal Verify",
+    "Risk Assess",
+    "Insurance Quote",
+    "Catalog Entry",
+    "Digital Scan",
+    "Condition Report",
+    "Transport Plan",
+    "Customs Clear",
+    "Certification",
+    "Exhibit Setup",
+    "Owner Notify",
+    "Final Audit"
+  ]
+}

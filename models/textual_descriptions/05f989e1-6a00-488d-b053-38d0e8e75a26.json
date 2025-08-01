@@ -1,0 +1,22 @@
+{
+  "title": "Cross-Industry Innovation Cycle",
+  "description": "This process involves a cyclical approach to innovation that integrates insights from multiple unrelated industries to generate breakthrough products or services. It begins with trend spotting across diverse sectors, followed by cross-pollination workshops where teams share unconventional ideas. Next, rapid prototyping combines disparate technologies, which undergo iterative testing in simulated environments. Feedback loops incorporate external expert reviews and customer co-creation sessions to refine concepts. Concurrently, strategic alignment ensures business objectives are met while managing intellectual property risks. The cycle concludes with a staged launch plan involving phased market entry and continuous monitoring of competitive responses, enabling adaptive scaling and sustained innovation momentum.",
+  "activities": [
+    "Trend Spotting",
+    "Idea Sharing",
+    "Cross Workshops",
+    "Tech Fusion",
+    "Proto Building",
+    "Sim Test",
+    "Expert Review",
+    "Customer Input",
+    "Concept Refine",
+    "IP Assessment",
+    "Strategy Align",
+    "Risk Manage",
+    "Launch Plan",
+    "Market Entry",
+    "Response Track",
+    "Scale Adjust"
+  ]
+}

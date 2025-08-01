@@ -1,0 +1,23 @@
+{
+  "title": "Adaptive Urban Farming Cycle",
+  "description": "This process involves managing an adaptive urban farming system that integrates IoT sensors, real-time data analytics, and community feedback to optimize crop yield and sustainability in limited spaces. Activities include monitoring environmental variables, adjusting nutrient delivery dynamically, rotating crops based on predictive models, and coordinating local volunteer schedules. The system also incorporates waste recycling from nearby restaurants into composting units, and uses autonomous drones for pollination and pest control. Continuous improvement is driven by machine learning algorithms analyzing historical and current data, ensuring responsiveness to seasonal changes and urban microclimates while maximizing resource efficiency and community engagement.",
+  "activities": [
+    "Sensor Setup",
+    "Data Capture",
+    "Nutrient Mix",
+    "Crop Rotate",
+    "Waste Collect",
+    "Compost Process",
+    "Drone Dispatch",
+    "Pest Control",
+    "Pollination Run",
+    "Volunteer Assign",
+    "Feedback Gather",
+    "Model Update",
+    "Yield Forecast",
+    "Water Adjust",
+    "Report Generate",
+    "Resource Audit",
+    "Schedule Sync"
+  ]
+}

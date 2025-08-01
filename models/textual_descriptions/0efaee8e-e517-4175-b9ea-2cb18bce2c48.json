@@ -1,0 +1,22 @@
+{
+  "title": "Artisan Cheese Crowdsourcing",
+  "description": "This process involves collaboratively developing a new artisan cheese recipe by engaging a global community of cheese enthusiasts, dairy farmers, and food scientists. It begins with ideation where participants submit flavor profiles and ingredient suggestions, followed by crowd voting to select the top concepts. Selected concepts undergo prototype development by local cheesemakers, with iterative feedback collected through virtual tastings. Quality control experts analyze feedback and adjust processes accordingly. Legal teams ensure compliance with food safety standards and intellectual property rights. Marketing specialists then craft storytelling campaigns highlighting the collaborative nature of the cheese creation. Finally, distribution partners coordinate limited release shipments to backers and specialty retailers, maintaining traceability and customer engagement throughout the launch phase.",
+  "activities": [
+    "Idea Submit",
+    "Flavor Vote",
+    "Concept Select",
+    "Prototype Make",
+    "Feedback Gather",
+    "Taste Test",
+    "Adjust Recipe",
+    "Quality Check",
+    "Regulation Review",
+    "IP Register",
+    "Story Craft",
+    "Campaign Launch",
+    "Order Manage",
+    "Shipment Plan",
+    "Customer Engage",
+    "Traceability Log"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process outlines the complex workflow involved in authenticating historical artifacts prior to acquisition or exhibition. It integrates multidisciplinary expertise including provenance research, material analysis, and legal verification. The process begins with initial artifact intake and proceeds through detailed scientific testing, expert consultations, and provenance tracing in international archives. Concurrently, legal teams verify ownership rights and ensure compliance with cultural heritage laws. Throughout the process, findings are documented and reviewed iteratively to build a comprehensive authentication report. Final approval requires consensus from multiple departments before the artifact is accepted or rejected. This atypical yet realistic process is critical to prevent fraud, protect cultural heritage, and maintain institutional credibility.",
+  "activities": [
+    "Artifact Intake",
+    "Provenance Check",
+    "Material Sampling",
+    "Scientific Test",
+    "Expert Review",
+    "Archive Search",
+    "Legal Verify",
+    "Ownership Confirm",
+    "Compliance Audit",
+    "Data Documentation",
+    "Interim Report",
+    "Department Review",
+    "Consensus Meeting",
+    "Final Approval",
+    "Artifact Release"
+  ]
+}

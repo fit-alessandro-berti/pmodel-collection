@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process describes the setup and optimization of an urban vertical farm, integrating hydroponic systems with IoT sensors and AI-driven environmental controls. It involves site analysis, modular rack assembly, nutrient solution formulation, seed selection, sensor calibration, and continuous monitoring to maximize crop yield while minimizing resource consumption. The process also includes staff training, compliance checks with urban agricultural regulations, pest management using biocontrol agents, and data analytics for predictive harvest scheduling. Additionally, it covers the marketing strategy for local distribution channels and sustainability reporting for stakeholders.",
+  "activities": [
+    "Site Survey",
+    "Rack Assembly",
+    "Nutrient Mix",
+    "Seed Choice",
+    "Sensor Setup",
+    "System Config",
+    "Water Testing",
+    "Lighting Tune",
+    "Growth Monitor",
+    "Pest Control",
+    "Staff Train",
+    "Regulation Audit",
+    "Yield Forecast",
+    "Data Review",
+    "Market Plan",
+    "Sustain Report"
+  ]
+}

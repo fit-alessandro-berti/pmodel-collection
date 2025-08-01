@@ -1,0 +1,21 @@
+{
+  "title": "Cross-Channel Loyalty Sync",
+  "description": "This process orchestrates the synchronization of customer loyalty data across multiple sales channels including in-store, online, mobile app, and third-party partners. It involves real-time data validation, conflict resolution for overlapping rewards, dynamic points recalculation based on channel-specific promotions, and secure data exchange protocols. Additionally, it incorporates anomaly detection to flag suspicious activity, automated customer notifications about point updates or expirations, and a feedback loop to update marketing strategies based on loyalty trends. The process ensures consistency and accuracy of loyalty benefits while enhancing customer engagement and preventing fraud across diverse platforms.",
+  "activities": [
+    "Data Ingest",
+    "Validate Entries",
+    "Conflict Check",
+    "Points Recalc",
+    "Promo Apply",
+    "Fraud Scan",
+    "Notify User",
+    "Sync Partners",
+    "Update Ledger",
+    "Trend Analyze",
+    "Feedback Loop",
+    "Adjust Rules",
+    "Archive Logs",
+    "Report Generate",
+    "Audit Trail"
+  ]
+}

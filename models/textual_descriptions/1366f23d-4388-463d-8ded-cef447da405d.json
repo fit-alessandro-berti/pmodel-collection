@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the comprehensive steps required to establish a fully operational urban vertical farm within a city environment. It involves site evaluation, modular system design, nutrient solution formulation, and integration of IoT sensors for real-time monitoring. The process further includes seed selection optimized for vertical growth, automated planting, climate control calibration, and pest management using bio-controls. Post-harvest handling features automated sorting and quality inspection, coupled with data analytics to improve yield cycles. Finally, the system incorporates waste recycling and energy optimization to ensure sustainability and scalability within limited urban spaces.",
+  "activities": [
+    "Site Survey",
+    "System Design",
+    "Seed Selection",
+    "Nutrient Mix",
+    "IoT Setup",
+    "Planting Automation",
+    "Climate Adjust",
+    "Pest Control",
+    "Water Recycling",
+    "Harvest Sort",
+    "Quality Inspect",
+    "Data Analysis",
+    "Waste Manage",
+    "Energy Monitor",
+    "Yield Report"
+  ]
+}

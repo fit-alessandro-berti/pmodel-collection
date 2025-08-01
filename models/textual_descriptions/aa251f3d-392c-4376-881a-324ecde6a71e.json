@@ -1,0 +1,21 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process outlines the highly specialized assembly of custom drones tailored for diverse industrial applications such as agriculture, surveillance, and delivery. It begins with design specification collection from clients followed by component sourcing that includes rare materials and specialized electronics. Subsequent activities involve precision machining, micro-soldering of circuit boards, and advanced sensor calibration under controlled environments. Quality assurance includes real-time flight simulation and adaptive software integration specific to each drone model. Final steps cover packaging with anti-static materials and customized documentation before shipping. This atypical process requires interdisciplinary coordination between engineering, procurement, and software teams to ensure every drone meets exacting client demands and regulatory standards, emphasizing flexibility and innovation in manufacturing.",
+  "activities": [
+    "Spec Collection",
+    "Component Sourcing",
+    "Material Inspection",
+    "Circuit Assembly",
+    "Sensor Calibration",
+    "Firmware Upload",
+    "Flight Simulation",
+    "Structural Testing",
+    "Software Integration",
+    "Thermal Imaging",
+    "Battery Conditioning",
+    "Anti-Static Pack",
+    "Documentation Prep",
+    "Client Approval",
+    "Shipping Dispatch"
+  ]
+}

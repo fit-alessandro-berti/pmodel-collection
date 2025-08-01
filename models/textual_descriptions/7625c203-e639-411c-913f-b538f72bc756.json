@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process involves the comprehensive management of an urban vertical farm, integrating hydroponic cultivation, environmental controls, resource recycling, and community engagement. The cycle begins with seed selection and preparation, followed by nutrient solution formulation and automated planting. Continuous monitoring adjusts lighting and humidity to optimize growth. Harvesting is coordinated with quality assessment and packaging. Waste biomass is processed into compost or bioenergy, closing the sustainability loop. Concurrently, data analytics drive yield optimization while educational workshops engage local communities. The process concludes with distribution logistics tailored for urban markets and feedback integration for continuous improvement.",
+  "activities": [
+    "Seed Prep",
+    "Nutrient Mix",
+    "Automated Plant",
+    "Env Monitor",
+    "Light Adjust",
+    "Humidity Control",
+    "Growth Check",
+    "Harvest Plan",
+    "Quality Test",
+    "Waste Process",
+    "Compost Create",
+    "Data Analyze",
+    "Workshop Host",
+    "Market Pack",
+    "Distribute Goods"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process outlines the comprehensive cycle of urban vertical farming, integrating advanced hydroponic techniques, climate control, and automated nutrient delivery to maximize crop yield within confined city spaces. It begins with seed selection and germination, followed by transplanting seedlings into vertically stacked trays. Continuous monitoring of environmental parameters such as humidity, temperature, and light ensures optimal growth conditions. The system employs robotic arms for pruning and harvesting, while integrated sensors detect pest presence or nutrient deficiencies, triggering corrective actions. Wastewater is recycled through a closed-loop system, minimizing environmental impact and resource consumption. Finally, harvested produce undergoes quality inspection and packaging before distribution to local markets, closing the sustainable urban agriculture loop.",
+  "activities": [
+    "Seed Selection",
+    "Germinate Seeds",
+    "Tray Transplant",
+    "Climate Setup",
+    "Nutrient Mix",
+    "Monitor Sensors",
+    "Adjust Lighting",
+    "Pest Detection",
+    "Robotic Prune",
+    "Harvest Crop",
+    "Wastewater Recycle",
+    "Quality Inspect",
+    "Package Produce",
+    "Market Dispatch",
+    "Data Logging"
+  ]
+}

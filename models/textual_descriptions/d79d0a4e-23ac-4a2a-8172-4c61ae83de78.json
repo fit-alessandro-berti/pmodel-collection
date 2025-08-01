@@ -1,0 +1,21 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process outlines the complex assembly and customization of drones tailored to specific industrial applications. It begins with component selection based on client specifications, followed by precision frame assembly and integration of proprietary navigation software. Quality assurance includes multi-layer sensor calibration and environmental stress testing under simulated conditions. The process also involves iterative firmware updating driven by real-time feedback loops and final packaging with comprehensive documentation before shipment. Maintenance scheduling and remote diagnostic setups complete the workflow, ensuring long-term operational efficiency and client satisfaction.",
+  "activities": [
+    "Spec Review",
+    "Component Pick",
+    "Frame Build",
+    "Motor Mount",
+    "Sensor Fit",
+    "Wiring Setup",
+    "Software Load",
+    "Calibration Test",
+    "Stress Check",
+    "Firmware Flash",
+    "Feedback Loop",
+    "Package Prep",
+    "Doc Compile",
+    "Ship Arrange",
+    "Remote Setup"
+  ]
+}

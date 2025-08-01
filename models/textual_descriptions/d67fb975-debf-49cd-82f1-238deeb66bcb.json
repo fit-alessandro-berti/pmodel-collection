@@ -1,0 +1,22 @@
+{
+  "title": "Adaptive Urban Farming Cycle",
+  "description": "This process outlines the adaptive urban farming cycle designed to optimize crop yield in limited city spaces by integrating environmental data, community feedback, and resource availability. It begins with site analysis, followed by soil enhancement and precision planting. Sensor arrays continuously monitor microclimate and soil conditions, allowing dynamic irrigation and nutrient delivery adjustments. Community workshops gather experiential insights which feed into iterative crop selection and pest management strategies. Harvesting is coordinated with local distribution networks to minimize waste. Post-harvest, composting converts organic waste into soil amendments, completing the sustainability loop. Throughout, data analytics refine practices seasonally to adapt to urban environmental fluctuations and community needs, ensuring resilient and productive green spaces within dense urban areas.",
+  "activities": [
+    "Site Analyze",
+    "Soil Enhance",
+    "Seed Select",
+    "Plant Precise",
+    "Sensor Deploy",
+    "Climate Monitor",
+    "Irrigate Adjust",
+    "Nutrient Feed",
+    "Pest Control",
+    "Community Engage",
+    "Feedback Collect",
+    "Yield Harvest",
+    "Waste Sort",
+    "Compost Create",
+    "Data Analyze",
+    "Network Distribute"
+  ]
+}

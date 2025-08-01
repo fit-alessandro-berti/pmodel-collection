@@ -1,0 +1,22 @@
+{
+  "title": "Custom Artifact Authentication",
+  "description": "This process involves the verification and authentication of rare cultural artifacts before acquisition by a museum. It includes provenance research, material analysis, expert consultations, and digital replication for archival purposes. The process ensures authenticity, legal compliance, and preservation standards while coordinating with international regulatory bodies and insurance providers. Multiple interdisciplinary teams collaborate to mitigate risks and document findings in a secure database, enabling informed decision-making and public transparency.",
+  "activities": [
+    "Initial Review",
+    "Provenance Check",
+    "Material Testing",
+    "Expert Panel",
+    "Legal Audit",
+    "Insurance Setup",
+    "Digital Scan",
+    "Replication Draft",
+    "Risk Assessment",
+    "Stakeholder Meet",
+    "Compliance Review",
+    "Archival Entry",
+    "Acquisition Approval",
+    "Transport Arrange",
+    "Condition Report",
+    "Final Documentation"
+  ]
+}

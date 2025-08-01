@@ -1,0 +1,22 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process involves the bespoke assembly of drones tailored to individual client specifications. It begins with requirement analysis, followed by component sourcing from multiple suppliers with varying lead times. Custom firmware is developed in parallel while mechanical assembly and initial calibration occur. Rigorous multi-environment testing is conducted, including wind tunnel and obstacle navigation simulations. After successful testing, final quality assurance and packaging are performed before shipment scheduling and delivery confirmation. Post-delivery, remote diagnostics and software updates are managed to ensure optimal performance and client satisfaction throughout the drone's operational lifecycle.",
+  "activities": [
+    "Client Intake",
+    "Specs Review",
+    "Component Order",
+    "Firmware Dev",
+    "Chassis Build",
+    "Motor Install",
+    "Sensor Align",
+    "Initial Calib",
+    "Wind Test",
+    "Nav Sim",
+    "Quality Check",
+    "Final Assembly",
+    "Packaging Prep",
+    "Ship Schedule",
+    "Delivery Confirm",
+    "Remote Support"
+  ]
+}

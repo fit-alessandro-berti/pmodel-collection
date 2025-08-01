@@ -1,0 +1,22 @@
+{
+  "title": "Artisan Supply Chain",
+  "description": "This process outlines the intricate steps involved in sourcing, crafting, and delivering bespoke artisan goods. It begins with raw material scouting in remote regions, followed by quality validation using non-standardized criteria. Artisans receive personalized design briefs, enabling handcrafting with adaptive techniques. Finished items undergo multi-stage authenticity and durability testing, including community feedback loops. Packaging is customized per client preferences using eco-friendly materials. The logistics phase integrates unconventional transport methods like local courier networks and barter exchanges. Finally, a post-delivery artisan-client interaction ensures satisfaction and future collaboration, fostering a sustainable and culturally rich business ecosystem that defies mainstream mass production models.",
+  "activities": [
+    "Material Scout",
+    "Quality Check",
+    "Design Brief",
+    "Artisan Assign",
+    "Crafting Phase",
+    "Midway Review",
+    "Authenticity Test",
+    "Durability Check",
+    "Community Feedback",
+    "Package Design",
+    "Eco Packaging",
+    "Local Courier",
+    "Barter Exchange",
+    "Delivery Confirm",
+    "Client Followup",
+    "Sustainability Audit"
+  ]
+}

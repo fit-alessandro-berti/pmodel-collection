@@ -1,0 +1,22 @@
+{
+  "title": "Artisan Supply Chain",
+  "description": "This process manages the end-to-end workflow for sourcing rare, handcrafted materials from remote artisan communities and integrating them into a luxury goods manufacturing pipeline. It involves delicate coordination between local cooperatives, quality verification through sensory and historical validation, sustainable logistics planning, custom tariff negotiations, and adaptive production scheduling to accommodate fluctuating artisan output while ensuring ethical sourcing standards and minimizing environmental impact throughout the supply chain lifecycle.",
+  "activities": [
+    "Source Artisans",
+    "Validate Origins",
+    "Quality Inspect",
+    "Negotiate Tariffs",
+    "Schedule Pickup",
+    "Custom Clearance",
+    "Transport Goods",
+    "Inventory Check",
+    "Material Testing",
+    "Sustainability Audit",
+    "Adjust Production",
+    "Packaging Design",
+    "Finalize Orders",
+    "Distribute Stock",
+    "Feedback Collect",
+    "Supplier Review"
+  ]
+}

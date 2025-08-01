@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the end-to-end setup of an urban vertical farming system within a repurposed industrial building. It begins with site evaluation and structural reinforcement, followed by installation of hydroponic racks, climate control units, and automated nutrient delivery systems. Subsequent activities include sensor calibration, seed selection, germination, and crop rotation planning. The process incorporates energy optimization, waste recycling, and integration of AI-driven growth monitoring to maximize yield. Finally, it covers staff training, compliance audits, and launch coordination to ensure sustainable, high-efficiency urban agriculture operations in a constrained environment.",
+  "activities": [
+    "Site Eval",
+    "Structure Check",
+    "Rack Install",
+    "Climate Setup",
+    "Nutrient Config",
+    "Sensor Calibrate",
+    "Seed Select",
+    "Germination",
+    "Crop Plan",
+    "Energy Audit",
+    "Waste Setup",
+    "AI Integrate",
+    "Staff Train",
+    "Compliance Review",
+    "Launch Prep"
+  ]
+}

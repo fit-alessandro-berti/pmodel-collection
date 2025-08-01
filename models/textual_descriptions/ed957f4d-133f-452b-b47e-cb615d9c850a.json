@@ -1,0 +1,24 @@
+{
+  "title": "Urban Beekeeping Supply Chain",
+  "description": "This process manages the end-to-end supply chain for urban beekeeping equipment, integrating sustainable sourcing, community engagement, and adaptive logistics to meet fluctuating local demand. Activities include raw material vetting from urban farms, modular product design for limited spaces, micro-warehousing in city hubs, and dynamic customer feedback loops to refine offerings. The process emphasizes eco-friendly packaging and real-time inventory tracking through IoT sensors, balancing rapid response times with minimizing carbon footprint. Additionally, it incorporates urban pollinator habitat mapping for strategic marketing and partnerships with local environmental groups to enhance brand authenticity and social impact.",
+  "activities": [
+    "Source Materials",
+    "Vet Suppliers",
+    "Design Modules",
+    "Prototype Build",
+    "Test Durability",
+    "Secure Permits",
+    "Map Habitats",
+    "Micro Warehouse",
+    "Inventory Sync",
+    "Pack Sustainably",
+    "Route Optimize",
+    "Engage Community",
+    "Collect Feedback",
+    "Adjust Production",
+    "Partner NGOs",
+    "Launch Campaign",
+    "Monitor Sensors",
+    "Report Impact"
+  ]
+}

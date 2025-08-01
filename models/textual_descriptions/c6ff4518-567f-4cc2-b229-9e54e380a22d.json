@@ -1,0 +1,26 @@
+{
+  "title": "Artisanal Cheese Supply Chain",
+  "description": "This process describes the end-to-end supply chain for artisanal cheese production, starting from sourcing rare local milk varieties to aging cheese in controlled microclimates. It involves unique activities such as microbial culture selection, hand molding, natural rind treatment, and seasonal flavor profiling. Quality control is conducted through sensory panel reviews and microscopic texture inspections. Packaging is eco-friendly and customized per batch, followed by niche market distribution targeting specialty food stores and luxury restaurants. The process ensures traceability of every cheese wheel through blockchain-enabled records, enhancing transparency and consumer trust in a highly specialized product category.",
+  "activities": [
+    "Milk Sourcing",
+    "Culture Prep",
+    "Milk Pasteurize",
+    "Coagulation",
+    "Curd Cutting",
+    "Whey Draining",
+    "Hand Molding",
+    "Pressing",
+    "Salting",
+    "Rind Treatment",
+    "Aging Setup",
+    "Microclimate Control",
+    "Flavor Profiling",
+    "Quality Check",
+    "Sensory Review",
+    "Texture Inspect",
+    "Eco Packaging",
+    "Batch Labeling",
+    "Blockchain Log",
+    "Niche Shipping"
+  ]
+}

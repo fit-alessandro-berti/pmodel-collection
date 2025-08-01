@@ -1,0 +1,21 @@
+{
+  "title": "Cross-Industry Innovation Cycle",
+  "description": "This process involves the continuous identification and integration of innovative technologies and practices from unrelated industries to create breakthrough products or services. It starts with environmental scanning to detect emerging trends, followed by cross-domain brainstorming sessions to ideate novel applications. Next, feasibility assessments are conducted with multidisciplinary teams, incorporating rapid prototyping and iterative testing. Strategic partnerships are formed to leverage external expertise and resources. Feedback loops from pilot deployments guide refinements before full-scale implementation. The process emphasizes agility, knowledge sharing, and risk management to ensure sustainable innovation that disrupts markets and drives competitive advantage across diverse sectors.",
+  "activities": [
+    "Trend Scan",
+    "Idea Harvest",
+    "Feasibility Check",
+    "Concept Workshop",
+    "Partner Outreach",
+    "Prototype Build",
+    "Pilot Launch",
+    "Data Analysis",
+    "Risk Review",
+    "Stakeholder Sync",
+    "Resource Align",
+    "Feedback Loop",
+    "Scale Plan",
+    "Market Test",
+    "Final Rollout"
+  ]
+}

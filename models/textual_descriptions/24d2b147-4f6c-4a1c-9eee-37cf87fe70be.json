@@ -1,0 +1,21 @@
+{
+  "title": "Custom Drone Assembly",
+  "description": "This process outlines the comprehensive steps involved in assembling custom drones tailored to specific client requirements. It begins with component sourcing based on specialized criteria, followed by firmware customization to match unique operational parameters. Quality assurance includes both automated and manual inspections to ensure compliance with safety and performance standards. The assembly incorporates modular parts to allow for future upgrades. After initial assembly, drones undergo environmental stress testing simulating various weather conditions. Post-testing, final calibration adjusts sensors and flight controls. Documentation is generated for maintenance and client training. The process concludes with packaging optimized for fragile electronics and coordinating logistics with specialized carriers to ensure secure delivery.",
+  "activities": [
+    "Component Sourcing",
+    "Firmware Setup",
+    "Module Assembly",
+    "Preliminary Testing",
+    "Calibration Adjust",
+    "Stress Testing",
+    "Sensor Check",
+    "Flight Control",
+    "Quality Audit",
+    "Documentation",
+    "Client Review",
+    "Packaging Prep",
+    "Logistics Plan",
+    "Shipping Arrange",
+    "After-Sales Support"
+  ]
+}

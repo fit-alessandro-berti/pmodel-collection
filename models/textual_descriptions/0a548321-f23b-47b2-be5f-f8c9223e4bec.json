@@ -1,0 +1,21 @@
+{
+  "title": "Museum Artifact Restoration",
+  "description": "This process involves the intricate steps required to restore historical artifacts within a museum setting. It begins with artifact assessment, followed by environmental analysis to determine optimal conservation conditions. The process includes cleaning with specialized tools, material stabilization, and structural repairs under controlled settings. Documentation and photographic records are maintained throughout to ensure traceability. Expert consultations help in selecting appropriate restoration chemicals. After restoration, artifacts undergo final quality checks and are prepared for display or storage, ensuring preservation while maintaining historical integrity.",
+  "activities": [
+    "Artifact Assess",
+    "Env Analysis",
+    "Clean Tools",
+    "Material Test",
+    "Stabilize Form",
+    "Structural Repair",
+    "Chemical Select",
+    "Expert Consult",
+    "Photo Record",
+    "Condition Monitor",
+    "Documentation",
+    "Final Inspect",
+    "Display Prep",
+    "Storage Setup",
+    "Report Archive"
+  ]
+}

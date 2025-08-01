@@ -1,0 +1,21 @@
+{
+  "title": "Quantum Asset Allocation",
+  "description": "This process involves leveraging quantum computing algorithms to dynamically allocate a diversified portfolio of assets in real-time. It integrates market sentiment analysis, probabilistic risk modeling, and quantum annealing to optimize investment decisions. The workflow starts with data ingestion from unconventional sources, followed by entanglement mapping of asset correlations. Adaptive rebalancing is triggered by quantum state changes, incorporating anomaly detection and feedback loops from predictive AI models. The process concludes with secure blockchain recording of transactions and compliance verification, ensuring transparency and auditability in a highly volatile and complex financial environment.",
+  "activities": [
+    "Data Ingest",
+    "Signal Filter",
+    "Sentiment Scan",
+    "Risk Model",
+    "Entangle Map",
+    "Quantum Compute",
+    "Probabilistic Sort",
+    "Anomaly Detect",
+    "Portfolio Weigh",
+    "Rebalance Trigger",
+    "AI Feedback",
+    "Trade Execute",
+    "Blockchain Log",
+    "Compliance Check",
+    "Audit Trail"
+  ]
+}

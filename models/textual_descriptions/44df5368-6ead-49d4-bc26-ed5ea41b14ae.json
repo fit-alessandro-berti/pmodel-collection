@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the establishment of a fully automated urban vertical farming facility integrating IoT sensors, AI-driven climate control, and hydroponic systems. Activities include site selection based on solar exposure and urban zoning laws, modular rack installation, nutrient solution formulation, AI model training for crop yield prediction, pest control via biocontrol agents, continuous environmental monitoring, adaptive lighting scheduling, and integration with local distribution networks. The process also incorporates community engagement programs and sustainability reporting to ensure minimal environmental impact and maximum social benefit. This atypical yet realistic process blends agriculture, technology, and urban planning to create efficient food production in dense city environments.",
+  "activities": [
+    "Site Survey",
+    "Zoning Check",
+    "Rack Setup",
+    "Sensor Install",
+    "Solution Mix",
+    "AI Training",
+    "Pest Control",
+    "Env Monitor",
+    "Lighting Plan",
+    "Water Recirc",
+    "Yield Assess",
+    "Data Sync",
+    "Network Link",
+    "Community Meet",
+    "Sustain Report"
+  ]
+}

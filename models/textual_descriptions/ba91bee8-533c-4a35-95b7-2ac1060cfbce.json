@@ -1,0 +1,24 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This complex process involves the verification and authentication of ancient artifacts for museums and private collectors. It begins with initial artifact intake and condition assessment, followed by material analysis using spectroscopy and radiocarbon dating. Next, provenance research is conducted through archival exploration and expert consultations. If discrepancies arise, forensic imaging and chemical residue testing are employed to validate authenticity. Concurrently, legal clearance and cultural heritage compliance checks are performed. Once verified, detailed documentation and digital archiving occur, alongside stakeholder reporting and insurance valuation. The final steps include secure packaging and coordinated shipment logistics to the client, ensuring preservation and chain of custody integrity throughout the process.",
+  "activities": [
+    "Artifact Intake",
+    "Condition Check",
+    "Material Analysis",
+    "Spectroscopy Test",
+    "Radiocarbon Date",
+    "Provenance Research",
+    "Archive Search",
+    "Expert Consult",
+    "Forensic Imaging",
+    "Residue Testing",
+    "Legal Clearance",
+    "Compliance Check",
+    "Documentation",
+    "Digital Archive",
+    "Stakeholder Report",
+    "Insurance Valuation",
+    "Secure Packaging",
+    "Shipment Logistics"
+  ]
+}

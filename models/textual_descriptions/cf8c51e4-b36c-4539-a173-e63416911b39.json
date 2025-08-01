@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the detailed steps involved in establishing an urban vertical farm within a repurposed multi-story building. It begins with site analysis and zoning approvals, followed by structural assessments and retrofitting. Next, hydroponic system installation, climate control calibration, and nutrient cycle design take place. Staff recruitment and training are conducted alongside software integration for automated monitoring. Finally, initial crop planting, growth monitoring, pest management, and harvest scheduling ensure operational readiness and sustainability in an unconventional agricultural environment.",
+  "activities": [
+    "Site Analysis",
+    "Zoning Approval",
+    "Structural Check",
+    "Building Retrofit",
+    "Hydroponic Setup",
+    "Climate Control",
+    "Nutrient Design",
+    "Staff Hiring",
+    "Staff Training",
+    "Software Install",
+    "System Testing",
+    "Crop Planting",
+    "Growth Monitor",
+    "Pest Control",
+    "Harvest Plan"
+  ]
+}

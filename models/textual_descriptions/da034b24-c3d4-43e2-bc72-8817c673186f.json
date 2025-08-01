@@ -1,0 +1,22 @@
+{
+  "title": "Urban Beekeeping Network",
+  "description": "This process describes the complex coordination required to establish and maintain an urban beekeeping network across multiple city locations. It involves site assessments for hive placement, regulatory compliance checks, community engagement activities, hive monitoring, honey harvesting coordination, pest control scheduling, data logging for environmental impact, educational workshops planning, supply chain management for beekeeping materials, and collaboration with local agricultural authorities. The process ensures sustainable urban apiaries while promoting biodiversity and urban agriculture education, balancing ecological concerns with city regulations and public safety.",
+  "activities": [
+    "Site Survey",
+    "Permit Check",
+    "Hive Setup",
+    "Community Meet",
+    "Hive Monitor",
+    "Pest Control",
+    "Honey Harvest",
+    "Data Logging",
+    "Workshop Plan",
+    "Supply Order",
+    "Volunteer Coord",
+    "Regulation Review",
+    "Pollination Map",
+    "Apiary Audit",
+    "Feedback Gather",
+    "Waste Manage"
+  ]
+}

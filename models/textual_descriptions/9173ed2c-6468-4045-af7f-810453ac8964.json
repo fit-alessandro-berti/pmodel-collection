@@ -1,0 +1,23 @@
+{
+  "title": "Artisan Cheese Supply Chain",
+  "description": "This process outlines the intricate supply chain management for an artisan cheese producer specializing in rare, aged varieties. It involves sourcing unique milk from selected farms, monitoring fermentation environments, managing aging conditions in specialized caves, coordinating packaging with hand-labeling, and ensuring traceability through blockchain recording. The process also includes quality inspections at multiple stages, custom order handling from boutique retailers, logistics planning for temperature-controlled transport, and real-time inventory balancing to meet fluctuating demand while preserving product integrity and artisanal value.",
+  "activities": [
+    "Farm Sourcing",
+    "Milk Testing",
+    "Batch Mixing",
+    "Curd Cutting",
+    "Whey Draining",
+    "Mold Inoculation",
+    "Fermentation Check",
+    "Cave Aging",
+    "Quality Inspect",
+    "Hand Labeling",
+    "Order Customizing",
+    "Inventory Audit",
+    "Packaging Prep",
+    "Cold Transport",
+    "Blockchain Log",
+    "Retail Coordination",
+    "Demand Forecast"
+  ]
+}

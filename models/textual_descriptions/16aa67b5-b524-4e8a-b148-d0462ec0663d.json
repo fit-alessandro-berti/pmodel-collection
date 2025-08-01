@@ -1,0 +1,23 @@
+{
+  "title": "Artisanal Cheese Supply",
+  "description": "This process describes the end-to-end supply chain of artisanal cheese production and distribution involving unique steps such as milk sourcing from rare breeds, precise aging conditions monitoring, custom flavor profiling, and direct-to-consumer sales through curated events. It includes managing small batch fermentation, quality control using sensory panels, packaging with sustainable materials, and coordinating with niche retailers globally. The complexity arises from balancing traditional craftsmanship with modern logistics and traceability requirements, ensuring each cheese wheel maintains its distinctive character while meeting regulatory standards and consumer expectations.",
+  "activities": [
+    "Breed Selection",
+    "Milk Harvest",
+    "Quality Check",
+    "Starter Prep",
+    "Curd Cutting",
+    "Molding Press",
+    "Salt Brining",
+    "Aging Setup",
+    "Humidity Control",
+    "Flavor Test",
+    "Batch Labeling",
+    "Eco Packaging",
+    "Event Planning",
+    "Retail Outreach",
+    "Order Fulfill",
+    "Feedback Loop",
+    "Inventory Audit"
+  ]
+}

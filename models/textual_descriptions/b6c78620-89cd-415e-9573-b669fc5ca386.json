@@ -1,0 +1,22 @@
+{
+  "title": "Custom Artifact Authentication",
+  "description": "This process outlines the comprehensive steps involved in authenticating rare cultural artifacts for a global auction house. It involves multidisciplinary expert evaluations, advanced scientific testing, provenance verification, legal compliance checks, and secure documentation handling. Each artifact undergoes intricate imaging, material analysis, historical cross-referencing, and ethical sourcing validation to ensure authenticity and legal ownership. The process culminates in certified approval and archival before public auction listing, ensuring transparency and trust for buyers and sellers worldwide.",
+  "activities": [
+    "Artifact Intake",
+    "Preliminary Scan",
+    "Material Test",
+    "Historical Check",
+    "Provenance Review",
+    "Ethics Audit",
+    "Expert Panel",
+    "Legal Verify",
+    "Imaging Capture",
+    "Data Encryption",
+    "Report Draft",
+    "Certification",
+    "Archival Store",
+    "Auction Setup",
+    "Client Notify",
+    "Final Review"
+  ]
+}

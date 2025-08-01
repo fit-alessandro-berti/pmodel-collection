@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Provenance Verification",
+  "description": "This process involves verifying the authenticity and provenance of historical artifacts through a multi-step evaluation combining scientific analysis, archival research, expert consultations, and cross-referencing with digital databases. It begins with initial artifact inspection and sampling, followed by radiocarbon dating and material composition analysis. Concurrently, archival research is conducted to trace the artifact\u2019s documented history, including ownership and exhibition records. Expert panels review findings to assess stylistic consistency and historical context. Parallelly, digital provenance databases are queried to identify known forgeries or ownership disputes. Subsequent steps include legal clearance for export or sale, condition reporting, and preparing certification documents. The process concludes with secure artifact storage or transfer to authorized parties, ensuring chain-of-custody integrity and compliance with international cultural property laws.",
+  "activities": [
+    "Initial Inspection",
+    "Sample Collection",
+    "Material Analysis",
+    "Radiocarbon Test",
+    "Archival Search",
+    "Ownership Trace",
+    "Stylistic Review",
+    "Expert Panel",
+    "Database Query",
+    "Forgery Check",
+    "Legal Clearance",
+    "Condition Report",
+    "Certification Prep",
+    "Chain Custody",
+    "Secure Storage"
+  ]
+}

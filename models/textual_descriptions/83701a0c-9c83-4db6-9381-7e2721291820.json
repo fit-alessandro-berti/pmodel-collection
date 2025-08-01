@@ -1,0 +1,21 @@
+{
+  "title": "Artifact Authentication Workflow",
+  "description": "This process outlines the steps involved in authenticating rare historical artifacts for museum acquisition. It begins with initial appraisal and provenance research, followed by material analysis and expert consultations. The workflow incorporates unconventional activities such as multispectral imaging and isotope testing to verify origin. Legal compliance checks and ethical sourcing evaluations are included before final authentication. Documentation and digital archiving ensure traceability. The process concludes with a presentation to the acquisition committee and secure transport arrangements, ensuring the artifact's integrity is maintained throughout the workflow.",
+  "activities": [
+    "Initial Appraisal",
+    "Provenance Check",
+    "Material Sampling",
+    "Isotope Testing",
+    "Imaging Scan",
+    "Expert Review",
+    "Ethics Audit",
+    "Legal Verify",
+    "Condition Report",
+    "Historical Context",
+    "Digital Archive",
+    "Acquisition Pitch",
+    "Security Clearance",
+    "Transport Prep",
+    "Final Approval"
+  ]
+}

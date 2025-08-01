@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process outlines the comprehensive operational cycle of an urban vertical farm specializing in leafy greens and herbs. It begins with seed selection and preparation, followed by nutrient solution formulation and environmental calibration within stacked hydroponic layers. Continuous monitoring of plant health and growth metrics is conducted using IoT sensors and AI-driven analytics. Periodic pruning and pest control are integrated seamlessly to maintain optimal yield. Harvesting involves automated robotic arms to minimize damage, while post-harvest handling includes quality grading, packaging, and cold chain logistics. The process concludes with waste recycling and data feedback loops to improve subsequent cycles, ensuring sustainability and efficiency in an urban agriculture context.",
+  "activities": [
+    "Seed Prep",
+    "Nutrient Mix",
+    "Env Calibration",
+    "Planting Setup",
+    "Growth Monitor",
+    "Health Check",
+    "Pest Control",
+    "Pruning Task",
+    "Automated Harvest",
+    "Quality Grade",
+    "Packaging Line",
+    "Cold Storage",
+    "Waste Recycle",
+    "Data Analysis",
+    "Cycle Review"
+  ]
+}

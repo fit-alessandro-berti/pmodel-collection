@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the end-to-end setup and operational launch of an urban vertical farming facility. It begins with site analysis and environmental assessment, followed by modular system design tailored to urban constraints. Procurement of specialized hydroponic equipment and organic seeds is followed by installation, calibration, and testing of climate control systems. Staff training emphasizes sustainable farming techniques and technology use. Once operational, crop cycles are monitored through IoT sensors, with data analytics optimizing nutrient delivery and light exposure. Regular maintenance and pest management ensure crop health, while direct-to-consumer logistics and marketing strategies complete the process, ensuring fresh produce efficiently reaches urban markets.",
+  "activities": [
+    "Site Analysis",
+    "Env Assessment",
+    "System Design",
+    "Equipment Order",
+    "Seed Selection",
+    "Install Modules",
+    "Calibrate Systems",
+    "Staff Training",
+    "Plant Seeding",
+    "IoT Monitoring",
+    "Data Analytics",
+    "Nutrient Adjust",
+    "Pest Control",
+    "Maintenance Check",
+    "Market Launch",
+    "Logistics Setup"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Artisanal Cheese Export",
+  "description": "This process outlines the complex and highly specialized steps involved in exporting artisanal cheese from a small-scale farm to international gourmet markets. It begins with milk selection and quality testing, followed by traditional cheese crafting and aging under controlled conditions. The matured cheese then undergoes sensory evaluation and packaging using custom materials to preserve flavor and texture. Regulatory compliance checks for export documentation and customs clearance are conducted before the product is shipped via temperature-controlled logistics. Post-shipment tracking and customer feedback analysis complete the cycle, ensuring continuous improvement and market adaptation for this niche product.",
+  "activities": [
+    "Milk Selection",
+    "Quality Testing",
+    "Milk Pasteurize",
+    "Cheese Crafting",
+    "Controlled Aging",
+    "Sensory Review",
+    "Custom Packaging",
+    "Label Printing",
+    "Export Licensing",
+    "Documentation Prep",
+    "Customs Clearance",
+    "Cold Shipping",
+    "Delivery Tracking",
+    "Feedback Review",
+    "Market Analysis"
+  ]
+}

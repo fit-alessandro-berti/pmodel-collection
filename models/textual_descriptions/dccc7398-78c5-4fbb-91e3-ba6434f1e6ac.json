@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the complex steps involved in establishing a fully automated urban vertical farm within a metropolitan area. It begins with site evaluation and ends with ongoing crop optimization. The workflow integrates architectural design, environmental control installation, nutrient cycling, robotic planting, AI-based growth monitoring, pest management using bio-controls, and energy-efficient harvesting. Stakeholders coordinate across disciplines including agronomy, engineering, logistics, and IT to ensure sustainable production in limited urban spaces while minimizing water and energy usage. The process also involves regulatory compliance checks, community engagement, and market integration for fresh produce distribution, making it a multifaceted endeavor requiring precise orchestration of technology and human expertise.",
+  "activities": [
+    "Site Survey",
+    "Design Draft",
+    "Permit Review",
+    "Structure Build",
+    "Enviro Setup",
+    "Nutrient Mix",
+    "Seed Selection",
+    "Plant Robots",
+    "Sensor Install",
+    "Data Sync",
+    "Growth Monitor",
+    "Pest Control",
+    "Harvest Plan",
+    "Quality Check",
+    "Market Launch",
+    "Feedback Loop"
+  ]
+}

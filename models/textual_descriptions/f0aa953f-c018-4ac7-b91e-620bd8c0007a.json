@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process involves establishing an urban vertical farm within a repurposed high-rise building. It includes site analysis, modular system design, environmental control calibration, nutrient solution formulation, seedling preparation, and automated monitoring integration. The setup ensures sustainable crop production through resource recycling, energy optimization, and waste management while complying with urban agricultural regulations. The process culminates in operational validation and community engagement to promote local food sourcing.",
+  "activities": [
+    "Site Survey",
+    "Design Layout",
+    "System Assembly",
+    "Climate Setup",
+    "Light Calibration",
+    "Seed Selection",
+    "Seedling Prep",
+    "Nutrient Mix",
+    "Irrigation Setup",
+    "Sensor Install",
+    "Data Integration",
+    "Waste Routing",
+    "Energy Audit",
+    "Regulation Check",
+    "Operational Test",
+    "Community Outreach"
+  ]
+}

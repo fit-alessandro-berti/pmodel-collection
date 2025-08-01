@@ -1,0 +1,22 @@
+{
+  "title": "Antique Asset Verification",
+  "description": "This process involves the detailed verification and authentication of antique assets before acquisition or sale. It requires cross-referencing provenance records, conducting material analysis, consulting with historical experts, and validating ownership history. The process also includes condition assessment, restoration feasibility studies, legal compliance checks for cultural heritage, and coordinating with insurance providers to appraise value. Final approval must be documented in a secure ledger to ensure traceability and authenticity, integrating technological tools like blockchain for enhanced security and transparency in asset handling.",
+  "activities": [
+    "Record Review",
+    "Material Test",
+    "Provenance Check",
+    "Expert Consult",
+    "Ownership Confirm",
+    "Condition Assess",
+    "Restoration Plan",
+    "Legal Verify",
+    "Insurance Quote",
+    "Value Appraise",
+    "Ledger Entry",
+    "Blockchain Log",
+    "Risk Evaluate",
+    "Report Draft",
+    "Final Approval",
+    "Client Notify"
+  ]
+}

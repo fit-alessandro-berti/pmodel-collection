@@ -1,0 +1,21 @@
+{
+  "title": "Artisanal Cheese Export",
+  "description": "This process involves sourcing rare milk varieties from remote farms, followed by a detailed fermentation and aging procedure under controlled environmental conditions. Quality inspectors assess texture and flavor profiles periodically. Packaging requires specialized breathable materials to maintain cheese integrity during long overseas transit. Customs documentation and international compliance checks are handled before shipment. Upon arrival, distribution partners coordinate cold storage and retail placement, ensuring freshness and optimal shelf life. Customer feedback loops influence future batch adjustments, integrating artisanal craft with global supply chain complexities.",
+  "activities": [
+    "Milk Sourcing",
+    "Quality Testing",
+    "Fermentation Start",
+    "Age Monitoring",
+    "Texture Check",
+    "Flavor Profiling",
+    "Packaging Prep",
+    "Breathable Wrap",
+    "Customs Filing",
+    "Compliance Audit",
+    "Export Scheduling",
+    "Cold Storage",
+    "Retail Placement",
+    "Feedback Review",
+    "Batch Adjust"
+  ]
+}

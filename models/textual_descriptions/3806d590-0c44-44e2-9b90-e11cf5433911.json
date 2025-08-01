@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Cycle",
+  "description": "This process involves the integration of automated systems and human intervention to cultivate crops in a vertical farm within an urban environment. It starts with seed selection and preparation, followed by nutrient solution formulation and environmental calibration. Automated planting robots deposit seeds into hydroponic trays, while sensors continuously monitor air quality, humidity, and light exposure. Periodic manual inspections ensure plant health, and integrated pest management is applied selectively. Harvesting robots collect mature plants, which are then processed and packaged on-site. Waste materials are recycled into compost or bioenergy, completing a sustainable urban farming loop.",
+  "activities": [
+    "Seed Prep",
+    "Nutrient Mix",
+    "Env Set",
+    "Planting Bot",
+    "Sensor Check",
+    "Air Quality",
+    "Humidity Control",
+    "Light Adjust",
+    "Pest Scan",
+    "Manual Inspect",
+    "Growth Log",
+    "Harvest Bot",
+    "Product Pack",
+    "Waste Sort",
+    "Compost Feed"
+  ]
+}

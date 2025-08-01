@@ -1,0 +1,22 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process involves the planning, construction, and operational setup of a multi-layered urban vertical farm within a repurposed commercial building. It begins with site analysis and environmental assessment, followed by structural modifications and installation of hydroponic systems. Subsequent activities include climate control calibration, nutrient solution preparation, seed selection and planting, automated monitoring integration, and workforce training. The process concludes with trial harvests, quality control assessments, and adjustments to optimize yield while minimizing resource consumption and environmental impact in a dense urban setting.",
+  "activities": [
+    "Site Survey",
+    "Structural Check",
+    "Permitting",
+    "Hydro Setup",
+    "Climate Setup",
+    "Nutrient Mix",
+    "Seed Selection",
+    "Planting",
+    "Sensor Install",
+    "Automation Config",
+    "Staff Hiring",
+    "Training",
+    "Trial Harvest",
+    "Quality Check",
+    "Yield Review",
+    "Resource Audit"
+  ]
+}

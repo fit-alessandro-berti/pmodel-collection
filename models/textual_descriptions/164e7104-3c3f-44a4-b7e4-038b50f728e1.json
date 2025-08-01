@@ -1,0 +1,22 @@
+{
+  "title": "Artisanal Cheese Export",
+  "description": "This process involves the intricate steps required to produce, certify, package, and export artisanal cheese to international markets. It starts with selecting raw milk from carefully chosen farms, followed by specialized fermentation and aging techniques unique to each cheese type. Quality assurance includes microbial testing and sensory evaluation by expert tasters. Once certified organic and authentic, cheeses undergo custom packaging designed to preserve freshness during long transit. Compliance with export regulations and customs documentation is meticulously handled. The process concludes with logistics coordination for cold-chain shipping and final delivery to boutique retailers overseas, ensuring the product arrives in pristine condition and meets all safety standards.",
+  "activities": [
+    "Milk Sourcing",
+    "Fermentation",
+    "Aging Check",
+    "Microbial Test",
+    "Sensory Panel",
+    "Organic Cert",
+    "Packaging Design",
+    "Freshness Seal",
+    "Export License",
+    "Customs Prep",
+    "Shipping Coord",
+    "Cold Storage",
+    "Retail Handoff",
+    "Market Feedback",
+    "Compliance Audit",
+    "Inventory Update"
+  ]
+}

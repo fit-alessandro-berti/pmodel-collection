@@ -1,0 +1,23 @@
+{
+  "title": "Artisan Cheese Supply Chain",
+  "description": "This process outlines the complex and atypical supply chain for artisan cheese production, emphasizing the coordination between small-scale dairy farms, quality-controlled aging facilities, and niche distribution channels. The process involves raw milk collection from specialized breeds, microbial culture preparation, curd formation, controlled aging under precise humidity and temperature, artisanal packaging, and direct-to-consumer marketing through exclusive events and subscription models. It integrates traceability at each step, ensuring compliance with regional food safety laws while maintaining the unique flavor profiles that distinguish the product in a competitive market.",
+  "activities": [
+    "Milk Collection",
+    "Culture Prep",
+    "Curd Formation",
+    "Whey Separation",
+    "Molding Cheese",
+    "Salting Process",
+    "Initial Aging",
+    "Humidity Control",
+    "Temperature Check",
+    "Flavor Testing",
+    "Final Aging",
+    "Packaging Artisanal",
+    "Label Printing",
+    "Inventory Audit",
+    "Order Fulfillment",
+    "Subscription Setup",
+    "Event Marketing"
+  ]
+}

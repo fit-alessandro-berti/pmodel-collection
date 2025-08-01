@@ -1,0 +1,22 @@
+{
+  "title": "Artisan Cheese Supply",
+  "description": "This process involves sourcing rare milk varieties from multiple micro-dairies, followed by precision aging in controlled environments. Each batch undergoes microbiological testing and sensory evaluation before packaging. The logistics team coordinates temperature-sensitive transport to specialty retailers, while marketing crafts bespoke campaigns targeting niche gourmet consumers. Inventory management adapts dynamically according to seasonal milk yields and demand fluctuations. Regulatory compliance checks ensure adherence to evolving food safety standards. The process culminates in customer feedback collection to refine future production cycles, balancing artisanal quality with scalable distribution challenges.",
+  "activities": [
+    "Milk Sourcing",
+    "Batch Testing",
+    "Microbial Check",
+    "Milk Pasteurize",
+    "Curd Formation",
+    "Press Cheese",
+    "Controlled Aging",
+    "Sensory Review",
+    "Package Cheese",
+    "Temp Transport",
+    "Retail Distribution",
+    "Market Campaign",
+    "Inventory Monitor",
+    "Compliance Audit",
+    "Feedback Collect",
+    "Demand Forecast"
+  ]
+}

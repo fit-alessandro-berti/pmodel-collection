@@ -1,0 +1,21 @@
+{
+  "title": "Custom Artifact Authentication",
+  "description": "This process involves the authentication and validation of unique cultural artifacts destined for international auction. It begins with initial provenance research followed by multi-expert verification, material composition analysis, and advanced imaging inspections. Concurrently, legal compliance checks for cross-border transfers are conducted. If discrepancies arise, iterative consultations with historians occur. Once authenticated, the artifact undergoes secure packaging, insurance valuation, and digitized certification. Finally, the artifact is logged into a blockchain registry to ensure immutable provenance records before shipment to the auction house, ensuring transparency, security, and authenticity verification throughout the entire lifecycle.",
+  "activities": [
+    "Provenance Check",
+    "Expert Review",
+    "Material Scan",
+    "Imaging Analysis",
+    "Legal Audit",
+    "Discrepancy Flag",
+    "Historians Consult",
+    "Re-Verification",
+    "Secure Packing",
+    "Insurance Quote",
+    "Value Assessment",
+    "Certification Issue",
+    "Blockchain Entry",
+    "Shipment Prep",
+    "Final Logging"
+  ]
+}

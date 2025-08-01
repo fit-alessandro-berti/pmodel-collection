@@ -1,0 +1,21 @@
+{
+  "title": "Remote Team Onboarding",
+  "description": "This process outlines the complex and atypical steps required to onboard new employees into a fully remote, globally distributed team. It includes not only the standard HR and IT setup activities but also unique steps such as virtual cultural immersion, asynchronous mentorship pairing, equipment shipping logistics, timezone alignment workshops, and digital workspace personalization. The process ensures new hires are fully integrated into the company\u2019s remote ecosystem, fostering engagement and productivity despite physical distances. It also handles compliance with varying international labor laws and data privacy regulations, requiring coordination among multiple departments and external vendors to deliver a seamless onboarding experience.",
+  "activities": [
+    "Profile Setup",
+    "Equipment Ship",
+    "Access Grant",
+    "Policy Review",
+    "Mentor Match",
+    "Culture Tour",
+    "Timezone Sync",
+    "Workspace Setup",
+    "Security Training",
+    "Compliance Check",
+    "Intro Meeting",
+    "Feedback Loop",
+    "Tool Training",
+    "Network Intro",
+    "Progress Review"
+  ]
+}

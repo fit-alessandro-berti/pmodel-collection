@@ -1,0 +1,22 @@
+{
+  "title": "Custom Urban Farming Setup",
+  "description": "This process outlines the creation and deployment of a custom urban farming system tailored for small rooftop spaces. It involves site analysis, environmental data collection, modular design planning, resource procurement, automated irrigation setup, sensor integration for real-time monitoring, community stakeholder engagement, pilot testing, iterative adjustments based on collected data, compliance verification with local regulations, training sessions for end-users, and final deployment with ongoing remote support to ensure sustainable urban agriculture in constrained environments.",
+  "activities": [
+    "Site Survey",
+    "Data Capture",
+    "Design Layout",
+    "Material Order",
+    "Module Build",
+    "Irrigation Setup",
+    "Sensor Install",
+    "Software Config",
+    "Stakeholder Meet",
+    "Pilot Deploy",
+    "Feedback Gather",
+    "Adjust Design",
+    "Compliance Check",
+    "User Training",
+    "Final Launch",
+    "Remote Support"
+  ]
+}

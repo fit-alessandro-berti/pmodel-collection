@@ -1,0 +1,23 @@
+{
+  "title": "Custom Art Commission Workflow",
+  "description": "This process outlines the intricate steps involved in commissioning custom artwork from initial client inquiry to final delivery and feedback collection. It begins with client briefing and concept approval, followed by iterative design adjustments, material sourcing, and multi-phase quality inspections. The workflow incorporates unconventional activities such as legal rights negotiation and digital archiving of the artwork. Additionally, it includes coordination with logistics for special packaging and international shipping, ensuring the artwork remains secure and pristine. The process concludes with client onboarding for future collaborations and post-delivery support, emphasizing personalized communication and relationship management to foster long-term partnerships between the artist and client.",
+  "activities": [
+    "Client Inquiry",
+    "Brief Review",
+    "Concept Draft",
+    "Approval Check",
+    "Design Adjust",
+    "Material Source",
+    "Rights Negotiate",
+    "Prototype Build",
+    "Quality Inspect",
+    "Packaging Prep",
+    "Logistics Plan",
+    "Shipment Track",
+    "Delivery Confirm",
+    "Client Feedback",
+    "Archive Digital",
+    "Support Setup",
+    "Future Onboard"
+  ]
+}

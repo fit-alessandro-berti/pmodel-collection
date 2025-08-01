@@ -1,0 +1,21 @@
+{
+  "title": "Urban Vertical Farming Setup",
+  "description": "This process outlines the establishment of an urban vertical farming system integrating advanced hydroponics and AI-driven environmental controls. The workflow begins with site analysis and structural assessment, followed by modular farm design and procurement of specialized equipment. Subsequent steps include installation of nutrient delivery systems, lighting calibration, and sensor network deployment. Once operational, the process covers seed selection, automated planting, and growth monitoring using machine learning algorithms. Harvest cycles are optimized through data analytics, while waste is minimized via composting and water recycling. Finally, produce packaging and distribution logistics ensure freshness and sustainability in urban markets.",
+  "activities": [
+    "Site Analysis",
+    "Structure Check",
+    "Design Modules",
+    "Order Equipment",
+    "Install Hydroponics",
+    "Set Lighting",
+    "Deploy Sensors",
+    "Select Seeds",
+    "Automate Planting",
+    "Monitor Growth",
+    "Analyze Data",
+    "Optimize Harvest",
+    "Process Waste",
+    "Package Produce",
+    "Distribute Goods"
+  ]
+}
